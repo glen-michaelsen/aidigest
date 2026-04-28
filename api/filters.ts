@@ -1,8 +1,8 @@
 export const config = { runtime: "edge" };
-import { dbExecute, json, getUserId } from "./_lib";
+import { dbExecute, json, getEffectiveUserId } from "./_lib";
 
 async function handle(req: Request): Promise<Response> {
-  const userId = getUserId(req);
+  const userId = await getEffectiveUserId(req);
 
   if (req.method === "GET") {
     if (!userId) return json({ error: "user_id required" }, { status: 400 });

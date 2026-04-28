@@ -1,9 +1,9 @@
 export const config = { runtime: "edge" };
-import { dbExecute, json, getUserId } from "./_lib";
+import { dbExecute, json, getEffectiveUserId } from "./_lib";
 
 async function handle(req: Request): Promise<Response> {
   if (req.method === "GET") {
-    const userId = getUserId(req);
+    const userId = await getEffectiveUserId(req);
     if (!userId) return json({ error: "user_id required" }, { status: 400 });
     const { rows } = await dbExecute(
       "SELECT article_id FROM likes WHERE user_id = ? ORDER BY created_at DESC",

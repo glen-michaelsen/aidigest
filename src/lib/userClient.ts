@@ -153,10 +153,30 @@ function escape(s: string): string {
   return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
 }
 
+async function initUserMenu() {
+  const res = await fetch("/api/auth/me");
+  if (!res.ok) return;
+  const { user } = await res.json();
+
+  const loginLink = document.getElementById("user-login-link");
+  const loggedIn = document.getElementById("user-loggedin");
+  const emailEl = document.getElementById("user-email");
+  const logoutBtn = document.getElementById("user-logout");
+
+  if (user?.email) {
+    loginLink?.setAttribute("hidden", "");
+    if (loggedIn) loggedIn.removeAttribute("hidden");
+    if (emailEl) emailEl.textContent = user.email;
+    logoutBtn?.addEventListener("click", async () => {
+      await fetch("/api/auth/logout", { method: "POST" });
+      window.location.href = "/";
+    });
+  }
+}
+
 async function init() {
-  // Seed UID early
   getUid();
-  const liked = await fetchLikes();
+  const [liked] = await Promise.all([fetchLikes(), initUserMenu()]);
   initLikeButtons(liked);
   initLikedToggle();
   await initSavedFilters();

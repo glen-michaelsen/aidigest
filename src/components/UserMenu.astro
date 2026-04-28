@@ -1,0 +1,28 @@
+<!-- Rendered server-side as empty shell; hydrated client-side via /api/auth/me -->
+<div id="user-menu" class="user-menu">
+  <a href="/login" class="user-menu-link" id="user-login-link">Sign in</a>
+  <span class="user-menu-loggedin" id="user-loggedin" hidden>
+    <span id="user-email" class="user-email"></span>
+    <button type="button" id="user-logout" class="user-logout-btn">Sign out</button>
+  </span>
+</div>
+
+<style>
+  .user-menu { display: flex; align-items: center; gap: 0.75rem; justify-content: flex-end; }
+  .user-menu-link { font-size: 0.85rem; color: var(--muted); text-decoration: none; font-weight: 500; }
+  .user-menu-link:hover { color: var(--accent); }
+  .user-menu-loggedin { display: flex; align-items: center; gap: 0.75rem; }
+  .user-email { font-size: 0.8rem; color: var(--muted); max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .user-logout-btn {
+    font-family: inherit;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.3rem 0.75rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--muted);
+    cursor: pointer;
+  }
+  .user-logout-btn:hover { border-color: var(--accent); color: var(--accent); }
+</style>
