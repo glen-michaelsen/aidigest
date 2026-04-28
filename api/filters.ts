@@ -1,3 +1,4 @@
+export const config = { runtime: "edge" };
 import { dbExecute, json, getUserId } from "./_lib";
 
 async function handle(req: Request): Promise<Response> {
