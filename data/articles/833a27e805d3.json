@@ -1,0 +1,23 @@
+{
+  "id": "833a27e805d3",
+  "source": "MIT Technology Review",
+  "title": "Rebuilding the data stack for AI",
+  "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+  "publishedAt": "2026-04-27T13:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:50.521Z",
+  "brief": "Enterprise organizations are realizing that successful AI adoption depends less on cutting-edge models and more on rebuilding their data infrastructure and governance practices. The article explores how companies must invest in data quality, management, and accessibility to unlock AI's value at scale.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

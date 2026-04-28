@@ -1,0 +1,25 @@
+{
+  "id": "62ed6078e9d1",
+  "source": "Hacker News (AI)",
+  "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+  "url": "https://app.oravys.com/blog/mercor-breach-2026",
+  "publishedAt": "2026-04-27T09:57:10.000Z",
+  "ingestedAt": "2026-04-28T19:23:20.778Z",
+  "brief": "Mercor, a platform connecting AI contractors, suffered a data breach exposing 4TB of voice samples from approximately 40,000 contractors. The incident highlights security vulnerabilities in AI training data pipelines and contractor platforms handling sensitive biometric information.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "audio",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

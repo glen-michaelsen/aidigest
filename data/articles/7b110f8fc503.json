@@ -1,0 +1,25 @@
+{
+  "id": "7b110f8fc503",
+  "source": "The Verge AI",
+  "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+  "publishedAt": "2026-04-28T11:09:32.000Z",
+  "ingestedAt": "2026-04-28T19:22:25.814Z",
+  "brief": "Google has signed a classified deal allowing the US Department of Defense to use its AI models for \"any lawful government purpose,\" according to The Information, placing it alongside OpenAI and xAI in providing AI to the Pentagon. The agreement comes amid employee protests urging CEO Sundar Pichai to block military use of Google's AI over concerns about potential harmful applications.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google",
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

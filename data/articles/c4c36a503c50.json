@@ -1,0 +1,23 @@
+{
+  "id": "c4c36a503c50",
+  "source": "Hacker News (AI)",
+  "title": "Claude.ai is unavailable",
+  "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+  "publishedAt": "2026-04-28T18:01:21.000Z",
+  "ingestedAt": "2026-04-28T19:23:10.514Z",
+  "brief": "Claude.ai experienced an outage affecting user access to Anthropic's Claude AI service. The incident drew significant community attention on Hacker News with 115 comments and 143 upvotes, indicating widespread impact on users.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

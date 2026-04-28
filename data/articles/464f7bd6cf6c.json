@@ -1,0 +1,24 @@
+{
+  "id": "464f7bd6cf6c",
+  "source": "MIT Technology Review",
+  "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+  "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+  "publishedAt": "2026-04-27T12:10:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:51.951Z",
+  "brief": "DeepSeek released a preview of its V4 flagship model, which significantly expands prompt processing capabilities and represents a major advancement in the competitive landscape of large language models. The release underscores the accelerating race among AI firms to develop more capable models and world models.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bc507498ac47",
+  "source": "OpenAI Blog",
+  "title": "Choco automates food distribution with AI agents",
+  "url": "https://openai.com/index/choco",
+  "publishedAt": "2026-04-27T00:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:59.531Z",
+  "brief": "Choco, a food distribution platform, integrated OpenAI APIs to automate workflows and improve productivity across its supply chain operations. The case study demonstrates practical deployment of AI agents to solve enterprise logistics challenges.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "n/a"
+    ]
+  }
+}

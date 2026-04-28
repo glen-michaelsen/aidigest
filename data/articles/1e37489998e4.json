@@ -1,0 +1,25 @@
+{
+  "id": "1e37489998e4",
+  "source": "Ars Technica AI",
+  "title": "GitHub will start charging Copilot users based on their actual AI usage",
+  "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+  "publishedAt": "2026-04-28T15:41:32.000Z",
+  "ingestedAt": "2026-04-28T19:22:34.694Z",
+  "brief": "GitHub is shifting its Copilot pricing model from flat-rate to usage-based, citing rising inference costs from heavy users. This marks a shift in how AI coding assistant costs are distributed among subscribers.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

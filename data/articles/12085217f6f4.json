@@ -1,0 +1,24 @@
+{
+  "id": "12085217f6f4",
+  "source": "The Verge AI",
+  "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+  "publishedAt": "2026-04-28T19:00:13.000Z",
+  "ingestedAt": "2026-04-28T19:22:18.757Z",
+  "brief": "Elon Musk began testimony in his lawsuit against OpenAI CEO Sam Altman and president Greg Brockman, alleging the co-founders departed from the organization's nonprofit mission after Musk invested up to $38 million. The dispute centers on governance disagreements and Musk's subsequent founding of xAI as a competitor.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

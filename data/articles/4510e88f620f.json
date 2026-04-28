@@ -1,0 +1,24 @@
+{
+  "id": "4510e88f620f",
+  "source": "Ars Technica AI",
+  "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+  "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+  "publishedAt": "2026-04-27T20:45:18.000Z",
+  "ingestedAt": "2026-04-28T19:22:38.349Z",
+  "brief": "Elon Musk is facing off against Sam Altman in a trial that centers on OpenAI's mission and structure, with Musk's inconsistent public statements on AI safety potentially becoming a focal point in the dispute.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

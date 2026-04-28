@@ -1,0 +1,24 @@
+{
+  "id": "3109c5dd52e2",
+  "source": "The Verge AI",
+  "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+  "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+  "publishedAt": "2026-04-28T03:39:33.000Z",
+  "ingestedAt": "2026-04-28T19:22:29.480Z",
+  "brief": "Jury selection began in Elon Musk's lawsuit against Sam Altman over alleged broken promises at OpenAI, with prospective jurors revealing strong negative bias against Musk in questionnaires. The case centers on disputes over Musk's departure from OpenAI and accusations that Altman broke commitments made when Musk co-founded the company.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

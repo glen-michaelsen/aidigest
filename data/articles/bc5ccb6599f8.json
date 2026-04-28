@@ -1,0 +1,24 @@
+{
+  "id": "bc5ccb6599f8",
+  "source": "The Verge AI",
+  "title": "Google is testing AI chatbot search for YouTube",
+  "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+  "publishedAt": "2026-04-28T00:01:54.000Z",
+  "ingestedAt": "2026-04-28T19:22:31.088Z",
+  "brief": "Google is testing an AI-powered conversational search feature on YouTube that generates results across longform videos, Shorts, and text summaries in response to natural language queries. The feature, called \"Ask YouTube,\" is currently available to YouTube Premium subscribers 18+ in the US.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "search",
+      "video-generation"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

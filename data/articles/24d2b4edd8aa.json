@@ -1,0 +1,25 @@
+{
+  "id": "24d2b4edd8aa",
+  "source": "TechCrunch AI",
+  "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+  "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+  "publishedAt": "2026-04-28T13:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:13.207Z",
+  "brief": "Tank OS containerizes OpenClaw AI agents to improve reliability and safety for enterprise deployments, particularly for managing fleets of agents in production environments.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

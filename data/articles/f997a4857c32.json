@@ -1,0 +1,25 @@
+{
+  "id": "f997a4857c32",
+  "source": "The Verge AI",
+  "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+  "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+  "publishedAt": "2026-04-28T17:45:16.000Z",
+  "ingestedAt": "2026-04-28T19:22:20.357Z",
+  "brief": "Elon Musk is suing OpenAI and Sam Altman, claiming the company abandoned its nonprofit mission to benefit humanity and pivoted to profit-seeking. The trial began with jury selection on April 27th and now features opening arguments, with Musk seeking removal of Altman and Brockman plus up to $150 billion in damages for OpenAI's nonprofit.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "gpt",
+      "grok"
+    ]
+  }
+}

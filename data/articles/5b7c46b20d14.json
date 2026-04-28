@@ -1,0 +1,27 @@
+{
+  "id": "5b7c46b20d14",
+  "source": "Hugging Face Blog",
+  "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+  "publishedAt": "2026-04-28T15:58:57.000Z",
+  "ingestedAt": "2026-04-28T19:23:03.189Z",
+  "brief": "NVIDIA announced Nemotron 3 Nano Omni, a multimodal model that processes long-context documents, audio, and video for agent applications. The model represents a compact approach to omni-modal AI, combining text, audio, and video understanding in a single neural architecture.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "agents",
+      "video-generation",
+      "audio",
+      "hardware"
+    ],
+    "company": [
+      "nvidia"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

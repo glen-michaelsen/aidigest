@@ -1,0 +1,24 @@
+{
+  "id": "e548e0e285fc",
+  "source": "Hugging Face Blog",
+  "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+  "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+  "publishedAt": "2026-04-27T00:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:23:04.768Z",
+  "brief": "OpenAI has released a Privacy Filter tool designed to help developers build scalable web applications while protecting user data in API requests and responses. The feature enables developers to automatically redact sensitive information before sending data to OpenAI's services and clean results upon retrieval.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

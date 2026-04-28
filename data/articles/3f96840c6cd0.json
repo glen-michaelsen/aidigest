@@ -1,0 +1,24 @@
+{
+  "id": "3f96840c6cd0",
+  "source": "TechCrunch AI",
+  "title": "Otter’s new feature lets users search across their enterprise tools",
+  "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+  "publishedAt": "2026-04-28T12:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:15.409Z",
+  "brief": "Otter has launched cross-tool search functionality enabling users to query data from Gmail, Google Drive, Notion, Jira, and Salesforce alongside meeting transcripts, with plans to add Outlook, Teams, SharePoint, and Slack integration. This unified search capability streamlines enterprise information retrieval across fragmented workflows and tooling.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "search"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

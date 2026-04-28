@@ -1,0 +1,24 @@
+{
+  "id": "b9901cf07693",
+  "source": "Hacker News (AI)",
+  "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+  "url": "https://github.com/microsoft/VibeVoice",
+  "publishedAt": "2026-04-28T11:56:04.000Z",
+  "ingestedAt": "2026-04-28T19:23:13.868Z",
+  "brief": "Microsoft released VibeVoice, an open-source voice AI model that expands the frontier of accessible speech synthesis and generation. The project demonstrates Microsoft's commitment to democratizing advanced voice technology by making it available to the broader developer community.",
+  "tags": {
+    "category": [
+      "open-source",
+      "product-launch"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

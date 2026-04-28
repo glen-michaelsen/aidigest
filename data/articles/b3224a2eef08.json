@@ -1,0 +1,26 @@
+{
+  "id": "b3224a2eef08",
+  "source": "Hacker News (AI)",
+  "title": "China blocks Meta's acquisition of AI startup Manus",
+  "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+  "publishedAt": "2026-04-27T11:43:59.000Z",
+  "ingestedAt": "2026-04-28T19:23:17.274Z",
+  "brief": "China's government has blocked Meta's acquisition of Manus, an AI startup, as part of broader restrictions on foreign tech investments in the country. The block reflects China's efforts to protect domestic AI development and limit foreign control of strategically important technology sectors.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "meta",
+      "other"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

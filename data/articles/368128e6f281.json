@@ -1,0 +1,28 @@
+{
+  "id": "368128e6f281",
+  "source": "OpenAI Blog",
+  "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+  "url": "https://openai.com/index/openai-on-aws",
+  "publishedAt": "2026-04-28T00:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:53.442Z",
+  "brief": "OpenAI's GPT models, Codex, and Managed Agents are now available on AWS, allowing enterprises to build and deploy AI applications within their AWS environments with enhanced security and control.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "amazon"
+    ],
+    "model": [
+      "gpt",
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bc680bc14e9f",
+  "source": "OpenAI Blog",
+  "title": "OpenAI available at FedRAMP Moderate",
+  "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+  "publishedAt": "2026-04-27T14:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:55.098Z",
+  "brief": "OpenAI has achieved FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, allowing U.S. federal agencies to securely adopt its AI services. This compliance milestone removes a key barrier for government deployment of OpenAI's generative AI tools.",
+  "tags": {
+    "category": [
+      "policy",
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

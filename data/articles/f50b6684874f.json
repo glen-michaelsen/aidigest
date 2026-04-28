@@ -1,0 +1,24 @@
+{
+  "id": "f50b6684874f",
+  "source": "Ars Technica AI",
+  "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+  "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+  "publishedAt": "2026-04-27T20:03:49.000Z",
+  "ingestedAt": "2026-04-28T19:22:42.284Z",
+  "brief": "The EU has ordered Google to offer alternative AI models alongside Gemini on Android devices in Europe, arguing that Google's default placement constitutes unfair competition. Google argues the mandate represents unwarranted intervention, but faces potential compliance pressure under EU digital competition rules.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

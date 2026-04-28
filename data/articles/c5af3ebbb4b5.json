@@ -1,0 +1,24 @@
+{
+  "id": "c5af3ebbb4b5",
+  "source": "The Verge AI",
+  "title": "Musk and Altman go to court",
+  "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+  "publishedAt": "2026-04-28T14:47:21.000Z",
+  "ingestedAt": "2026-04-28T19:22:24.060Z",
+  "brief": "Elon Musk's lawsuit against OpenAI has reached trial, centering on disputes over the company's early days, credit for AI breakthroughs, and financial stakes. The case is expected to expose confidential details from key figures in the AI industry and may represent Musk's strategy to publicize sensitive information about OpenAI's origins and governance.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

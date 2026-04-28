@@ -1,0 +1,24 @@
+{
+  "id": "29e3d13268b3",
+  "source": "OpenAI Blog",
+  "title": "An open-source spec for orchestration: Symphony",
+  "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+  "publishedAt": "2026-04-27T00:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:57.805Z",
+  "brief": "Symphony is an open-source specification for orchestrating Codex agents that integrates issue trackers into always-on agent systems to reduce context switching and boost engineering productivity. The spec enables automated task orchestration without requiring additional tooling overhead.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "n/a"
+    ]
+  }
+}

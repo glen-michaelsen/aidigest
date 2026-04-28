@@ -1,0 +1,27 @@
+{
+  "id": "a02b759a658f",
+  "source": "The Verge AI",
+  "title": "Attack of the killer script kiddies",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+  "publishedAt": "2026-04-28T11:00:00.000Z",
+  "ingestedAt": "2026-04-28T19:22:27.866Z",
+  "brief": "Teams at DARPA's AI Cyber Challenge demonstrated AI systems scanning 54 million lines of code, finding not only injected bugs but also discovering previously unknown vulnerabilities. The competition highlights the emerging capability of AI models like Claude to identify software security flaws at scale.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "n/a"
+    ]
+  }
+}

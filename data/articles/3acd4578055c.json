@@ -1,0 +1,25 @@
+{
+  "id": "3acd4578055c",
+  "source": "Ars Technica AI",
+  "title": "OpenAI ends its exclusive partnership with Microsoft",
+  "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+  "publishedAt": "2026-04-27T20:10:11.000Z",
+  "ingestedAt": "2026-04-28T19:22:39.783Z",
+  "brief": "OpenAI has ended its exclusive partnership with Microsoft, allowing OpenAI models to be distributed through Amazon Bedrock. This amendment removes restrictions that previously limited OpenAI's commercial partnerships, signaling a shift in OpenAI's distribution strategy.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "microsoft",
+      "amazon"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
