@@ -5,7 +5,6 @@ export const FEEDS: { name: string; url: string }[] = [
   { name: "VentureBeat AI", url: "https://venturebeat.com/category/ai/feed/" },
   { name: "MIT Technology Review", url: "https://www.technologyreview.com/feed/" },
   { name: "OpenAI Blog", url: "https://openai.com/blog/rss.xml" },
-  { name: "Anthropic News", url: "https://www.anthropic.com/news/rss.xml" },
   { name: "Google DeepMind", url: "https://deepmind.google/blog/rss.xml" },
   { name: "Hugging Face Blog", url: "https://huggingface.co/blog/feed.xml" },
   { name: "Hacker News (AI)", url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=100" },
