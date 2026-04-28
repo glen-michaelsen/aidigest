@@ -68,7 +68,7 @@ model: ${TAG_VOCAB.model.join(", ")}
 Rules:
 - Multiple tags per axis allowed; pick all that genuinely apply.
 - Use "other" only when no listed tag fits.
-- Use "n/a" for model when no specific model is the subject.
+- Use "none" for model when no specific model is the subject.
 - Return ONLY valid JSON matching the schema. No prose, no markdown fences.`;
 
 const TOOL_SCHEMA = {

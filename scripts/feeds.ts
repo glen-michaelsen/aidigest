@@ -73,6 +73,6 @@ export const TAG_VOCAB = {
     "midjourney",
     "veo",
     "other",
-    "n/a",
+    "none",
   ],
 } as const;
