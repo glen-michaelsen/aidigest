@@ -19,6 +19,16 @@ const [hero, ...rest] = articles;
     <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>
   </div>
 
+  <div class="user-bar">
+    <button type="button" id="liked-only-toggle" class="user-bar-btn">☆ Liked only</button>
+    <div class="saved-filters">
+      <span class="saved-label">Saved views:</span>
+      <span id="saved-filters-list" class="saved-list">
+        <span class="muted-note">Loading…</span>
+      </span>
+    </div>
+  </div>
+
   {articles.length === 0 ? (
     <div class="card">
       <h2>No articles yet</h2>

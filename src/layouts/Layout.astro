@@ -32,6 +32,9 @@ const { title } = Astro.props;
     <footer>
       <p>Daily AI news, summarized.</p>
     </footer>
+    <script>
+      import "../lib/userClient";
+    </script>
     <style is:global>
       :root {
         --bg: #f7efe5;
@@ -268,6 +271,108 @@ const { title } = Astro.props;
       }
       .tag:hover { color: var(--accent); border-color: var(--accent); }
       .tag-axis { opacity: 0.7; margin-right: 0.2rem; }
+
+      /* User bar (liked toggle + saved views) */
+      .user-bar {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 1rem;
+        margin: 0 0 1.5rem;
+        padding: 0.85rem 1rem;
+        background: var(--bg-alt);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+      }
+      .user-bar-btn {
+        font-family: inherit;
+        font-size: 0.8rem;
+        font-weight: 600;
+        padding: 0.4rem 0.85rem;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: var(--card);
+        color: var(--fg);
+        cursor: pointer;
+        transition: all 0.15s ease;
+      }
+      .user-bar-btn:hover { border-color: var(--accent); color: var(--accent); }
+      .user-bar-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+      .user-bar-link {
+        color: var(--muted);
+        text-decoration: none;
+        font-size: 0.85rem;
+      }
+      .user-bar-link:hover { color: var(--accent); }
+      .saved-filters {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        flex-wrap: wrap;
+        margin-left: auto;
+      }
+      .saved-label {
+        font-size: 0.75rem;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+      .saved-list {
+        display: inline-flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+      }
+      .saved-chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        padding: 0.25rem 0.5rem 0.25rem 0.7rem;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        font-size: 0.8rem;
+      }
+      .saved-chip a { color: var(--fg); text-decoration: none; font-weight: 500; }
+      .saved-chip a:hover { color: var(--accent); }
+      .saved-del {
+        background: transparent;
+        border: none;
+        color: var(--muted);
+        font-size: 1rem;
+        line-height: 1;
+        cursor: pointer;
+        padding: 0 0.1rem;
+      }
+      .saved-del:hover { color: var(--accent-strong); }
+      .muted-note { color: var(--muted); font-size: 0.8rem; font-style: italic; }
+
+      /* Like button on cards */
+      .card { position: relative; }
+      .like-btn {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        width: 36px;
+        height: 36px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 50%;
+        color: var(--muted);
+        cursor: pointer;
+        transition: all 0.15s ease;
+        z-index: 2;
+      }
+      .like-btn:hover { color: var(--accent); border-color: var(--accent); }
+      .like-btn.liked { color: var(--accent); border-color: var(--accent); background: #fff0e8; }
+      .like-btn.liked svg path { fill: currentColor; }
+      .card--hero .like-btn { top: 1.5rem; right: 1.5rem; }
+
+      /* Liked-only filter mode */
+      body.show-liked-only .card:not(.is-liked) { display: none !important; }
+      body.show-liked-only .grid { gap: 1.5rem; }
     </style>
   </body>
 </html>

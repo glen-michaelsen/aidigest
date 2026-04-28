@@ -1,7 +1,7 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import ArticleCard from "../../../components/ArticleCard.astro";
-import { loadArticles, allTags, articlesByTag, type TagAxis } from "../../../lib/articles";
+import { allTags, articlesByTag, type TagAxis } from "../../../lib/articles";
 
 export async function getStaticPaths() {
   const tags = await allTags();
@@ -19,7 +19,17 @@ const articles = await articlesByTag(axis, tag);
     <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>
   </div>
 
-  <p style="margin-bottom: 1.5rem;"><a href="/" style="color: var(--muted); text-decoration: none;">← Back to today</a></p>
+  <div class="user-bar">
+    <a href="/" class="user-bar-link">← Back to today</a>
+    <button
+      type="button"
+      id="save-view-btn"
+      class="user-bar-btn"
+      data-axis={axis}
+      data-tag={tag}
+    >★ Save this view</button>
+    <button type="button" id="liked-only-toggle" class="user-bar-btn">☆ Liked only</button>
+  </div>
 
   <div class="grid">
     {articles.map((a) => <ArticleCard article={a} />)}
