@@ -1,0 +1,31 @@
+---
+import Layout from "../layouts/Layout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import { loadArticles, allTags } from "../lib/articles";
+
+const articles = await loadArticles();
+const tags = (await allTags()).slice(0, 30);
+---
+<Layout title="AI Digest">
+  <h1>Latest AI news</h1>
+  <p>{articles.length} articles, summarized daily.</p>
+
+  {tags.length > 0 && (
+    <>
+      <h3>Popular tags</h3>
+      <div class="tag-cloud">
+        {tags.map((t) => (
+          <a class="tag" href={`/tag/${t.axis}/${t.tag}`}>
+            <span class="tag-axis">{t.axis}:</span>{t.tag} ({t.count})
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+
+  {articles.length === 0 ? (
+    <p><em>No articles yet — run <code>npm run ingest</code>.</em></p>
+  ) : (
+    articles.map((a) => <ArticleCard article={a} />)
+  )}
+</Layout>

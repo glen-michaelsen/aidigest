@@ -1,0 +1,24 @@
+---
+import type { Article } from "../lib/articles";
+import { formatDate } from "../lib/articles";
+
+interface Props {
+  article: Article;
+}
+const { article } = Astro.props;
+const axes = ["category", "domain", "company", "model"] as const;
+---
+<article class="card">
+  <h2><a href={article.url} target="_blank" rel="noopener">{article.title}</a></h2>
+  <div class="meta">{article.source} · {formatDate(article.publishedAt)}</div>
+  <p class="brief">{article.brief}</p>
+  <div class="tags">
+    {axes.flatMap((axis) =>
+      (article.tags[axis] ?? []).map((tag) => (
+        <a class="tag" href={`/tag/${axis}/${tag}`}>
+          <span class="tag-axis">{axis}:</span>{tag}
+        </a>
+      )),
+    )}
+  </div>
+</article>

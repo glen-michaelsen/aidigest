@@ -1,0 +1,23 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import ArticleCard from "../../../components/ArticleCard.astro";
+import { loadArticles, allTags, articlesByTag, type TagAxis } from "../../../lib/articles";
+
+export async function getStaticPaths() {
+  const tags = await allTags();
+  return tags.map((t) => ({
+    params: { axis: t.axis, tag: t.tag },
+  }));
+}
+
+const { axis, tag } = Astro.params as { axis: TagAxis; tag: string };
+const articles = await articlesByTag(axis, tag);
+---
+<Layout title={`${axis}: ${tag} — AI Digest`}>
+  <p><a href="/">← All articles</a></p>
+  <h1>
+    <span class="tag-axis">{axis}:</span>{tag}
+  </h1>
+  <p>{articles.length} articles tagged <code>{axis}:{tag}</code>.</p>
+  {articles.map((a) => <ArticleCard article={a} />)}
+</Layout>
