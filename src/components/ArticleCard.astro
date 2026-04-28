@@ -8,7 +8,6 @@ interface Props {
 }
 const { article, hero = false } = Astro.props;
 const primaryCat = article.tags.category?.[0] ?? "default";
-const primaryDomain = article.tags.domain?.[0];
 const cardClass = hero ? "card card--hero" : "card";
 ---
 <article class={cardClass} data-article-id={article.id}>
@@ -19,22 +18,20 @@ const cardClass = hero ? "card card--hero" : "card";
     aria-label="Like article"
     aria-pressed="false"
   >
-    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+    <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
       <path d="M12 21s-7-4.35-9.5-8.5C.78 9.42 2.5 6 6 6c2 0 3.4 1 4 2 .6-1 2-2 4-2 3.5 0 5.22 3.42 3.5 6.5C19 16.65 12 21 12 21z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
     </svg>
   </button>
+
   <div class="card-head">
     <a class="pill" data-cat={primaryCat} href={`/tag/category/${primaryCat}`}>
-      {primaryCat.replace("-", " ")}
+      {primaryCat.replace(/-/g, " ")}
     </a>
-    {primaryDomain && (
-      <a class="pill" href={`/tag/domain/${primaryDomain}`} style="background: var(--bg-alt); border: 1px solid var(--border);">
-        {primaryDomain.replace("-", " ")}
-      </a>
-    )}
   </div>
+
   <h2><a href={article.url} target="_blank" rel="noopener">{article.title}</a></h2>
   <p class="brief">{article.brief}</p>
+
   <div class="card-foot">
     <span>{article.source} · {formatDate(article.publishedAt)}</span>
     <a href={article.url} target="_blank" rel="noopener">Read →</a>

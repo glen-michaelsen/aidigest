@@ -1,4 +1,4 @@
-import { db, json, getUserId } from "./_lib.js";
+import { db, json, getUserId } from "./_lib";
 
 export default async function handler(req: Request): Promise<Response> {
   if (req.method === "GET") {
