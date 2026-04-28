@@ -14,10 +14,14 @@ const { axis, tag } = Astro.params as { axis: TagAxis; tag: string };
 const articles = await articlesByTag(axis, tag);
 ---
 <Layout title={`${axis}: ${tag} — AI Digest`}>
-  <p><a href="/">← All articles</a></p>
-  <h1>
-    <span class="tag-axis">{axis}:</span>{tag}
-  </h1>
-  <p>{articles.length} articles tagged <code>{axis}:{tag}</code>.</p>
-  {articles.map((a) => <ArticleCard article={a} />)}
+  <div class="date-strip">
+    <span>{axis} / {tag}</span>
+    <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>
+  </div>
+
+  <p style="margin-bottom: 1.5rem;"><a href="/" style="color: var(--muted); text-decoration: none;">← Back to today</a></p>
+
+  <div class="grid">
+    {articles.map((a) => <ArticleCard article={a} />)}
+  </div>
 </Layout>

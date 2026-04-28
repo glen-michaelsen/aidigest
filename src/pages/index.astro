@@ -1,31 +1,35 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
-import { loadArticles, allTags } from "../lib/articles";
+import { loadArticles } from "../lib/articles";
 
 const articles = await loadArticles();
-const tags = (await allTags()).slice(0, 30);
+const today = new Date().toLocaleDateString("en-US", {
+  weekday: "long",
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+
+const [hero, ...rest] = articles;
 ---
 <Layout title="AI Digest">
-  <h1>Latest AI news</h1>
-  <p>{articles.length} articles, summarized daily.</p>
-
-  {tags.length > 0 && (
-    <>
-      <h3>Popular tags</h3>
-      <div class="tag-cloud">
-        {tags.map((t) => (
-          <a class="tag" href={`/tag/${t.axis}/${t.tag}`}>
-            <span class="tag-axis">{t.axis}:</span>{t.tag} ({t.count})
-          </a>
-        ))}
-      </div>
-    </>
-  )}
+  <div class="date-strip">
+    <span>{today}</span>
+    <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>
+  </div>
 
   {articles.length === 0 ? (
-    <p><em>No articles yet — run <code>npm run ingest</code>.</em></p>
+    <div class="card">
+      <h2>No articles yet</h2>
+      <p class="brief">Run <code>npm run ingest</code> or trigger the GitHub Action to populate.</p>
+    </div>
   ) : (
-    articles.map((a) => <ArticleCard article={a} />)
+    <>
+      {hero && <ArticleCard article={hero} hero={true} />}
+      <div class="grid">
+        {rest.map((a) => <ArticleCard article={a} />)}
+      </div>
+    </>
   )}
 </Layout>

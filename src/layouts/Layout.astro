@@ -11,75 +11,263 @@ const { title } = Astro.props;
     <meta name="viewport" content="width=device-width" />
     <title>{title}</title>
     <link rel="icon" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&display=swap"
+    />
   </head>
   <body>
-    <header>
-      <a href="/" class="brand">AI Digest</a>
-      <nav><a href="/">Latest</a></nav>
+    <header class="site-header">
+      <a href="/" class="brand">AI <em>Digest</em></a>
+      <nav class="nav-primary">
+        <a href="/" class="active">Today</a>
+      </nav>
+      <div class="header-cta"></div>
     </header>
     <main>
       <slot />
     </main>
     <footer>
-      <p>Daily AI news, summarized. <a href="https://github.com">Source</a></p>
+      <p>Daily AI news, summarized.</p>
     </footer>
     <style is:global>
       :root {
-        --fg: #111;
-        --muted: #666;
-        --accent: #0a66ff;
-        --bg: #fafafa;
-        --card: #fff;
-        --border: #e5e5e5;
+        --bg: #f7efe5;
+        --bg-alt: #faf3ea;
+        --card: #fffaf3;
+        --fg: #1f1a17;
+        --muted: #7a6f66;
+        --accent: #c9603f;
+        --accent-strong: #b04e2e;
+        --border: #e8ddcc;
+
+        /* Category pill palette */
+        --pill-research: #ffd9c0;
+        --pill-product: #c5e8d5;
+        --pill-funding: #d8d4f3;
+        --pill-policy: #c8dcef;
+        --pill-safety: #fbe4a3;
+        --pill-open: #d6ecc7;
+        --pill-bench: #b9e2d6;
+        --pill-infra: #d4d0f0;
+        --pill-incident: #f5c6c0;
+        --pill-opinion: #e3dccf;
+        --pill-default: #ece4d6;
       }
+
       * { box-sizing: border-box; }
+      html { background: var(--bg); }
       body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-        max-width: 880px;
+        font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+        max-width: 1180px;
         margin: 0 auto;
-        padding: 1.5rem;
+        padding: 0 2rem 4rem;
         color: var(--fg);
         background: var(--bg);
         line-height: 1.55;
       }
-      header {
+
+      a { color: var(--accent); }
+
+      .site-header {
+        display: grid;
+        grid-template-columns: 1fr auto 1fr;
+        align-items: center;
+        padding: 1.5rem 0 2rem;
+        margin-bottom: 1.5rem;
+        gap: 2rem;
+      }
+      .brand {
+        font-family: "Fraunces", Georgia, serif;
+        font-weight: 600;
+        font-size: 1.65rem;
+        text-decoration: none;
+        color: var(--fg);
+        letter-spacing: -0.01em;
+      }
+      .brand em {
+        font-style: italic;
+        color: var(--accent);
+        font-weight: 500;
+      }
+      .nav-primary {
+        display: flex;
+        gap: 2rem;
+        justify-content: center;
+        font-size: 0.95rem;
+      }
+      .nav-primary a {
+        color: var(--muted);
+        text-decoration: none;
+        font-weight: 500;
+      }
+      .nav-primary a.active { color: var(--accent); font-weight: 600; }
+      .nav-primary a:hover { color: var(--accent); }
+      .header-cta { justify-self: end; }
+
+      footer {
+        margin-top: 5rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid var(--border);
+        color: var(--muted);
+        font-size: 0.85rem;
+      }
+
+      h1 {
+        font-family: "Fraunces", Georgia, serif;
+        font-weight: 600;
+        margin-top: 0;
+      }
+
+      /* Date strip */
+      .date-strip {
         display: flex;
         justify-content: space-between;
-        align-items: baseline;
-        padding-bottom: 1rem;
-        border-bottom: 1px solid var(--border);
-        margin-bottom: 2rem;
+        align-items: center;
+        font-size: 0.75rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin: 0 0 1.5rem;
       }
-      .brand { font-weight: 700; font-size: 1.25rem; text-decoration: none; color: var(--fg); }
-      nav a { color: var(--muted); text-decoration: none; margin-left: 1rem; }
-      a { color: var(--accent); }
-      footer { margin-top: 4rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--muted); font-size: 0.85rem; }
+      .date-strip::before {
+        content: "";
+        flex: 1;
+        margin-left: 1rem;
+        border-top: 1px solid var(--border);
+        order: 1;
+      }
+      .date-strip > span:first-child { order: 0; }
+      .date-strip > span:last-child { order: 2; margin-left: 1rem; }
+
+      /* Card grid */
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1.5rem;
+      }
+      @media (max-width: 900px) {
+        .grid { grid-template-columns: repeat(2, 1fr); }
+      }
+      @media (max-width: 620px) {
+        .grid { grid-template-columns: 1fr; }
+        .site-header { grid-template-columns: 1fr; gap: 0.75rem; }
+        .nav-primary { justify-content: flex-start; }
+      }
+
+      .featured-row {
+        display: grid;
+        grid-template-columns: 1.4fr 1fr;
+        gap: 1.5rem;
+        margin-bottom: 1.5rem;
+      }
+      @media (max-width: 900px) {
+        .featured-row { grid-template-columns: 1fr; }
+      }
+
+      /* Cards */
       .card {
         background: var(--card);
         border: 1px solid var(--border);
-        border-radius: 8px;
-        padding: 1.25rem;
+        border-radius: 14px;
+        padding: 1.5rem;
+        display: flex;
+        flex-direction: column;
+        min-height: 220px;
+      }
+      .card-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         margin-bottom: 1rem;
       }
-      .card h2 { margin: 0 0 0.5rem; font-size: 1.1rem; }
+      .card h2 {
+        font-family: "Fraunces", Georgia, serif;
+        font-weight: 600;
+        font-size: 1.25rem;
+        line-height: 1.25;
+        margin: 0 0 0.75rem;
+        letter-spacing: -0.01em;
+      }
       .card h2 a { color: var(--fg); text-decoration: none; }
       .card h2 a:hover { color: var(--accent); }
-      .meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
-      .brief { margin: 0.5rem 0 0.75rem; }
-      .tags { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+      .brief {
+        color: #3a3128;
+        font-size: 0.95rem;
+        margin: 0 0 1rem;
+        flex: 1;
+      }
+      .card-foot {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 0.85rem;
+        color: var(--muted);
+        margin-top: auto;
+        padding-top: 0.75rem;
+      }
+      .card-foot a { color: var(--accent); text-decoration: none; font-weight: 500; }
+      .card-foot a:hover { text-decoration: underline; }
+
+      /* Featured (hero) variant */
+      .card--hero {
+        min-height: 320px;
+        padding: 2rem;
+      }
+      .card--hero h2 {
+        font-size: 2.25rem;
+        line-height: 1.1;
+      }
+      @media (max-width: 620px) {
+        .card--hero h2 { font-size: 1.7rem; }
+      }
+      .card--hero .brief { font-size: 1.05rem; }
+
+      /* Category pills */
+      .pill {
+        display: inline-block;
+        font-size: 0.7rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        padding: 0.3rem 0.75rem;
+        border-radius: 999px;
+        background: var(--pill-default);
+        color: #4a3f33;
+        text-decoration: none;
+      }
+      .pill[data-cat="research"] { background: var(--pill-research); }
+      .pill[data-cat="product-launch"] { background: var(--pill-product); }
+      .pill[data-cat="funding"] { background: var(--pill-funding); }
+      .pill[data-cat="policy"] { background: var(--pill-policy); }
+      .pill[data-cat="safety"] { background: var(--pill-safety); }
+      .pill[data-cat="open-source"] { background: var(--pill-open); }
+      .pill[data-cat="benchmarks"] { background: var(--pill-bench); }
+      .pill[data-cat="infrastructure"] { background: var(--pill-infra); }
+      .pill[data-cat="incident"] { background: var(--pill-incident); }
+      .pill[data-cat="opinion"] { background: var(--pill-opinion); }
+
+      /* Tag rail (small inline tags shown on hero/article) */
+      .tag-rail {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        margin-top: 0.5rem;
+      }
       .tag {
         font-size: 0.75rem;
-        padding: 0.15rem 0.5rem;
+        padding: 0.2rem 0.6rem;
         border-radius: 999px;
-        background: #eef3ff;
-        color: var(--accent);
+        background: var(--bg-alt);
+        color: var(--muted);
         text-decoration: none;
-        border: 1px solid #d6e3ff;
+        border: 1px solid var(--border);
+        font-weight: 500;
       }
-      .tag:hover { background: #d6e3ff; }
-      .tag-axis { color: var(--muted); margin-right: 0.25rem; }
-      .tag-cloud { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1rem 0 2rem; }
-      h1 { margin-top: 0; }
+      .tag:hover { color: var(--accent); border-color: var(--accent); }
+      .tag-axis { opacity: 0.7; margin-right: 0.2rem; }
     </style>
   </body>
 </html>

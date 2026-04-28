@@ -4,21 +4,28 @@ import { formatDate } from "../lib/articles";
 
 interface Props {
   article: Article;
+  hero?: boolean;
 }
-const { article } = Astro.props;
-const axes = ["category", "domain", "company", "model"] as const;
+const { article, hero = false } = Astro.props;
+const primaryCat = article.tags.category?.[0] ?? "default";
+const primaryDomain = article.tags.domain?.[0];
+const cardClass = hero ? "card card--hero" : "card";
 ---
-<article class="card">
-  <h2><a href={article.url} target="_blank" rel="noopener">{article.title}</a></h2>
-  <div class="meta">{article.source} · {formatDate(article.publishedAt)}</div>
-  <p class="brief">{article.brief}</p>
-  <div class="tags">
-    {axes.flatMap((axis) =>
-      (article.tags[axis] ?? []).map((tag) => (
-        <a class="tag" href={`/tag/${axis}/${tag}`}>
-          <span class="tag-axis">{axis}:</span>{tag}
-        </a>
-      )),
+<article class={cardClass}>
+  <div class="card-head">
+    <a class="pill" data-cat={primaryCat} href={`/tag/category/${primaryCat}`}>
+      {primaryCat.replace("-", " ")}
+    </a>
+    {primaryDomain && (
+      <a class="pill" href={`/tag/domain/${primaryDomain}`} style="background: var(--bg-alt); border: 1px solid var(--border);">
+        {primaryDomain.replace("-", " ")}
+      </a>
     )}
+  </div>
+  <h2><a href={article.url} target="_blank" rel="noopener">{article.title}</a></h2>
+  <p class="brief">{article.brief}</p>
+  <div class="card-foot">
+    <span>{article.source} · {formatDate(article.publishedAt)}</span>
+    <a href={article.url} target="_blank" rel="noopener">Read →</a>
   </div>
 </article>
