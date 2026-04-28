@@ -1,14 +1,14 @@
-import { db, json, getUserId } from "./_lib";
+import { dbExecute, json, getUserId } from "./_lib";
 
 async function handle(req: Request): Promise<Response> {
   if (req.method === "GET") {
     const userId = getUserId(req);
     if (!userId) return json({ error: "user_id required" }, { status: 400 });
-    const result = await db.execute({
-      sql: "SELECT article_id FROM likes WHERE user_id = ? ORDER BY created_at DESC",
-      args: [userId],
-    });
-    return json({ articles: result.rows.map((r) => r.article_id as string) });
+    const { rows } = await dbExecute(
+      "SELECT article_id FROM likes WHERE user_id = ? ORDER BY created_at DESC",
+      [userId],
+    );
+    return json({ articles: rows.map((r) => r.article_id) });
   }
 
   if (req.method === "POST") {
@@ -19,21 +19,15 @@ async function handle(req: Request): Promise<Response> {
     if (!/^[a-zA-Z0-9-]{8,64}$/.test(user_id)) return json({ error: "bad user_id" }, { status: 400 });
     if (article_id.length > 64) return json({ error: "bad article_id" }, { status: 400 });
 
-    const existing = await db.execute({
-      sql: "SELECT 1 FROM likes WHERE user_id = ? AND article_id = ?",
-      args: [user_id, article_id],
-    });
-    if (existing.rows.length) {
-      await db.execute({
-        sql: "DELETE FROM likes WHERE user_id = ? AND article_id = ?",
-        args: [user_id, article_id],
-      });
+    const { rows } = await dbExecute(
+      "SELECT 1 FROM likes WHERE user_id = ? AND article_id = ?",
+      [user_id, article_id],
+    );
+    if (rows.length) {
+      await dbExecute("DELETE FROM likes WHERE user_id = ? AND article_id = ?", [user_id, article_id]);
       return json({ liked: false });
     }
-    await db.execute({
-      sql: "INSERT INTO likes (user_id, article_id) VALUES (?, ?)",
-      args: [user_id, article_id],
-    });
+    await dbExecute("INSERT INTO likes (user_id, article_id) VALUES (?, ?)", [user_id, article_id]);
     return json({ liked: true });
   }
 
@@ -45,9 +39,6 @@ export default async function handler(req: Request): Promise<Response> {
     return await handle(req);
   } catch (err) {
     console.error("[likes]", err);
-    return new Response(JSON.stringify({ error: "internal error", detail: String(err) }), {
-      status: 500,
-      headers: { "content-type": "application/json" },
-    });
+    return json({ error: "internal error", detail: String(err) }, { status: 500 });
   }
 }
