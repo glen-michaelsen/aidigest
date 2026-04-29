@@ -3,12 +3,14 @@
  * Runs in the browser only.
  */
 
-const UID_KEY = "aidigest:uid";
+const UID_KEY = "aiwatchly:uid";
+const UID_KEY_LEGACY = "aidigest:uid"; // pre-rename key — migrate on first read
 
 function getUid(): string {
   let uid = localStorage.getItem(UID_KEY);
   if (!uid) {
-    uid = crypto.randomUUID();
+    // Carry forward any anonymous ID created before the rename
+    uid = localStorage.getItem(UID_KEY_LEGACY) ?? crypto.randomUUID();
     localStorage.setItem(UID_KEY, uid);
   }
   return uid;

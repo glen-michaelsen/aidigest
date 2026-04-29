@@ -13,7 +13,7 @@ import path from "node:path";
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
-const SITE = (process.env.SITE_URL ?? "https://aidigest-iota.vercel.app").replace(/\/$/, "");
+const SITE = (process.env.SITE_URL ?? "https://aiwatchly.com").replace(/\/$/, "");
 const RESEND_KEY = process.env.RESEND_API_KEY ?? "";
 const MAX_ARTICLES = 10;
 const LOOKBACK_DAYS = 7;
@@ -160,7 +160,7 @@ function renderEmail(articles: Article[]): string {
 
     <div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid #e8ddcc;">
       <p style="color:#7a6f66;font-size:0.82rem;margin:0 0 0.5rem;">
-        <a href="${SITE}" style="color:#c9603f;text-decoration:none;font-weight:500;">Read more on AI Digest →</a>
+        <a href="${SITE}" style="color:#c9603f;text-decoration:none;font-weight:500;">Read more on AI Watchly →</a>
       </p>
       <p style="color:#aaa;font-size:0.75rem;margin:0;">
         <a href="${SITE}/settings" style="color:#aaa;text-decoration:none;">Manage email preferences</a>
@@ -238,7 +238,7 @@ async function main() {
 
     const html    = renderEmail(selection);
     const range   = weekRange();
-    const subject = `Your AI Digest — ${selection.length} top stories · ${range}`;
+    const subject = `Your AI Watchly — ${selection.length} top stories · ${range}`;
 
     const res = await fetch("https://api.resend.com/emails", {
       method: "POST",
@@ -247,7 +247,7 @@ async function main() {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        from: "AI Digest <onboarding@resend.dev>",
+        from: "AI Watchly <onboarding@resend.dev>",
         to: [email],
         subject,
         html,

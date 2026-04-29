@@ -25,7 +25,7 @@ yesterday.setUTCDate(yesterday.getUTCDate() - 1);
 const isYesterday = date === yesterday.toISOString().slice(0, 10);
 const [hero, ...rest] = articles;
 ---
-<Layout title={`${dateLabel} — AI Digest`} currentDate={date}>
+<Layout title={`${dateLabel} — AI Watchly`} currentDate={date}>
   <div class="date-strip">
     <span>{isYesterday ? "Yesterday" : ""} — {dateLabel}</span>
     <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>

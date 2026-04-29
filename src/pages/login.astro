@@ -8,7 +8,7 @@ const errorMessages: Record<string, string> = {
   server_error: "Something went wrong. Please try again.",
 };
 ---
-<Layout title="Sign in — AI Digest">
+<Layout title="Sign in — AI Watchly">
   <div class="login-wrap">
     <h1>Sign in</h1>
     <p class="login-sub">Enter your email and we'll send you a magic link — no password needed.</p>
@@ -43,7 +43,7 @@ const errorMessages: Record<string, string> = {
       btn.textContent = "Sending…";
 
       const email = (document.getElementById("email-input") as HTMLInputElement).value;
-      const anonId = localStorage.getItem("aidigest:uid") ?? undefined;
+      const anonId = localStorage.getItem("aiwatchly:uid") ?? localStorage.getItem("aidigest:uid") ?? undefined;
 
       await fetch("/api/auth/send", {
         method: "POST",

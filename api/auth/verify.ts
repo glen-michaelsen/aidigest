@@ -1,7 +1,7 @@
 export const config = { runtime: "edge" };
 import { dbExecute, sessionCookie } from "../_lib";
 
-const SITE = process.env.SITE_URL ?? "https://aidigest-iota.vercel.app";
+const SITE = process.env.SITE_URL ?? "https://aiwatchly.com";
 
 export default async function handler(req: Request): Promise<Response> {
   const url = new URL(req.url);

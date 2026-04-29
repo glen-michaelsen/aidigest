@@ -16,7 +16,7 @@ const dateLabel = new Date(yesterdayStr + "T00:00:00Z").toLocaleDateString("en-U
 
 const [hero, ...rest] = articles;
 ---
-<Layout title="AI Digest" currentDate={yesterdayStr}>
+<Layout title="AI Watchly" currentDate={yesterdayStr}>
   <div class="date-strip">
     <span>Yesterday — {dateLabel}</span>
     <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>

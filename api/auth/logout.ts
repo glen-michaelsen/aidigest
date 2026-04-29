@@ -6,7 +6,7 @@ function parseCookie(header: string, name: string): string | null {
   return match ? decodeURIComponent(match[1]) : null;
 }
 
-const SITE = process.env.SITE_URL ?? "https://aidigest-iota.vercel.app";
+const SITE = process.env.SITE_URL ?? "https://aiwatchly.com";
 
 export default async function handler(req: Request): Promise<Response> {
   try {
