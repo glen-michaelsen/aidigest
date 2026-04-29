@@ -8,9 +8,26 @@ interface Props {
 }
 const { article, hero = false } = Astro.props;
 const primaryCat = article.tags.category?.[0] ?? "default";
-const cardClass = hero ? "card card--hero" : "card";
+const cardClass = hero ? "card card--hero card--clickable" : "card card--clickable";
+
+// Encode what the modal needs
+const modalData = JSON.stringify({
+  title: article.title,
+  brief: article.brief,
+  url: article.url,
+  source: article.source,
+  date: article.publishedAt,
+  category: primaryCat,
+  tags: article.tags,
+});
 ---
-<article class={cardClass} data-article-id={article.id}>
+<article
+  class={cardClass}
+  data-article-id={article.id}
+  data-modal={modalData}
+  role="button"
+  tabindex="0"
+>
   <button
     type="button"
     class="like-btn"
@@ -24,16 +41,15 @@ const cardClass = hero ? "card card--hero" : "card";
   </button>
 
   <div class="card-head">
-    <a class="pill" data-cat={primaryCat} href={`/tag/category/${primaryCat}`}>
+    <a class="pill" data-cat={primaryCat} href={`/tag/category/${primaryCat}`} onclick="event.stopPropagation()">
       {primaryCat.replace(/-/g, " ")}
     </a>
   </div>
 
-  <h2><a href={article.url} target="_blank" rel="noopener">{article.title}</a></h2>
-  <p class="brief">{article.brief}</p>
+  <h2>{article.title}</h2>
+  <p class="brief brief--clamped">{article.brief}</p>
 
   <div class="card-foot">
     <span>{article.source} · {formatDate(article.publishedAt)}</span>
-    <a href={article.url} target="_blank" rel="noopener">Read →</a>
   </div>
 </article>

@@ -1,0 +1,154 @@
+<!-- Single modal instance, populated by JS on card click -->
+<div id="article-overlay" class="article-overlay" hidden role="dialog" aria-modal="true">
+  <div class="article-dialog">
+    <div class="article-dialog-head">
+      <span id="modal-pill" class="pill"></span>
+      <button id="article-close" class="article-close" aria-label="Close">×</button>
+    </div>
+    <p id="modal-meta" class="meta"></p>
+    <h2 id="modal-title"></h2>
+    <p id="modal-brief" class="brief"></p>
+    <div id="modal-tags" class="tag-rail"></div>
+    <a id="modal-read" href="#" target="_blank" rel="noopener" class="modal-read-btn">
+      Read article →
+    </a>
+  </div>
+</div>
+
+<script>
+  const overlay = document.getElementById("article-overlay")!;
+  const closeBtn = document.getElementById("article-close")!;
+  const modalPill = document.getElementById("modal-pill")!;
+  const modalMeta = document.getElementById("modal-meta")!;
+  const modalTitle = document.getElementById("modal-title")!;
+  const modalBrief = document.getElementById("modal-brief")!;
+  const modalTags = document.getElementById("modal-tags")!;
+  const modalRead = document.getElementById("modal-read") as HTMLAnchorElement;
+
+  const MONTH = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+  function formatDate(iso: string) {
+    const d = new Date(iso);
+    return `${MONTH[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+  }
+
+  function open(data: {
+    title: string; brief: string; url: string; source: string;
+    date: string; category: string;
+    tags: Record<string, string[]>;
+  }) {
+    modalPill.textContent = data.category.replace(/-/g, " ");
+    modalPill.setAttribute("data-cat", data.category);
+    modalMeta.textContent = `${data.source} · ${formatDate(data.date)}`;
+    modalTitle.textContent = data.title;
+    modalBrief.textContent = data.brief;
+    modalRead.href = data.url;
+
+    // Render tags
+    modalTags.innerHTML = "";
+    const axes = ["category", "domain", "company", "model"] as const;
+    for (const axis of axes) {
+      for (const tag of data.tags[axis] ?? []) {
+        const a = document.createElement("a");
+        a.href = `/tag/${axis}/${tag}`;
+        a.className = "tag";
+        a.innerHTML = `<span class="tag-axis">${axis}:</span>${tag}`;
+        modalTags.appendChild(a);
+      }
+    }
+
+    overlay.removeAttribute("hidden");
+    document.body.style.overflow = "hidden";
+  }
+
+  function close() {
+    overlay.setAttribute("hidden", "");
+    document.body.style.overflow = "";
+  }
+
+  // Wire card clicks
+  document.querySelectorAll<HTMLElement>(".card--clickable").forEach((card) => {
+    const handler = (e: Event) => {
+      const target = e.target as HTMLElement;
+      if (target.closest(".like-btn") || target.closest(".pill")) return;
+      const raw = card.dataset.modal;
+      if (!raw) return;
+      open(JSON.parse(raw));
+    };
+    card.addEventListener("click", handler);
+    card.addEventListener("keydown", (e: KeyboardEvent) => {
+      if (e.key === "Enter" || e.key === " ") handler(e);
+    });
+  });
+
+  closeBtn.addEventListener("click", close);
+  overlay.addEventListener("click", (e) => { if (e.target === overlay) close(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") close(); });
+</script>
+
+<style>
+  .article-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(31, 26, 23, 0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    backdrop-filter: blur(3px);
+    padding: 1.5rem;
+  }
+  .article-overlay[hidden] { display: none; }
+  .article-dialog {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 2rem;
+    max-width: 600px;
+    width: 100%;
+    max-height: 85vh;
+    overflow-y: auto;
+    box-shadow: 0 12px 48px rgba(0,0,0,0.18);
+  }
+  .article-dialog-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+  }
+  .article-close {
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    width: 30px;
+    height: 30px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+  }
+  .article-close:hover { border-color: var(--accent); color: var(--accent); }
+  #modal-title {
+    font-family: "Fraunces", Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0.5rem 0 1rem;
+  }
+  #modal-brief { margin-bottom: 1.25rem; line-height: 1.65; }
+  .modal-read-btn {
+    display: inline-block;
+    margin-top: 1.25rem;
+    padding: 0.7rem 1.5rem;
+    background: var(--accent);
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .modal-read-btn:hover { background: var(--accent-strong); color: white; }
+</style>

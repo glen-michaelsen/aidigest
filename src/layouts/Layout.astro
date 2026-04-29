@@ -1,6 +1,7 @@
 ---
 import UserMenu from "../components/UserMenu.astro";
 import CalendarModal from "../components/CalendarModal.astro";
+import ArticleModal from "../components/ArticleModal.astro";
 interface Props {
   title: string;
   currentDate?: string;
@@ -59,6 +60,7 @@ const dateNavLabel = navLabel(calDate);
       <p>Daily AI news, summarized.</p>
     </footer>
     <CalendarModal currentDate={calDate} />
+    <ArticleModal />
     <script>
       import "../lib/userClient";
     </script>
@@ -385,6 +387,20 @@ const dateNavLabel = navLabel(calDate);
       }
       .saved-del:hover { color: var(--accent-strong); }
       .muted-note { color: var(--muted); font-size: 0.8rem; font-style: italic; }
+
+      /* Clickable cards */
+      .card--clickable { cursor: pointer; }
+      .card--clickable:hover { border-color: #d5c8b8; box-shadow: 0 2px 12px rgba(0,0,0,0.06); }
+      .card--clickable h2 { color: var(--fg); }
+      .card--clickable:hover h2 { color: var(--accent); }
+
+      /* Clamped brief on overview */
+      .brief--clamped {
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
 
       /* Like button on cards */
       .card { position: relative; }
