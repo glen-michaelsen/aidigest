@@ -1,0 +1,195 @@
+---
+interface Props {
+  currentDate: string; // YYYY-MM-DD
+}
+const { currentDate } = Astro.props;
+---
+
+<div id="cal-overlay" class="cal-overlay" hidden aria-modal="true" role="dialog">
+  <div class="cal-dialog">
+    <div class="cal-header">
+      <button class="cal-nav" id="cal-prev" aria-label="Previous month">‹</button>
+      <span id="cal-month-label" class="cal-month-label"></span>
+      <button class="cal-nav" id="cal-next" aria-label="Next month">›</button>
+      <button class="cal-close" id="cal-close" aria-label="Close">×</button>
+    </div>
+    <div class="cal-weekdays">
+      {["Su","Mo","Tu","We","Th","Fr","Sa"].map(d => <span>{d}</span>)}
+    </div>
+    <div id="cal-grid" class="cal-grid"></div>
+  </div>
+</div>
+
+<script define:vars={{ currentDate }}>
+  const overlay = document.getElementById("cal-overlay");
+  const grid = document.getElementById("cal-grid");
+  const monthLabel = document.getElementById("cal-month-label");
+  const prevBtn = document.getElementById("cal-prev");
+  const nextBtn = document.getElementById("cal-next");
+  const closeBtn = document.getElementById("cal-close");
+  const openBtn = document.getElementById("cal-open-btn");
+
+  let availableDates = new Set();
+  let viewYear, viewMonth;
+
+  // Start on the month of currentDate
+  const [cy, cm] = currentDate.split("-").map(Number);
+  viewYear = cy;
+  viewMonth = cm - 1; // 0-indexed
+
+  async function loadDates() {
+    if (availableDates.size > 0) return;
+    const res = await fetch("/dates.json");
+    const dates = await res.json();
+    availableDates = new Set(dates);
+  }
+
+  function renderCalendar() {
+    const monthNames = ["January","February","March","April","May","June",
+                        "July","August","September","October","November","December"];
+    monthLabel.textContent = `${monthNames[viewMonth]} ${viewYear}`;
+
+    const firstDay = new Date(Date.UTC(viewYear, viewMonth, 1)).getUTCDay();
+    const daysInMonth = new Date(Date.UTC(viewYear, viewMonth + 1, 0)).getUTCDate();
+
+    grid.innerHTML = "";
+
+    // Empty cells before first day
+    for (let i = 0; i < firstDay; i++) {
+      grid.appendChild(Object.assign(document.createElement("span"), { className: "cal-empty" }));
+    }
+
+    const today = new Date();
+    const todayStr = today.toISOString().slice(0, 10);
+
+    for (let d = 1; d <= daysInMonth; d++) {
+      const dateStr = `${viewYear}-${String(viewMonth + 1).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
+      const isFuture = dateStr >= todayStr;
+      const hasArticles = availableDates.has(dateStr);
+      const isCurrent = dateStr === currentDate;
+
+      const el = document.createElement(hasArticles ? "a" : "span");
+      el.textContent = d;
+      el.className = "cal-day";
+
+      if (isCurrent) el.classList.add("cal-day--current");
+      if (isFuture) el.classList.add("cal-day--future");
+      if (!hasArticles || isFuture) el.classList.add("cal-day--empty");
+
+      if (hasArticles && !isFuture) {
+        // Yesterday's date maps to /
+        const yesterday = new Date();
+        yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+        const yesterdayStr = yesterday.toISOString().slice(0, 10);
+        el.setAttribute("href", dateStr === yesterdayStr ? "/" : `/${dateStr}`);
+      }
+
+      grid.appendChild(el);
+    }
+  }
+
+  async function openModal() {
+    overlay.removeAttribute("hidden");
+    document.body.style.overflow = "hidden";
+    await loadDates();
+    renderCalendar();
+  }
+
+  function closeModal() {
+    overlay.setAttribute("hidden", "");
+    document.body.style.overflow = "";
+  }
+
+  openBtn?.addEventListener("click", openModal);
+  closeBtn?.addEventListener("click", closeModal);
+  overlay?.addEventListener("click", (e) => { if (e.target === overlay) closeModal(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
+  prevBtn?.addEventListener("click", () => {
+    viewMonth--;
+    if (viewMonth < 0) { viewMonth = 11; viewYear--; }
+    renderCalendar();
+  });
+
+  nextBtn?.addEventListener("click", () => {
+    viewMonth++;
+    if (viewMonth > 11) { viewMonth = 0; viewYear++; }
+    renderCalendar();
+  });
+</script>
+
+<style>
+  .cal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(31, 26, 23, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    backdrop-filter: blur(2px);
+  }
+  .cal-overlay[hidden] { display: none; }
+  .cal-dialog {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 1.5rem;
+    width: 320px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+  }
+  .cal-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    gap: 0.5rem;
+  }
+  .cal-month-label { flex: 1; text-align: center; font-weight: 600; font-size: 0.95rem; }
+  .cal-nav, .cal-close {
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    font-size: 1rem;
+    color: var(--fg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .cal-nav:hover, .cal-close:hover { border-color: var(--accent); color: var(--accent); }
+  .cal-close { margin-left: auto; font-size: 1.2rem; }
+  .cal-weekdays {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    text-align: center;
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+  }
+  .cal-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 2px;
+  }
+  .cal-day {
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    border-radius: 6px;
+    text-decoration: none;
+    color: var(--fg);
+    transition: background 0.1s;
+  }
+  a.cal-day { color: var(--fg); font-weight: 500; }
+  a.cal-day:hover { background: var(--bg); color: var(--accent); }
+  .cal-day--current { background: var(--accent) !important; color: white !important; font-weight: 700; }
+  .cal-day--empty { color: var(--border); }
+  .cal-day--future { color: var(--border); }
+  .cal-empty { aspect-ratio: 1; }
+</style>

@@ -1,12 +1,18 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
-import { articlesByDate, yesterdayUTC } from "../lib/articles";
+import { allDates, articlesByDate } from "../lib/articles";
 
-const yesterdayStr = yesterdayUTC();
-const articles = await articlesByDate(yesterdayStr);
+export async function getStaticPaths() {
+  const dates = await allDates();
+  return dates.map((date) => ({ params: { date } }));
+}
 
-const dateLabel = new Date(yesterdayStr + "T00:00:00Z").toLocaleDateString("en-US", {
+const { date } = Astro.params as { date: string };
+const articles = await articlesByDate(date);
+
+const dateObj = new Date(date + "T00:00:00Z");
+const dateLabel = dateObj.toLocaleDateString("en-US", {
   weekday: "long",
   year: "numeric",
   month: "long",
@@ -14,11 +20,14 @@ const dateLabel = new Date(yesterdayStr + "T00:00:00Z").toLocaleDateString("en-U
   timeZone: "UTC",
 });
 
+const yesterday = new Date();
+yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+const isYesterday = date === yesterday.toISOString().slice(0, 10);
 const [hero, ...rest] = articles;
 ---
-<Layout title="AI Digest" currentDate={yesterdayStr}>
+<Layout title={`${dateLabel} — AI Digest`} currentDate={date}>
   <div class="date-strip">
-    <span>Yesterday — {dateLabel}</span>
+    <span>{isYesterday ? "Yesterday" : ""} — {dateLabel}</span>
     <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>
   </div>
 
@@ -34,8 +43,8 @@ const [hero, ...rest] = articles;
 
   {articles.length === 0 ? (
     <div class="card">
-      <h2>No articles yet</h2>
-      <p class="brief">Run <code>npm run ingest</code> or trigger the GitHub Action to populate.</p>
+      <h2>No articles for this date</h2>
+      <p class="brief">Try another date from the calendar.</p>
     </div>
   ) : (
     <>

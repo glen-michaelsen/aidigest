@@ -63,6 +63,25 @@ export async function articlesByTag(axis: TagAxis, tag: string): Promise<Article
   return articles.filter((a) => (a.tags[axis] ?? []).includes(tag));
 }
 
+// Returns articles whose publishedAt starts with the given YYYY-MM-DD string.
+export async function articlesByDate(date: string): Promise<Article[]> {
+  const articles = await loadArticles();
+  return articles.filter((a) => a.publishedAt.startsWith(date));
+}
+
+// Returns all unique dates (YYYY-MM-DD) that have at least one article, newest first.
+export async function allDates(): Promise<string[]> {
+  const articles = await loadArticles();
+  const dates = new Set(articles.map((a) => a.publishedAt.slice(0, 10)));
+  return [...dates].sort().reverse();
+}
+
+export function yesterdayUTC(): string {
+  const d = new Date();
+  d.setUTCDate(d.getUTCDate() - 1);
+  return d.toISOString().slice(0, 10);
+}
+
 export function formatDate(iso: string): string {
   const d = new Date(iso);
   return d.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
