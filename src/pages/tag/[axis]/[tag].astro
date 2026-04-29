@@ -21,14 +21,13 @@ const articles = await articlesByTag(axis, tag);
 
   <div class="user-bar">
     <a href="/" class="user-bar-link">← Back to today</a>
-    <button
-      type="button"
-      id="save-view-btn"
-      class="user-bar-btn"
-      data-axis={axis}
-      data-tag={tag}
-    >★ Save this view</button>
     <button type="button" id="liked-only-toggle" class="user-bar-btn">☆ Liked only</button>
+    <form class="user-bar-search" action="/search" method="get">
+      <input type="search" name="q" class="user-bar-search-input" placeholder="Search all articles…" autocomplete="off" />
+      <button type="submit" class="user-bar-search-btn" aria-label="Search">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </button>
+    </form>
   </div>
 
   <div class="grid">

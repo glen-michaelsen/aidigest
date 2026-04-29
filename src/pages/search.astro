@@ -1,0 +1,241 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+<Layout title="Search — AI Digest">
+  <div class="search-page">
+    <form class="search-form" id="search-form" action="/search">
+      <input
+        type="search"
+        id="search-input"
+        name="q"
+        class="search-input"
+        placeholder="Search headlines and summaries…"
+        autofocus
+        autocomplete="off"
+      />
+      <button type="submit" class="search-btn">Search</button>
+    </form>
+
+    <div id="search-status" class="search-status"></div>
+    <div id="search-results"></div>
+  </div>
+</Layout>
+
+<script>
+  interface Article {
+    id: string;
+    title: string;
+    brief: string;
+    source: string;
+    publishedAt: string;
+    category: string;
+    url: string;
+    tags: Record<string, string[]>;
+  }
+
+  const MONTH = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+  function formatDate(iso: string): string {
+    const d = new Date(iso + (iso.length === 10 ? "T00:00:00Z" : ""));
+    return d.toLocaleDateString("en-US", {
+      weekday: "long", year: "numeric", month: "long", day: "numeric", timeZone: "UTC"
+    });
+  }
+
+  function dateKey(iso: string): string {
+    return iso.slice(0, 10);
+  }
+
+  function highlight(text: string, query: string): string {
+    if (!query) return escapeHtml(text);
+    // Build a regex that matches any of the query words
+    const words = query.trim().split(/\s+/).filter(Boolean).map(escapeRegex);
+    if (!words.length) return escapeHtml(text);
+    const pattern = new RegExp(`(${words.join("|")})`, "gi");
+    return escapeHtml(text).replace(
+      new RegExp(`(${words.map(w => escapeHtml(w)).join("|")})`, "gi"),
+      "<mark>$1</mark>"
+    );
+  }
+
+  function escapeHtml(s: string): string {
+    return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+
+  function escapeRegex(s: string): string {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+
+  function renderResults(articles: Article[], query: string): void {
+    const statusEl = document.getElementById("search-status")!;
+    const resultsEl = document.getElementById("search-results")!;
+
+    if (!query) {
+      statusEl.textContent = "";
+      resultsEl.innerHTML = "";
+      return;
+    }
+
+    if (articles.length === 0) {
+      statusEl.textContent = `No results for "${query}"`;
+      resultsEl.innerHTML = "";
+      return;
+    }
+
+    statusEl.textContent = `${articles.length} result${articles.length === 1 ? "" : "s"} for "${query}"`;
+
+    // Group by date
+    const byDate = new Map<string, Article[]>();
+    for (const a of articles) {
+      const key = dateKey(a.publishedAt);
+      if (!byDate.has(key)) byDate.set(key, []);
+      byDate.get(key)!.push(a);
+    }
+
+    let html = "";
+    for (const [date, group] of byDate) {
+      html += `<div class="search-date-group">
+        <div class="date-strip"><span>${formatDate(date)}</span><span>${group.length} ${group.length === 1 ? "story" : "stories"}</span></div>
+        <div class="search-cards">`;
+      for (const a of group) {
+        const cat = a.category ?? "default";
+        html += `<article class="card search-result-card" data-article-id="${escapeHtml(a.id)}">
+          <div class="card-head">
+            <a class="pill" data-cat="${escapeHtml(cat)}" href="/tag/category/${escapeHtml(cat)}">${escapeHtml(cat.replace(/-/g, " "))}</a>
+          </div>
+          <h2><a href="${escapeHtml(a.url)}" target="_blank" rel="noopener">${highlight(a.title, query)}</a></h2>
+          <p class="brief">${highlight(a.brief, query)}</p>
+          <div class="card-foot">
+            <span>${escapeHtml(a.source)} · ${new Date(a.publishedAt).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}</span>
+            <a href="${escapeHtml(a.url)}" target="_blank" rel="noopener">Read →</a>
+          </div>
+        </article>`;
+      }
+      html += `</div></div>`;
+    }
+
+    resultsEl.innerHTML = html;
+  }
+
+  async function search(query: string): Promise<void> {
+    const statusEl = document.getElementById("search-status")!;
+    if (!query.trim()) {
+      renderResults([], "");
+      return;
+    }
+
+    statusEl.textContent = "Searching…";
+
+    let index: Article[];
+    try {
+      const res = await fetch("/search.json");
+      index = await res.json();
+    } catch {
+      statusEl.textContent = "Failed to load search index.";
+      return;
+    }
+
+    const words = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    const results = index.filter((a) => {
+      const haystack = (a.title + " " + a.brief).toLowerCase();
+      return words.every((w) => haystack.includes(w));
+    });
+
+    renderResults(results, query);
+  }
+
+  // Read ?q= from URL on load
+  const params = new URLSearchParams(window.location.search);
+  const initialQuery = params.get("q") ?? "";
+  const inputEl = document.getElementById("search-input") as HTMLInputElement;
+  if (initialQuery) {
+    inputEl.value = initialQuery;
+    search(initialQuery);
+  }
+
+  // Live search as user types (debounced)
+  let debounceTimer: ReturnType<typeof setTimeout>;
+  inputEl.addEventListener("input", () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      const q = inputEl.value.trim();
+      // Update URL without reload
+      const url = new URL(window.location.href);
+      if (q) url.searchParams.set("q", q); else url.searchParams.delete("q");
+      history.replaceState({}, "", url);
+      search(q);
+    }, 250);
+  });
+
+  // Prevent full page reload on form submit (already live-searching)
+  document.getElementById("search-form")!.addEventListener("submit", (e) => {
+    e.preventDefault();
+    search(inputEl.value.trim());
+  });
+</script>
+
+<style>
+  .search-page { max-width: 800px; margin: 0 auto; }
+
+  .search-form {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+  }
+
+  .search-input {
+    flex: 1;
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 0.65rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--card);
+    color: var(--fg);
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .search-input:focus { border-color: var(--accent); }
+  .search-input::placeholder { color: var(--muted); }
+
+  .search-btn {
+    font-family: inherit;
+    font-size: 0.95rem;
+    font-weight: 600;
+    padding: 0.65rem 1.25rem;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .search-btn:hover { background: var(--accent-strong); }
+
+  .search-status {
+    font-size: 0.875rem;
+    color: var(--muted);
+    margin-bottom: 1.5rem;
+    min-height: 1.2em;
+  }
+
+  .search-date-group { margin-bottom: 2.5rem; }
+
+  .search-cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .search-result-card { min-height: unset; }
+  .search-result-card h2 { font-size: 1.1rem; }
+  .search-result-card h2 a { color: var(--fg); text-decoration: none; }
+  .search-result-card h2 a:hover { color: var(--accent); }
+
+  mark {
+    background: #ffe08a;
+    color: inherit;
+    border-radius: 2px;
+    padding: 0 1px;
+  }
+</style>

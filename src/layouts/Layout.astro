@@ -260,6 +260,7 @@ const dateNavLabel = navLabel(calDate);
       .card--hero {
         min-height: 320px;
         padding: 2rem;
+        margin-bottom: 1.5rem;
       }
       .card--hero h2 {
         font-size: 2.25rem;
@@ -429,6 +430,47 @@ const dateNavLabel = navLabel(calDate);
       /* Liked-only filter mode */
       body.show-liked-only .card:not(.is-liked) { display: none !important; }
       body.show-liked-only .grid { gap: 1.5rem; }
+
+      /* Search bar inside user-bar */
+      .user-bar-search {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+        gap: 0;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        overflow: hidden;
+        transition: border-color 0.15s;
+      }
+      .user-bar-search:focus-within { border-color: var(--accent); }
+      .user-bar-search-input {
+        font-family: inherit;
+        font-size: 0.82rem;
+        border: none;
+        background: transparent;
+        padding: 0.35rem 0.75rem;
+        color: var(--fg);
+        outline: none;
+        width: 200px;
+      }
+      .user-bar-search-input::placeholder { color: var(--muted); }
+      .user-bar-search-btn {
+        background: transparent;
+        border: none;
+        border-left: 1px solid var(--border);
+        padding: 0.35rem 0.65rem;
+        color: var(--muted);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        transition: color 0.15s;
+      }
+      .user-bar-search-btn:hover { color: var(--accent); }
+      @media (max-width: 620px) {
+        .user-bar-search { margin-left: 0; width: 100%; }
+        .user-bar-search-input { width: 100%; flex: 1; }
+      }
     </style>
   </body>
 </html>
