@@ -25,14 +25,28 @@ async function fetchLikes(): Promise<Set<string>> {
   }
 }
 
-async function toggleLike(articleId: string): Promise<boolean> {
+async function toggleLike(
+  articleId: string,
+  tags: Record<string, string[]> = {},
+): Promise<boolean> {
   const res = await fetch("/api/likes", {
     method: "POST",
     headers: { "content-type": "application/json" },
-    body: JSON.stringify({ user_id: getUid(), article_id: articleId }),
+    body: JSON.stringify({ user_id: getUid(), article_id: articleId, tags }),
   });
   const data = await res.json();
   return data.liked === true;
+}
+
+async function fetchScores(): Promise<Record<string, number>> {
+  try {
+    const res = await fetch(`/api/scores?user_id=${getUid()}`);
+    if (!res.ok) return {};
+    const data = await res.json();
+    return data.scores ?? {};
+  } catch {
+    return {};
+  }
 }
 
 type SavedFilter = { id: string; name: string; query: { axis: string; tag: string } };
@@ -77,7 +91,10 @@ function initLikeButtons(liked: Set<string>) {
       e.preventDefault();
       e.stopPropagation();
       btn.disabled = true;
-      const isNowLiked = await toggleLike(id);
+      // Pull tags from the card's data-modal so scores stay in sync
+      const tags: Record<string, string[]> =
+        card?.dataset.modal ? (JSON.parse(card.dataset.modal).tags ?? {}) : {};
+      const isNowLiked = await toggleLike(id, tags);
       btn.classList.toggle("liked", isNowLiked);
       btn.setAttribute("aria-pressed", String(isNowLiked));
       card?.classList.toggle("is-liked", isNowLiked);
@@ -149,6 +166,47 @@ async function initSaveCurrentView() {
   });
 }
 
+/**
+ * Re-order cards inside .grid by the user's learned tag preferences.
+ * Only runs on date pages (/ and /YYYY-MM-DD). No-op if user has no scores yet.
+ */
+function rerankGrid(scores: Record<string, number>): void {
+  // Only apply on date-filtered pages, not tag or search pages
+  const path = window.location.pathname;
+  const isDatePage = path === "/" || /^\/\d{4}-\d{2}-\d{2}\/?$/.test(path);
+  if (!isDatePage) return;
+
+  const hasPreferences = Object.values(scores).some((s) => s > 0);
+  if (!hasPreferences) return;
+
+  const grid = document.querySelector<HTMLElement>(".grid");
+  if (!grid) return;
+
+  const cards = [...grid.querySelectorAll<HTMLElement>(".card")];
+  if (cards.length < 2) return;
+
+  const scored = cards.map((card) => {
+    let score = 0;
+    if (card.dataset.modal) {
+      const data = JSON.parse(card.dataset.modal);
+      const tags: Record<string, string[]> = data.tags ?? {};
+      for (const [axis, tagList] of Object.entries(tags)) {
+        for (const tag of tagList as string[]) {
+          score += scores[`${axis}:${tag}`] ?? 0;
+        }
+      }
+    }
+    return { card, score };
+  });
+
+  // Stable sort: higher score first, original order for ties
+  scored.sort((a, b) => b.score - a.score);
+
+  for (const { card } of scored) {
+    grid.appendChild(card); // moves existing nodes — preserves event listeners
+  }
+}
+
 function escape(s: string): string {
   return s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!);
 }
@@ -176,9 +234,15 @@ async function initUserMenu() {
 
 async function init() {
   getUid();
-  const [liked] = await Promise.all([fetchLikes(), initUserMenu()]);
+  const [liked, scores] = await Promise.all([
+    fetchLikes(),
+    fetchScores(),
+    initUserMenu(),
+  ]);
   initLikeButtons(liked);
   initLikedToggle();
+  rerankGrid(scores);
+  // These are now no-ops on pages without the removed UI elements
   await initSavedFilters();
   await initSaveCurrentView();
 }

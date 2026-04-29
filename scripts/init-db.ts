@@ -43,6 +43,14 @@ const tables = [
     expires_at INTEGER NOT NULL
   )`,
   `CREATE INDEX IF NOT EXISTS idx_sessions_user ON sessions(user_id)`,
+  `CREATE TABLE IF NOT EXISTS tag_scores (
+    user_id TEXT NOT NULL,
+    axis    TEXT NOT NULL,
+    tag     TEXT NOT NULL,
+    score   INTEGER NOT NULL DEFAULT 0,
+    PRIMARY KEY (user_id, axis, tag)
+  )`,
+  `CREATE INDEX IF NOT EXISTS idx_tag_scores_user ON tag_scores(user_id)`,
 ];
 
 for (const sql of tables) {

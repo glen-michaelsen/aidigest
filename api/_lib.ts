@@ -49,6 +49,36 @@ export async function dbExecute(sql: string, args: Value[] = []): Promise<{ rows
   return { rows };
 }
 
+/** Run multiple write statements in a single Turso pipeline request. */
+export async function dbBatch(
+  stmts: { sql: string; args?: Value[] }[],
+): Promise<void> {
+  if (!stmts.length) return;
+  const fmt = (args: Value[] = []) =>
+    args.map((v) => {
+      if (v === null) return { type: "null" };
+      if (typeof v === "number") return { type: "integer", value: String(v) };
+      return { type: "text", value: String(v) };
+    });
+  const res = await fetch(`${TURSO_URL}/v2/pipeline`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${TURSO_TOKEN}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      requests: [
+        ...stmts.map(({ sql, args }) => ({
+          type: "execute",
+          stmt: { sql, args: fmt(args) },
+        })),
+        { type: "close" },
+      ],
+    }),
+  });
+  if (!res.ok) throw new Error(`Turso batch ${res.status}: ${await res.text()}`);
+}
+
 export function json(data: unknown, init: ResponseInit = {}): Response {
   return new Response(JSON.stringify(data), {
     ...init,
