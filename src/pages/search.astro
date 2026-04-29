@@ -219,12 +219,16 @@ import Layout from "../layouts/Layout.astro";
     min-height: 1.2em;
   }
 
-  .search-date-group { margin-bottom: 2.5rem; }
+  .search-date-group { margin-bottom: 3rem; }
+  /* Extra top gap between consecutive date groups */
+  .search-date-group + .search-date-group { margin-top: 0.5rem; }
+  /* Give the date-strip a little breathing room at the top within a group */
+  .search-date-group .date-strip { margin-top: 0.25rem; }
 
   .search-cards {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 1rem;
+    gap: 1.25rem;
   }
 
   .search-result-card { min-height: unset; }
