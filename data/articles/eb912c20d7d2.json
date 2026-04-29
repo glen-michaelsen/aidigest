@@ -1,0 +1,28 @@
+{
+  "id": "eb912c20d7d2",
+  "source": "TechCrunch AI",
+  "title": "Amazon is already offering new OpenAI products on AWS",
+  "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+  "publishedAt": "2026-04-28T19:48:02.000Z",
+  "ingestedAt": "2026-04-29T08:23:40.495Z",
+  "brief": "Amazon Web Services announced OpenAI model offerings including a new agent service, following OpenAI's agreement with Microsoft to end exclusive rights to its technology. This move opens OpenAI's products to multiple cloud providers rather than being limited to Microsoft's ecosystem.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "amazon",
+      "openai",
+      "microsoft"
+    ],
+    "model": [
+      "gpt",
+      "other"
+    ]
+  }
+}

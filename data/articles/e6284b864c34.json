@@ -1,0 +1,24 @@
+{
+  "id": "e6284b864c34",
+  "source": "OpenAI Blog",
+  "title": "Our commitment to community safety",
+  "url": "https://openai.com/index/our-commitment-to-community-safety",
+  "publishedAt": "2026-04-28T00:00:00.000Z",
+  "ingestedAt": "2026-04-29T08:23:47.839Z",
+  "brief": "OpenAI outlined its approach to community safety in ChatGPT through model safeguards, misuse detection systems, policy enforcement, and partnerships with safety experts. The commitment demonstrates OpenAI's layered strategy to prevent harmful outputs and abuse of its platform.",
+  "tags": {
+    "category": [
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

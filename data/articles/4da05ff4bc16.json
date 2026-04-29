@@ -1,0 +1,24 @@
+{
+  "id": "4da05ff4bc16",
+  "source": "The Verge AI",
+  "title": "Elon Musk appeared more petty than prepared",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+  "publishedAt": "2026-04-28T23:17:12.000Z",
+  "ingestedAt": "2026-04-29T08:23:42.195Z",
+  "brief": "Elon Musk testified as the first witness in his lawsuit against Sam Altman and OpenAI, appearing disengaged and unprepared during direct examination. The lawsuit centers on allegations that Altman strayed from OpenAI's non-profit mission, but Musk focused testimony on his own contributions rather than building a coherent legal narrative.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

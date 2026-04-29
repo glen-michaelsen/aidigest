@@ -1,0 +1,24 @@
+{
+  "id": "60497c000d09",
+  "source": "The Verge AI",
+  "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+  "publishedAt": "2026-04-28T20:46:54.000Z",
+  "ingestedAt": "2026-04-29T08:23:43.706Z",
+  "brief": "Elon Musk testified in his lawsuit against OpenAI co-founder Sam Altman, framing himself as a savior of humanity while detailing his biography from South Africa to his current business ventures. The trial centers on disputes over OpenAI's direction and governance, with Musk seeking to influence the jury's perception through his personal narrative.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

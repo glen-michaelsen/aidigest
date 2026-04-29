@@ -1,0 +1,24 @@
+{
+  "id": "1c2272f9572d",
+  "source": "Hacker News (AI)",
+  "title": "Claude for Creative Work",
+  "url": "https://www.anthropic.com/news/claude-for-creative-work",
+  "publishedAt": "2026-04-28T23:46:56.000Z",
+  "ingestedAt": "2026-04-29T08:23:53.640Z",
+  "brief": "Anthropic released a new capability or feature set for Claude designed to support creative work, enabling users to leverage the model for writing, brainstorming, and other generative tasks. The announcement highlights Claude's applications in creative domains and reflects ongoing development to expand its utility beyond technical use cases.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
