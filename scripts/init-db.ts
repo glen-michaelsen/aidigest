@@ -51,6 +51,12 @@ const tables = [
     PRIMARY KEY (user_id, axis, tag)
   )`,
   `CREATE INDEX IF NOT EXISTS idx_tag_scores_user ON tag_scores(user_id)`,
+  `CREATE TABLE IF NOT EXISTS digest_subscriptions (
+    user_id    TEXT    PRIMARY KEY,
+    enabled    INTEGER NOT NULL DEFAULT 1,
+    categories TEXT    NOT NULL DEFAULT '[]',
+    updated_at INTEGER NOT NULL DEFAULT (unixepoch())
+  )`,
 ];
 
 for (const sql of tables) {

@@ -1,0 +1,259 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const CATEGORIES = [
+  { id: "research",       label: "Research" },
+  { id: "product-launch", label: "Product Launch" },
+  { id: "funding",        label: "Funding" },
+  { id: "policy",         label: "Policy" },
+  { id: "safety",         label: "Safety" },
+  { id: "open-source",    label: "Open Source" },
+  { id: "benchmarks",     label: "Benchmarks" },
+  { id: "infrastructure", label: "Infrastructure" },
+  { id: "incident",       label: "Incident" },
+  { id: "opinion",        label: "Opinion" },
+] as const;
+---
+
+<Layout title="Settings — AI Digest">
+  <div class="settings-page">
+    <h1>Email preferences</h1>
+
+    <p id="settings-loading" class="settings-loading">Loading…</p>
+
+    <div id="settings-auth-prompt" hidden>
+      <div class="card" style="min-height:unset">
+        <p style="margin:0">Please <a href="/login">sign in</a> to manage your email preferences.</p>
+      </div>
+    </div>
+
+    <div id="settings-form-wrap" hidden>
+      <p class="settings-email-note">
+        Digest will be sent to <strong id="settings-user-email"></strong>
+      </p>
+
+      <div class="settings-card">
+        <!-- Toggle row -->
+        <div class="settings-row settings-row--toggle">
+          <div class="settings-row-info">
+            <span class="settings-field-label">Weekly digest</span>
+            <span class="settings-field-desc">
+              Top AI stories every Monday morning, ranked by your interests.
+            </span>
+          </div>
+          <label class="toggle-switch" aria-label="Enable weekly digest">
+            <input type="checkbox" id="digest-enabled" />
+            <span class="toggle-track"></span>
+          </label>
+        </div>
+
+        <!-- Category section, visible when enabled -->
+        <div id="category-section" class="category-section" hidden>
+          <div class="settings-divider"></div>
+          <div class="settings-row-info" style="margin-bottom:0.85rem">
+            <span class="settings-field-label">Topics</span>
+            <span class="settings-field-desc">
+              Pick specific topics, or leave <em>All topics</em> selected to receive everything.
+            </span>
+          </div>
+          <div class="cat-pills" id="cat-pills">
+            <button type="button" class="cat-pill" data-cat="">All topics</button>
+            {CATEGORIES.map((c) => (
+              <button type="button" class="cat-pill" data-cat={c.id}>{c.label}</button>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <div class="settings-actions">
+        <button type="button" id="save-btn" class="settings-save-btn">Save preferences</button>
+        <span id="save-status" class="save-status"></span>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<script>
+  const loadingEl    = document.getElementById("settings-loading")!;
+  const authPrompt   = document.getElementById("settings-auth-prompt")!;
+  const formWrap     = document.getElementById("settings-form-wrap")!;
+  const userEmailEl  = document.getElementById("settings-user-email")!;
+  const enabledInput = document.getElementById("digest-enabled") as HTMLInputElement;
+  const catSection   = document.getElementById("category-section")!;
+  const catPillsEl   = document.getElementById("cat-pills")!;
+  const saveBtn      = document.getElementById("save-btn") as HTMLButtonElement;
+  const saveStatus   = document.getElementById("save-status")!;
+
+  let selectedCats: string[] = []; // empty = all topics
+
+  function refreshPills() {
+    catPillsEl.querySelectorAll<HTMLButtonElement>(".cat-pill").forEach((btn) => {
+      const cat = btn.dataset.cat ?? "";
+      btn.classList.toggle(
+        "active",
+        cat === "" ? selectedCats.length === 0 : selectedCats.includes(cat),
+      );
+    });
+  }
+
+  catPillsEl.addEventListener("click", (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLButtonElement>(".cat-pill");
+    if (!btn) return;
+    const cat = btn.dataset.cat ?? "";
+    if (cat === "") {
+      selectedCats = [];
+    } else {
+      selectedCats = selectedCats.includes(cat)
+        ? selectedCats.filter((c) => c !== cat)
+        : [...selectedCats, cat];
+    }
+    refreshPills();
+  });
+
+  enabledInput.addEventListener("change", () => {
+    catSection.hidden = !enabledInput.checked;
+  });
+
+  saveBtn.addEventListener("click", async () => {
+    saveBtn.disabled = true;
+    saveStatus.textContent = "Saving…";
+    saveStatus.className = "save-status";
+    try {
+      const res = await fetch("/api/digest-settings", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ enabled: enabledInput.checked, categories: selectedCats }),
+      });
+      if (res.ok) {
+        saveStatus.textContent = "✓ Saved";
+        saveStatus.className = "save-status save-status--ok";
+      } else {
+        saveStatus.textContent = "Failed to save";
+        saveStatus.className = "save-status save-status--err";
+      }
+    } catch {
+      saveStatus.textContent = "Network error";
+      saveStatus.className = "save-status save-status--err";
+    }
+    saveBtn.disabled = false;
+    setTimeout(() => { saveStatus.textContent = ""; saveStatus.className = "save-status"; }, 3000);
+  });
+
+  async function init() {
+    const meRes = await fetch("/api/auth/me");
+    if (!meRes.ok) { loadingEl.hidden = true; authPrompt.hidden = false; return; }
+    const { user } = await meRes.json();
+    if (!user?.email) { loadingEl.hidden = true; authPrompt.hidden = false; return; }
+
+    userEmailEl.textContent = user.email;
+
+    const settingsRes = await fetch("/api/digest-settings");
+    if (settingsRes.ok) {
+      const s = await settingsRes.json();
+      enabledInput.checked = s.enabled === true;
+      selectedCats = Array.isArray(s.categories) ? s.categories : [];
+    }
+
+    refreshPills();
+    catSection.hidden = !enabledInput.checked;
+    loadingEl.hidden = true;
+    formWrap.hidden = false;
+  }
+
+  init();
+</script>
+
+<style>
+  .settings-page { max-width: 540px; margin: 0 auto; }
+  .settings-page h1 { margin-bottom: 0.25rem; }
+
+  .settings-loading { color: var(--muted); font-size: 0.9rem; margin-top: 1rem; }
+
+  .settings-email-note {
+    font-size: 0.875rem;
+    color: var(--muted);
+    margin: 0 0 1.25rem;
+  }
+  .settings-email-note strong { color: var(--fg); }
+
+  .settings-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 1.5rem;
+  }
+
+  .settings-row--toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+  .settings-row-info { display: flex; flex-direction: column; gap: 0.3rem; }
+  .settings-field-label { font-weight: 600; font-size: 0.95rem; color: var(--fg); }
+  .settings-field-desc  { font-size: 0.82rem; color: var(--muted); line-height: 1.45; }
+
+  /* Toggle switch */
+  .toggle-switch { position: relative; display: inline-flex; flex-shrink: 0; cursor: pointer; }
+  .toggle-switch input { opacity: 0; width: 0; height: 0; position: absolute; }
+  .toggle-track {
+    width: 44px; height: 24px;
+    background: var(--border);
+    border-radius: 999px;
+    transition: background 0.2s;
+    position: relative;
+  }
+  .toggle-track::after {
+    content: '';
+    position: absolute;
+    top: 3px; left: 3px;
+    width: 18px; height: 18px;
+    background: white;
+    border-radius: 50%;
+    transition: transform 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  }
+  .toggle-switch input:checked + .toggle-track { background: var(--accent); }
+  .toggle-switch input:checked + .toggle-track::after { transform: translateX(20px); }
+
+  /* Category section */
+  .settings-divider { height: 1px; background: var(--border); margin: 1.25rem 0; }
+
+  .cat-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .cat-pill {
+    font-family: inherit;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    border: 1.5px solid var(--border);
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .cat-pill:hover { border-color: var(--accent); color: var(--accent); }
+  .cat-pill.active { background: var(--accent); color: white; border-color: var(--accent); }
+
+  /* Actions */
+  .settings-actions { display: flex; align-items: center; gap: 1rem; margin-top: 1.25rem; }
+  .settings-save-btn {
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.6rem 1.5rem;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .settings-save-btn:hover { background: var(--accent-strong); }
+  .settings-save-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+  .save-status     { font-size: 0.85rem; color: var(--muted); }
+  .save-status--ok  { color: #2a7d4f; }
+  .save-status--err { color: var(--accent-strong); }
+</style>
