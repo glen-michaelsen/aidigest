@@ -7,6 +7,25 @@ interface Props {
 }
 const { title, currentDate } = Astro.props;
 const calDate = currentDate ?? new Date().toISOString().slice(0, 10);
+
+function ordinal(n: number): string {
+  const s = ["th", "st", "nd", "rd"];
+  const v = n % 100;
+  return n + (s[(v - 20) % 10] ?? s[v] ?? s[0]);
+}
+
+function navLabel(date: string): string {
+  const yesterday = new Date();
+  yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+  const yesterdayStr = yesterday.toISOString().slice(0, 10);
+  if (date === yesterdayStr) return "Yesterday";
+  const d = new Date(date + "T00:00:00Z");
+  const day = d.getUTCDate();
+  const month = d.toLocaleDateString("en-US", { month: "long", timeZone: "UTC" });
+  return `${ordinal(day)} of ${month}`;
+}
+
+const dateNavLabel = navLabel(calDate);
 ---
 <!doctype html>
 <html lang="en">
@@ -28,7 +47,7 @@ const calDate = currentDate ?? new Date().toISOString().slice(0, 10);
       <nav class="nav-primary">
         <button id="cal-open-btn" class="cal-open-btn">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-          Yesterday
+          {dateNavLabel}
         </button>
       </nav>
       <div class="header-cta"><UserMenu /></div>
