@@ -4,18 +4,25 @@ import ArticleCard from "../components/ArticleCard.astro";
 import { loadArticles } from "../lib/articles";
 
 const articles = await loadArticles();
-const today = new Date().toLocaleDateString("en-US", {
+
+// Show the date of the articles (yesterday), not today's date.
+const articleDate = articles[0]
+  ? new Date(articles[0].publishedAt)
+  : (() => { const d = new Date(); d.setUTCDate(d.getUTCDate() - 1); return d; })();
+
+const dateLabel = articleDate.toLocaleDateString("en-US", {
   weekday: "long",
   year: "numeric",
   month: "long",
   day: "numeric",
+  timeZone: "UTC",
 });
 
 const [hero, ...rest] = articles;
 ---
 <Layout title="AI Digest">
   <div class="date-strip">
-    <span>{today}</span>
+    <span>Yesterday — {dateLabel}</span>
     <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>
   </div>
 

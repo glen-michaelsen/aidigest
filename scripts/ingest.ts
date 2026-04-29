@@ -7,8 +7,16 @@ import path from "node:path";
 import { FEEDS, TAG_VOCAB } from "./feeds.js";
 
 const DRY_RUN = process.argv.includes("--dry-run");
-const MAX_AGE_DAYS = 2;
 const MAX_ARTICLES_PER_FEED = 8;
+
+// Capture articles published yesterday (UTC), so the site always shows
+// "what happened yesterday" rather than a rolling window.
+function yesterdayRange(): { start: number; end: number } {
+  const now = new Date();
+  const startOfToday = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
+  const startOfYesterday = startOfToday - 24 * 60 * 60 * 1000;
+  return { start: startOfYesterday, end: startOfToday };
+}
 const ARTICLES_DIR = path.resolve("data/articles");
 const SEEN_FILE = path.resolve("data/seen.json");
 
@@ -137,7 +145,7 @@ async function processFeed(
   feed: { name: string; url: string },
   seen: SeenIndex,
 ): Promise<Article[]> {
-  const cutoff = Date.now() - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
+  const { start, end } = yesterdayRange();
   let parsed;
   try {
     parsed = await parser.parseURL(feed.url);
@@ -149,8 +157,8 @@ async function processFeed(
   const items = (parsed.items ?? [])
     .filter((it) => it.link && it.title)
     .filter((it) => {
-      const ts = it.isoDate ? new Date(it.isoDate).getTime() : Date.now();
-      return ts >= cutoff;
+      const ts = it.isoDate ? new Date(it.isoDate).getTime() : 0;
+      return ts >= start && ts < end;
     })
     .slice(0, MAX_ARTICLES_PER_FEED);
 
