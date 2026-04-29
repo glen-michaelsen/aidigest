@@ -18,13 +18,6 @@ const RESEND_KEY = process.env.RESEND_API_KEY ?? "";
 const MAX_ARTICLES = 10;
 const LOOKBACK_DAYS = 7;
 
-// ─── Database ─────────────────────────────────────────────────────────────────
-
-const db = createClient({
-  url: process.env.TURSO_DATABASE_URL!,
-  authToken: process.env.TURSO_AUTH_TOKEN!,
-});
-
 // ─── Article loading ──────────────────────────────────────────────────────────
 
 type TagAxis = "category" | "domain" | "company" | "model";
@@ -182,8 +175,21 @@ function renderEmail(articles: Article[]): string {
 // ─── Main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
-  if (!RESEND_KEY) { console.error("Missing RESEND_API_KEY"); process.exit(1); }
-  if (!process.env.TURSO_DATABASE_URL) { console.error("Missing TURSO_DATABASE_URL"); process.exit(1); }
+  // Validate all required env vars before touching any external service
+  const missing = ["TURSO_DATABASE_URL", "TURSO_AUTH_TOKEN", "RESEND_API_KEY"].filter(
+    (k) => !process.env[k],
+  );
+  if (missing.length) {
+    console.error("Missing required environment variables:", missing.join(", "));
+    console.error("Add them as GitHub repository secrets (Settings → Secrets → Actions).");
+    process.exit(1);
+  }
+
+  // Create DB client only after env vars are confirmed present
+  const db = createClient({
+    url: process.env.TURSO_DATABASE_URL!,
+    authToken: process.env.TURSO_AUTH_TOKEN!,
+  });
 
   console.log(`Loading articles from the last ${LOOKBACK_DAYS} days…`);
   const allArticles = await loadRecentArticles();
