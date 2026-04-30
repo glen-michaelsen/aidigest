@@ -1,0 +1,28 @@
+{
+  "id": "5e53da5ad8c2",
+  "source": "Hacker News (AI)",
+  "title": "Why AI companies want you to be afraid of them",
+  "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+  "publishedAt": "2026-04-29T15:26:01.000Z",
+  "ingestedAt": "2026-04-30T23:48:32.113Z",
+  "brief": "A BBC article examines how AI companies leverage fear narratives about existential risks and advanced capabilities to shape policy, regulatory discussions, and public perception in their favor. The strategy serves corporate interests by influencing regulation and building justifications for market dominance.",
+  "tags": {
+    "category": [
+      "opinion",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "meta",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

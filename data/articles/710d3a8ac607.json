@@ -1,0 +1,29 @@
+{
+  "id": "710d3a8ac607",
+  "source": "Ars Technica AI",
+  "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
+  "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
+  "publishedAt": "2026-04-29T17:27:53.000Z",
+  "ingestedAt": "2026-04-30T23:48:06.496Z",
+  "brief": "Drone strikes targeting data centers in the Middle East are causing major tech companies to pause or halt infrastructure projects in the region, citing uninsurable war damage risks. The attacks have prompted Big Tech to reassess their expansion strategies and geopolitical exposure in conflict zones.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "infrastructure",
+      "enterprise"
+    ],
+    "company": [
+      "google",
+      "microsoft",
+      "amazon",
+      "meta",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

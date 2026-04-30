@@ -1,0 +1,24 @@
+{
+  "id": "6d737041e91d",
+  "source": "OpenAI Blog",
+  "title": "Cybersecurity in the Intelligence Age",
+  "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+  "publishedAt": "2026-04-29T04:00:00.000Z",
+  "ingestedAt": "2026-04-30T23:48:19.608Z",
+  "brief": "OpenAI released a five-part action plan addressing cybersecurity challenges posed by advanced AI systems, emphasizing the democratization of AI-powered defensive capabilities and protection of critical infrastructure. The plan aims to guide organizations on leveraging AI for cybersecurity while mitigating risks in an intelligence-driven threat landscape.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6f1c8174fc67",
+  "source": "Hacker News (AI)",
+  "title": "We decreased our LLM costs with Opus",
+  "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+  "publishedAt": "2026-04-29T00:57:12.000Z",
+  "ingestedAt": "2026-04-30T23:48:37.442Z",
+  "brief": "Mendral reports achieving cost reductions for their LLM infrastructure by adopting Claude Opus, Anthropic's frontier model. The shift demonstrates that advanced models can offer better efficiency and economics compared to previous solutions.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

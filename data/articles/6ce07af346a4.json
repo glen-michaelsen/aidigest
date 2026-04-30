@@ -1,0 +1,24 @@
+{
+  "id": "6ce07af346a4",
+  "source": "OpenAI Blog",
+  "title": "Where the goblins came from",
+  "url": "https://openai.com/index/where-the-goblins-came-from",
+  "publishedAt": "2026-04-29T20:00:00.000Z",
+  "ingestedAt": "2026-04-30T23:48:16.395Z",
+  "brief": "An analysis of how personality-driven behavioral quirks, dubbed \"goblin outputs,\" emerged in GPT-5 and spread across AI models, tracing their timeline, root causes, and remediation strategies.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5bea6ff791e9",
+  "source": "Hacker News (AI)",
+  "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+  "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+  "publishedAt": "2026-04-29T12:43:12.000Z",
+  "ingestedAt": "2026-04-30T23:48:33.774Z",
+  "brief": "A developer built an agentic test harness that uses AI to autonomously play-test games, automating the discovery of bugs and balance issues that human testers might miss. This approach demonstrates practical application of AI agents in game development workflows, reducing manual testing overhead.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

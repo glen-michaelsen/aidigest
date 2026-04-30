@@ -1,0 +1,25 @@
+{
+  "id": "a89e6f10b7ac",
+  "source": "Hugging Face Blog",
+  "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+  "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+  "publishedAt": "2026-04-29T00:00:00.000Z",
+  "ingestedAt": "2026-04-30T23:48:25.165Z",
+  "brief": "DeepInfra has been added to Hugging Face's inference provider ecosystem, expanding access to AI model serving infrastructure. This integration allows developers to run models via DeepInfra's platform directly through Hugging Face's tools.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "huggingface",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

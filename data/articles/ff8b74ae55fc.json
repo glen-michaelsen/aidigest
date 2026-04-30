@@ -1,0 +1,24 @@
+{
+  "id": "ff8b74ae55fc",
+  "source": "Ars Technica AI",
+  "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
+  "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+  "publishedAt": "2026-04-29T12:00:41.000Z",
+  "ingestedAt": "2026-04-30T23:48:10.423Z",
+  "brief": "A lawyer filed lawsuits claiming OpenAI failed to report a ChatGPT user who discussed school shooting plans to law enforcement, allegedly to protect CEO Sam Altman and the company's IPO prospects. The legal action raises questions about OpenAI's content moderation and disclosure responsibilities when users express violent intent.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

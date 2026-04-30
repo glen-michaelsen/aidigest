@@ -1,0 +1,24 @@
+{
+  "id": "6af9b6a70003",
+  "source": "Hugging Face Blog",
+  "title": "Granite 4.1 LLMs: How They’re Built",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+  "publishedAt": "2026-04-29T15:01:48.000Z",
+  "ingestedAt": "2026-04-30T23:48:23.528Z",
+  "brief": "IBM released Granite 4.1, a series of open-source large language models with details on their architecture and training methodology. The release emphasizes transparency in model development while offering variants optimized for different enterprise and research applications.",
+  "tags": {
+    "category": [
+      "open-source",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2c63518bacad",
+  "source": "TechCrunch AI",
+  "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+  "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+  "publishedAt": "2026-04-29T23:55:23.000Z",
+  "ingestedAt": "2026-04-30T23:48:03.102Z",
+  "brief": "Microsoft CEO Satya Nadella announced that Microsoft will integrate OpenAI's technology into its cloud services at no additional cost, with Nadella committing to \"fully exploit\" the partnership. The deal allows Microsoft to distribute OpenAI's models and tools to Azure customers, strengthening Microsoft's competitive position in enterprise AI.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft",
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

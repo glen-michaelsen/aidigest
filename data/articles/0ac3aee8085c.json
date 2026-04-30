@@ -1,0 +1,25 @@
+{
+  "id": "0ac3aee8085c",
+  "source": "Hacker News (AI)",
+  "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+  "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+  "publishedAt": "2026-04-29T12:38:50.000Z",
+  "ingestedAt": "2026-04-30T23:48:35.681Z",
+  "brief": "A user tested AI models' consistency by asking them to count carbohydrates in the same food image 27,000 times and found that the models provided different answers each time, revealing a critical reliability problem for healthcare applications where consistency is essential.",
+  "tags": {
+    "category": [
+      "safety",
+      "healthcare"
+    ],
+    "domain": [
+      "healthcare",
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}
