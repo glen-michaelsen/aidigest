@@ -22,25 +22,35 @@ const cutoff = new Date();
 cutoff.setUTCDate(cutoff.getUTCDate() - 7);
 const cutoffStr = cutoff.toISOString().slice(0, 10);
 
-const catCounts = new Map<string, number>();
+// Count mentions across company + model axes for the last 7 days
+type HotTopic = { label: string; axis: string; tag: string; count: number };
+const topicCounts = new Map<string, HotTopic>();
 for (const a of allArticles) {
   if (a.publishedAt.slice(0, 10) < cutoffStr) continue;
-  const cat = a.tags.category?.[0];
-  if (cat) catCounts.set(cat, (catCounts.get(cat) ?? 0) + 1);
+  for (const axis of ["company", "model"] as const) {
+    for (const tag of a.tags[axis] ?? []) {
+      if (tag === "other" || tag === "none") continue;
+      const key = `${axis}:${tag}`;
+      if (!topicCounts.has(key)) {
+        topicCounts.set(key, { label: tag, axis, tag, count: 0 });
+      }
+      topicCounts.get(key)!.count++;
+    }
+  }
 }
-const hotTopics = [...catCounts.entries()]
-  .sort((a, b) => b[1] - a[1])
-  .filter(([, count]) => count > 3)
-  .slice(0, 5);
+const hotTopics = [...topicCounts.values()]
+  .sort((a, b) => b.count - a.count)
+  .filter(({ count }) => count > 3)
+  .slice(0, 8);
 ---
 <Layout title="AI Watchly" currentDate={yesterdayStr}>
   {hotTopics.length > 0 && (
     <div class="hot-topics">
       <span class="hot-topics-label">Hot topics</span>
       <div class="hot-topics-pills">
-        {hotTopics.map(([cat, count]) => (
-          <a class="pill hot-pill" data-cat={cat} href={`/tag/category/${cat}`}>
-            {cat.replace(/-/g, " ")}
+        {hotTopics.map(({ label, axis, tag, count }) => (
+          <a class="pill hot-pill" href={`/tag/${axis}/${tag}`}>
+            {label.replace(/-/g, " ")}
             <span class="hot-count">{count}</span>
           </a>
         ))}
