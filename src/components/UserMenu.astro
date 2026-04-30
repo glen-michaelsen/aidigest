@@ -33,7 +33,10 @@
   .um-signin:hover { color: var(--accent); }
 
   /* Signed-in: trigger */
-  .um-dropdown { position: relative; }
+  .um-dropdown {
+    position: relative;
+    padding-bottom: 0.65rem; /* extends hover zone to bridge gap to panel */
+  }
   .um-trigger {
     display: flex;
     align-items: center;
@@ -59,7 +62,7 @@
   .um-panel {
     display: none;
     position: absolute;
-    top: calc(100% + 0.6rem);
+    top: 100%; /* padding-bottom on parent creates the visual gap */
     right: 0;
     background: var(--card);
     border: 1px solid var(--border);
