@@ -7,39 +7,129 @@ const { currentDate } = Astro.props;
 
 <div id="cal-overlay" class="cal-overlay" hidden aria-modal="true" role="dialog">
   <div class="cal-dialog">
-    <div class="cal-header">
-      <button class="cal-nav" id="cal-prev" aria-label="Previous month">‹</button>
-      <span id="cal-month-label" class="cal-month-label"></span>
-      <button class="cal-nav" id="cal-next" aria-label="Next month">›</button>
-      <button class="cal-close" id="cal-close" aria-label="Close">×</button>
+
+    <!-- Sidebar presets -->
+    <div class="cal-sidebar">
+      <p class="cal-sidebar-title">Browse by</p>
+      <button class="cal-preset" id="preset-last7">Last 7 days</button>
+      <button class="cal-preset" id="preset-thisweek">This week</button>
+      <button class="cal-preset" id="preset-lastweek">Last week</button>
+      <button class="cal-preset" id="preset-custom">Custom dates</button>
     </div>
-    <div class="cal-weekdays">
-      {["Su","Mo","Tu","We","Th","Fr","Sa"].map(d => <span>{d}</span>)}
+
+    <!-- Calendar -->
+    <div class="cal-main">
+      <div class="cal-header">
+        <button class="cal-nav" id="cal-prev" aria-label="Previous month">‹</button>
+        <span id="cal-month-label" class="cal-month-label"></span>
+        <button class="cal-nav" id="cal-next" aria-label="Next month">›</button>
+        <button class="cal-close" id="cal-close" aria-label="Close">×</button>
+      </div>
+      <div class="cal-weekdays">
+        {["Su","Mo","Tu","We","Th","Fr","Sa"].map(d => <span>{d}</span>)}
+      </div>
+      <div id="cal-grid" class="cal-grid"></div>
+      <div id="cal-hint" class="cal-hint"></div>
     </div>
-    <div id="cal-grid" class="cal-grid"></div>
+
   </div>
 </div>
 
 <script define:vars={{ currentDate }}>
-  const overlay = document.getElementById("cal-overlay");
-  const grid = document.getElementById("cal-grid");
+  const overlay    = document.getElementById("cal-overlay");
+  const grid       = document.getElementById("cal-grid");
   const monthLabel = document.getElementById("cal-month-label");
-  const prevBtn = document.getElementById("cal-prev");
-  const nextBtn = document.getElementById("cal-next");
-  const closeBtn = document.getElementById("cal-close");
-  const openBtn = document.getElementById("cal-open-btn");
+  const prevBtn    = document.getElementById("cal-prev");
+  const nextBtn    = document.getElementById("cal-next");
+  const closeBtn   = document.getElementById("cal-close");
+  const openBtn    = document.getElementById("cal-open-btn");
+  const hintEl     = document.getElementById("cal-hint");
+
+  const presetBtns = {
+    last7:    document.getElementById("preset-last7"),
+    thisweek: document.getElementById("preset-thisweek"),
+    lastweek: document.getElementById("preset-lastweek"),
+    custom:   document.getElementById("preset-custom"),
+  };
 
   let availableDates = new Set();
-  let viewYear, viewMonth;
+  let rangeFrom  = null; // YYYY-MM-DD
+  let rangeTo    = null; // YYYY-MM-DD
+  let customMode = false;
+  let activePreset = null;
 
   // Start on the month of currentDate
   const [cy, cm] = currentDate.split("-").map(Number);
-  viewYear = cy;
-  viewMonth = cm - 1; // 0-indexed
+  let viewYear  = cy;
+  let viewMonth = cm - 1; // 0-indexed
+
+  // ─── Date helpers ──────────────────────────────────────────────────────────
+
+  function todayUTC() {
+    return new Date().toISOString().slice(0, 10);
+  }
+
+  function yesterdayUTC() {
+    const d = new Date();
+    d.setUTCDate(d.getUTCDate() - 1);
+    return d.toISOString().slice(0, 10);
+  }
+
+  function addDays(dateStr, n) {
+    const d = new Date(dateStr + "T00:00:00Z");
+    d.setUTCDate(d.getUTCDate() + n);
+    return d.toISOString().slice(0, 10);
+  }
+
+  function getMondayOf(dateStr) {
+    const d = new Date(dateStr + "T00:00:00Z");
+    const dow = d.getUTCDay(); // 0 = Sun
+    const diff = dow === 0 ? -6 : 1 - dow;
+    d.setUTCDate(d.getUTCDate() + diff);
+    return d.toISOString().slice(0, 10);
+  }
+
+  function getPresetDates(preset) {
+    const today     = todayUTC();
+    const yesterday = yesterdayUTC();
+    if (preset === "last7")    return { from: addDays(today, -7), to: yesterday };
+    if (preset === "thisweek") return { from: getMondayOf(today), to: yesterday };
+    if (preset === "lastweek") {
+      const thisMonday = getMondayOf(today);
+      const lastSunday = addDays(thisMonday, -1);
+      const lastMonday = getMondayOf(lastSunday);
+      return { from: lastMonday, to: lastSunday };
+    }
+    return null;
+  }
+
+  function formatRange(from, to) {
+    const opts = { month: "short", day: "numeric", timeZone: "UTC" };
+    const f = new Date(from + "T00:00:00Z").toLocaleDateString("en-US", opts);
+    const t = new Date(to   + "T00:00:00Z").toLocaleDateString("en-US", opts);
+    return `${f} – ${t}`;
+  }
+
+  // ─── Nav label ────────────────────────────────────────────────────────────
+
+  function setNavLabel(text) {
+    const el = document.getElementById("cal-nav-label");
+    if (el) el.textContent = text;
+  }
+
+  // ─── Sidebar active state ─────────────────────────────────────────────────
+
+  function updateSidebarActive() {
+    for (const [key, btn] of Object.entries(presetBtns)) {
+      if (btn) btn.classList.toggle("cal-preset--active", key === activePreset);
+    }
+  }
+
+  // ─── Calendar rendering ───────────────────────────────────────────────────
 
   async function loadDates() {
     if (availableDates.size > 0) return;
-    const res = await fetch("/dates.json");
+    const res   = await fetch("/dates.json");
     const dates = await res.json();
     availableDates = new Set(dates);
   }
@@ -49,44 +139,136 @@ const { currentDate } = Astro.props;
                         "July","August","September","October","November","December"];
     monthLabel.textContent = `${monthNames[viewMonth]} ${viewYear}`;
 
-    const firstDay = new Date(Date.UTC(viewYear, viewMonth, 1)).getUTCDay();
+    const firstDay    = new Date(Date.UTC(viewYear, viewMonth, 1)).getUTCDay();
     const daysInMonth = new Date(Date.UTC(viewYear, viewMonth + 1, 0)).getUTCDate();
+    const todayStr    = todayUTC();
 
     grid.innerHTML = "";
 
-    // Empty cells before first day
+    // Empty leading cells
     for (let i = 0; i < firstDay; i++) {
       grid.appendChild(Object.assign(document.createElement("span"), { className: "cal-empty" }));
     }
 
-    const today = new Date();
-    const todayStr = today.toISOString().slice(0, 10);
-
     for (let d = 1; d <= daysInMonth; d++) {
-      const dateStr = `${viewYear}-${String(viewMonth + 1).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
-      const isFuture = dateStr >= todayStr;
-      const hasArticles = availableDates.has(dateStr);
-      const isCurrent = dateStr === currentDate;
+      const ds = `${viewYear}-${String(viewMonth + 1).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
+      const isFuture    = ds >= todayStr;
+      const hasArticles = availableDates.has(ds);
+      const isCurrent   = ds === currentDate;
 
-      const el = document.createElement(hasArticles ? "a" : "span");
-      el.textContent = d;
+      const isRangeStart = ds === rangeFrom;
+      const isRangeEnd   = ds === rangeTo;
+      const isInRange    = rangeFrom && rangeTo && ds > rangeFrom && ds < rangeTo;
+
+      let el;
+
+      if (customMode && !isFuture) {
+        // In custom mode: all past/present days are clickable
+        el = document.createElement("button");
+        el.type = "button";
+        el.addEventListener("click", () => handleCustomClick(ds));
+      } else if (hasArticles && !isFuture) {
+        // Normal mode: link directly to the date page
+        el = document.createElement("a");
+        const yest = yesterdayUTC();
+        el.setAttribute("href", ds === yest ? "/" : `/${ds}`);
+      } else {
+        el = document.createElement("span");
+      }
+
+      el.textContent = String(d);
       el.className = "cal-day";
 
-      if (isCurrent) el.classList.add("cal-day--current");
-      if (isFuture) el.classList.add("cal-day--future");
-      if (!hasArticles || isFuture) el.classList.add("cal-day--empty");
-
-      if (hasArticles && !isFuture) {
-        // Yesterday's date maps to /
-        const yesterday = new Date();
-        yesterday.setUTCDate(yesterday.getUTCDate() - 1);
-        const yesterdayStr = yesterday.toISOString().slice(0, 10);
-        el.setAttribute("href", dateStr === yesterdayStr ? "/" : `/${dateStr}`);
+      if (isFuture) {
+        el.classList.add("cal-day--future");
+      } else if (!hasArticles) {
+        el.classList.add(customMode ? "cal-day--no-articles" : "cal-day--empty");
       }
+
+      if (isCurrent && !customMode && !rangeFrom) el.classList.add("cal-day--current");
+      if (isRangeStart) el.classList.add("cal-day--range-start");
+      if (isRangeEnd)   el.classList.add("cal-day--range-end");
+      if (isInRange)    el.classList.add("cal-day--in-range");
 
       grid.appendChild(el);
     }
+
+    // Hint text
+    if (hintEl) {
+      if (customMode) {
+        hintEl.textContent = rangeFrom && !rangeTo
+          ? "Now click an end date"
+          : "Click a start date";
+      } else {
+        hintEl.textContent = "";
+      }
+    }
   }
+
+  // ─── Custom range selection ───────────────────────────────────────────────
+
+  function handleCustomClick(ds) {
+    if (!rangeFrom || (rangeFrom && rangeTo)) {
+      // Start new selection
+      rangeFrom = ds;
+      rangeTo   = null;
+    } else {
+      // Ignore same-day second click
+      if (ds === rangeFrom) return;
+      // Complete selection (ensure correct order)
+      if (ds < rangeFrom) {
+        rangeTo   = rangeFrom;
+        rangeFrom = ds;
+      } else {
+        rangeTo = ds;
+      }
+      const label = formatRange(rangeFrom, rangeTo);
+      setNavLabel(label);
+      closeModal();
+      setTimeout(() => {
+        window.location.href = `/search?from=${rangeFrom}&to=${rangeTo}`;
+      }, 120);
+      return;
+    }
+    renderCalendar();
+  }
+
+  // ─── Preset handlers ──────────────────────────────────────────────────────
+
+  const PRESET_LABELS = {
+    last7:    "Last 7 days",
+    thisweek: "This week",
+    lastweek: "Last week",
+  };
+
+  function handlePreset(preset) {
+    if (preset === "custom") {
+      customMode   = true;
+      activePreset = "custom";
+      rangeFrom    = null;
+      rangeTo      = null;
+      updateSidebarActive();
+      renderCalendar();
+      return;
+    }
+
+    const dates = getPresetDates(preset);
+    if (!dates) return;
+
+    setNavLabel(PRESET_LABELS[preset] ?? "");
+    activePreset = preset;
+    updateSidebarActive();
+    closeModal();
+    setTimeout(() => {
+      window.location.href = `/search?from=${dates.from}&to=${dates.to}`;
+    }, 120);
+  }
+
+  for (const [key, btn] of Object.entries(presetBtns)) {
+    btn?.addEventListener("click", () => handlePreset(key));
+  }
+
+  // ─── Open / close ─────────────────────────────────────────────────────────
 
   async function openModal() {
     overlay.removeAttribute("hidden");
@@ -130,14 +312,56 @@ const { currentDate } = Astro.props;
     backdrop-filter: blur(2px);
   }
   .cal-overlay[hidden] { display: none; }
+
   .cal-dialog {
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 16px;
-    padding: 1.5rem;
-    width: 320px;
+    display: flex;
+    overflow: hidden;
     box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+    max-width: 95vw;
   }
+
+  /* ── Sidebar ─────────────────────────────────────────────────── */
+  .cal-sidebar {
+    width: 148px;
+    flex-shrink: 0;
+    padding: 1.25rem 0.6rem;
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    background: var(--bg-alt);
+  }
+  .cal-sidebar-title {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    margin: 0 0 0.5rem 0.6rem;
+  }
+  .cal-preset {
+    font-family: inherit;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0.55rem 0.75rem;
+    background: transparent;
+    border: none;
+    border-radius: 8px;
+    color: var(--fg);
+    text-align: left;
+    cursor: pointer;
+    transition: background 0.12s, color 0.12s;
+    width: 100%;
+  }
+  .cal-preset:hover { background: var(--bg); color: var(--accent); }
+  .cal-preset--active { background: var(--accent) !important; color: white !important; }
+
+  /* ── Calendar main ───────────────────────────────────────────── */
+  .cal-main { padding: 1.5rem; width: 300px; }
+
   .cal-header {
     display: flex;
     align-items: center;
@@ -157,9 +381,11 @@ const { currentDate } = Astro.props;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
   }
   .cal-nav:hover, .cal-close:hover { border-color: var(--accent); color: var(--accent); }
   .cal-close { margin-left: auto; font-size: 1.2rem; }
+
   .cal-weekdays {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
@@ -175,6 +401,8 @@ const { currentDate } = Astro.props;
     grid-template-columns: repeat(7, 1fr);
     gap: 2px;
   }
+
+  /* ── Day cells ───────────────────────────────────────────────── */
   .cal-day {
     aspect-ratio: 1;
     display: flex;
@@ -185,11 +413,58 @@ const { currentDate } = Astro.props;
     text-decoration: none;
     color: var(--fg);
     transition: background 0.1s;
+    background: transparent;
+    border: none;
+    cursor: default;
+    padding: 0;
+    font-family: inherit;
+    line-height: 1;
   }
-  a.cal-day { color: var(--fg); font-weight: 500; }
-  a.cal-day:hover { background: var(--bg); color: var(--accent); }
-  .cal-day--current { background: var(--accent) !important; color: white !important; font-weight: 700; }
-  .cal-day--empty { color: var(--border); }
-  .cal-day--future { color: var(--border); }
+  a.cal-day,
+  button.cal-day:not(.cal-day--future):not(.cal-day--empty) {
+    cursor: pointer;
+    font-weight: 500;
+  }
+  a.cal-day:hover,
+  button.cal-day:not(.cal-day--future):not(.cal-day--empty):hover {
+    background: var(--bg);
+    color: var(--accent);
+  }
+
+  .cal-day--current     { background: var(--accent) !important; color: white !important; font-weight: 700; }
+  .cal-day--empty       { color: var(--border); cursor: default; }
+  .cal-day--future      { color: var(--border); cursor: default; }
+  .cal-day--no-articles { color: var(--muted); } /* custom mode: no articles but still selectable */
+
+  /* Range highlighting */
+  .cal-day--range-start,
+  .cal-day--range-end {
+    background: var(--accent) !important;
+    color: white !important;
+    font-weight: 700;
+  }
+  .cal-day--in-range {
+    background: rgba(201, 96, 63, 0.18);
+    color: var(--fg);
+  }
+
+  .cal-hint {
+    margin-top: 0.75rem;
+    font-size: 0.78rem;
+    color: var(--muted);
+    text-align: center;
+    min-height: 1.1em;
+    font-style: italic;
+  }
+
   .cal-empty { aspect-ratio: 1; }
+
+  /* ── Mobile: stack sidebar above calendar ────────────────────── */
+  @media (max-width: 540px) {
+    .cal-dialog    { flex-direction: column; max-height: 90vh; overflow-y: auto; }
+    .cal-sidebar   { width: 100%; flex-direction: row; flex-wrap: wrap; border-right: none; border-bottom: 1px solid var(--border); padding: 0.75rem; gap: 0.4rem; }
+    .cal-sidebar-title { display: none; }
+    .cal-preset    { width: auto; flex: 0 0 auto; }
+    .cal-main      { width: 100%; }
+  }
 </style>

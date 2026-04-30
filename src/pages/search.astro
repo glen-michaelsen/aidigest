@@ -1,7 +1,10 @@
 ---
 import Layout from "../layouts/Layout.astro";
+// Pass today so the calendar button appears on the search page too,
+// allowing users to change their date range without going back.
+const todayStr = new Date().toISOString().slice(0, 10);
 ---
-<Layout title="Search — AI Watchly">
+<Layout title="Search — AI Watchly" currentDate={todayStr}>
   <div class="search-page">
     <form class="search-form" id="search-form" action="/search">
       <input
@@ -33,8 +36,6 @@ import Layout from "../layouts/Layout.astro";
     tags: Record<string, string[]>;
   }
 
-  const MONTH = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-
   function formatDate(iso: string): string {
     const d = new Date(iso + (iso.length === 10 ? "T00:00:00Z" : ""));
     return d.toLocaleDateString("en-US", {
@@ -48,12 +49,10 @@ import Layout from "../layouts/Layout.astro";
 
   function highlight(text: string, query: string): string {
     if (!query) return escapeHtml(text);
-    // Build a regex that matches any of the query words
     const words = query.trim().split(/\s+/).filter(Boolean).map(escapeRegex);
     if (!words.length) return escapeHtml(text);
-    const pattern = new RegExp(`(${words.join("|")})`, "gi");
     return escapeHtml(text).replace(
-      new RegExp(`(${words.map(w => escapeHtml(w)).join("|")})`, "gi"),
+      new RegExp(`(${words.map(escapeHtml).join("|")})`, "gi"),
       "<mark>$1</mark>"
     );
   }
@@ -66,23 +65,38 @@ import Layout from "../layouts/Layout.astro";
     return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   }
 
-  function renderResults(articles: Article[], query: string): void {
-    const statusEl = document.getElementById("search-status")!;
+  function fmtShort(iso: string): string {
+    return new Date(iso + "T00:00:00Z").toLocaleDateString("en-US", {
+      month: "short", day: "numeric", timeZone: "UTC"
+    });
+  }
+
+  function renderResults(articles: Article[], query: string, fromDate = "", toDate = ""): void {
+    const statusEl  = document.getElementById("search-status")!;
     const resultsEl = document.getElementById("search-results")!;
 
-    if (!query) {
+    const hasQuery = query.trim().length > 0;
+    const hasRange = !!(fromDate && toDate);
+
+    if (!hasQuery && !hasRange) {
       statusEl.textContent = "";
-      resultsEl.innerHTML = "";
+      resultsEl.innerHTML  = "";
       return;
     }
 
     if (articles.length === 0) {
-      statusEl.textContent = `No results for "${query}"`;
+      statusEl.textContent = hasQuery
+        ? `No results for "${query}"${hasRange ? " in selected range" : ""}`
+        : "No articles found in selected range";
       resultsEl.innerHTML = "";
       return;
     }
 
-    statusEl.textContent = `${articles.length} result${articles.length === 1 ? "" : "s"} for "${query}"`;
+    // Build status line
+    const rangeLabel = hasRange ? ` · ${fmtShort(fromDate)} – ${fmtShort(toDate)}` : "";
+    statusEl.textContent = hasQuery
+      ? `${articles.length} result${articles.length === 1 ? "" : "s"} for "${query}"${rangeLabel}`
+      : `${articles.length} article${articles.length === 1 ? "" : "s"}${rangeLabel}`;
 
     // Group by date
     const byDate = new Map<string, Article[]>();
@@ -117,14 +131,17 @@ import Layout from "../layouts/Layout.astro";
     resultsEl.innerHTML = html;
   }
 
-  async function search(query: string): Promise<void> {
+  async function searchOrBrowse(query: string, fromDate = "", toDate = ""): Promise<void> {
     const statusEl = document.getElementById("search-status")!;
-    if (!query.trim()) {
-      renderResults([], "");
+    const hasQuery = query.trim().length > 0;
+    const hasRange = !!(fromDate && toDate);
+
+    if (!hasQuery && !hasRange) {
+      renderResults([], query, fromDate, toDate);
       return;
     }
 
-    statusEl.textContent = "Searching…";
+    statusEl.textContent = hasQuery ? "Searching…" : "Loading…";
 
     let index: Article[];
     try {
@@ -135,22 +152,51 @@ import Layout from "../layouts/Layout.astro";
       return;
     }
 
-    const words = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    const results = index.filter((a) => {
-      const haystack = (a.title + " " + a.brief).toLowerCase();
-      return words.every((w) => haystack.includes(w));
-    });
+    let filtered = index;
 
-    renderResults(results, query);
+    // Filter by date range
+    if (hasRange) {
+      filtered = filtered.filter((a) => {
+        const d = a.publishedAt.slice(0, 10);
+        return d >= fromDate && d <= toDate;
+      });
+    }
+
+    // Filter by text query
+    if (hasQuery) {
+      const words = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
+      filtered = filtered.filter((a) => {
+        const haystack = (a.title + " " + a.brief).toLowerCase();
+        return words.every((w) => haystack.includes(w));
+      });
+    }
+
+    renderResults(filtered, query, fromDate, toDate);
   }
 
-  // Read ?q= from URL on load
-  const params = new URLSearchParams(window.location.search);
-  const initialQuery = params.get("q") ?? "";
+  // ─── Init ─────────────────────────────────────────────────────────────────
+
+  const params       = new URLSearchParams(window.location.search);
+  const initialQuery = params.get("q")    ?? "";
+  const initialFrom  = params.get("from") ?? "";
+  const initialTo    = params.get("to")   ?? "";
+
   const inputEl = document.getElementById("search-input") as HTMLInputElement;
-  if (initialQuery) {
-    inputEl.value = initialQuery;
-    search(initialQuery);
+  if (initialQuery) inputEl.value = initialQuery;
+
+  // Update the header nav label to reflect the browsed range
+  if (initialFrom && initialTo) {
+    const navLabelEl = document.getElementById("cal-nav-label");
+    if (navLabelEl) {
+      const opts: Intl.DateTimeFormatOptions = { month: "short", day: "numeric", timeZone: "UTC" };
+      const f = new Date(initialFrom + "T00:00:00Z").toLocaleDateString("en-US", opts);
+      const t = new Date(initialTo   + "T00:00:00Z").toLocaleDateString("en-US", opts);
+      navLabelEl.textContent = `${f} – ${t}`;
+    }
+  }
+
+  if (initialQuery || initialFrom) {
+    searchOrBrowse(initialQuery, initialFrom, initialTo);
   }
 
   // Live search as user types (debounced)
@@ -159,18 +205,17 @@ import Layout from "../layouts/Layout.astro";
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(() => {
       const q = inputEl.value.trim();
-      // Update URL without reload
       const url = new URL(window.location.href);
       if (q) url.searchParams.set("q", q); else url.searchParams.delete("q");
       history.replaceState({}, "", url);
-      search(q);
+      searchOrBrowse(q, initialFrom, initialTo);
     }, 250);
   });
 
-  // Prevent full page reload on form submit (already live-searching)
+  // Prevent full page reload on form submit
   document.getElementById("search-form")!.addEventListener("submit", (e) => {
     e.preventDefault();
-    search(inputEl.value.trim());
+    searchOrBrowse(inputEl.value.trim(), initialFrom, initialTo);
   });
 </script>
 
@@ -220,9 +265,7 @@ import Layout from "../layouts/Layout.astro";
   }
 
   .search-date-group { margin-bottom: 3rem; }
-  /* Extra top gap between consecutive date groups */
   .search-date-group + .search-date-group { margin-top: 0.5rem; }
-  /* Give the date-strip a little breathing room at the top within a group */
   .search-date-group .date-strip { margin-top: 0.25rem; }
 
   .search-cards {
