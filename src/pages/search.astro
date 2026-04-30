@@ -264,21 +264,22 @@ const todayStr = new Date().toISOString().slice(0, 10);
     min-height: 1.2em;
   }
 
-  .search-date-group { margin-bottom: 1rem; }
-  .search-date-group + .search-date-group { padding-top: 3rem; }
+  /* These classes are injected by JS so must opt out of Astro scoping */
+  :global(.search-date-group) { margin-bottom: 1rem; }
+  :global(.search-date-group + .search-date-group) { padding-top: 3rem; }
 
-  .search-cards {
+  :global(.search-cards) {
     display: grid;
     grid-template-columns: 1fr;
     gap: 1.5rem;
   }
 
-  .search-result-card { min-height: unset; }
-  .search-result-card h2 { font-size: 1.1rem; }
-  .search-result-card h2 a { color: var(--fg); text-decoration: none; }
-  .search-result-card h2 a:hover { color: var(--accent); }
+  :global(.search-result-card) { min-height: unset; }
+  :global(.search-result-card h2) { font-size: 1.1rem; }
+  :global(.search-result-card h2 a) { color: var(--fg); text-decoration: none; }
+  :global(.search-result-card h2 a:hover) { color: var(--accent); }
 
-  mark {
+  :global(mark) {
     background: #ffe08a;
     color: inherit;
     border-radius: 2px;
