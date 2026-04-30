@@ -92,6 +92,9 @@ const dateNavLabel = navLabel(calDate);
         --pill-default: #ece4d6;
       }
 
+      /* Ensure HTML hidden attribute always wins over any display rule */
+      [hidden] { display: none !important; }
+
       * { box-sizing: border-box; }
       html { background: var(--bg); }
       body {
