@@ -41,7 +41,7 @@ for (const a of allArticles) {
 const hotTopics = [...topicCounts.values()]
   .sort((a, b) => b.count - a.count)
   .filter(({ count }) => count >= 2)
-  .slice(0, 8);
+  .slice(0, 5);
 ---
 <Layout title="AI Watchly" currentDate={yesterdayStr}>
   {hotTopics.length > 0 && (
