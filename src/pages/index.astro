@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
-import { articlesByDate, yesterdayUTC } from "../lib/articles";
+import { articlesByDate, yesterdayUTC, loadArticles } from "../lib/articles";
 
 const yesterdayStr = yesterdayUTC();
 const articles = await articlesByDate(yesterdayStr);
@@ -15,8 +15,36 @@ const dateLabel = new Date(yesterdayStr + "T00:00:00Z").toLocaleDateString("en-U
 });
 
 const [hero, ...rest] = articles;
+
+// Hot topics: count categories across the last 7 days
+const allArticles = await loadArticles(); // cached — no extra I/O
+const cutoff = new Date();
+cutoff.setUTCDate(cutoff.getUTCDate() - 7);
+const cutoffStr = cutoff.toISOString().slice(0, 10);
+
+const catCounts = new Map<string, number>();
+for (const a of allArticles) {
+  if (a.publishedAt.slice(0, 10) < cutoffStr) continue;
+  const cat = a.tags.category?.[0];
+  if (cat) catCounts.set(cat, (catCounts.get(cat) ?? 0) + 1);
+}
+const hotTopics = [...catCounts.entries()].sort((a, b) => b[1] - a[1]);
 ---
 <Layout title="AI Watchly" currentDate={yesterdayStr}>
+  {hotTopics.length > 0 && (
+    <div class="hot-topics">
+      <span class="hot-topics-label">Hot topics</span>
+      <div class="hot-topics-pills">
+        {hotTopics.map(([cat, count]) => (
+          <a class="pill hot-pill" data-cat={cat} href={`/tag/category/${cat}`}>
+            {cat.replace(/-/g, " ")}
+            <span class="hot-count">{count}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
+
   <div class="date-strip">
     <span>Yesterday — {dateLabel}</span>
     <span>{articles.length} {articles.length === 1 ? "story" : "stories"}</span>
@@ -46,3 +74,42 @@ const [hero, ...rest] = articles;
     </>
   )}
 </Layout>
+
+<style>
+  .hot-topics {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.75rem;
+    flex-wrap: wrap;
+  }
+  .hot-topics-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .hot-topics-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .hot-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    transition: opacity 0.15s, transform 0.15s;
+  }
+  .hot-pill:hover { opacity: 0.8; transform: translateY(-1px); }
+  .hot-count {
+    font-size: 0.6rem;
+    font-weight: 700;
+    background: rgba(0, 0, 0, 0.12);
+    border-radius: 999px;
+    padding: 0.1rem 0.4rem;
+    letter-spacing: 0;
+  }
+</style>
