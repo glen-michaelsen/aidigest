@@ -28,7 +28,10 @@ for (const a of allArticles) {
   const cat = a.tags.category?.[0];
   if (cat) catCounts.set(cat, (catCounts.get(cat) ?? 0) + 1);
 }
-const hotTopics = [...catCounts.entries()].sort((a, b) => b[1] - a[1]);
+const hotTopics = [...catCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .filter(([, count]) => count > 3)
+  .slice(0, 5);
 ---
 <Layout title="AI Watchly" currentDate={yesterdayStr}>
   {hotTopics.length > 0 && (
