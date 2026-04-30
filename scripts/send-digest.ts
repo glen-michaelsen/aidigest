@@ -247,7 +247,7 @@ async function main() {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        from: "AI Watchly <onboarding@resend.dev>",
+        from: "AI Watchly <hello@aiwatchly.com>",
         to: [email],
         subject,
         html,

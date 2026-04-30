@@ -1,7 +1,7 @@
 export const config = { runtime: "edge" };
 import { dbExecute, json } from "../_lib";
 
-const FROM = "AI Watchly <onboarding@resend.dev>";
+const FROM = "AI Watchly <hello@aiwatchly.com>";
 const SITE = process.env.SITE_URL ?? "https://aiwatchly.com";
 
 export default async function handler(req: Request): Promise<Response> {
