@@ -1,0 +1,23 @@
+{
+  "id": "684cc5497ea2",
+  "source": "Hacker News (AI)",
+  "title": "Claude.ai and API unavailable [fixed]",
+  "url": "https://status.claude.com/incidents/2gf1jpyty350",
+  "publishedAt": "2026-04-30T01:21:03.000Z",
+  "ingestedAt": "2026-05-01T22:06:45.519Z",
+  "brief": "Anthropic's Claude.ai and API services experienced an outage that has since been resolved. The incident affected both the web interface and API access for users.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

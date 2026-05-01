@@ -1,0 +1,24 @@
+{
+  "id": "960e6bf14c40",
+  "source": "Google DeepMind",
+  "title": "Enabling a new model for healthcare with AI co-clinician",
+  "url": "https://deepmind.google/blog/ai-co-clinician/",
+  "publishedAt": "2026-04-30T12:14:15.000Z",
+  "ingestedAt": "2026-05-01T22:06:34.668Z",
+  "brief": "A research initiative explores the development of an AI co-clinician to augment healthcare delivery, investigating how AI can support clinical decision-making and patient care workflows.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "healthcare",
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

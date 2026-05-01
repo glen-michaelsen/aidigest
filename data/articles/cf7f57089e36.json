@@ -1,0 +1,24 @@
+{
+  "id": "cf7f57089e36",
+  "source": "The Verge AI",
+  "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+  "publishedAt": "2026-04-30T22:59:51.000Z",
+  "ingestedAt": "2026-05-01T22:06:12.847Z",
+  "brief": "A legal proceeding between Elon Musk and Sam Altman took an unexpected turn when testimony revealed potential missteps by Musk's legal team during jury deliberations. The incident centered on testimony by Jared Birchall, Musk's finance manager, though specific legal violations remain unclear from the partial account.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

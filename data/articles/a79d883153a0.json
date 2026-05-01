@@ -1,0 +1,25 @@
+{
+  "id": "a79d883153a0",
+  "source": "TechCrunch AI",
+  "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+  "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+  "publishedAt": "2026-04-30T19:27:41.000Z",
+  "ingestedAt": "2026-05-01T22:06:04.753Z",
+  "brief": "OpenAI is restricting early access to its new cybersecurity tool, GPT-5.5 Cyber, to \"critical cyber defenders\" only, mirroring the limited-access strategy that OpenAI had previously criticized Anthropic for using with its Mythos model.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0c7e18b786f9",
+  "source": "Ars Technica AI",
+  "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+  "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+  "publishedAt": "2026-04-30T21:11:51.000Z",
+  "ingestedAt": "2026-05-01T22:06:20.216Z",
+  "brief": "Elon Musk testified for three days as the first witness in his lawsuit against OpenAI, during which he made several notable statements and arguments that could impact the case. The trial centers on disputes over OpenAI's direction and structure as the company shifted from nonprofit to capped-profit entity.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

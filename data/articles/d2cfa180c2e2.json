@@ -1,0 +1,24 @@
+{
+  "id": "d2cfa180c2e2",
+  "source": "Hacker News (AI)",
+  "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+  "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+  "publishedAt": "2026-04-30T16:09:26.000Z",
+  "ingestedAt": "2026-05-01T22:06:37.091Z",
+  "brief": "A compromised PyTorch Lightning package on PyPI was discovered to contain malware themed after Dune's Shai-Hulud. The incident affected the widely-used AI training library and highlights supply chain security risks in open-source machine learning infrastructure.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

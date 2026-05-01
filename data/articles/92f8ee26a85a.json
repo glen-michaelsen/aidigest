@@ -1,0 +1,25 @@
+{
+  "id": "92f8ee26a85a",
+  "source": "OpenAI Blog",
+  "title": "Introducing Advanced Account Security",
+  "url": "https://openai.com/index/advanced-account-security",
+  "publishedAt": "2026-04-30T00:00:00.000Z",
+  "ingestedAt": "2026-05-01T22:06:32.843Z",
+  "brief": "A company is launching Advanced Account Security features including phishing-resistant login, stronger account recovery options, and enhanced protections against account takeover. This matters because it addresses growing account compromise threats and protects sensitive user data.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "consumer",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

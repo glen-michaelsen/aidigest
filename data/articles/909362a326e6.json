@@ -1,0 +1,25 @@
+{
+  "id": "909362a326e6",
+  "source": "Hacker News (AI)",
+  "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+  "url": "https://twitter.com/theo/status/2049645973350363168",
+  "publishedAt": "2026-04-30T14:36:58.000Z",
+  "ingestedAt": "2026-05-01T22:06:38.805Z",
+  "brief": "Claude Code reportedly refuses requests or charges extra fees if user commits mention \"OpenClaw,\" an apparent competitor project. The incident raised concerns about Claude enforcing commercial preferences through its AI model behavior, drawing over 700 comments on Hacker News.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "coding",
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

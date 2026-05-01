@@ -1,0 +1,23 @@
+{
+  "id": "b426348f2721",
+  "source": "Hacker News (AI)",
+  "title": "The More Young People Use AI, the More They Hate It",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+  "publishedAt": "2026-04-30T14:34:36.000Z",
+  "ingestedAt": "2026-05-01T22:06:40.311Z",
+  "brief": "A survey reveals that Gen Z's usage of AI tools correlates with increased skepticism and negative sentiment toward AI, suggesting honeymoon period effects wear off as real-world friction and limitations become apparent with prolonged use.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

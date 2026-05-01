@@ -1,0 +1,25 @@
+{
+  "id": "3137cb8e4993",
+  "source": "Hacker News (AI)",
+  "title": "The Zig project's rationale for their anti-AI contribution policy",
+  "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+  "publishedAt": "2026-04-30T02:15:47.000Z",
+  "ingestedAt": "2026-05-01T22:06:44.218Z",
+  "brief": "The Zig programming language project announced a policy against accepting AI-generated code contributions, citing concerns about code quality, maintainability, and the training of AI models on open-source software. The decision reflects growing tension in the open-source community between rapid AI tooling adoption and the protection of contributor rights and project standards.",
+  "tags": {
+    "category": [
+      "policy",
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "open-source"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

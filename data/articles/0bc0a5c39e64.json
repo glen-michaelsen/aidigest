@@ -1,0 +1,24 @@
+{
+  "id": "0bc0a5c39e64",
+  "source": "Ars Technica AI",
+  "title": "The hidden cost of Google's AI defaults and the illusion of choice",
+  "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
+  "publishedAt": "2026-04-30T11:00:31.000Z",
+  "ingestedAt": "2026-05-01T22:06:25.523Z",
+  "brief": "An analysis questioning Google's privacy commitments in AI features, examining how default settings and design choices may undermine user consent and control. The piece argues that Google's framing of respecting privacy obscures structural incentives that favor data collection and AI training.",
+  "tags": {
+    "category": [
+      "opinion",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

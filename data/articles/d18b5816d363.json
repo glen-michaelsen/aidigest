@@ -1,0 +1,24 @@
+{
+  "id": "d18b5816d363",
+  "source": "TechCrunch AI",
+  "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+  "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+  "publishedAt": "2026-04-30T18:20:03.000Z",
+  "ingestedAt": "2026-05-01T22:06:06.067Z",
+  "brief": "OpenAI announced new opt-in security features for ChatGPT accounts, including a partnership with Yubico to support hardware security keys. The initiative aims to strengthen account protection against unauthorized access.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
