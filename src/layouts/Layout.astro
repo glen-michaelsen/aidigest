@@ -17,10 +17,6 @@ function ordinal(n: number): string {
 }
 
 function navLabel(date: string): string {
-  const yesterday = new Date();
-  yesterday.setUTCDate(yesterday.getUTCDate() - 1);
-  const yesterdayStr = yesterday.toISOString().slice(0, 10);
-  if (date === yesterdayStr) return "Yesterday";
   const d = new Date(date + "T00:00:00Z");
   const day = d.getUTCDate();
   const month = d.toLocaleDateString("en-US", { month: "long", timeZone: "UTC" });
@@ -144,18 +140,23 @@ const dateNavLabel = navLabel(calDate);
       .nav-primary a:hover { color: var(--accent); }
       .cal-open-btn {
         font-family: inherit;
-        font-size: 0.95rem;
+        font-size: 0.875rem;
         font-weight: 600;
         color: var(--accent);
-        background: transparent;
-        border: none;
+        background: var(--card);
+        border: 1.5px solid var(--accent);
+        border-radius: 999px;
         cursor: pointer;
         display: flex;
         align-items: center;
-        gap: 0.4rem;
-        padding: 0;
+        gap: 0.45rem;
+        padding: 0.4rem 1rem;
+        transition: background 0.15s, color 0.15s;
       }
-      .cal-open-btn:hover { opacity: 0.75; }
+      .cal-open-btn:hover {
+        background: var(--accent);
+        color: white;
+      }
       .header-cta { justify-self: end; }
 
       footer {
