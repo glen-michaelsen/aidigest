@@ -2,9 +2,9 @@ name: Daily ingest
 
 on:
   schedule:
-    # 23:00 UTC every day — captures all of that day's news,
-    # site shows it as "yesterday" from midnight onwards.
-    - cron: "0 23 * * *"
+    # 00:01 UTC every day — previous day is complete, site shows it
+    # as "yesterday" from the very start of the new UTC day.
+    - cron: "1 0 * * *"
   workflow_dispatch:
 
 permissions:
