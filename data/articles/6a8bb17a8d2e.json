@@ -1,0 +1,24 @@
+{
+  "id": "6a8bb17a8d2e",
+  "source": "The Verge AI",
+  "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+  "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+  "publishedAt": "2026-05-01T11:18:54.000Z",
+  "ingestedAt": "2026-05-02T03:38:06.321Z",
+  "brief": "Microsoft is launching a specialized AI agent for Word designed specifically for legal teams to automate tasks like contract review and document negotiation. The agent uses structured workflows tailored to legal practice rather than general-purpose AI models, operating on clearly defined tasks with tracked changes support.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

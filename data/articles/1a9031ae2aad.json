@@ -1,0 +1,26 @@
+{
+  "id": "1a9031ae2aad",
+  "source": "Ars Technica AI",
+  "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+  "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+  "publishedAt": "2026-05-01T15:32:27.000Z",
+  "ingestedAt": "2026-05-02T03:38:11.943Z",
+  "brief": "OpenAI's GPT-5.5 matched the cybersecurity performance of Anthropic's heavily promoted Mythos Preview in new benchmarks, suggesting Mythos' capabilities are not uniquely advanced. The results indicate that state-of-the-art models across companies are converging on similar threat-detection abilities rather than one model showing decisive superiority.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "llm",
+      "security"
+    ],
+    "company": [
+      "openai",
+      "anthropic"
+    ],
+    "model": [
+      "gpt",
+      "claude"
+    ]
+  }
+}

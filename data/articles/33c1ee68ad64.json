@@ -1,0 +1,27 @@
+{
+  "id": "33c1ee68ad64",
+  "source": "TechCrunch AI",
+  "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+  "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+  "publishedAt": "2026-05-01T16:02:36.000Z",
+  "ingestedAt": "2026-05-02T03:37:51.271Z",
+  "brief": "The Pentagon has signed contracts with Nvidia, Microsoft, and AWS to deploy AI systems on classified military networks. The agreements reflect the Department of Defense's push to diversify its AI vendor portfolio following tensions with Anthropic over model usage policies.",
+  "tags": {
+    "category": [
+      "policy",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "nvidia",
+      "microsoft",
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

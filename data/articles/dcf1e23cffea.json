@@ -1,0 +1,24 @@
+{
+  "id": "dcf1e23cffea",
+  "source": "The Verge AI",
+  "title": "Elon Musk had a bad week in court",
+  "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+  "publishedAt": "2026-05-01T13:33:15.000Z",
+  "ingestedAt": "2026-05-02T03:38:02.811Z",
+  "brief": "Elon Musk testified in his lawsuit against OpenAI, claiming the company \"stole a nonprofit\" from its founding mission, but struggled during cross-examination by arguing with lawyers and changing his story. Legal analysts suggest Musk's case faces significant hurdles despite his efforts to position himself as OpenAI's driving force.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

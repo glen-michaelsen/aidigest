@@ -1,0 +1,30 @@
+{
+  "id": "ab5b9876bbc5",
+  "source": "The Verge AI",
+  "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+  "publishedAt": "2026-05-01T14:09:56.000Z",
+  "ingestedAt": "2026-05-02T03:38:00.917Z",
+  "brief": "The Pentagon has approved classified AI contracts with OpenAI, Google, Microsoft, Amazon, Nvidia, xAI, and Reflection, while notably excluding Anthropic due to supply-chain risk concerns. This marks expansion of the DoD's classified AI partnerships beyond the existing agreements with OpenAI and xAI.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "google",
+      "microsoft",
+      "amazon",
+      "nvidia",
+      "xai",
+      "anthropic"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

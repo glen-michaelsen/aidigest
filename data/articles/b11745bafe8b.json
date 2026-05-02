@@ -1,0 +1,24 @@
+{
+  "id": "b11745bafe8b",
+  "source": "MIT Technology Review",
+  "title": "Cyber-Insecurity in the AI Era",
+  "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+  "publishedAt": "2026-05-01T15:54:01.000Z",
+  "ingestedAt": "2026-05-02T03:38:15.453Z",
+  "brief": "MIT Technology Review's EmTech AI conference examined how AI is expanding cybersecurity vulnerabilities and straining legacy defense approaches. The session highlighted the need to fundamentally rethink security architecture with AI integrated from the ground up, rather than as an afterthought.",
+  "tags": {
+    "category": [
+      "safety",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

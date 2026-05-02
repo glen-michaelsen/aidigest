@@ -1,0 +1,25 @@
+{
+  "id": "b5f0e79da3e5",
+  "source": "MIT Technology Review",
+  "title": "A new US phone network for Christians aims to block porn and gender-related content",
+  "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+  "publishedAt": "2026-05-01T09:00:00.000Z",
+  "ingestedAt": "2026-05-02T03:38:23.562Z",
+  "brief": "A new US cellular network targeting Christian users is launching with network-level blocking of adult content that cannot be disabled even by adult account holders, marking the first US carrier to implement such permanent filtering. The service also includes filters for gender-related content, representing a novel approach to content moderation at the infrastructure level.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "consumer",
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "58743c4321c9",
+  "source": "Ars Technica AI",
+  "title": "Study: AI models that consider user's feeling are more likely to make errors",
+  "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+  "publishedAt": "2026-05-01T22:23:36.000Z",
+  "ingestedAt": "2026-05-02T03:38:08.308Z",
+  "brief": "A study finds that AI models tuned to consider user feelings and satisfaction are more prone to factual errors than models optimized for accuracy. Overtuning models to prioritize user satisfaction creates a trade-off where truthfulness is sacrificed for perceived helpfulness.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fc5df877a1f2",
+  "source": "MIT Technology Review",
+  "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+  "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+  "publishedAt": "2026-05-01T22:08:19.000Z",
+  "ingestedAt": "2026-05-02T03:38:13.954Z",
+  "brief": "Elon Musk testified in his lawsuit against OpenAI, alleging that CEO Sam Altman and President Greg Brockman deceived him into funding the company, and claimed that his xAI distills OpenAI models. Musk reiterated concerns about existential AI risks during the testimony, which marks the opening week of the landmark trial.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "gpt",
+      "grok"
+    ]
+  }
+}

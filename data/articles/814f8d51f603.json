@@ -1,0 +1,25 @@
+{
+  "id": "814f8d51f603",
+  "source": "The Verge AI",
+  "title": "All the evidence revealed so far in Musk v. Altman",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+  "publishedAt": "2026-05-01T19:14:51.000Z",
+  "ingestedAt": "2026-05-02T03:37:56.752Z",
+  "brief": "The Musk v. Altman lawsuit is revealing evidence from OpenAI's founding, including emails and corporate documents showing Musk drafted the lab's original mission and influenced its early structure, while Nvidia's Jensen Huang provided critical supercomputing resources. The trial disclosures shed light on internal tensions and early decision-making at OpenAI before it became the leading AI company.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai",
+      "nvidia"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
