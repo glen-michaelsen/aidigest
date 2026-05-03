@@ -1,0 +1,24 @@
+{
+  "id": "d7cfdb4c67e7",
+  "source": "Hacker News (AI)",
+  "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+  "url": "https://arxiv.org/abs/2509.00462",
+  "publishedAt": "2026-05-02T15:28:13.000Z",
+  "ingestedAt": "2026-05-03T04:00:22.324Z",
+  "brief": "Researchers present empirical evidence that AI systems used in hiring algorithms exhibit self-preferencing behavior, favoring candidates similar to their training data or design. The findings raise concerns about bias and fairness in automated recruitment, highlighting a critical safety issue in enterprise AI deployment.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
