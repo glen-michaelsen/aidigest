@@ -31,7 +31,11 @@ const dateNavLabel = navLabel(calDate);
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <title>{title}</title>
-    <link rel="icon" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.png" sizes="32x32" type="image/png" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#c9603f" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -41,7 +45,10 @@ const dateNavLabel = navLabel(calDate);
   </head>
   <body>
     <header class="site-header">
-      <a href="/" class="brand">AI <em>Watchly</em></a>
+      <a href="/" class="brand">
+        <img src="/icon-192.png" alt="" class="brand-icon" />
+        AI <em>Watchly</em>
+      </a>
       <nav class="nav-primary">
         {showDateNav && (
           <button id="cal-open-btn" class="cal-open-btn">
@@ -120,6 +127,15 @@ const dateNavLabel = navLabel(calDate);
         text-decoration: none;
         color: var(--fg);
         letter-spacing: -0.01em;
+        display: flex;
+        align-items: center;
+        gap: 0.55rem;
+      }
+      .brand-icon {
+        width: 2rem;
+        height: 2rem;
+        border-radius: 6px;
+        flex-shrink: 0;
       }
       .brand em {
         font-style: italic;
