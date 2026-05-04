@@ -1,0 +1,26 @@
+{
+  "id": "8d0f19bff897",
+  "source": "Hacker News (AI)",
+  "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+  "url": "https://github.com/aattaran/deepclaude",
+  "publishedAt": "2026-05-03T22:13:20.000Z",
+  "ingestedAt": "2026-05-04T03:57:26.468Z",
+  "brief": "DeepClaude implements Claude's agentic code loop using DeepSeek V4 Pro as a cost-effective alternative, achieving 17x cheaper API calls while maintaining comparable performance. The open-source project demonstrates that smaller, optimized models can replace expensive LLM agents for code generation and debugging tasks.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "other"
+    ]
+  }
+}
