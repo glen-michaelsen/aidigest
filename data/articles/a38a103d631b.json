@@ -1,0 +1,25 @@
+{
+  "id": "a38a103d631b",
+  "source": "Hacker News (AI)",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+  "publishedAt": "2026-05-04T19:42:47.000Z",
+  "ingestedAt": "2026-05-05T03:38:41.455Z",
+  "brief": "OpenAI published technical details on how it delivers low-latency voice AI at scale, addressing infrastructure and optimization challenges for real-time voice interactions. This demonstrates OpenAI's system design for supporting high-volume, responsive voice applications across their platform.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "audio"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

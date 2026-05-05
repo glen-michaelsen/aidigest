@@ -1,0 +1,24 @@
+{
+  "id": "afd71e991aae",
+  "source": "Ars Technica AI",
+  "title": "Canadian election databases use \"canary traps\"—and they work",
+  "url": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+  "publishedAt": "2026-05-04T19:45:57.000Z",
+  "ingestedAt": "2026-05-05T03:38:28.998Z",
+  "brief": "Canadian election databases employ \"canary traps\"—deliberately inserted errors that help detect unauthorized access or data leaks by revealing who accessed specific false information. This security technique has proven effective at catching both internal breaches and external threats to electoral integrity.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "other"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

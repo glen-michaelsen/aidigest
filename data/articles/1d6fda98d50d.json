@@ -1,0 +1,24 @@
+{
+  "id": "1d6fda98d50d",
+  "source": "Ars Technica AI",
+  "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+  "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
+  "publishedAt": "2026-05-04T15:05:58.000Z",
+  "ingestedAt": "2026-05-05T03:38:32.983Z",
+  "brief": "Elon Musk is facing legal pressure in an OpenAI trial, with the company accusing him of attempting to coerce a settlement just before proceedings began. Comments Musk made about \"World War III\" in an unrelated Twitter lawsuit are now being referenced in the dispute.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

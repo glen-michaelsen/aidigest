@@ -1,0 +1,24 @@
+{
+  "id": "890350b269bf",
+  "source": "MIT Technology Review",
+  "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+  "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+  "publishedAt": "2026-05-04T15:51:27.000Z",
+  "ingestedAt": "2026-05-05T03:38:35.093Z",
+  "brief": "Elon Musk sued OpenAI in Oakland court, alleging the company violated its nonprofit founding mission by pursuing profit and prioritizing Microsoft partnership over AI safety. The high-profile trial between two of AI's most prominent figures marks a critical moment for OpenAI's governance and founding principles.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

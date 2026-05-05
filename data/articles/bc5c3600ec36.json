@@ -1,0 +1,25 @@
+{
+  "id": "bc5c3600ec36",
+  "source": "Ars Technica AI",
+  "title": "Influential study touting ChatGPT in education retracted over red flags",
+  "url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+  "publishedAt": "2026-05-04T19:03:39.000Z",
+  "ingestedAt": "2026-05-05T03:38:31.298Z",
+  "brief": "A widely-cited study promoting ChatGPT's use in education has been retracted due to methodological red flags and concerns about data integrity. The paper had already accumulated hundreds of citations before its withdrawal, highlighting risks of misinformation spreading in peer-reviewed literature on AI applications.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "education"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
