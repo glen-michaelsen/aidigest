@@ -1,0 +1,23 @@
+{
+  "id": "e9800213f3cd",
+  "source": "OpenAI Blog",
+  "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+  "url": "https://openai.com/index/gpt-5-5-instant",
+  "publishedAt": "2026-05-05T10:00:00.000Z",
+  "ingestedAt": "2026-05-06T03:54:49.723Z",
+  "brief": "OpenAI released GPT-5.5 Instant as ChatGPT's new default model, featuring improved accuracy, reduced hallucinations, and enhanced personalization controls. The update aims to provide smarter and clearer responses across the platform.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

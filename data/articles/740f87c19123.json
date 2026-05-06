@@ -1,0 +1,24 @@
+{
+  "id": "740f87c19123",
+  "source": "The Verge AI",
+  "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+  "publishedAt": "2026-05-05T17:00:00.000Z",
+  "ingestedAt": "2026-05-06T03:54:31.280Z",
+  "brief": "OpenAI's new GPT-4.5 Instant default model reduces hallucinations by 52.5% compared to GPT-4.3 Instant on high-stakes prompts in medicine, law, and finance, according to the company's internal evaluations. The improvement addresses a persistent problem in AI systems that generate false or inaccurate information.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

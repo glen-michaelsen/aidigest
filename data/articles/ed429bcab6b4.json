@@ -1,0 +1,24 @@
+{
+  "id": "ed429bcab6b4",
+  "source": "The Verge AI",
+  "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+  "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+  "publishedAt": "2026-05-05T16:52:38.000Z",
+  "ingestedAt": "2026-05-06T03:54:32.911Z",
+  "brief": "Meta is being sued by five major book publishers (Macmillan, McGraw Hill, Elsevier, Hachette, Cengage) and author Scott Turow for allegedly copying copyrighted books and journal articles without permission to train its Llama models, sourcing material from pirate sites like LibGen and Sci-Hub. The lawsuit claims this constitutes \"one of the most massive infringements of copyrighted materials in history.\"",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "llama"
+    ]
+  }
+}

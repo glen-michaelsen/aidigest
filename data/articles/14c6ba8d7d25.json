@@ -1,0 +1,25 @@
+{
+  "id": "14c6ba8d7d25",
+  "source": "MIT Technology Review",
+  "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+  "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+  "publishedAt": "2026-05-05T12:10:00.000Z",
+  "ingestedAt": "2026-05-06T03:54:44.843Z",
+  "brief": "This article covers week one of the Musk v. Altman trial, featuring two of AI's most powerful figures in legal proceedings, alongside coverage of AI applications in democratic processes. The piece provides courtroom coverage and explores how AI is being deployed in civic and electoral contexts.",
+  "tags": {
+    "category": [
+      "incident",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

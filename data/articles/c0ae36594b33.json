@@ -1,0 +1,25 @@
+{
+  "id": "c0ae36594b33",
+  "source": "TechCrunch AI",
+  "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+  "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+  "publishedAt": "2026-05-05T17:00:00.000Z",
+  "ingestedAt": "2026-05-06T03:54:16.870Z",
+  "brief": "OpenAI released GPT-5.5 Instant as the new default ChatGPT model, featuring reduced hallucinations in sensitive domains like law, medicine, and finance while maintaining low latency performance.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise",
+      "healthcare"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

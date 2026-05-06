@@ -1,0 +1,25 @@
+{
+  "id": "526cbec7d771",
+  "source": "The Verge AI",
+  "title": "Apple could let you pick a favorite AI model in iOS 27",
+  "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+  "publishedAt": "2026-05-05T19:45:30.000Z",
+  "ingestedAt": "2026-05-06T03:54:29.581Z",
+  "brief": "Apple plans to allow users to choose third-party AI models to power Apple Intelligence features in iOS 27, including Siri, Writing Tools, and Image Playground. The move, reported by Bloomberg, would enable competing chatbots to integrate system-wide across Apple's operating systems launching this fall.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

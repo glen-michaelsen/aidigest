@@ -1,0 +1,23 @@
+{
+  "id": "1d1748fb8b19",
+  "source": "Hacker News (AI)",
+  "title": "Three Inverse Laws of AI",
+  "url": "https://susam.net/inverse-laws-of-robotics.html",
+  "publishedAt": "2026-05-05T15:27:18.000Z",
+  "ingestedAt": "2026-05-06T03:54:53.903Z",
+  "brief": "A theoretical opinion piece examining three inverse laws that mirror Asimov's Laws of Robotics, exploring contradictions and challenges in how AI systems operate in practice. The article questions fundamental assumptions about AI control and safety.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

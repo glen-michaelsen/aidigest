@@ -1,0 +1,24 @@
+{
+  "id": "8a2de8a282b0",
+  "source": "The Verge AI",
+  "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+  "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+  "publishedAt": "2026-05-05T21:46:04.000Z",
+  "ingestedAt": "2026-05-06T03:54:23.024Z",
+  "brief": "Google upgraded Gemini for Home to version 3.1, enabling the assistant to handle complex multi-step tasks and combine multiple commands in a single request. The update improves natural language understanding, event management, and smart home device identification to enhance the assistant's reliability after earlier reported bugs.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

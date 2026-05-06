@@ -1,0 +1,24 @@
+{
+  "id": "c885d324429e",
+  "source": "OpenAI Blog",
+  "title": "New ways to buy ChatGPT ads",
+  "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+  "publishedAt": "2026-05-05T00:00:00.000Z",
+  "ingestedAt": "2026-05-06T03:54:51.692Z",
+  "brief": "OpenAI launched a beta self-serve Ads Manager for ChatGPT, introducing cost-per-click (CPC) bidding and enhanced measurement tools while maintaining privacy separation between conversations and ads. This expansion makes ChatGPT's advertising platform more accessible to smaller advertisers and provides better control over ad spending and performance tracking.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

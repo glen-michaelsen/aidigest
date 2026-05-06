@@ -1,0 +1,23 @@
+{
+  "id": "c91bf20cbe57",
+  "source": "Ars Technica AI",
+  "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
+  "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+  "publishedAt": "2026-05-05T21:41:32.000Z",
+  "ingestedAt": "2026-05-06T03:54:38.353Z",
+  "brief": "Panthalassa is testing a novel approach to AI infrastructure by deploying floating computing nodes in the Pacific Ocean, with a planned launch in 2026 and $200M in backing. This addresses AI's massive cooling and power demands by leveraging ocean water for thermal management, a critical bottleneck as data center electricity consumption scales.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

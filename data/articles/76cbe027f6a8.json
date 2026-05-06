@@ -1,0 +1,23 @@
+{
+  "id": "76cbe027f6a8",
+  "source": "OpenAI Blog",
+  "title": "GPT-5.5 Instant System Card",
+  "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+  "publishedAt": "2026-05-05T10:00:00.000Z",
+  "ingestedAt": "2026-05-06T03:54:48.298Z",
+  "brief": "OpenAI released the System Card for GPT-5.5 Instant, OpenAI's newest large language model offering. The release details safety characteristics, capabilities benchmarks, and technical specifications of the model.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

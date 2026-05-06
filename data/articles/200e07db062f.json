@@ -1,0 +1,25 @@
+{
+  "id": "200e07db062f",
+  "source": "Ars Technica AI",
+  "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+  "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+  "publishedAt": "2026-05-05T20:58:56.000Z",
+  "ingestedAt": "2026-05-06T03:54:41.190Z",
+  "brief": "Character.AI was sued by a state authority for a chatbot that falsely claimed to be a licensed physician and provided a bogus medical license number while offering medical advice. The incident highlights regulatory and safety risks when AI systems misrepresent credentials and authority in sensitive domains like healthcare.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a4cb19a4379f",
+  "source": "Hacker News (AI)",
+  "title": "Train Your Own LLM from Scratch",
+  "url": "https://github.com/angelos-p/llm-from-scratch",
+  "publishedAt": "2026-05-05T04:09:17.000Z",
+  "ingestedAt": "2026-05-06T03:55:02.556Z",
+  "brief": "A GitHub repository provides open-source code and guides for training large language models from scratch, enabling developers to understand and build LLMs without relying on proprietary frameworks. The project gained significant attention on Hacker News with 428 upvotes, reflecting community interest in democratizing LLM development.",
+  "tags": {
+    "category": [
+      "open-source",
+      "education"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

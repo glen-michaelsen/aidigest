@@ -1,0 +1,24 @@
+{
+  "id": "c281318b6679",
+  "source": "TechCrunch AI",
+  "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+  "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+  "publishedAt": "2026-05-05T15:31:37.000Z",
+  "ingestedAt": "2026-05-06T03:54:20.633Z",
+  "brief": "Etsy launched a native app within ChatGPT to enable conversational shopping directly in the platform. The integration allows users to browse and purchase Etsy products through ChatGPT's interface.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

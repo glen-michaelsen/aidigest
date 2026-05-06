@@ -1,0 +1,23 @@
+{
+  "id": "cd44e5612453",
+  "source": "Hacker News (AI)",
+  "title": "AI didn't delete your database, you did",
+  "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+  "publishedAt": "2026-05-05T14:07:50.000Z",
+  "ingestedAt": "2026-05-06T03:54:55.749Z",
+  "brief": "An opinion piece arguing that responsibility for database failures involving AI lies with human operators and decision-makers, not with the AI systems themselves. The article challenges narratives that blame AI for data loss incidents, emphasizing human oversight and accountability.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
