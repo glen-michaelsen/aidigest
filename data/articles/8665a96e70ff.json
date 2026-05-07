@@ -1,0 +1,26 @@
+{
+  "id": "8665a96e70ff",
+  "source": "OpenAI Blog",
+  "title": "Uber uses OpenAI to help people earn smarter and book faster",
+  "url": "https://openai.com/index/uber",
+  "publishedAt": "2026-05-06T00:00:00.000Z",
+  "ingestedAt": "2026-05-07T03:53:13.777Z",
+  "brief": "Uber has integrated OpenAI's technology to power AI assistants and voice features that optimize driver earnings and improve the rider booking experience. The implementation leverages OpenAI's capabilities to enhance Uber's real-time marketplace operations globally.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer",
+      "agents"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

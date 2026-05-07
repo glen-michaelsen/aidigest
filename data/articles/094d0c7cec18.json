@@ -1,0 +1,24 @@
+{
+  "id": "094d0c7cec18",
+  "source": "Ars Technica AI",
+  "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
+  "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+  "publishedAt": "2026-05-06T16:15:27.000Z",
+  "ingestedAt": "2026-05-07T03:53:04.274Z",
+  "brief": "Anthropic has added a \"dreams\" feature to Claude Managed Agents, allowing extended reasoning and planning capabilities beyond standard responses. Additionally, Pro and Max users of Claude Code will see their 5-hour monthly usage limits doubled, improving access to extended coding sessions.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

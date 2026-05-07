@@ -1,0 +1,24 @@
+{
+  "id": "2213198ae792",
+  "source": "Ars Technica AI",
+  "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
+  "url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+  "publishedAt": "2026-05-06T21:20:14.000Z",
+  "ingestedAt": "2026-05-07T03:53:00.980Z",
+  "brief": "Trump acknowledged the importance of AI safety testing after reports about Mythos AI's capabilities raised concerns, reversing his earlier dismissal of Biden-era safety protocols. The shift suggests growing political recognition that AI testing standards may be necessary even among deregulation-focused leaders.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

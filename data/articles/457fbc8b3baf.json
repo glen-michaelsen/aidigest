@@ -1,0 +1,28 @@
+{
+  "id": "457fbc8b3baf",
+  "source": "Ars Technica AI",
+  "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+  "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+  "publishedAt": "2026-05-06T22:09:14.000Z",
+  "ingestedAt": "2026-05-07T03:52:57.048Z",
+  "brief": "Anthropic has expanded Claude Code usage limits following a new commercial deal with SpaceX, continuing a trend of enterprise partnerships that includes previous agreements with Microsoft and Amazon. The company is expanding access to Claude's coding capabilities to drive adoption among enterprise customers.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "funding"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic",
+      "amazon",
+      "microsoft",
+      "xai"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "79e266a1a3f0",
+  "source": "The Verge AI",
+  "title": "Google shuts down Project Mariner",
+  "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+  "publishedAt": "2026-05-06T21:21:45.000Z",
+  "ingestedAt": "2026-05-07T03:52:45.853Z",
+  "brief": "Google shut down Project Mariner on May 4, 2026, discontinuing its experimental web task automation feature that could perform up to 10 tasks at a time. The company said its underlying technology has been integrated into other Google products, including Gemini Agent.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

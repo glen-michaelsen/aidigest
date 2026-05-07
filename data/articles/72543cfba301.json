@@ -1,0 +1,26 @@
+{
+  "id": "72543cfba301",
+  "source": "Ars Technica AI",
+  "title": "Google DeepMind partners with EVE Online for AI model testing",
+  "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+  "publishedAt": "2026-05-06T16:56:49.000Z",
+  "ingestedAt": "2026-05-07T03:53:02.487Z",
+  "brief": "Google DeepMind has partnered with EVE Online to test AI models in the massively multiplayer game environment. The collaboration comes alongside CCP Games' $120M recapitalization to achieve independence and rebrand as Fenris Creations.",
+  "tags": {
+    "category": [
+      "research",
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "deepmind",
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

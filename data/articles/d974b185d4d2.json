@@ -1,0 +1,25 @@
+{
+  "id": "d974b185d4d2",
+  "source": "Hacker News (AI)",
+  "title": "Telus Uses AI to Alter Call-Agent Accents",
+  "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+  "publishedAt": "2026-05-06T01:38:44.000Z",
+  "ingestedAt": "2026-05-07T03:53:24.478Z",
+  "brief": "Telus, a Canadian telecom company, is using AI technology to alter call-center agents' accents in real-time to match regional customer preferences or reduce accent-related biases. The deployment raises questions about the ethical implications of modifying workers' voices and accents without their consent.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

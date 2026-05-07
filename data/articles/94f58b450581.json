@@ -1,0 +1,26 @@
+{
+  "id": "94f58b450581",
+  "source": "OpenAI Blog",
+  "title": "How frontier enterprises are building an AI advantage",
+  "url": "https://openai.com/index/introducing-b2b-signals",
+  "publishedAt": "2026-05-06T00:00:00.000Z",
+  "ingestedAt": "2026-05-07T03:53:15.443Z",
+  "brief": "OpenAI released B2B Signals research documenting how leading enterprises are scaling AI adoption through Codex-powered agentic workflows to build competitive advantage. The research provides insights into enterprise strategies for deepening AI integration and realizing durable value from agentic systems.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "enterprise",
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

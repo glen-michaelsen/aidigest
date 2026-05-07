@@ -1,0 +1,24 @@
+{
+  "id": "3c23afd6f16c",
+  "source": "The Verge AI",
+  "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+  "publishedAt": "2026-05-06T17:55:53.000Z",
+  "ingestedAt": "2026-05-07T03:52:49.678Z",
+  "brief": "OpenAI's former CTO Mira Murati testified in the Musk v. Altman trial that CEO Sam Altman lied about safety review requirements for a new AI model, claiming he falsely stated the legal department had cleared it to skip the company's deployment safety board. The deposition underscores internal disputes over AI safety governance at OpenAI and allegations of misleading conduct by Altman.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

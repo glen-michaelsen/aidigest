@@ -1,0 +1,25 @@
+{
+  "id": "682acca1ab2f",
+  "source": "The Verge AI",
+  "title": "Musk’s biggest loyalist became his biggest liability",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+  "publishedAt": "2026-05-06T23:37:02.000Z",
+  "ingestedAt": "2026-05-07T03:52:44.251Z",
+  "brief": "Shivon Zilis testified in the Musk v. Altman trial that she coordinated Musk's involvement across Tesla, Neuralink, and OpenAI starting in 2017, while also being the mother of four of his children. Her dual role and close relationship with Musk—described as beginning with a \"romantic\" encounter—highlights how personal and professional ties became entangled in OpenAI's governance and its split from Musk.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

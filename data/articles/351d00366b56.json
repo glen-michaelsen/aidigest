@@ -1,0 +1,23 @@
+{
+  "id": "351d00366b56",
+  "source": "Hugging Face Blog",
+  "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+  "publishedAt": "2026-05-06T00:00:00.000Z",
+  "ingestedAt": "2026-05-07T03:53:20.180Z",
+  "brief": "The Open ASR Leaderboard has introduced a \"Benchmaxxer Repellant\" mechanism to counter gaming of benchmarks through overfitting and optimization for specific test sets rather than genuine performance improvements. The change aims to maintain the integrity of the leaderboard as a meaningful evaluation tool by penalizing models that optimize narrowly for benchmark metrics.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

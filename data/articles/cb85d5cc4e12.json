@@ -1,0 +1,25 @@
+{
+  "id": "cb85d5cc4e12",
+  "source": "Hacker News (AI)",
+  "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+  "url": "https://www.anthropic.com/news/higher-limits-spacex",
+  "publishedAt": "2026-05-06T16:17:33.000Z",
+  "ingestedAt": "2026-05-07T03:53:22.860Z",
+  "brief": "Anthropic has announced higher usage limits for Claude and a compute partnership with SpaceX. The deal aims to expand Claude's capacity and access to computational resources, enabling faster scaling of the AI model.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "6dc9f357c63d",
+  "source": "The Verge AI",
+  "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+  "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+  "publishedAt": "2026-05-06T10:13:09.000Z",
+  "ingestedAt": "2026-05-07T03:52:54.987Z",
+  "brief": "Google Chrome is automatically downloading a 4GB weights.bin file containing Gemini Nano, an on-device AI model, to users' system folders when certain AI features are enabled. The model powers Chrome's built-in AI tools including scam detection, writing assistance, and autofill—but users weren't explicitly informed about the large storage footprint.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

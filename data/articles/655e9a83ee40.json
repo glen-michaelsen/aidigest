@@ -1,0 +1,24 @@
+{
+  "id": "655e9a83ee40",
+  "source": "Ars Technica AI",
+  "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
+  "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+  "publishedAt": "2026-05-06T15:44:20.000Z",
+  "ingestedAt": "2026-05-07T03:53:06.021Z",
+  "brief": "Google released Gemma 4 with a token prediction technique that delivers up to 3x faster inference speed without sacrificing output quality. The optimization predicts multiple future tokens in parallel, enabling significantly faster text generation while maintaining the model's accuracy.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

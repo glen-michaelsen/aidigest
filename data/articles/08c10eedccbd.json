@@ -1,0 +1,25 @@
+{
+  "id": "08c10eedccbd",
+  "source": "Hugging Face Blog",
+  "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+  "publishedAt": "2026-05-06T19:06:55.000Z",
+  "ingestedAt": "2026-05-07T03:53:17.783Z",
+  "brief": "vLLM released version 1.0, emphasizing a correctness-first approach to reinforcement learning in its architecture. The update prioritizes accurate model outputs before applying RL-based corrections, representing a significant reliability improvement for the inference framework.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
