@@ -1,0 +1,23 @@
+{
+  "id": "265a65b4e496",
+  "source": "TechCrunch AI",
+  "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+  "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+  "publishedAt": "2026-05-07T20:20:20.000Z",
+  "ingestedAt": "2026-05-08T03:43:11.111Z",
+  "brief": "OpenAI has introduced a \"Trusted Contact\" safety feature for ChatGPT that allows users to designate an emergency contact who will be notified if the company detects conversations indicating possible self-harm. This expands OpenAI's efforts to provide mental health protections for its users and aligns with responsible AI deployment practices.",
+  "tags": {
+    "category": [
+      "safety"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

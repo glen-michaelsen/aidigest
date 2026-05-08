@@ -1,0 +1,28 @@
+{
+  "id": "608851b1f7f9",
+  "source": "The Verge AI",
+  "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
+  "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+  "publishedAt": "2026-05-07T14:15:40.000Z",
+  "ingestedAt": "2026-05-08T03:43:28.098Z",
+  "brief": "A new command-line tool called Save to Spotify enables AI agents like Claude and OpenAI Codex to generate audio summaries and personal podcasts that can be directly saved to Spotify. Users can prompt their AI tool to create content and append \"and save to Spotify\" to have it appear in their podcast feed automatically.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "audio",
+      "agents"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "other"
+    ]
+  }
+}

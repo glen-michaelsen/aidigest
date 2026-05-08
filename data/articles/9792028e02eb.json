@@ -1,0 +1,23 @@
+{
+  "id": "9792028e02eb",
+  "source": "Hacker News (AI)",
+  "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+  "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+  "publishedAt": "2026-05-07T17:54:02.000Z",
+  "ingestedAt": "2026-05-08T03:43:55.907Z",
+  "brief": "Anthropic published research on natural language autoencoders that reconstruct text from Claude's internal activations, demonstrating a method to interpret and visualize the model's learned representations. This work advances interpretability research by showing how to decode hidden thought patterns directly into human-readable text.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

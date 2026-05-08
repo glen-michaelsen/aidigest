@@ -1,0 +1,25 @@
+{
+  "id": "288ea344bbe0",
+  "source": "OpenAI Blog",
+  "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+  "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+  "publishedAt": "2026-05-07T13:00:00.000Z",
+  "ingestedAt": "2026-05-08T03:43:43.402Z",
+  "brief": "OpenAI launched GPT-5.5 and GPT-5.5-Cyber as part of its Trusted Access for Cyber program, providing verified security researchers with advanced models to accelerate vulnerability discovery and strengthen critical infrastructure protection.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

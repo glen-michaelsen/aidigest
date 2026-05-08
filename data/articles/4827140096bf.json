@@ -1,0 +1,24 @@
+{
+  "id": "4827140096bf",
+  "source": "Ars Technica AI",
+  "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+  "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+  "publishedAt": "2026-05-07T19:18:16.000Z",
+  "ingestedAt": "2026-05-08T03:43:31.413Z",
+  "brief": "Mozilla's AI-assisted bug detection system Mythos identified 271 vulnerabilities in Firefox with nearly zero false positives, demonstrating Mozilla's full commitment to AI-powered security research. The tool significantly reduces manual effort in identifying software defects while maintaining high accuracy.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

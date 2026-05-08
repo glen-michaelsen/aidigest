@@ -1,0 +1,24 @@
+{
+  "id": "de2ca3d7578d",
+  "source": "OpenAI Blog",
+  "title": "Testing ads in ChatGPT",
+  "url": "https://openai.com/index/testing-ads-in-chatgpt",
+  "publishedAt": "2026-05-07T00:00:00.000Z",
+  "ingestedAt": "2026-05-08T03:43:50.175Z",
+  "brief": "OpenAI is testing advertisements in ChatGPT's free tier to subsidize free access while ensuring ads are clearly labeled and do not influence model responses. The rollout includes privacy protections and user controls, marking a shift toward monetizing the free product.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

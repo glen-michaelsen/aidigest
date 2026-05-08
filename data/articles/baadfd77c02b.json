@@ -1,0 +1,25 @@
+{
+  "id": "baadfd77c02b",
+  "source": "Ars Technica AI",
+  "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
+  "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
+  "publishedAt": "2026-05-07T13:14:01.000Z",
+  "ingestedAt": "2026-05-08T03:43:35.752Z",
+  "brief": "Elon Musk attempted to recruit OpenAI founders Sam Altman and Greg Brockman to lead an AI division within Tesla, seeking control over the unit as a condition for funding it as a for-profit entity. The effort underscores ongoing tensions between Musk and OpenAI leadership following his earlier lawsuit against the company over its transition to for-profit structure.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

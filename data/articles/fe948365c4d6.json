@@ -1,0 +1,24 @@
+{
+  "id": "fe948365c4d6",
+  "source": "OpenAI Blog",
+  "title": "Introducing Trusted Contact in ChatGPT",
+  "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+  "publishedAt": "2026-05-07T00:00:00.000Z",
+  "ingestedAt": "2026-05-08T03:43:48.580Z",
+  "brief": "OpenAI introduced Trusted Contact, an optional safety feature in ChatGPT that sends notifications to a designated trusted person if the system detects serious self-harm concerns. This feature aims to connect vulnerable users with support resources during critical moments.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

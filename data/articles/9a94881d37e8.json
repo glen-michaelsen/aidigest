@@ -1,0 +1,25 @@
+{
+  "id": "9a94881d37e8",
+  "source": "Hacker News (AI)",
+  "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+  "url": "https://unsloth.ai/blog/nvidia-collab",
+  "publishedAt": "2026-05-07T07:15:11.000Z",
+  "ingestedAt": "2026-05-08T03:43:59.462Z",
+  "brief": "Unsloth and NVIDIA collaborated to optimize LLM training efficiency, reducing memory usage and accelerating training speeds on NVIDIA hardware. The partnership aims to make fine-tuning large language models faster and more accessible for developers.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "nvidia",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

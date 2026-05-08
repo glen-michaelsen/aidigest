@@ -1,0 +1,25 @@
+{
+  "id": "57ef3b10d01a",
+  "source": "TechCrunch AI",
+  "title": "OpenAI launches new voice intelligence features in its API",
+  "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+  "publishedAt": "2026-05-07T22:24:50.000Z",
+  "ingestedAt": "2026-05-08T03:43:07.753Z",
+  "brief": "OpenAI launched new voice intelligence features in its API, enabling applications in customer service, education, and creator platforms. The features expand OpenAI's capabilities beyond text-based interactions into voice-driven use cases.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "audio",
+      "enterprise",
+      "education"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

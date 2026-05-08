@@ -1,0 +1,23 @@
+{
+  "id": "4ba89a634a8b",
+  "source": "OpenAI Blog",
+  "title": "Advancing voice intelligence with new models in the API",
+  "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+  "publishedAt": "2026-05-07T10:00:00.000Z",
+  "ingestedAt": "2026-05-08T03:43:46.928Z",
+  "brief": "OpenAI has released new realtime voice models in its API with reasoning, translation, and transcription capabilities. These models enable more natural and intelligent voice interactions for developers building on the platform.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

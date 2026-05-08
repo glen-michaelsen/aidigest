@@ -1,0 +1,26 @@
+{
+  "id": "c347902da479",
+  "source": "TechCrunch AI",
+  "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+  "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+  "publishedAt": "2026-05-07T19:21:21.000Z",
+  "ingestedAt": "2026-05-08T03:43:14.397Z",
+  "brief": "Elon Musk's lawsuit against OpenAI challenges whether its for-profit subsidiary structure undermines the organization's original mission to ensure AGI benefits humanity safely. The case may force scrutiny of OpenAI's safety practices and governance as it scales advanced AI systems.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

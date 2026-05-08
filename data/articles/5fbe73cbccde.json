@@ -1,0 +1,23 @@
+{
+  "id": "5fbe73cbccde",
+  "source": "The Verge AI",
+  "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+  "publishedAt": "2026-05-07T19:55:22.000Z",
+  "ingestedAt": "2026-05-08T03:43:21.413Z",
+  "brief": "Mira Murati's deposition in Musk v. Altman lawsuit revealed new details about Sam Altman's November 2023 ouster from OpenAI, where the board cited lack of candor in communications. The testimony provides the first concrete public look at the internal events surrounding the dramatic weekend when Altman was removed and briefly reinstated as CEO.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

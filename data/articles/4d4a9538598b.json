@@ -1,0 +1,25 @@
+{
+  "id": "4d4a9538598b",
+  "source": "The Verge AI",
+  "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+  "publishedAt": "2026-05-07T18:00:00.000Z",
+  "ingestedAt": "2026-05-08T03:43:26.499Z",
+  "brief": "OpenAI launched a \"Trusted Contact\" safety feature for ChatGPT that allows users to designate emergency contacts who will be notified if the system detects discussions of self-harm or suicide. The feature is designed to connect people in crisis with trusted supporters and complements existing mental health resources.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

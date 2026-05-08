@@ -1,0 +1,24 @@
+{
+  "id": "eed85cf61ed4",
+  "source": "OpenAI Blog",
+  "title": "Simplex rethinks software development with Codex",
+  "url": "https://openai.com/index/simplex",
+  "publishedAt": "2026-05-07T00:00:00.000Z",
+  "ingestedAt": "2026-05-08T03:43:51.503Z",
+  "brief": "Simplex integrates ChatGPT Enterprise and Codex to accelerate software development, reducing time spent on design, build, and testing phases while enabling scalable AI-driven workflows.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

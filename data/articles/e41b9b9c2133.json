@@ -1,0 +1,25 @@
+{
+  "id": "e41b9b9c2133",
+  "source": "OpenAI Blog",
+  "title": "Parloa builds service agents customers want to talk to",
+  "url": "https://openai.com/index/parloa",
+  "publishedAt": "2026-05-07T11:00:00.000Z",
+  "ingestedAt": "2026-05-08T03:43:45.165Z",
+  "brief": "Parloa is building voice-driven customer service agents powered by OpenAI models that allow enterprises to design, simulate, and deploy scalable, real-time interactions. The platform addresses the demand for AI agents that can handle customer conversations reliably at scale.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
