@@ -1,0 +1,26 @@
+{
+  "id": "4862d0651ed0",
+  "source": "Hugging Face Blog",
+  "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+  "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+  "publishedAt": "2026-05-08T17:41:05.000Z",
+  "ingestedAt": "2026-05-09T03:45:52.411Z",
+  "brief": "A new 4B parameter model specialized for cybersecurity tasks emphasizes the value of small, locally-runnable AI systems for defensive security work. The model addresses privacy, latency, and cost concerns critical to enterprise security operations by enabling on-premise deployment without external API dependencies.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "enterprise",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

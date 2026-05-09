@@ -1,0 +1,25 @@
+{
+  "id": "91ec1ce9a5cf",
+  "source": "OpenAI Blog",
+  "title": "Running Codex safely at OpenAI",
+  "url": "https://openai.com/index/running-codex-safely",
+  "publishedAt": "2026-05-08T12:30:00.000Z",
+  "ingestedAt": "2026-05-09T03:45:50.021Z",
+  "brief": "OpenAI detailed its safety infrastructure for Codex, including sandboxing, approval workflows, network policies, and telemetry mechanisms designed to enable secure deployment of coding agents. The approach addresses compliance and safety risks inherent in automated code generation and execution.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

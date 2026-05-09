@@ -1,0 +1,24 @@
+{
+  "id": "cddc5b6e7f9b",
+  "source": "MIT Technology Review",
+  "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+  "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+  "publishedAt": "2026-05-08T23:59:19.000Z",
+  "ingestedAt": "2026-05-09T03:45:43.322Z",
+  "brief": "Elon Musk's lawsuit against OpenAI entered its second week with testimony from Shivon Zilis revealing that Musk attempted to recruit Sam Altman away from the company. Musk alleges he was deceived into donating $38 million to OpenAI based on false promises about maintaining non-profit status, with the trial examining his motivations and the companies' early agreements.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

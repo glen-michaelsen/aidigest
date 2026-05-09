@@ -1,0 +1,23 @@
+{
+  "id": "ace024ee985d",
+  "source": "Hacker News (AI)",
+  "title": "GPT-5.5 Price Increase: What It Costs",
+  "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+  "publishedAt": "2026-05-08T01:02:28.000Z",
+  "ingestedAt": "2026-05-09T03:46:07.495Z",
+  "brief": "OpenRouter has reported pricing details for GPT-5.5, showing increased costs compared to previous OpenAI models. The article analyzes what these price changes mean for developers and API consumers relying on the latest model.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

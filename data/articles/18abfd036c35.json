@@ -1,0 +1,27 @@
+{
+  "id": "18abfd036c35",
+  "source": "The Verge AI",
+  "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+  "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+  "publishedAt": "2026-05-08T15:25:02.000Z",
+  "ingestedAt": "2026-05-09T03:45:32.837Z",
+  "brief": "Court documents from the Musk v. Altman trial reveal that in 2017, Microsoft executives including CEO Satya Nadella worried OpenAI might leave for Amazon and publicly criticize Azure, as the two companies negotiated early partnership terms. The documents show internal communications about Microsoft's investment in OpenAI during a critical period when the startup was achieving AI milestones like defeating professional Dota 2 players.",
+  "tags": {
+    "category": [
+      "incident",
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "microsoft",
+      "openai",
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

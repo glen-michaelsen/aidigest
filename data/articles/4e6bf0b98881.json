@@ -1,0 +1,23 @@
+{
+  "id": "4e6bf0b98881",
+  "source": "The Verge AI",
+  "title": "Everybody wants to rule the AI world",
+  "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+  "publishedAt": "2026-05-08T13:31:37.000Z",
+  "ingestedAt": "2026-05-09T03:45:34.819Z",
+  "brief": "Sam Altman was ousted from OpenAI in 2024 during a chaotic period dubbed \"The Blip,\" with new details from the ongoing Musk v. Altman trial revealing the dysfunction behind the scenes, including the former CEO texting about succession while CEO selection was happening via video calls. The incident highlights governance failures and internal conflict at one of AI's most prominent companies.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

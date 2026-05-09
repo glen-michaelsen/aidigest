@@ -1,0 +1,24 @@
+{
+  "id": "bb83d039abe2",
+  "source": "Hacker News (AI)",
+  "title": "AI is breaking two vulnerability cultures",
+  "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+  "publishedAt": "2026-05-08T17:55:08.000Z",
+  "ingestedAt": "2026-05-09T03:46:05.932Z",
+  "brief": "An analysis argues that AI systems are disrupting two established vulnerability disclosure cultures—responsible disclosure in cybersecurity and academic research norms around pre-publication secrecy. The piece examines tensions between AI safety researchers' incentives to publish findings quickly versus the traditional practice of giving vendors time to patch before public disclosure.",
+  "tags": {
+    "category": [
+      "opinion",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7dd0052ac621",
+  "source": "TechCrunch AI",
+  "title": "The “people’s airline” and the enterprise AI gold rush",
+  "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+  "publishedAt": "2026-05-08T15:46:17.000Z",
+  "ingestedAt": "2026-05-09T03:45:23.274Z",
+  "brief": "Multiple AI companies are racing to capture the enterprise market through partnerships and acquisitions, including Anthropic and OpenAI launching joint ventures and SAP investing $1B in German AI startup Prior Labs. This consolidation reflects intense competition to deploy AI solutions in corporate settings.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "funding"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "none"
+    ]
+  }
+}

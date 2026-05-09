@@ -1,0 +1,24 @@
+{
+  "id": "18e393ee2491",
+  "source": "TechCrunch AI",
+  "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+  "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+  "publishedAt": "2026-05-08T22:59:05.000Z",
+  "ingestedAt": "2026-05-09T03:45:17.890Z",
+  "brief": "Oracle laid off workers and refused to negotiate severance terms, with some employees discovering they lacked WARN Act protections (two-months notice) because Oracle classified them as remote workers, circumventing federal notification requirements.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "oracle"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

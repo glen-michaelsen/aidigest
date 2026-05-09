@@ -1,0 +1,34 @@
+{
+  "id": "c0641eb0de56",
+  "source": "The Verge AI",
+  "title": "All the latest updates on AI data centers",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+  "publishedAt": "2026-05-08T18:45:08.000Z",
+  "ingestedAt": "2026-05-09T03:45:29.059Z",
+  "brief": "The article is a comprehensive roundup of news and developments surrounding AI data centers, covering their massive expansion, infrastructure challenges, and growing environmental and political backlash. Key stories include community opposition to new facilities, rising electricity costs (up to 267% in some areas), major projects like OpenAI's $500 billion Stargate initiative, and debates over power grid strain, water usage, and pollution impacts.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "hardware",
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "meta",
+      "microsoft",
+      "nvidia",
+      "amazon",
+      "xai",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

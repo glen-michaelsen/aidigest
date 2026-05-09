@@ -1,0 +1,24 @@
+{
+  "id": "3ec78cd865e9",
+  "source": "Ars Technica AI",
+  "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
+  "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+  "publishedAt": "2026-05-08T17:17:17.000Z",
+  "ingestedAt": "2026-05-09T03:45:41.332Z",
+  "brief": "Google Chrome's 4GB on-device AI model is not a new feature, but confusion around its purpose and necessity is warranted. Users can disable the local AI functionality, but the burden of managing storage for this feature should not fall on end users.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

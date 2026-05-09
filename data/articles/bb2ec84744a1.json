@@ -1,0 +1,23 @@
+{
+  "id": "bb2ec84744a1",
+  "source": "Ars Technica AI",
+  "title": "Course correction: Google to link more sources in AI Overviews",
+  "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+  "publishedAt": "2026-05-08T19:43:47.000Z",
+  "ingestedAt": "2026-05-09T03:45:39.701Z",
+  "brief": "Google is updating its AI Overviews search feature to better cite and link to source material, addressing concerns about attribution and transparency in AI-generated search summaries.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

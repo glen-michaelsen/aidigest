@@ -1,0 +1,23 @@
+{
+  "id": "09e2dacb42d1",
+  "source": "Hacker News (AI)",
+  "title": "Teaching Claude Why",
+  "url": "https://www.anthropic.com/research/teaching-claude-why",
+  "publishedAt": "2026-05-08T17:59:41.000Z",
+  "ingestedAt": "2026-05-09T03:46:04.044Z",
+  "brief": "Anthropic published research on teaching Claude to provide reasoning and explanations for its outputs, improving model transparency and interpretability. The work demonstrates techniques for training Claude to explain its decision-making process, which matters for building more trustworthy and auditable AI systems.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
