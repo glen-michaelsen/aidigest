@@ -1,0 +1,25 @@
+{
+  "id": "a66112d74e60",
+  "source": "Hugging Face Blog",
+  "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+  "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+  "publishedAt": "2026-05-09T18:09:28.000Z",
+  "ingestedAt": "2026-05-10T04:01:59.888Z",
+  "brief": "OncoAgent introduces a dual-tier multi-agent framework designed for oncology clinical decision support with built-in privacy preservation. The system leverages large language models to assist healthcare providers in cancer treatment decisions while maintaining patient data confidentiality through federated or local processing.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "healthcare",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}
