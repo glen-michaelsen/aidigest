@@ -1,0 +1,23 @@
+{
+  "id": "77a59a946ff0",
+  "source": "Hacker News (AI)",
+  "title": "Local AI needs to be the norm",
+  "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+  "publishedAt": "2026-05-10T17:19:28.000Z",
+  "ingestedAt": "2026-05-11T04:13:09.322Z",
+  "brief": "An opinion piece argues that local AI deployment should become standard practice rather than relying on cloud-based models, citing privacy, latency, and independence benefits.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

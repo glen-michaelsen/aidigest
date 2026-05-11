@@ -1,0 +1,23 @@
+{
+  "id": "9225d6437f87",
+  "source": "Hacker News (AI)",
+  "title": "Task Paralysis and AI",
+  "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+  "publishedAt": "2026-05-10T06:20:50.000Z",
+  "ingestedAt": "2026-05-11T04:13:10.768Z",
+  "brief": "This opinion piece examines how AI tools can paradoxically increase task paralysis by overwhelming users with too many options and capabilities rather than simplifying decision-making. The article explores the psychological impact of AI abundance on productivity and decision-making processes.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

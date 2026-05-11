@@ -1,0 +1,26 @@
+{
+  "id": "116105217784",
+  "source": "Hugging Face Blog",
+  "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+  "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+  "publishedAt": "2026-05-10T18:44:11.000Z",
+  "ingestedAt": "2026-05-11T04:13:04.070Z",
+  "brief": "AMD demonstrates a multi-agent AI system for CNC manufacturing on the MI300X GPU, enabling real-time manufacturability checks for complex parts. This showcases AMD's AI hardware capabilities for industrial applications and agent-based AI workflows at scale.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "agents",
+      "hardware",
+      "manufacturing"
+    ],
+    "company": [
+      "amd"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
