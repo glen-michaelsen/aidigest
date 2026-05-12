@@ -1,0 +1,24 @@
+{
+  "id": "dc4b6b2d9c30",
+  "source": "Hacker News (AI)",
+  "title": "Google says criminal hackers used AI to find a major software flaw",
+  "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+  "publishedAt": "2026-05-11T13:20:14.000Z",
+  "ingestedAt": "2026-05-12T03:57:05.350Z",
+  "brief": "Google disclosed that criminal hackers used AI tools to discover a significant software vulnerability, marking a notable shift in how attackers exploit security flaws. The incident demonstrates that AI capabilities are now being actively weaponized for offensive cybersecurity purposes, with potential implications for vulnerability discovery at scale.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

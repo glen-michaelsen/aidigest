@@ -1,0 +1,26 @@
+{
+  "id": "2801e9858940",
+  "source": "The Verge AI",
+  "title": "OpenAI just released its answer to Claude Mythos",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+  "publishedAt": "2026-05-11T23:05:01.000Z",
+  "ingestedAt": "2026-05-12T03:56:31.528Z",
+  "brief": "OpenAI launched Daybreak, a security initiative using the Codex Security AI agent to detect and patch vulnerabilities in code before attackers exploit them. The launch directly competes with Anthropic's Claude Mythos, a security-focused model announced last month that Anthropic restricted to private access over safety concerns.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "coding",
+      "security"
+    ],
+    "company": [
+      "openai",
+      "anthropic"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

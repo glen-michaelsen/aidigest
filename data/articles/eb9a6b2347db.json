@@ -1,0 +1,25 @@
+{
+  "id": "eb9a6b2347db",
+  "source": "The Verge AI",
+  "title": "Google stopped a zero-day hack that it says was developed with AI",
+  "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+  "publishedAt": "2026-05-11T16:09:42.000Z",
+  "ingestedAt": "2026-05-12T03:56:35.291Z",
+  "brief": "Google's Threat Intelligence Group detected and blocked a zero-day exploit reportedly generated with AI that targeted a web-based system administration tool to bypass two-factor authentication. The discovery marks the first documented case of an AI-assisted zero-day attack, with Google identifying telltale signs like hallucinated CVSS scores and LLM-style formatting in the exploit code.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

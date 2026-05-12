@@ -1,0 +1,25 @@
+{
+  "id": "ce49fe8e0cb4",
+  "source": "Hugging Face Blog",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "publishedAt": "2026-05-11T23:18:26.000Z",
+  "ingestedAt": "2026-05-12T03:56:57.960Z",
+  "brief": "AWS announced new infrastructure and tools for training and deploying foundation models on its cloud platform. The initiative focuses on providing scalable, optimized building blocks for enterprises to develop and run large-scale AI systems efficiently.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

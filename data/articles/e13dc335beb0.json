@@ -1,0 +1,23 @@
+{
+  "id": "e13dc335beb0",
+  "source": "OpenAI Blog",
+  "title": "How ChatGPT adoption broadened in early 2026",
+  "url": "https://openai.com/signals/research/2026q1-update",
+  "publishedAt": "2026-05-11T15:00:00.000Z",
+  "ingestedAt": "2026-05-12T03:56:50.355Z",
+  "brief": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender distribution, indicating AI is reaching mainstream audiences beyond early adopters.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

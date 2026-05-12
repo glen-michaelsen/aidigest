@@ -1,0 +1,24 @@
+{
+  "id": "5035c10e4c2d",
+  "source": "Ars Technica AI",
+  "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+  "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+  "publishedAt": "2026-05-11T20:37:00.000Z",
+  "ingestedAt": "2026-05-12T03:56:39.730Z",
+  "brief": "A data center consumed 30 million gallons of water over months without detection, highlighting the AI industry's massive and often opaque water consumption footprint. The incident underscores the environmental cost of large-scale AI infrastructure deployment.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

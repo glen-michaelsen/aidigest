@@ -1,0 +1,24 @@
+{
+  "id": "7be23ac9118d",
+  "source": "The Verge AI",
+  "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+  "publishedAt": "2026-05-11T22:19:15.000Z",
+  "ingestedAt": "2026-05-12T03:56:33.330Z",
+  "brief": "Thinking Machines, founded by former OpenAI CTO Mira Murati, is developing \"interaction models\" that process audio, video, and text simultaneously to enable real-time collaboration with AI. The system represents a shift from traditional sequential model inputs, allowing AI to perceive and respond continuously rather than waiting for user input to complete.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

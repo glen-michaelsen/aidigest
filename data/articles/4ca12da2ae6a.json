@@ -1,0 +1,23 @@
+{
+  "id": "4ca12da2ae6a",
+  "source": "OpenAI Blog",
+  "title": "How enterprises are scaling AI",
+  "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+  "publishedAt": "2026-05-11T10:00:00.000Z",
+  "ingestedAt": "2026-05-12T03:56:52.065Z",
+  "brief": "Enterprises are moving beyond AI pilots to production scale by focusing on trust, governance, workflow design, and quality assurance. The shift from experimentation to compounding impact requires systematic approaches to integration and operational excellence.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

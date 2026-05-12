@@ -1,0 +1,23 @@
+{
+  "id": "68e94ee2f13a",
+  "source": "OpenAI Blog",
+  "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+  "url": "https://openai.com/index/openai-launches-the-deployment-company",
+  "publishedAt": "2026-05-11T06:00:00.000Z",
+  "ingestedAt": "2026-05-12T03:56:55.589Z",
+  "brief": "OpenAI launched DeployCo, a new enterprise deployment company designed to help organizations integrate frontier AI models into production and achieve measurable business outcomes. The move signals OpenAI's shift toward providing end-to-end enterprise solutions beyond model development.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

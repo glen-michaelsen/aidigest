@@ -1,0 +1,23 @@
+{
+  "id": "0af806717a7b",
+  "source": "Hacker News (AI)",
+  "title": "If AI writes your code, why use Python?",
+  "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+  "publishedAt": "2026-05-11T20:45:55.000Z",
+  "ingestedAt": "2026-05-12T03:57:01.792Z",
+  "brief": "An opinion piece examining whether traditional programming language advantages like Python's readability matter when AI code generation tools write and maintain most code. The article questions long-held assumptions about language design in an era of AI-driven development.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
