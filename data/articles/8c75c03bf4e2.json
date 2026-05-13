@@ -1,0 +1,23 @@
+{
+  "id": "8c75c03bf4e2",
+  "source": "TechCrunch AI",
+  "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+  "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+  "publishedAt": "2026-05-12T17:00:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:10.506Z",
+  "brief": "Google introduced 'Create My Widget,' a feature that lets users build custom widgets through natural language descriptions. Users can request specific functionality—like weekly meal prep suggestions—and receive interactive widgets they can add to their home screen, enabling rapid widget creation without coding.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

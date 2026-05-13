@@ -1,0 +1,25 @@
+{
+  "id": "491dd889bae5",
+  "source": "The Verge AI",
+  "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+  "publishedAt": "2026-05-12T17:34:09.000Z",
+  "ingestedAt": "2026-05-13T04:05:16.350Z",
+  "brief": "OpenAI CEO Sam Altman testified that Elon Musk's management approach caused \"huge damage\" to the startup's culture, citing Musk's demands to rank researchers and cut staff aggressively. Altman stated that Musk's management style, while effective at Tesla, was incompatible with running a research organization, contributing to morale issues after Musk's departure from OpenAI's board.",
+  "tags": {
+    "category": [
+      "opinion",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

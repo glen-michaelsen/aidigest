@@ -1,0 +1,24 @@
+{
+  "id": "001b12047d3c",
+  "source": "The Verge AI",
+  "title": "Sam Altman was winning on the stand, but it might not be enough",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+  "publishedAt": "2026-05-12T23:23:14.000Z",
+  "ingestedAt": "2026-05-13T04:05:12.652Z",
+  "brief": "Sam Altman testified in his ongoing legal dispute with Elon Musk over OpenAI's nonprofit structure, presenting himself as a bewildered founder while defending his role in the organization's development. His testimony comes after two weeks of witness accounts challenging his credibility, though legal observers suggest his courtroom performance may not be sufficient to resolve the fundamental dispute over OpenAI's nonprofit status and control.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

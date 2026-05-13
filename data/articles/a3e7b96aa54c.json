@@ -1,0 +1,24 @@
+{
+  "id": "a3e7b96aa54c",
+  "source": "TechCrunch AI",
+  "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+  "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+  "publishedAt": "2026-05-12T17:00:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:05.116Z",
+  "brief": "Google is integrating Gemini-powered dictation into Gboard, its mobile keyboard, starting with Samsung Galaxy and Google Pixel devices. This move threatens specialized dictation startups by bundling advanced voice-to-text directly into Android's primary keyboard app.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

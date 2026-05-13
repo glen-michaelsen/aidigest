@@ -1,0 +1,25 @@
+{
+  "id": "b20aabbf5083",
+  "source": "Hacker News (AI)",
+  "title": "Claude Platform on AWS",
+  "url": "https://claude.com/blog/claude-platform-on-aws",
+  "publishedAt": "2026-05-12T01:24:29.000Z",
+  "ingestedAt": "2026-05-13T04:05:59.927Z",
+  "brief": "Anthropic announced Claude is now available as a managed service on AWS, allowing enterprise customers to run Claude models directly on AWS infrastructure. The integration brings Anthropic's AI capabilities into AWS's ecosystem, expanding deployment options for organizations using AWS.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic",
+      "amazon"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

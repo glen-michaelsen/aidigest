@@ -1,0 +1,26 @@
+{
+  "id": "b005c648c35c",
+  "source": "TechCrunch AI",
+  "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+  "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+  "publishedAt": "2026-05-12T17:01:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:02.957Z",
+  "brief": "Google announced AI-first Googlebooks laptops, enhanced Gemini with agentic capabilities, vibe-coded Android widgets, Gemini integration in Chrome, and refreshed Android Auto at its Android Show ahead of I/O. The announcements position Google's services across hardware, software, and AI to compete in the AI-first computing era.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "hardware",
+      "enterprise",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

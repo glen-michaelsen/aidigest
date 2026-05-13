@@ -1,0 +1,25 @@
+{
+  "id": "8a196e8c3ae2",
+  "source": "OpenAI Blog",
+  "title": "AutoScout24 scales engineering with AI-powered workflows",
+  "url": "https://openai.com/index/autoscout24",
+  "publishedAt": "2026-05-12T00:00:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:48.692Z",
+  "brief": "AutoScout24 Group integrated OpenAI's Codex and ChatGPT into their engineering workflows to accelerate development cycles and improve code quality. The adoption demonstrates how enterprise teams leverage AI models to enhance productivity and expand AI capabilities across their organization.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

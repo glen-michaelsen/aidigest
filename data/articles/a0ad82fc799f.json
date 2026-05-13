@@ -1,0 +1,23 @@
+{
+  "id": "a0ad82fc799f",
+  "source": "Ars Technica AI",
+  "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+  "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+  "publishedAt": "2026-05-12T13:33:05.000Z",
+  "ingestedAt": "2026-05-13T04:05:34.740Z",
+  "brief": "Amazon employees are adopting the term \"tokenmaxxing\" to describe automating non-essential tasks using internal AI tools, driven by workplace pressure to adopt AI systems. The practice highlights growing tension between organizational AI adoption mandates and worker autonomy over how tools are implemented.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

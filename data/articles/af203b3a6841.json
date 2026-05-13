@@ -1,0 +1,24 @@
+{
+  "id": "af203b3a6841",
+  "source": "The Verge AI",
+  "title": "Gemini&#8217;s latest updates are all about controlling your phone",
+  "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+  "publishedAt": "2026-05-12T17:00:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:19.975Z",
+  "brief": "Google announced new Gemini features during its pre-I/O Android showcase, including expanded integration in Chrome, autofill suggestions, and third-party apps on advanced Android devices. The company rebranded several features under \"Gemini Intelligence,\" positioning the assistant to control phone functions and perform tasks on behalf of users.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

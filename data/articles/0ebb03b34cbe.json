@@ -1,0 +1,24 @@
+{
+  "id": "0ebb03b34cbe",
+  "source": "Hacker News (AI)",
+  "title": "Reimagining the mouse pointer for the AI era",
+  "url": "https://deepmind.google/blog/ai-pointer/",
+  "publishedAt": "2026-05-12T17:40:13.000Z",
+  "ingestedAt": "2026-05-13T04:05:58.373Z",
+  "brief": "DeepMind has published research on reimagining the mouse pointer for AI-enabled interfaces, exploring how AI systems can better interpret and respond to user interactions. The work addresses the gap between traditional pointer-based input and AI's emerging capability to understand spatial intent and user context.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "deepmind",
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1f4cdabc7de5",
+  "source": "Ars Technica AI",
+  "title": "The newest AI boom pitch: Host a mini data center at your home",
+  "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+  "publishedAt": "2026-05-12T21:59:03.000Z",
+  "ingestedAt": "2026-05-13T04:05:28.113Z",
+  "brief": "Companies are pitching at-home mini data centers that would place AI compute hardware in residential spaces to accelerate deployment while paying residents for the use of their electricity and space. This decentralized infrastructure model aims to address the computational bottleneck limiting AI model training and deployment at scale.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "hardware",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

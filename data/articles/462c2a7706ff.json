@@ -1,0 +1,24 @@
+{
+  "id": "462c2a7706ff",
+  "source": "The Verge AI",
+  "title": "Sam Altman takes the stand in trial against Elon Musk",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+  "publishedAt": "2026-05-12T16:05:20.000Z",
+  "ingestedAt": "2026-05-13T04:05:23.808Z",
+  "brief": "Sam Altman testified in a California federal jury trial brought by Elon Musk against OpenAI. Musk, who invested up to $38 million in OpenAI's early days before leaving to found xAI, alleges wrongdoing by Altman and president Greg Brockman; the dispute stems from the founders' fractured relationship over OpenAI's direction and governance.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

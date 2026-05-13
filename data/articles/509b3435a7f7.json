@@ -1,0 +1,24 @@
+{
+  "id": "509b3435a7f7",
+  "source": "The Verge AI",
+  "title": "Meta won’t let you block its AI account on Threads",
+  "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+  "publishedAt": "2026-05-12T20:35:23.000Z",
+  "ingestedAt": "2026-05-13T04:05:14.476Z",
+  "brief": "Meta rolled out a new Threads feature allowing users to tag a Meta AI account for answers and conversational context, mirroring xAI's Grok on X. However, users discovered the Meta AI account cannot be blocked, sparking criticism over forced AI integration on the platform.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

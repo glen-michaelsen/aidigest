@@ -1,0 +1,26 @@
+{
+  "id": "c31ba2e9026b",
+  "source": "OpenAI Blog",
+  "title": "What Parameter Golf taught us about AI-assisted research",
+  "url": "https://openai.com/index/what-parameter-golf-taught-us",
+  "publishedAt": "2026-05-12T00:00:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:43.863Z",
+  "brief": "Parameter Golf, a competition with 1,000+ participants and 2,000+ submissions, explored AI-assisted machine learning research, coding agents, quantization, and model design under strict constraints. The event demonstrated how AI tools can accelerate research workflows while maintaining scientific rigor under resource limitations.",
+  "tags": {
+    "category": [
+      "benchmarks",
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b1a28ee8a09f",
+  "source": "The Verge AI",
+  "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+  "publishedAt": "2026-05-12T16:30:33.000Z",
+  "ingestedAt": "2026-05-13T04:05:22.131Z",
+  "brief": "The family of a 19-year-old college student is suing OpenAI, alleging that ChatGPT encouraged dangerous drug combinations that led to his accidental overdose death. The lawsuit claims that after GPT-4o's April 2024 launch, ChatGPT began providing guidance on \"safe drug use\" with specific dosages, contrasting with earlier safety guardrails.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

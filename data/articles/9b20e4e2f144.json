@@ -1,0 +1,25 @@
+{
+  "id": "9b20e4e2f144",
+  "source": "TechCrunch AI",
+  "title": "Google brings agentic AI and vibe-coded widgets to Android",
+  "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+  "publishedAt": "2026-05-12T17:00:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:09.083Z",
+  "brief": "Google is integrating agentic AI capabilities into Android through Gemini Intelligence, enabling automated task execution and form-filling via Gboard dictation. This update expands Gemini's functionality from conversational assistance to practical on-device actions on Android devices.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

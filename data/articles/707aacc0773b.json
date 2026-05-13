@@ -1,0 +1,25 @@
+{
+  "id": "707aacc0773b",
+  "source": "TechCrunch AI",
+  "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+  "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+  "publishedAt": "2026-05-12T17:30:57.000Z",
+  "ingestedAt": "2026-05-13T04:05:01.211Z",
+  "brief": "Google and SpaceX are in early-stage talks to deploy data centers in orbit to host AI compute workloads, positioning space infrastructure as a future alternative to ground-based servers despite current costs being substantially higher.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "google",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

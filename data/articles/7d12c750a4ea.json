@@ -1,0 +1,23 @@
+{
+  "id": "7d12c750a4ea",
+  "source": "OpenAI Blog",
+  "title": "How finance teams use Codex",
+  "url": "https://openai.com/academy/how-finance-teams-use-codex",
+  "publishedAt": "2026-05-12T15:00:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:40.627Z",
+  "brief": "OpenAI's Codex enables finance teams to automate the creation of MBRs, reporting packs, variance bridges, model checks, and planning scenarios directly from actual work inputs, reducing manual work in financial analysis and reporting.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

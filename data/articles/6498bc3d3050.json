@@ -1,0 +1,25 @@
+{
+  "id": "6498bc3d3050",
+  "source": "OpenAI Blog",
+  "title": "How NVIDIA engineers and researchers build with Codex",
+  "url": "https://openai.com/index/nvidia",
+  "publishedAt": "2026-05-12T00:00:00.000Z",
+  "ingestedAt": "2026-05-13T04:05:42.195Z",
+  "brief": "NVIDIA engineers and researchers are using OpenAI's Codex with GPT-5.5 to accelerate production system development and convert research concepts into executable experiments, demonstrating practical AI-assisted coding workflows.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "nvidia",
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
