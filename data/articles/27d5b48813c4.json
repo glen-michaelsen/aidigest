@@ -1,0 +1,26 @@
+{
+  "id": "27d5b48813c4",
+  "source": "The Verge AI",
+  "title": "Alexa is moving into Amazon․com",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+  "publishedAt": "2026-05-13T13:00:00.000Z",
+  "ingestedAt": "2026-05-14T04:04:19.019Z",
+  "brief": "Amazon is integrating Alexa Plus, its LLM-powered AI assistant, directly into Amazon.com as \"Alexa for Shopping,\" replacing the Rufus AI shopping assistant. The new assistant will answer natural language queries about products, recommendations, and purchase history alongside traditional search results.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "search",
+      "consumer",
+      "enterprise"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

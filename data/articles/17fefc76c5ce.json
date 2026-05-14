@@ -1,0 +1,23 @@
+{
+  "id": "17fefc76c5ce",
+  "source": "Hacker News (AI)",
+  "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+  "url": "https://news.ycombinator.com/item?id=48128003",
+  "publishedAt": "2026-05-13T21:40:18.000Z",
+  "ingestedAt": "2026-05-14T04:04:38.588Z",
+  "brief": "A Claude user lost access to their projects in Claude Design after unsubscribing from Claude Code Max, and previously lost access to promotional credits after their subscription ended—even after resubscribing. The incident highlights how Anthropic's complex subscription and access control systems can lock users out of their work, affecting both user experience and engineering implementation.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

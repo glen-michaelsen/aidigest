@@ -1,0 +1,23 @@
+{
+  "id": "4090480ae9e0",
+  "source": "The Verge AI",
+  "title": "Microsoft doesn’t want any of this",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
+  "publishedAt": "2026-05-13T15:30:37.000Z",
+  "ingestedAt": "2026-05-14T04:04:17.430Z",
+  "brief": "Microsoft's opening statement in the Musk v. Altman lawsuit emphasized the company's products and business operations rather than engaging with the central dispute, signaling reluctance to be involved in the high-profile legal battle. The statement's tone suggested Microsoft views the trial as tangential to its core business interests.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

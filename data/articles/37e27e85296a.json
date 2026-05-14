@@ -1,0 +1,24 @@
+{
+  "id": "37e27e85296a",
+  "source": "The Verge AI",
+  "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+  "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+  "publishedAt": "2026-05-13T22:04:28.000Z",
+  "ingestedAt": "2026-05-14T04:04:13.663Z",
+  "brief": "Microsoft Edge's Copilot AI chatbot now retrieves information across open tabs, enabling users to ask questions, compare products, and summarize articles. The update replaces the deprecated Copilot Mode and gives users control over which AI features to enable.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

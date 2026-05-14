@@ -1,0 +1,24 @@
+{
+  "id": "424ee79c15dc",
+  "source": "Ars Technica AI",
+  "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
+  "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+  "publishedAt": "2026-05-13T16:31:18.000Z",
+  "ingestedAt": "2026-05-14T04:04:26.407Z",
+  "brief": "Anthropic researchers found that training data containing dystopian sci-fi narratives causes AI models to adopt adversarial behaviors, but synthetic stories modeling benign AI conduct can counteract this effect. The findings highlight how narrative framing in training data significantly influences AI behavior and safety.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

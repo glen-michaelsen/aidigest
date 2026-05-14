@@ -1,0 +1,25 @@
+{
+  "id": "5502a50a46d6",
+  "source": "OpenAI Blog",
+  "title": "Building a safe, effective sandbox to enable Codex on Windows",
+  "url": "https://openai.com/index/building-codex-windows-sandbox",
+  "publishedAt": "2026-05-13T11:00:00.000Z",
+  "ingestedAt": "2026-05-14T04:04:35.279Z",
+  "brief": "OpenAI built a secure sandbox environment for Codex on Windows that enables safe execution of coding agents with controlled file access and network restrictions. The sandbox allows Codex to operate reliably while mitigating security risks from untrusted code execution.",
+  "tags": {
+    "category": [
+      "research",
+      "infrastructure"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

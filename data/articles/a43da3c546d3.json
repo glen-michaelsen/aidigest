@@ -1,0 +1,24 @@
+{
+  "id": "a43da3c546d3",
+  "source": "MIT Technology Review",
+  "title": "AI chatbots are giving out people’s real phone numbers",
+  "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+  "publishedAt": "2026-05-13T18:09:03.000Z",
+  "ingestedAt": "2026-05-14T04:04:29.903Z",
+  "brief": "Google's AI chatbot has been surfacing users' personal phone numbers without consent, leading to unwanted calls from strangers. The incident highlights a privacy vulnerability in AI systems with limited user controls to prevent data leakage.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

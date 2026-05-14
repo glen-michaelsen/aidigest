@@ -1,0 +1,25 @@
+{
+  "id": "fb583ee18542",
+  "source": "TechCrunch AI",
+  "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+  "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+  "publishedAt": "2026-05-13T19:49:42.000Z",
+  "ingestedAt": "2026-05-14T04:04:02.809Z",
+  "brief": "xAI's Colossus 2 data center in Mississippi is operating nearly 50 gas turbines without proper regulatory oversight, prompting a lawsuit challenging the company's use of \"mobile\" turbines as makeshift power plants. The incident highlights environmental and regulatory compliance concerns as AI companies scale up their infrastructure demands.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "infrastructure",
+      "hardware"
+    ],
+    "company": [
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

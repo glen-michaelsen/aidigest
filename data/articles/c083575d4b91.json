@@ -1,0 +1,23 @@
+{
+  "id": "c083575d4b91",
+  "source": "Ars Technica AI",
+  "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
+  "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
+  "publishedAt": "2026-05-13T17:48:05.000Z",
+  "ingestedAt": "2026-05-14T04:04:24.528Z",
+  "brief": "Sam Altman, OpenAI's CEO, faced testimony at trial challenging his credibility with claims he is a \"prolific liar,\" including confrontation over his account of losing control of the company. The case highlights internal disputes over OpenAI's governance and leadership during a period when Altman's control of the organization was questioned.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
