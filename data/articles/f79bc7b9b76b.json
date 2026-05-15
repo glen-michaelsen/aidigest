@@ -1,0 +1,23 @@
+{
+  "id": "f79bc7b9b76b",
+  "source": "Hacker News (AI)",
+  "title": "Bitcoin trader recovers wallet with help of Claude",
+  "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+  "publishedAt": "2026-05-14T14:49:48.000Z",
+  "ingestedAt": "2026-05-15T04:10:01.547Z",
+  "brief": "A Bitcoin trader recovered a wallet worth $400,000 using Claude AI to systematically crack a forgotten password on an 11-year-old encrypted backup, with the bot testing 3.5 trillion password combinations before successfully decrypting the file.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fd608667e64c",
+  "source": "OpenAI Blog",
+  "title": "Helping ChatGPT better recognize context in sensitive conversations",
+  "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+  "publishedAt": "2026-05-14T00:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:42.591Z",
+  "brief": "OpenAI has deployed safety updates to ChatGPT that improve its ability to recognize context in sensitive conversations and detect harmful patterns over time. These enhancements enable more nuanced and safer responses by understanding evolving context rather than evaluating messages in isolation.",
+  "tags": {
+    "category": [
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

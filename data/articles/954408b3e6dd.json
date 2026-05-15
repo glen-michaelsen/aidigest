@@ -1,0 +1,24 @@
+{
+  "id": "954408b3e6dd",
+  "source": "The Verge AI",
+  "title": "Closing time",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+  "publishedAt": "2026-05-14T22:21:46.000Z",
+  "ingestedAt": "2026-05-15T04:09:12.408Z",
+  "brief": "Closing arguments concluded in Musk v. Altman, with Musk's legal team delivering a weak presentation that included verbal stumbles and factual errors, while OpenAI's defense systematically presented the evidence chronologically. The trial highlights disputes over OpenAI's shift from nonprofit to for-profit structure and Musk's claims against the company's leadership.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

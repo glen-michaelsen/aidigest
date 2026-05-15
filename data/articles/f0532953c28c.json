@@ -1,0 +1,25 @@
+{
+  "id": "f0532953c28c",
+  "source": "MIT Technology Review",
+  "title": "Data readiness for agentic AI in financial services",
+  "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+  "publishedAt": "2026-05-14T13:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:30.778Z",
+  "brief": "Financial services firms face distinct challenges deploying agentic AI, balancing regulatory compliance with real-time data requirements and market dynamics. Success in this sector hinges on data readiness and infrastructure rather than raw model sophistication.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "agents",
+      "enterprise",
+      "financial"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

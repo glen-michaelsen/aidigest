@@ -1,0 +1,24 @@
+{
+  "id": "4781ec0a4a6a",
+  "source": "Ars Technica AI",
+  "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+  "url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+  "publishedAt": "2026-05-14T17:28:43.000Z",
+  "ingestedAt": "2026-05-15T04:09:27.018Z",
+  "brief": "An Ontario audit found that AI notetaking systems used in medical practices are generating hallucinated content, including fabricated therapy referrals and incorrect prescriptions, raising serious safety concerns for patient care. The findings highlight risks of deploying unvetted AI tools in healthcare settings where accuracy is critical.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

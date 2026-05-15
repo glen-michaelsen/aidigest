@@ -1,0 +1,24 @@
+{
+  "id": "f6eafc08e75f",
+  "source": "Hugging Face Blog",
+  "title": "Unlocking asynchronicity in continuous batching",
+  "url": "https://huggingface.co/blog/continuous_async",
+  "publishedAt": "2026-05-14T00:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:46.580Z",
+  "brief": "A technical exploration of asynchronous processing improvements in continuous batching systems for LLM inference. This work advances inference efficiency by enabling better resource utilization and reduced latency in model serving architectures.",
+  "tags": {
+    "category": [
+      "research",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c169e8cac334",
+  "source": "TechCrunch AI",
+  "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+  "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+  "publishedAt": "2026-05-14T19:12:03.000Z",
+  "ingestedAt": "2026-05-15T04:09:02.513Z",
+  "brief": "OpenAI is exploring legal action against Apple over a failed ChatGPT integration that didn't deliver expected subscriber growth or visibility. The dispute highlights tensions between the two companies as OpenAI seeks greater prominence on Apple's platforms.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "openai",
+      "apple"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

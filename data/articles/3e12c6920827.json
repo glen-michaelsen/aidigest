@@ -1,0 +1,23 @@
+{
+  "id": "3e12c6920827",
+  "source": "OpenAI Blog",
+  "title": "Work with Codex from anywhere",
+  "url": "https://openai.com/index/work-with-codex-from-anywhere",
+  "publishedAt": "2026-05-14T13:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:41.009Z",
+  "brief": "OpenAI has extended Codex access to the ChatGPT mobile app, allowing users to monitor, steer, and approve coding tasks across devices and remote environments in real time. This integration brings code generation and task management capabilities to mobile platforms, expanding accessibility beyond desktop interfaces.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

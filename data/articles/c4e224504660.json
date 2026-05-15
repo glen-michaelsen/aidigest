@@ -1,0 +1,24 @@
+{
+  "id": "c4e224504660",
+  "source": "The Verge AI",
+  "title": "You can make an app for that",
+  "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+  "publishedAt": "2026-05-14T11:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:23.206Z",
+  "brief": "An opinion piece argues that AI is democratizing software development, enabling non-programmers to create custom applications without coding. This shifts power from professional developers to end-users and domain experts who can now build tools tailored to their specific needs.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

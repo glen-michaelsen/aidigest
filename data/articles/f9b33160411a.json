@@ -1,0 +1,24 @@
+{
+  "id": "f9b33160411a",
+  "source": "Ars Technica AI",
+  "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
+  "url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+  "publishedAt": "2026-05-14T19:17:28.000Z",
+  "ingestedAt": "2026-05-15T04:09:25.203Z",
+  "brief": "An energy supplier has deprioritized service to 49,000 Lake Tahoe residents in California to allocate power to Nevada data centers, highlighting the growing tension between residential electricity demand and energy consumption by AI and computing infrastructure in the region.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "policy"
+    ],
+    "domain": [
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "210a0f1afb83",
+  "source": "TechCrunch AI",
+  "title": "OpenAI says Codex is coming to your phone",
+  "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+  "publishedAt": "2026-05-14T20:58:55.000Z",
+  "ingestedAt": "2026-05-15T04:08:59.469Z",
+  "brief": "OpenAI is bringing Codex, its AI code generation model, to mobile devices, enabling developers to manage coding workflows directly from their phones with enhanced flexibility.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

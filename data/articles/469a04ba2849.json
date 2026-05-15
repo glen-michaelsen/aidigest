@@ -1,0 +1,24 @@
+{
+  "id": "469a04ba2849",
+  "source": "Hugging Face Blog",
+  "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+  "publishedAt": "2026-05-14T18:55:01.000Z",
+  "ingestedAt": "2026-05-15T04:09:44.957Z",
+  "brief": "IBM released Granite Embedding Multilingual R2, an open-source multilingual embedding model under Apache 2.0 license with 32K context length and sub-100M parameters, achieving best-in-class retrieval quality for its size category. The model supports multiple languages and is designed for efficient deployment in retrieval-augmented generation (RAG) and semantic search applications.",
+  "tags": {
+    "category": [
+      "open-source",
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

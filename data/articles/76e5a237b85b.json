@@ -1,0 +1,24 @@
+{
+  "id": "76e5a237b85b",
+  "source": "The Verge AI",
+  "title": "Microsoft starts canceling Claude Code licenses",
+  "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+  "publishedAt": "2026-05-14T19:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:18.116Z",
+  "brief": "Microsoft is scaling back its Claude Code pilot program by canceling most licenses and redirecting developers to its own Copilot CLI tool. The company had distributed Claude Code access to thousands of employees starting in December, but is now consolidating its AI coding tool strategy around Microsoft's proprietary offering.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "microsoft",
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

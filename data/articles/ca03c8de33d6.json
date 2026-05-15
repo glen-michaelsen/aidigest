@@ -1,0 +1,25 @@
+{
+  "id": "ca03c8de33d6",
+  "source": "OpenAI Blog",
+  "title": "Sea's View on the Future of Agentic Software Development with Codex",
+  "url": "https://openai.com/index/sea-david-chen",
+  "publishedAt": "2026-05-14T20:30:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:39.423Z",
+  "brief": "Sea Limited is deploying OpenAI's Codex across its engineering teams to accelerate AI-native software development practices in Asia. The company's Chief Product Officer outlines the strategic rationale for adopting agentic AI tools to improve developer productivity and modernize coding workflows.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

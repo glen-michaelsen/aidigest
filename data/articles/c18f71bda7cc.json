@@ -1,0 +1,25 @@
+{
+  "id": "c18f71bda7cc",
+  "source": "Hacker News (AI)",
+  "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+  "url": "https://github.com/DrCatHicks/learning-opportunities",
+  "publishedAt": "2026-05-14T03:13:31.000Z",
+  "ingestedAt": "2026-05-15T04:10:07.593Z",
+  "brief": "A developer created a Claude-based code skill framework designed for deliberate, structured practice in coding development. The project provides learning opportunities that leverage Claude's capabilities for interactive skill-building, addressing a gap in intentional programming education through automated feedback and guided exercises.",
+  "tags": {
+    "category": [
+      "open-source",
+      "education"
+    ],
+    "domain": [
+      "coding",
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

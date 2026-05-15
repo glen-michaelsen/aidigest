@@ -1,0 +1,24 @@
+{
+  "id": "bcc37c8b04e1",
+  "source": "Hacker News (AI)",
+  "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+  "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+  "publishedAt": "2026-05-14T22:37:40.000Z",
+  "ingestedAt": "2026-05-15T04:09:55.857Z",
+  "brief": "Ontario auditors found that AI-powered medical note-taking systems frequently produced inaccurate transcriptions and summaries of patient encounters, failing to capture basic clinical facts correctly. The findings raise serious concerns about patient safety and the reliability of AI tools in healthcare settings where documentation accuracy is critical.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

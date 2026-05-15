@@ -1,0 +1,24 @@
+{
+  "id": "a9ef977b8a84",
+  "source": "Hacker News (AI)",
+  "title": "Claude for Small Business",
+  "url": "https://www.anthropic.com/news/claude-for-small-business",
+  "publishedAt": "2026-05-14T03:59:35.000Z",
+  "ingestedAt": "2026-05-15T04:10:05.446Z",
+  "brief": "Anthropic launched Claude for Small Business, a specialized product tier targeting small business users with features and pricing optimized for their needs. The announcement highlights Anthropic's expansion beyond enterprise and API-first offerings into the small business market segment.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "consumer"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d090b33adaf3",
+  "source": "The Verge AI",
+  "title": "Use this map to find the data centers in your backyard",
+  "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+  "publishedAt": "2026-05-14T17:40:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:19.829Z",
+  "brief": "Isabelle Reksopuro created an interactive map tracking data center construction and AI policy locations, highlighting Google's infrastructure expansion in Oregon and clarifying the complex land use arrangements between tech companies and municipalities. The project addresses widespread misinformation about data center operations and their environmental impact on local watersheds.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "hardware"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b00cef5081d4",
+  "source": "MIT Technology Review",
+  "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+  "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+  "publishedAt": "2026-05-14T13:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:32.407Z",
+  "brief": "This opinion piece examines the data sovereignty risks enterprises face when adopting third-party generative AI models, arguing that the \"capability now, control later\" trade-off leaves proprietary data vulnerable in systems beyond the company's governance. The article emphasizes the need for stronger data protection frameworks as AI systems become more autonomous and integrated into business operations.",
+  "tags": {
+    "category": [
+      "opinion",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

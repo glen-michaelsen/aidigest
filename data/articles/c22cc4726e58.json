@@ -1,0 +1,24 @@
+{
+  "id": "c22cc4726e58",
+  "source": "MIT Technology Review",
+  "title": "The shock of seeing your body used in deepfake porn",
+  "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+  "publishedAt": "2026-05-14T09:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:37.411Z",
+  "brief": "A woman discovered that her professional headshot was being used to create non-consensual deepfake pornography, exposing the vulnerability of facial recognition technology and archived intimate content to deepfake exploitation. The incident highlights growing concerns about image-based sexual abuse and the difficulty individuals face in preventing their likenesses from being misused without consent.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "image-generation"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

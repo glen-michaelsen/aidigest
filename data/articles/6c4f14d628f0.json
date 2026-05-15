@@ -1,0 +1,24 @@
+{
+  "id": "6c4f14d628f0",
+  "source": "The Verge AI",
+  "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+  "publishedAt": "2026-05-14T20:00:00.000Z",
+  "ingestedAt": "2026-05-15T04:09:16.385Z",
+  "brief": "OpenAI has integrated Codex, its desktop AI tool for writing code and controlling computer applications, into the ChatGPT mobile app, allowing users to access these capabilities from their phones. The move comes as OpenAI accelerates its response to Anthropic's Claude Code by prioritizing agent and enterprise features over experimental projects like Sora.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
