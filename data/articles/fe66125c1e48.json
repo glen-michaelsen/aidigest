@@ -1,0 +1,23 @@
+{
+  "id": "fe66125c1e48",
+  "source": "Ars Technica AI",
+  "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
+  "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+  "publishedAt": "2026-05-15T18:25:53.000Z",
+  "ingestedAt": "2026-05-16T03:51:27.214Z",
+  "brief": "arXiv has implemented a new policy suspending authors for one year if they submit AI-generated content without proper disclosure, enforcing stricter standards against low-quality submissions. This reflects growing concern across academic platforms about the proliferation of AI-generated papers that lack scientific rigor.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

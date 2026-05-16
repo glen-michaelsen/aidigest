@@ -1,0 +1,24 @@
+{
+  "id": "df0b2c12ab51",
+  "source": "Hacker News (AI)",
+  "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+  "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+  "publishedAt": "2026-05-15T13:28:55.000Z",
+  "ingestedAt": "2026-05-16T03:51:48.801Z",
+  "brief": "Amazon workers are creating fake or unnecessary tasks to meet internal pressure to increase AI tool usage, reducing productivity rather than improving it. The incident highlights how compliance-driven AI adoption metrics can backfire without proper incentive alignment.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

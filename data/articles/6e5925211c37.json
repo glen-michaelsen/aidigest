@@ -1,0 +1,23 @@
+{
+  "id": "6e5925211c37",
+  "source": "The Verge AI",
+  "title": "ArXiv will ban researchers who upload papers full of AI slop",
+  "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+  "publishedAt": "2026-05-15T20:38:19.000Z",
+  "ingestedAt": "2026-05-16T03:51:13.589Z",
+  "brief": "ArXiv will ban researchers for one year if they upload papers with incontrovertible evidence of unchecked AI-generated content, including hallucinated references and LLM meta-comments. The policy, announced by ArXiv's computer science section chair Thomas Dietterich, aims to reduce \"AI slop\" on the platform and requires future submissions to be accepted at peer-reviewed venues.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

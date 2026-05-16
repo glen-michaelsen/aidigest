@@ -1,0 +1,24 @@
+{
+  "id": "ce2619f5486b",
+  "source": "Ars Technica AI",
+  "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+  "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+  "publishedAt": "2026-05-15T21:51:24.000Z",
+  "ingestedAt": "2026-05-16T03:51:25.431Z",
+  "brief": "A federal judge delayed approval of Anthropic's $1.5 billion copyright settlement after lawyers were accused of rushing the deal to secure $320 million in fees for themselves. The dispute centers on whether the settlement adequately protects authors' and publishers' interests versus prioritizing attorney compensation.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

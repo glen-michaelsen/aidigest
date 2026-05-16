@@ -1,0 +1,24 @@
+{
+  "id": "6ae2f26ccaaf",
+  "source": "Hacker News (AI)",
+  "title": "UK sovereign LLM inference",
+  "url": "https://relax.ai/docs",
+  "publishedAt": "2026-05-15T09:27:26.000Z",
+  "ingestedAt": "2026-05-16T03:51:50.344Z",
+  "brief": "The UK is developing sovereign LLM inference capabilities to reduce dependence on US-based AI providers and maintain data security within national borders. This initiative reflects broader geopolitical concerns about AI infrastructure sovereignty and data autonomy.",
+  "tags": {
+    "category": [
+      "policy",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

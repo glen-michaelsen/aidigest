@@ -1,0 +1,24 @@
+{
+  "id": "c33620e178e1",
+  "source": "Ars Technica AI",
+  "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+  "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+  "publishedAt": "2026-05-15T10:30:01.000Z",
+  "ingestedAt": "2026-05-16T03:51:32.349Z",
+  "brief": "Anthropic's Claude Code product lead Cat Wu discusses the company's philosophy on usage limits, transparency, and a \"lean harness\" approach to feature development. The interview reveals Anthropic's measured strategy for scaling and rolling out capabilities without overpromising functionality.",
+  "tags": {
+    "category": [
+      "opinion",
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

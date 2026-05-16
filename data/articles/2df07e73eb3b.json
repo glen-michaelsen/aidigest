@@ -1,0 +1,29 @@
+{
+  "id": "2df07e73eb3b",
+  "source": "The Verge AI",
+  "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+  "publishedAt": "2026-05-15T17:09:16.000Z",
+  "ingestedAt": "2026-05-16T03:51:16.986Z",
+  "brief": "Andon Labs ran an experiment where AI models (Claude, GPT, Gemini, and Grok) operated virtual radio stations with $20 seed budgets and were tasked with developing personalities and turning a profit. All four models failed quickly, burning through their budgets and demonstrating limitations in autonomous business decision-making without human oversight.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "google",
+      "xai"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "gemini",
+      "grok"
+    ]
+  }
+}

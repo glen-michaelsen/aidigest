@@ -1,0 +1,23 @@
+{
+  "id": "3bd4f9b94679",
+  "source": "Hacker News (AI)",
+  "title": "Access to frontier AI will soon be limited by economic and security constraints",
+  "url": "https://writing.antonleicht.me/p/cut-off",
+  "publishedAt": "2026-05-15T01:08:04.000Z",
+  "ingestedAt": "2026-05-16T03:51:55.602Z",
+  "brief": "As frontier AI models become more expensive and powerful, access will increasingly be restricted by computational costs and security concerns rather than regulation or technical barriers. This shift will create economic and security gatekeeping that limits who can develop and deploy cutting-edge AI systems.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

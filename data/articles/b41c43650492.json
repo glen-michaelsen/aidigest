@@ -1,0 +1,25 @@
+{
+  "id": "b41c43650492",
+  "source": "Ars Technica AI",
+  "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
+  "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+  "publishedAt": "2026-05-15T18:13:33.000Z",
+  "ingestedAt": "2026-05-16T03:51:28.801Z",
+  "brief": "OpenAI insiders expressed frustration with Apple's ChatGPT integration implementation, while a judge ordered Apple to disclose internal messages regarding the secretive ChatGPT partnership discussed with Elon Musk. The ruling highlights tensions between Apple and OpenAI over how ChatGPT is being integrated into Apple's ecosystem.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

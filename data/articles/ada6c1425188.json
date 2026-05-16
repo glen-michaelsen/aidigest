@@ -1,0 +1,23 @@
+{
+  "id": "ada6c1425188",
+  "source": "OpenAI Blog",
+  "title": "A new personal finance experience in ChatGPT",
+  "url": "https://openai.com/index/personal-finance-chatgpt",
+  "publishedAt": "2026-05-15T00:00:00.000Z",
+  "ingestedAt": "2026-05-16T03:51:42.316Z",
+  "brief": "OpenAI is launching a personal finance feature in ChatGPT for Pro users in the U.S., allowing them to securely connect financial accounts and receive AI-powered insights and guidance tailored to their financial situation and goals. This represents an expansion of ChatGPT's capabilities into the consumer financial advisory space.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

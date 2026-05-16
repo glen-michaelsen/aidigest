@@ -1,0 +1,25 @@
+{
+  "id": "02ec877a9655",
+  "source": "MIT Technology Review",
+  "title": "How Chinese short dramas became AI content machines",
+  "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+  "publishedAt": "2026-05-15T09:00:00.000Z",
+  "ingestedAt": "2026-05-16T03:51:40.086Z",
+  "brief": "Chinese short-form dramas have become a major vehicle for AI-generated content, with automated tools producing thousands of rapid-fire episodes often featuring fantastical or sensational plots. This trend reflects how AI is being scaled across entertainment production at minimal cost, raising questions about content quality, authenticity, and market saturation.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "incident"
+    ],
+    "domain": [
+      "video-generation",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

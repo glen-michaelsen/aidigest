@@ -1,0 +1,24 @@
+{
+  "id": "a811b8cd3f5f",
+  "source": "The Verge AI",
+  "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+  "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+  "publishedAt": "2026-05-15T16:42:59.000Z",
+  "ingestedAt": "2026-05-16T03:51:20.135Z",
+  "brief": "Google updated its spam policy to classify attempts to manipulate its AI models in search results—including AI Overview and AI Mode—as spam. The policy targets tactics like biased listicles and recommendation poisoning designed to influence generative AI responses.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "search",
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

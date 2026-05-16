@@ -1,0 +1,26 @@
+{
+  "id": "59911f201be4",
+  "source": "The Verge AI",
+  "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+  "publishedAt": "2026-05-15T18:21:35.000Z",
+  "ingestedAt": "2026-05-16T03:51:15.097Z",
+  "brief": "OpenAI reorganized its executive structure, consolidating product teams under president Greg Brockman to focus on AI agents as its 2024 strategic priority. The company plans to merge ChatGPT and Codex into a unified agentic platform, marking a significant shift in its product strategy and organizational focus.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt",
+      "other"
+    ]
+  }
+}

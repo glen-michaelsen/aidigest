@@ -1,0 +1,24 @@
+{
+  "id": "85eeec04b7b9",
+  "source": "The Verge AI",
+  "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+  "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+  "publishedAt": "2026-05-15T22:25:00.000Z",
+  "ingestedAt": "2026-05-16T03:51:11.732Z",
+  "brief": "YouTube is expanding its AI-powered deepfake detection tool to all adult users, allowing anyone over 18 to scan for videos using their likeness and request removal of matches. The feature uses facial recognition to identify potential deepfakes and has previously shown low removal request rates among its earlier beta testers.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "image-generation"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

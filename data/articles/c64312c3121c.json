@@ -1,0 +1,27 @@
+{
+  "id": "c64312c3121c",
+  "source": "OpenAI Blog",
+  "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+  "url": "https://openai.com/index/databricks",
+  "publishedAt": "2026-05-15T00:00:00.000Z",
+  "ingestedAt": "2026-05-16T03:51:43.983Z",
+  "brief": "Databricks has integrated GPT-5.5 into enterprise agent workflows following the model's state-of-the-art performance on the OfficeQA Pro benchmark. This enables organizations to deploy advanced AI agents for complex business tasks using OpenAI's latest model.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "benchmarks"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

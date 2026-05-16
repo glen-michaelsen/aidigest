@@ -1,0 +1,23 @@
+{
+  "id": "ee7f504eb2e5",
+  "source": "Hacker News (AI)",
+  "title": "How Claude Code works in large codebases",
+  "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+  "publishedAt": "2026-05-15T04:15:31.000Z",
+  "ingestedAt": "2026-05-16T03:51:53.875Z",
+  "brief": "Anthropic published guidance on how Claude handles code analysis and generation in large codebases, including best practices and starting strategies. The article outlines techniques for optimizing Claude's code understanding at scale, demonstrating the model's capability for enterprise-level coding tasks.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7c1aec8136cd",
+  "source": "TechCrunch AI",
+  "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+  "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+  "publishedAt": "2026-05-15T16:00:00.000Z",
+  "ingestedAt": "2026-05-16T03:51:06.882Z",
+  "brief": "OpenAI has launched a ChatGPT feature for personal finance that allows users to connect their bank accounts and view dashboards showing portfolio performance, spending, subscriptions, and upcoming payments. This expansion marks OpenAI's entry into the consumer finance domain, leveraging ChatGPT's conversational interface to provide real-time financial insights.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
