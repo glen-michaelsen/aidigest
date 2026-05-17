@@ -1,0 +1,24 @@
+{
+  "id": "9b07d86aa6d3",
+  "source": "Hacker News (AI)",
+  "title": "Frontier AI has broken the open CTF format",
+  "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "publishedAt": "2026-05-16T07:01:55.000Z",
+  "ingestedAt": "2026-05-17T04:09:44.411Z",
+  "brief": "Advanced AI systems have begun outcompeting human teams in open-format Capture The Flag (CTF) cybersecurity competitions, fundamentally changing the competitive landscape of a discipline that has long defined hacker culture and skill development. This shift raises questions about the relevance of traditional CTF formats as benchmarks for human security expertise when frontier AI models can now solve these challenges at or beyond top-tier human level.",
+  "tags": {
+    "category": [
+      "benchmarks",
+      "safety"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

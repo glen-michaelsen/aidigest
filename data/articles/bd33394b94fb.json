@@ -1,0 +1,23 @@
+{
+  "id": "bd33394b94fb",
+  "source": "Hacker News (AI)",
+  "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+  "url": "https://www.seangoedecke.com/steering-vectors/",
+  "publishedAt": "2026-05-16T14:58:16.000Z",
+  "ingestedAt": "2026-05-17T04:09:42.309Z",
+  "brief": "DeepSeek-V4-Flash has reignited interest in mechanistic interpretability techniques, specifically steering vectors that can redirect model behavior without fine-tuning. The technique's effectiveness on this open-weight model demonstrates renewed viability of probing and controlling LLM reasoning patterns at scale.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "deepmind"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

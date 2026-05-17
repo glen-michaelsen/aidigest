@@ -1,0 +1,24 @@
+{
+  "id": "079f05b327fc",
+  "source": "Ars Technica AI",
+  "title": "The US is betting on AI to catch insider trading in prediction markets",
+  "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+  "publishedAt": "2026-05-16T11:00:01.000Z",
+  "ingestedAt": "2026-05-17T04:09:34.642Z",
+  "brief": "The U.S. Commodity Futures Trading Commission is deploying AI to detect insider trading in prediction markets, signaling regulatory focus on market integrity as these platforms gain prominence. The move represents a policy shift to use advanced detection technology to monitor trading patterns and prevent manipulation in real-time.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
