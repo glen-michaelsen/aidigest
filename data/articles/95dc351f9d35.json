@@ -1,0 +1,23 @@
+{
+  "id": "95dc351f9d35",
+  "source": "Hacker News (AI)",
+  "title": "AI is a technology not a product",
+  "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+  "publishedAt": "2026-05-17T13:11:20.000Z",
+  "ingestedAt": "2026-05-18T04:21:51.113Z",
+  "brief": "An opinion piece argues that AI should be understood as a foundational technology enabling new products rather than a consumer product category itself. The distinction matters for how we evaluate adoption, differentiation, and long-term business models in the AI era.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

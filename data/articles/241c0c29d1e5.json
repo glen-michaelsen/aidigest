@@ -1,0 +1,25 @@
+{
+  "id": "241c0c29d1e5",
+  "source": "The Verge AI",
+  "title": "Chatbots at the drive-thru are just the beginning",
+  "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+  "publishedAt": "2026-05-17T12:00:00.000Z",
+  "ingestedAt": "2026-05-18T04:21:47.990Z",
+  "brief": "McDonald's deployed AI chatbots at drive-thru locations starting in 2021, beginning with 10 Chicago restaurants after acquiring voice-tech startup Apprente in 2019. The move signals broader adoption of conversational AI in consumer-facing fast-food operations as chains explore automation at customer touchpoints.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "consumer"
+    ],
+    "domain": [
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

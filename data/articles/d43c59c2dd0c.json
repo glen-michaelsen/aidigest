@@ -1,0 +1,24 @@
+{
+  "id": "d43c59c2dd0c",
+  "source": "The Verge AI",
+  "title": "Revamped Siri will reportedly offer auto-deleting chats",
+  "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+  "publishedAt": "2026-05-17T18:40:28.000Z",
+  "ingestedAt": "2026-05-18T04:21:44.243Z",
+  "brief": "Apple's revamped Siri in iOS 27 will offer auto-deleting chat histories with user-controlled retention options (30 days, one year, or forever), positioning privacy as Apple's differentiator in AI against competitors who offer only incognito chats. The feature reflects Apple's strategy to leverage privacy concerns as a competitive advantage as it enters the broader conversational AI market.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
