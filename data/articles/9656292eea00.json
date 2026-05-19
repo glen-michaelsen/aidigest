@@ -1,0 +1,24 @@
+{
+  "id": "9656292eea00",
+  "source": "Hacker News (AI)",
+  "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+  "url": "https://archestra.ai/blog/only-responsible-ai",
+  "publishedAt": "2026-05-18T15:24:19.000Z",
+  "ingestedAt": "2026-05-19T04:17:51.474Z",
+  "brief": "A GitHub repository implemented a solution using Git's --author flag to filter and block AI bot spam contributions. The approach demonstrates a practical defensive measure against automated spam in open-source projects, addressing a growing challenge as AI-generated contributions increase.",
+  "tags": {
+    "category": [
+      "safety",
+      "open-source"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

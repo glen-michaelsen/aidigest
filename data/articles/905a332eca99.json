@@ -1,0 +1,25 @@
+{
+  "id": "905a332eca99",
+  "source": "Hugging Face Blog",
+  "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+  "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+  "publishedAt": "2026-05-18T15:12:46.000Z",
+  "ingestedAt": "2026-05-19T04:17:48.237Z",
+  "brief": "PaddleOCR 3.5 introduces a Transformers backend for optical character recognition and document parsing tasks, enhancing model architecture flexibility and performance. This update enables developers to leverage transformer-based architectures for improved OCR accuracy and scalability in document processing workflows.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "open-source"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

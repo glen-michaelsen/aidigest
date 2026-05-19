@@ -1,0 +1,24 @@
+{
+  "id": "933a996aba76",
+  "source": "Hacker News (AI)",
+  "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+  "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+  "publishedAt": "2026-05-18T11:51:05.000Z",
+  "ingestedAt": "2026-05-19T04:17:56.526Z",
+  "brief": "Researchers have demonstrated that voice AI systems are susceptible to hidden audio attacks—adversarial inputs that can mislead or compromise voice recognition and processing models. This vulnerability raises critical concerns about the security and reliability of voice-enabled devices and applications across consumer and enterprise domains.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

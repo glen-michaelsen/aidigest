@@ -1,0 +1,24 @@
+{
+  "id": "580c751f5a18",
+  "source": "TechCrunch AI",
+  "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+  "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+  "publishedAt": "2026-05-18T17:34:43.000Z",
+  "ingestedAt": "2026-05-19T04:17:19.465Z",
+  "brief": "Elon Musk's lawsuit against OpenAI and Sam Altman was dismissed after a California jury unanimously ruled his claims were filed past the statute of limitations. The verdict ends Musk's legal attempt to challenge alleged mistreatment by OpenAI's founders.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

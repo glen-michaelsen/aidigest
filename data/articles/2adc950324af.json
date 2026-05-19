@@ -1,0 +1,24 @@
+{
+  "id": "2adc950324af",
+  "source": "The Verge AI",
+  "title": "Elon Musk loses his case against Sam Altman",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+  "publishedAt": "2026-05-18T17:39:32.000Z",
+  "ingestedAt": "2026-05-19T04:17:26.812Z",
+  "brief": "Elon Musk lost his lawsuit against Sam Altman over OpenAI's conversion from a non-profit to a for-profit structure. A jury found his claims barred by statute of limitations, and US District Judge Yvonne Gonzalez Rogers upheld the advisory verdict.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

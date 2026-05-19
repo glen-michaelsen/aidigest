@@ -1,0 +1,25 @@
+{
+  "id": "a15f62575e93",
+  "source": "Hugging Face Blog",
+  "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+  "publishedAt": "2026-05-18T16:00:21.000Z",
+  "ingestedAt": "2026-05-19T04:17:46.530Z",
+  "brief": "NVIDIA has released guidance on fine-tuning Cosmos Predict 2.5, its video generation model, using LoRA and DoRA techniques for robotics applications. This enables developers to adapt the model for specific robot video generation tasks with reduced computational overhead.",
+  "tags": {
+    "category": [
+      "research",
+      "product-launch"
+    ],
+    "domain": [
+      "video-generation",
+      "robotics"
+    ],
+    "company": [
+      "nvidia"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

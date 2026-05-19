@@ -1,0 +1,25 @@
+{
+  "id": "15ad87b3c165",
+  "source": "Hacker News (AI)",
+  "title": "Eric Schmidt speech about AI booed during graduation",
+  "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+  "publishedAt": "2026-05-18T10:50:25.000Z",
+  "ingestedAt": "2026-05-19T04:17:57.993Z",
+  "brief": "Eric Schmidt, former CEO of Google, was booed by students during a graduation speech when he discussed AI's potential benefits. The incident reflects growing student skepticism about AI adoption and the tech industry's framing of AI's impact.",
+  "tags": {
+    "category": [
+      "opinion",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

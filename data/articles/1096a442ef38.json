@@ -1,0 +1,24 @@
+{
+  "id": "1096a442ef38",
+  "source": "Ars Technica AI",
+  "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+  "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+  "publishedAt": "2026-05-18T18:09:41.000Z",
+  "ingestedAt": "2026-05-19T04:17:32.276Z",
+  "brief": "A jury unanimously ruled against Elon Musk's lawsuit against OpenAI, finding that he waited too long to file. The judge immediately affirmed the jury decision; Musk has indicated he plans to appeal.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

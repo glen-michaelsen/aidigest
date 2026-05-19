@@ -1,0 +1,24 @@
+{
+  "id": "1a4c6d4eb4d8",
+  "source": "MIT Technology Review",
+  "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+  "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+  "publishedAt": "2026-05-18T12:10:00.000Z",
+  "ingestedAt": "2026-05-19T04:17:41.491Z",
+  "brief": "Elon Musk and Sam Altman have reached the final week of their legal trial, with both sides presenting competing claims about credibility and OpenAI's founding principles. The jury will ultimately decide the outcome of this high-profile dispute between the two tech leaders.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

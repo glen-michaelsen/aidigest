@@ -1,0 +1,23 @@
+{
+  "id": "5f6a214efa12",
+  "source": "MIT Technology Review",
+  "title": "What to expect from Google this week",
+  "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+  "publishedAt": "2026-05-18T17:35:43.000Z",
+  "ingestedAt": "2026-05-19T04:17:36.402Z",
+  "brief": "Google faces significant pressure at its I/O developer conference as it positions itself as a third player in the foundation model race behind OpenAI and Anthropic. The article previews what to expect from Google's announcements at the event.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "b17834a9b8db",
+  "source": "TechCrunch AI",
+  "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+  "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+  "publishedAt": "2026-05-18T19:27:52.000Z",
+  "ingestedAt": "2026-05-19T04:17:18.014Z",
+  "brief": "Anthropic has acquired Stainless, a New York-based dev tools startup founded in 2022 that automates SDK generation and maintenance for APIs. Stainless was used by OpenAI, Google, and Cloudflare, positioning Anthropic to strengthen its developer infrastructure offerings.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "infrastructure"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "google",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

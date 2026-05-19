@@ -1,0 +1,35 @@
+{
+  "id": "8a1ced17d7f1",
+  "source": "Hacker News (AI)",
+  "title": "AI eats the world (Spring 26) [pdf]",
+  "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+  "publishedAt": "2026-05-18T12:49:28.000Z",
+  "ingestedAt": "2026-05-19T04:17:54.855Z",
+  "brief": "This PDF report surveys the current state of AI across multiple domains and companies in spring 2026, covering developments in large language models, image generation, robotics, and other emerging capabilities. The article appears to be a comprehensive overview of how AI technology is being integrated across industries and consumer applications.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "image-generation",
+      "robotics",
+      "agents",
+      "enterprise",
+      "consumer"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "deepmind",
+      "meta",
+      "microsoft",
+      "nvidia",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
