@@ -1,0 +1,24 @@
+{
+  "id": "13172a5f0b53",
+  "source": "The Verge AI",
+  "title": "Would you let robots spend your money? Google is betting on it",
+  "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
+  "publishedAt": "2026-05-19T17:45:00.000Z",
+  "ingestedAt": "2026-05-20T04:18:46.280Z",
+  "brief": "Google unveiled a \"Universal Cart\" at Google I/O that aggregates products across retailers and Google services (Search, Gemini, YouTube, Gmail), allowing users to browse and checkout seamlessly while tracking prices, inventory, and discounts. The move demonstrates Google's commitment to AI-driven commerce even as competitors scale back their shopping initiatives.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "commerce",
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

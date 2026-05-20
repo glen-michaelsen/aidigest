@@ -1,0 +1,24 @@
+{
+  "id": "142f54494ec4",
+  "source": "The Verge AI",
+  "title": "Google can now vibe-code you an Android app",
+  "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
+  "publishedAt": "2026-05-19T17:45:00.000Z",
+  "ingestedAt": "2026-05-20T04:18:44.470Z",
+  "brief": "Google has upgraded AI Studio to enable users to build native Android apps using AI prompts, with an embedded emulator for preview and the ability to install on physical Android devices. This \"initial release\" targets personal utility apps and represents a significant expansion of AI-assisted code generation to mobile app development.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "mobile"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a016ab02084a",
+  "source": "MIT Technology Review",
+  "title": "Roundtables: Inside the Musk v. Altman Trial",
+  "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+  "publishedAt": "2026-05-19T20:15:18.000Z",
+  "ingestedAt": "2026-05-20T04:18:58.975Z",
+  "brief": "Elon Musk's lawsuit against OpenAI over alleged deception regarding the company's non-profit status was dismissed. MIT Technology Review's legal correspondent Michelle Kim discusses the trial outcome and its implications for AI governance.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

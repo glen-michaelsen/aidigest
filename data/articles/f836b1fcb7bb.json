@@ -1,0 +1,24 @@
+{
+  "id": "f836b1fcb7bb",
+  "source": "The Verge AI",
+  "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+  "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+  "publishedAt": "2026-05-19T22:16:02.000Z",
+  "ingestedAt": "2026-05-20T04:18:29.533Z",
+  "brief": "At Google I/O, DeepMind CEO Demis Hassabis characterized the current moment as a pivotal turning point toward AGI, calling it \"the foothills of the singularity\" and framing AI as a \"force multiplier for human ingenuity.\" The statement reflects Google's positioning of its latest AI research and products as foundational steps toward transformative AI capabilities.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google",
+      "deepmind"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

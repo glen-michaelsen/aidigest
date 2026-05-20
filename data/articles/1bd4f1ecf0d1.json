@@ -1,0 +1,25 @@
+{
+  "id": "1bd4f1ecf0d1",
+  "source": "Hugging Face Blog",
+  "title": "Introducing the Ettin Reranker Family",
+  "url": "https://huggingface.co/blog/ettin-reranker",
+  "publishedAt": "2026-05-19T00:00:00.000Z",
+  "ingestedAt": "2026-05-20T04:19:16.749Z",
+  "brief": "Hugging Face introduced the Ettin Reranker Family, a suite of ranking models designed to improve relevance and retrieval accuracy in search and RAG systems. The models leverage advanced reranking techniques to boost precision in information retrieval tasks.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "open-source"
+    ],
+    "domain": [
+      "search",
+      "enterprise"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

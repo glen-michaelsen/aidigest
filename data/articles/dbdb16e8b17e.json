@@ -1,0 +1,25 @@
+{
+  "id": "dbdb16e8b17e",
+  "source": "The Verge AI",
+  "title": "Google’s AI future demands trust — and your personal data",
+  "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+  "publishedAt": "2026-05-19T21:00:00.000Z",
+  "ingestedAt": "2026-05-20T04:18:36.239Z",
+  "brief": "Google unveiled new AI-powered consumer tools at I/O 2026, including Gemini Spark (an always-on AI agent), Daily Brief, and expanded Gmail AI inbox features that generate to-do lists and draft emails. These products rely on processing personal data, raising questions about privacy and user trust in Google's AI-driven ecosystem.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

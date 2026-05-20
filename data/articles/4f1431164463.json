@@ -1,0 +1,25 @@
+{
+  "id": "4f1431164463",
+  "source": "OpenAI Blog",
+  "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+  "url": "https://openai.com/index/advancing-content-provenance",
+  "publishedAt": "2026-05-19T10:45:00.000Z",
+  "ingestedAt": "2026-05-20T04:19:12.481Z",
+  "brief": "OpenAI has launched Content Credentials and integrated SynthID to help identify and verify AI-generated media, advancing provenance tracking across images, video, and other content types. The tools aim to build transparency and trust in an ecosystem where AI-generated content is increasingly prevalent.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "image-generation",
+      "video-generation"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

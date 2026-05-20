@@ -1,0 +1,25 @@
+{
+  "id": "dbf460fe3189",
+  "source": "Ars Technica AI",
+  "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+  "url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+  "publishedAt": "2026-05-19T18:55:56.000Z",
+  "ingestedAt": "2026-05-20T04:18:48.663Z",
+  "brief": "Two AI-based science assistants successfully completed drug-retargeting tasks, with both generating hypotheses and one proceeding to analyze supporting data. The demonstration highlights AI's capability in accelerating early-stage drug discovery by automating hypothesis generation and data evaluation.",
+  "tags": {
+    "category": [
+      "research",
+      "product-launch"
+    ],
+    "domain": [
+      "healthcare",
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

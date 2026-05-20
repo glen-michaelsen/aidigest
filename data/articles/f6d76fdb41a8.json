@@ -1,0 +1,24 @@
+{
+  "id": "f6d76fdb41a8",
+  "source": "Ars Technica AI",
+  "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
+  "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
+  "publishedAt": "2026-05-19T18:11:50.000Z",
+  "ingestedAt": "2026-05-20T04:18:53.340Z",
+  "brief": "Google released Gemini 3.5 Flash, a more efficient version designed for agentic AI applications where speed and cost-effectiveness are critical. The company positions the model as a turning point for making AI agents economically viable and practical at scale.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

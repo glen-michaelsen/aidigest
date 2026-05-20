@@ -1,0 +1,25 @@
+{
+  "id": "68fab3a56f67",
+  "source": "The Verge AI",
+  "title": "The 13 biggest announcements at Google I/O 2026",
+  "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+  "publishedAt": "2026-05-19T17:54:33.000Z",
+  "ingestedAt": "2026-05-20T04:18:40.696Z",
+  "brief": "Google announced Gemini 3.5 Flash and Pro models at I/O 2026, with Flash becoming the default for the Gemini app and Search's AI Mode. The keynote also included updates to Gmail, Search features, and Project Aura smart glasses.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "search",
+      "hardware"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

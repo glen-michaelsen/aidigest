@@ -1,0 +1,25 @@
+{
+  "id": "bda6dcb3221f",
+  "source": "Hugging Face Blog",
+  "title": "OlmoEarth v1.1: A more efficient family of models",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+  "publishedAt": "2026-05-19T18:38:09.000Z",
+  "ingestedAt": "2026-05-20T04:19:15.028Z",
+  "brief": "Allen Institute releases OlmoEarth v1.1, an updated family of models designed for more efficient geospatial and climate modeling tasks. The improvements focus on computational efficiency while maintaining or improving predictive performance for Earth science applications.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3d6d30af3414",
+  "source": "VentureBeat AI",
+  "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+  "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+  "publishedAt": "2026-05-19T17:45:00.000Z",
+  "ingestedAt": "2026-05-20T04:18:57.348Z",
+  "brief": "Google redesigned its search box for the first time in 25 years, transforming it from a keyword input field into a dynamic, AI-driven interface that accepts text, images, PDFs, videos, and Chrome tabs. The company is merging AI Overviews and AI Mode into a single search experience powered by Gemini 3.5 Flash, which has already reached 1 billion monthly users with queries doubling quarterly, signaling a fundamental shift in how users interact with search.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

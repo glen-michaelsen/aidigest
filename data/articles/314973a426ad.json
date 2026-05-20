@@ -1,0 +1,27 @@
+{
+  "id": "314973a426ad",
+  "source": "The Verge AI",
+  "title": "Google wants to compete with Anthropic’s Mythos",
+  "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+  "publishedAt": "2026-05-19T17:48:22.000Z",
+  "ingestedAt": "2026-05-20T04:18:42.625Z",
+  "brief": "Google is expanding external access to CodeMender, an AI agent for code security that flags and fixes vulnerabilities, positioning it as a competitor to Anthropic's newly announced Claude Mythos. The tool, first debuted in October, is now being made available to select expert groups via API as part of Google's broader cybersecurity push.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "google",
+      "deepmind",
+      "anthropic"
+    ],
+    "model": [
+      "claude",
+      "none"
+    ]
+  }
+}

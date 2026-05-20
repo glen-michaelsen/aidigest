@@ -1,0 +1,25 @@
+{
+  "id": "08e39711a89d",
+  "source": "The Verge AI",
+  "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
+  "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+  "publishedAt": "2026-05-19T18:00:00.000Z",
+  "ingestedAt": "2026-05-20T04:18:38.138Z",
+  "brief": "Google and Volvo announced that Gemini will gain access to external cameras in the upcoming Volvo EX60 SUV, enabling the AI assistant to interpret surroundings for vehicle owners, starting with translating parking signs. The integration leverages Volvo's use of Google's embedded Android Automotive operating system and represents an expansion of Gemini's capabilities into vehicle-based computer vision and navigation assistance.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "robotics",
+      "automotive"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

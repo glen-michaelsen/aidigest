@@ -1,0 +1,27 @@
+{
+  "id": "09d26370b02f",
+  "source": "TechCrunch AI",
+  "title": "Google’s Genie world model can now simulate real streets with Street View",
+  "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+  "publishedAt": "2026-05-19T17:51:39.000Z",
+  "ingestedAt": "2026-05-20T04:18:26.095Z",
+  "brief": "Google DeepMind's Project Genie now integrates Street View data to generate interactive, simulated environments with weather dynamics and rare scenarios for robotics and gaming applications. This advancement enables users to explore and interact with realistic street-level simulations derived from real-world imagery.",
+  "tags": {
+    "category": [
+      "research",
+      "product-launch"
+    ],
+    "domain": [
+      "robotics",
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "google",
+      "deepmind"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

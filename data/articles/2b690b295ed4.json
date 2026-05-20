@@ -1,0 +1,23 @@
+{
+  "id": "2b690b295ed4",
+  "source": "MIT Technology Review",
+  "title": "Understanding the modern cybercrime landscape",
+  "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+  "publishedAt": "2026-05-19T13:00:00.000Z",
+  "ingestedAt": "2026-05-20T04:19:01.028Z",
+  "brief": "HPE's Threat Labs released its 2025 In the Wild Report showing that cybercriminals are increasingly industrializing their operations, using automation and AI to exploit vulnerabilities at greater scale and speed. The shift toward structured, automated attack methods represents a significant evolution in the modern threat landscape.",
+  "tags": {
+    "category": [
+      "safety"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

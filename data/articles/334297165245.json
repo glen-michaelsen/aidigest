@@ -1,0 +1,25 @@
+{
+  "id": "334297165245",
+  "source": "TechCrunch AI",
+  "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+  "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+  "publishedAt": "2026-05-19T17:51:30.000Z",
+  "ingestedAt": "2026-05-20T04:18:27.521Z",
+  "brief": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model, at its annual developer conference. The model can autonomously execute complex tasks and build software from scratch, signaling Google's strategic shift from chatbots toward agentic AI systems.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

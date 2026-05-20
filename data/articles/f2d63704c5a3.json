@@ -1,0 +1,24 @@
+{
+  "id": "f2d63704c5a3",
+  "source": "The Verge AI",
+  "title": "The future of Google is a search box that does everything",
+  "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
+  "publishedAt": "2026-05-19T21:24:14.000Z",
+  "ingestedAt": "2026-05-20T04:18:31.322Z",
+  "brief": "Google announced at its I/O keynote an expansion of its search box to support AI-powered suggestions and dynamic expansion for longer queries, positioning search as a comprehensive platform that goes beyond traditional web search. The update reflects Google's strategy to centralize more tasks and functionality within the search interface itself.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
