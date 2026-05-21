@@ -1,0 +1,25 @@
+{
+  "id": "1ed987606951",
+  "source": "TechCrunch AI",
+  "title": "Anthropic will pay xAI $1.25B per month for compute",
+  "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+  "publishedAt": "2026-05-20T21:29:22.000Z",
+  "ingestedAt": "2026-05-21T04:26:06.481Z",
+  "brief": "Anthropic has agreed to pay xAI $1.25 billion per month for compute resources, marking a significant partnership between the two AI companies. This deal demonstrates xAI's scale in offering computational infrastructure and provides Anthropic with dedicated capacity to support its AI development and model training.",
+  "tags": {
+    "category": [
+      "funding",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

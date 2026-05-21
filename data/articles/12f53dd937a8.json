@@ -1,0 +1,23 @@
+{
+  "id": "12f53dd937a8",
+  "source": "The Verge AI",
+  "title": "Google Search’s AI evolution includes more ads",
+  "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+  "publishedAt": "2026-05-20T16:00:00.000Z",
+  "ingestedAt": "2026-05-21T04:26:19.893Z",
+  "brief": "Google is integrating Gemini AI into Search ads, generating custom product explanations and recommendations when users search for items. The feature appears alongside sponsored products and represents Google's broader push to embed AI throughout its search experience.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

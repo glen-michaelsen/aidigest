@@ -1,0 +1,24 @@
+{
+  "id": "c405b695606e",
+  "source": "The Verge AI",
+  "title": "‘Solve all diseases,’ you say?",
+  "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+  "publishedAt": "2026-05-20T21:06:35.000Z",
+  "ingestedAt": "2026-05-21T04:26:13.740Z",
+  "brief": "At Google I/O, DeepMind CEO Demis Hassabis announced ambitions to \"reimagine the drug discovery process with the goal of one day solving all disease\" using AI. The statement reflects DeepMind's growing focus on AI applications in healthcare and drug discovery.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "deepmind",
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

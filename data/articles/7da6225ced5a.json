@@ -1,0 +1,24 @@
+{
+  "id": "7da6225ced5a",
+  "source": "Hacker News (AI)",
+  "title": "Formal Verification Gates for AI Coding Loops",
+  "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+  "publishedAt": "2026-05-20T15:25:45.000Z",
+  "ingestedAt": "2026-05-21T04:26:47.214Z",
+  "brief": "A researcher proposes using formal verification techniques as gates for AI coding loops, arguing that structural backpressure is more effective than scaling agent intelligence. The approach aims to improve reliability and controllability of AI systems in automated coding tasks.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

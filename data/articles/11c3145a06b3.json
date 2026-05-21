@@ -1,0 +1,23 @@
+{
+  "id": "11c3145a06b3",
+  "source": "The Verge AI",
+  "title": "If Google can’t make AI agents useful, maybe no one can",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+  "publishedAt": "2026-05-20T13:24:22.000Z",
+  "ingestedAt": "2026-05-21T04:26:23.484Z",
+  "brief": "Google announced new AI agents at I/O 2026 capable of gathering information, planning events, and summarizing inboxes and calendars, with the ability to run continuously in the background. The announcement comes as open-source platforms like OpenClaw have demonstrated practical viability for AI agents, and Google appears positioned to scale agent technology across its ecosystem.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

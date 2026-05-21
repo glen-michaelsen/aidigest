@@ -1,0 +1,23 @@
+{
+  "id": "19393ba01414",
+  "source": "TechCrunch AI",
+  "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+  "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+  "publishedAt": "2026-05-20T20:28:27.000Z",
+  "ingestedAt": "2026-05-21T04:26:08.152Z",
+  "brief": "OpenAI's reasoning model has disproved a geometry conjecture that has been unsolved since 1946, with validation from mathematicians who previously exposed OpenAI's incorrect claims about mathematical breakthroughs. This marks a significant achievement in using AI for advanced mathematical research, though the company's past missteps have raised scrutiny around its claims.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

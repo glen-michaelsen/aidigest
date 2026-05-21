@@ -1,0 +1,25 @@
+{
+  "id": "cb920945cfca",
+  "source": "OpenAI Blog",
+  "title": "How Ramp engineers accelerate code review with Codex",
+  "url": "https://openai.com/index/ramp",
+  "publishedAt": "2026-05-20T00:00:00.000Z",
+  "ingestedAt": "2026-05-21T04:26:37.437Z",
+  "brief": "Ramp engineers are using OpenAI's Codex with GPT-5.5 to accelerate code reviews, reducing feedback turnaround from hours to minutes. The integration allows developers to receive substantive code feedback faster, streamlining their deployment process.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

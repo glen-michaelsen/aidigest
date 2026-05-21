@@ -1,0 +1,23 @@
+{
+  "id": "4a9ea8c9649f",
+  "source": "Hacker News (AI)",
+  "title": "Learnings from 100K lines of Rust with AI (2025)",
+  "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+  "publishedAt": "2026-05-20T10:04:28.000Z",
+  "ingestedAt": "2026-05-21T04:26:52.308Z",
+  "brief": "A developer shares learnings from writing 100,000 lines of Rust code with Claude AI assistance, exploring patterns and challenges of spec-driven development at scale. The post documents practical insights into AI-augmented coding workflows and provides guidance for developers leveraging AI code generation tools.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

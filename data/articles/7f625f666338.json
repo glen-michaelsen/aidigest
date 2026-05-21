@@ -1,0 +1,23 @@
+{
+  "id": "7f625f666338",
+  "source": "OpenAI Blog",
+  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+  "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+  "publishedAt": "2026-05-20T00:00:00.000Z",
+  "ingestedAt": "2026-05-21T04:26:34.248Z",
+  "brief": "An OpenAI model has disproved a central conjecture in discrete geometry by solving the unit distance problem—an 80-year-old unsolved problem. This achievement demonstrates AI's capability to advance pure mathematics research in areas long considered intractable.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

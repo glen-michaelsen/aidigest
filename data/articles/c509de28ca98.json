@@ -1,0 +1,26 @@
+{
+  "id": "c509de28ca98",
+  "source": "The Verge AI",
+  "title": "It&#8217;s make or break time for AI labeling systems",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+  "publishedAt": "2026-05-20T14:12:54.000Z",
+  "ingestedAt": "2026-05-21T04:26:21.789Z",
+  "brief": "Google is expanding SynthID, its invisible watermarking technology for AI-generated content, alongside the C2PA Content Credentials standard to help people identify deepfakes and AI-generated images online. The expansion, announced at Google I/O, represents a critical test of whether these labeling systems can effectively combat misinformation spread through unlabeled synthetic media.",
+  "tags": {
+    "category": [
+      "safety",
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation",
+      "video-generation",
+      "audio"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

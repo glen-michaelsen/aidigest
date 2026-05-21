@@ -1,0 +1,24 @@
+{
+  "id": "80bab3ecc815",
+  "source": "Hacker News (AI)",
+  "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+  "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+  "publishedAt": "2026-05-20T10:57:09.000Z",
+  "ingestedAt": "2026-05-21T04:26:50.447Z",
+  "brief": "Google is implementing defensive measures against adversarial attacks designed to manipulate its AI-powered search results. The company is developing detection and mitigation techniques to prevent bad actors from gaming its algorithms for ranking and visibility.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

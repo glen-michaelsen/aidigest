@@ -1,0 +1,24 @@
+{
+  "id": "dfba00ff5aab",
+  "source": "The Verge AI",
+  "title": "You can now remix other people’s YouTube Shorts with AI",
+  "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+  "publishedAt": "2026-05-20T16:41:40.000Z",
+  "ingestedAt": "2026-05-21T04:26:18.098Z",
+  "brief": "Google launched a new YouTube Shorts Remix feature powered by Gemini that lets users restylize videos and insert themselves into clips through AI-driven prompts. Users can transform shorts into pixel art, anime, or horror film styles, as well as alter content like inflating heads or adding background actors, with creators able to opt in or out of the feature.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "video-generation",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}
