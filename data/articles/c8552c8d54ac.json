@@ -1,0 +1,27 @@
+{
+  "id": "c8552c8d54ac",
+  "source": "The Verge AI",
+  "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+  "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+  "publishedAt": "2026-05-21T13:35:52.000Z",
+  "ingestedAt": "2026-05-22T04:21:09.398Z",
+  "brief": "Anthropic agreed to pay SpaceX $1.25 billion per month ($15 billion annually) through May 2029 for access to SpaceX's Colossus data centers in Memphis, according to SpaceX's IPO filing. This partnership provides Anthropic with critical GPU infrastructure for training large AI models.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "funding"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "anthropic",
+      "xai"
+    ],
+    "model": [
+      "claude",
+      "other"
+    ]
+  }
+}

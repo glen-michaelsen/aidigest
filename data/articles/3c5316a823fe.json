@@ -1,0 +1,25 @@
+{
+  "id": "3c5316a823fe",
+  "source": "The Verge AI",
+  "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+  "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+  "publishedAt": "2026-05-21T15:47:29.000Z",
+  "ingestedAt": "2026-05-22T04:21:03.560Z",
+  "brief": "Spotify launched Studio, an AI agent app that generates personalized daily podcasts, briefings, and playlists from your listening history and connected apps like email and calendar. The agent can take autonomous actions including web browsing, research, and task completion, with generated content saveable to Spotify library in a research preview rollout.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "audio",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

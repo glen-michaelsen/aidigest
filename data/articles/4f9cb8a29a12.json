@@ -1,0 +1,23 @@
+{
+  "id": "4f9cb8a29a12",
+  "source": "Hacker News (AI)",
+  "title": "Throwing AI-generated walls of text into conversations",
+  "url": "https://noslopgrenade.com/",
+  "publishedAt": "2026-05-21T09:31:15.000Z",
+  "ingestedAt": "2026-05-22T04:21:53.151Z",
+  "brief": "A critical discussion on Hacker News about the negative impact of AI-generated text flooding conversations, where models produce verbose, low-quality responses that degrade discussion quality. The post highlights how large volumes of auto-generated content are becoming a problem across online communities, raising concerns about information quality and conversational value.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "85a3fdb43c80",
+  "source": "OpenAI Blog",
+  "title": "AdventHealth advances whole-person care with OpenAI",
+  "url": "https://openai.com/index/adventhealth",
+  "publishedAt": "2026-05-21T12:00:00.000Z",
+  "ingestedAt": "2026-05-22T04:21:31.967Z",
+  "brief": "AdventHealth is deploying ChatGPT for Healthcare to streamline clinical workflows and reduce administrative burden, freeing staff to focus more on direct patient care. The implementation reflects growing healthcare adoption of generative AI tools to improve operational efficiency.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

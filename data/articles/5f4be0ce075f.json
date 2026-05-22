@@ -1,0 +1,25 @@
+{
+  "id": "5f4be0ce075f",
+  "source": "The Verge AI",
+  "title": "This AI guitar pedal let me roll my own effects",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+  "publishedAt": "2026-05-21T17:00:00.000Z",
+  "ingestedAt": "2026-05-22T04:21:00.041Z",
+  "brief": "Polyend has launched Endless, a $299 AI-powered guitar pedal running an ARM processor that uses AI agents to generate custom effects from text prompts. The device lets musicians create and customize their own guitar effects through a companion software platform called Playground.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "audio",
+      "consumer",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

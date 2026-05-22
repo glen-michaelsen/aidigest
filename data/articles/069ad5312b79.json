@@ -1,0 +1,23 @@
+{
+  "id": "069ad5312b79",
+  "source": "Hacker News (AI)",
+  "title": "AI is just unauthorised plagiarism at a bigger scale",
+  "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+  "publishedAt": "2026-05-21T13:38:12.000Z",
+  "ingestedAt": "2026-05-22T04:21:49.390Z",
+  "brief": "An opinion piece argues that AI training on copyrighted material without permission constitutes plagiarism at scale, raising questions about intellectual property rights and the ethics of generative AI development. The article critiques the practice of using vast datasets of published works to train language models without compensating original creators.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

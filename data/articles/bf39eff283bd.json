@@ -1,0 +1,25 @@
+{
+  "id": "bf39eff283bd",
+  "source": "The Verge AI",
+  "title": "Musk v. Altman: Much ado about nothing",
+  "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+  "publishedAt": "2026-05-21T14:00:00.000Z",
+  "ingestedAt": "2026-05-22T04:21:07.433Z",
+  "brief": "Elon Musk lost his lawsuit against Sam Altman and OpenAI over the company's conversion to a for-profit entity; the jury found the case was filed after the statute of limitations expired. The trial, which became a public spectacle with daily protests and courtroom disruptions, revealed that Musk's real motivation was punishing Altman rather than pursuing substantive legal claims about charitable trust violations.",
+  "tags": {
+    "category": [
+      "incident",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

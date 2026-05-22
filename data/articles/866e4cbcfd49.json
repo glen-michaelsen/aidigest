@@ -1,0 +1,26 @@
+{
+  "id": "866e4cbcfd49",
+  "source": "Ars Technica AI",
+  "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+  "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+  "publishedAt": "2026-05-21T21:51:26.000Z",
+  "ingestedAt": "2026-05-22T04:21:11.456Z",
+  "brief": "SpaceX is positioning orbital data centers as a competitive advantage in AI infrastructure, as Grok faces mounting pressure from rival AI services. The company's recent IPO filing highlights this bet as a strategic move to differentiate itself in the crowded AI market.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "xai",
+      "other"
+    ],
+    "model": [
+      "grok"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f6318cb77e5d",
+  "source": "MIT Technology Review",
+  "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+  "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+  "publishedAt": "2026-05-21T14:30:45.000Z",
+  "ingestedAt": "2026-05-22T04:21:22.855Z",
+  "brief": "Anthropic held Code with Claude, a two-day developer conference in London showcasing Claude's coding capabilities and the future of AI-assisted software development. The event demonstrated Anthropic's push into the developer tools space while positioning Claude as a practical platform for production coding workflows.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

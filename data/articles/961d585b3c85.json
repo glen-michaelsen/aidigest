@@ -1,0 +1,23 @@
+{
+  "id": "961d585b3c85",
+  "source": "MIT Technology Review",
+  "title": "Roundtables: Can AI Learn to Understand the World?",
+  "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+  "publishedAt": "2026-05-21T20:41:05.000Z",
+  "ingestedAt": "2026-05-22T04:21:14.089Z",
+  "brief": "A roundtable discussion featuring MIT Technology Review editors explores whether AI systems can develop true world understanding and move beyond the limitations of current large language models. The conversation highlights recent advances in world models as a key frontier for AI development.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
