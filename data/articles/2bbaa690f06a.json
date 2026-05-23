@@ -1,0 +1,24 @@
+{
+  "id": "2bbaa690f06a",
+  "source": "The Verge AI",
+  "title": "The literary world isn’t prepared for AI",
+  "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+  "publishedAt": "2026-05-22T14:30:00.000Z",
+  "ingestedAt": "2026-05-23T03:59:35.309Z",
+  "brief": "An AI-generated short story appears to have won selection in the Commonwealth Short Story Prize, published in the prestigious British literary magazine Granta, raising questions about whether literary institutions can detect and prevent AI-authored submissions. The incident highlights gaps in screening processes and challenges traditional gatekeeping in publishing.",
+  "tags": {
+    "category": [
+      "incident",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

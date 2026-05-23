@@ -1,0 +1,25 @@
+{
+  "id": "88d8778ef348",
+  "source": "Ars Technica AI",
+  "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
+  "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+  "publishedAt": "2026-05-22T19:39:04.000Z",
+  "ingestedAt": "2026-05-23T03:59:44.616Z",
+  "brief": "US authorities are concerned about internet users using AI voice synthesis to recreate deceased pilots' voices from cockpit audio, circumventing an NTSB law that prohibits disclosure of such recordings. This raises questions about AI audio capabilities, regulatory enforcement, and the intersection of privacy, safety, and technology in aviation incidents.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

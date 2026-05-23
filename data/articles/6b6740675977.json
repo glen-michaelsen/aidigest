@@ -1,0 +1,24 @@
+{
+  "id": "6b6740675977",
+  "source": "Ars Technica AI",
+  "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+  "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+  "publishedAt": "2026-05-22T16:51:40.000Z",
+  "ingestedAt": "2026-05-23T03:59:50.762Z",
+  "brief": "Trump cancelled a planned executive order signing event on AI safety testing after top AI company CEOs declined attendance, subsequently claiming the testing requirements would impede innovation. The event's cancellation signals political pressure from industry leaders opposing regulatory guardrails.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

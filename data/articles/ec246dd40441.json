@@ -1,0 +1,23 @@
+{
+  "id": "ec246dd40441",
+  "source": "The Verge AI",
+  "title": "Elon, stop trying to make Grok happen",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+  "publishedAt": "2026-05-22T17:17:06.000Z",
+  "ingestedAt": "2026-05-23T03:59:33.377Z",
+  "brief": "Reuters analysis of federal AI procurement records shows Grok appearing in only 3 of 400+ documented government AI implementations, primarily for basic tasks like document drafting and social media management. The limited adoption suggests weak market traction for xAI's flagship chatbot despite Musk's central positioning of it in a potential IPO.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "xai"
+    ],
+    "model": [
+      "grok"
+    ]
+  }
+}

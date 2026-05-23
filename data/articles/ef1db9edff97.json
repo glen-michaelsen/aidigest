@@ -1,0 +1,25 @@
+{
+  "id": "ef1db9edff97",
+  "source": "OpenAI Blog",
+  "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+  "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+  "publishedAt": "2026-05-22T00:00:00.000Z",
+  "ingestedAt": "2026-05-23T04:00:00.785Z",
+  "brief": "OpenAI achieved Leader status in Gartner's 2026 Magic Quadrant for Enterprise AI Coding Agents, with its Codex model recognized for innovation and enterprise-scale deployment capabilities.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "coding",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

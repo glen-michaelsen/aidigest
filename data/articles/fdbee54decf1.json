@@ -1,0 +1,23 @@
+{
+  "id": "fdbee54decf1",
+  "source": "TechCrunch AI",
+  "title": "You can no longer Google the word ‘disregard’",
+  "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+  "publishedAt": "2026-05-22T16:16:48.000Z",
+  "ingestedAt": "2026-05-23T03:59:25.697Z",
+  "brief": "Google Search's AI-powered update has a critical bug where searching for the word \"disregard\" breaks the search interface, making it impossible to perform that specific search. The issue highlights potential vulnerabilities in AI-integrated search systems that may struggle with certain inputs or prompt-injection-like scenarios.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

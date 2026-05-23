@@ -1,0 +1,23 @@
+{
+  "id": "1d62850b4929",
+  "source": "The Verge AI",
+  "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+  "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+  "publishedAt": "2026-05-22T20:39:54.000Z",
+  "ingestedAt": "2026-05-23T03:59:31.580Z",
+  "brief": "Google's AI Overviews search feature malfunctioned when users searched for \"disregard,\" displaying irrelevant chatbot-style responses instead of summaries. The bug highlights reliability issues with Google's AI search integration and prompted the company to disable the feature for that query.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

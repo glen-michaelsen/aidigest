@@ -1,0 +1,24 @@
+{
+  "id": "4ce39150a4dc",
+  "source": "OpenAI Blog",
+  "title": "How Virgin Atlantic ships faster with Codex",
+  "url": "https://openai.com/index/virgin-atlantic",
+  "publishedAt": "2026-05-22T00:00:00.000Z",
+  "ingestedAt": "2026-05-23T04:00:02.794Z",
+  "brief": "Virgin Atlantic used GitHub Copilot's Codex to accelerate development of its revamped mobile app, achieving near-total unit test coverage and zero P1 defects while meeting a fixed holiday deadline. The case demonstrates how AI-assisted coding can improve both velocity and code quality in enterprise environments.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
