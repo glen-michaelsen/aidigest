@@ -1,0 +1,23 @@
+{
+  "id": "65518546ec73",
+  "source": "The Verge AI",
+  "title": "Google’s new anything-to-anything AI model is wild",
+  "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+  "publishedAt": "2026-05-23T11:00:00.000Z",
+  "ingestedAt": "2026-05-24T04:19:57.903Z",
+  "brief": "Google has demonstrated a new multimodal AI model capable of generating realistic videos from images and text, exemplified by the ability to create convincing footage of a stuffed animal in various scenarios. The capability highlights both the impressive progress in generative video tools and growing concerns about the ease of creating deepfakes and synthetic media.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "video-generation"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

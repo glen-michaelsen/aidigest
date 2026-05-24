@@ -1,0 +1,23 @@
+{
+  "id": "e7490cde6e0a",
+  "source": "Hugging Face Blog",
+  "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+  "publishedAt": "2026-05-23T00:02:03.000Z",
+  "ingestedAt": "2026-05-24T04:20:01.107Z",
+  "brief": "NVIDIA introduces Nemotron-Labs diffusion language models designed to accelerate text generation towards speed-of-light performance, departing from traditional autoregressive architectures. The approach aims to generate complete text sequences in parallel rather than token-by-token, potentially offering significant speed improvements for real-time applications.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "nvidia"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}
