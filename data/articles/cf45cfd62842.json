@@ -1,0 +1,23 @@
+{
+  "id": "cf45cfd62842",
+  "source": "TechCrunch AI",
+  "title": "Everyone is navigating AI security in real time — even Google",
+  "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+  "publishedAt": "2026-05-24T21:39:21.000Z",
+  "ingestedAt": "2026-05-25T04:42:10.525Z",
+  "brief": "Google acknowledges it is actively navigating AI security challenges in real time rather than having predetermined solutions, reflecting broader industry-wide uncertainty about how to safely deploy increasingly powerful AI systems.",
+  "tags": {
+    "category": [
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cc09eb87a07d",
+  "source": "The Verge AI",
+  "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+  "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+  "publishedAt": "2026-05-24T12:00:00.000Z",
+  "ingestedAt": "2026-05-25T04:42:14.198Z",
+  "brief": "Hackers are increasingly exploiting chatbot \"personalities\" and behavioral quirks to bypass safety guardrails, building on earlier jailbreak techniques that required minimal technical skill. The article examines how adversarial approaches have evolved beyond simple prompt injection to target the specific design and personality traits of AI systems.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
