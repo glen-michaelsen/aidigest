@@ -1,0 +1,25 @@
+{
+  "id": "b66bd8f4519d",
+  "source": "The Verge AI",
+  "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+  "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+  "publishedAt": "2026-05-25T15:05:07.000Z",
+  "ingestedAt": "2026-05-26T04:17:26.458Z",
+  "brief": "Pope Leo XIV released his first encyclical \"Magnifica Humanitas\" on May 25, 2026, calling for safeguarding human dignity in the age of AI and warning against risks from AI-powered warfare, labor displacement, and inadequate legal and ethical frameworks. The papal document emphasizes the need for new governance structures to address the economic and social upheaval caused by rapid AI adoption.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

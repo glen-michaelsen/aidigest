@@ -1,0 +1,24 @@
+{
+  "id": "b247c45326e5",
+  "source": "Hacker News (AI)",
+  "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+  "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+  "publishedAt": "2026-05-25T13:12:40.000Z",
+  "ingestedAt": "2026-05-26T04:17:41.083Z",
+  "brief": "Pope Leo issued an encyclical warning that opaque AI controlled by a small number of corporations risks creating \"new forms of dehumanization\" and threatens human dignity. The statement highlights concerns about algorithmic opacity and concentrated AI power among few firms.",
+  "tags": {
+    "category": [
+      "policy",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3ae5a86a36cf",
+  "source": "Hugging Face Blog",
+  "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+  "url": "https://huggingface.co/blog/agent-glossary",
+  "publishedAt": "2026-05-25T00:00:00.000Z",
+  "ingestedAt": "2026-05-26T04:17:31.456Z",
+  "brief": "This article examines key terminology in AI agent development—specifically \"harness,\" \"scaffold,\" and related terms—to establish precision in how the industry discusses agent architecture and implementation patterns. Accurate terminology matters for technical communication, research collaboration, and building shared understanding across teams developing autonomous AI systems.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

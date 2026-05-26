@@ -1,0 +1,24 @@
+{
+  "id": "2958e44acb3b",
+  "source": "OpenAI Blog",
+  "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+  "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+  "publishedAt": "2026-05-25T00:00:00.000Z",
+  "ingestedAt": "2026-05-26T04:17:29.171Z",
+  "brief": "OpenAI announced partnerships with Grupo Folha and Grupo UOL to integrate trusted Brazilian journalism into ChatGPT with proper attribution and transparency. The deal expands OpenAI's content partnerships globally and provides the news organizations with distribution and potential revenue opportunities.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "search"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "264de92e0f70",
+  "source": "Hacker News (AI)",
+  "title": "Using AI to write better code more slowly",
+  "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+  "publishedAt": "2026-05-25T23:16:59.000Z",
+  "ingestedAt": "2026-05-26T04:17:36.792Z",
+  "brief": "A developer explores how AI tools can improve code quality even when they slow down the writing process, challenging the common assumption that AI coding assistants primarily serve to accelerate development speed.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
