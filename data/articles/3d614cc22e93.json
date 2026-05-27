@@ -1,0 +1,26 @@
+{
+  "id": "3d614cc22e93",
+  "source": "Ars Technica AI",
+  "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+  "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+  "publishedAt": "2026-05-26T19:50:33.000Z",
+  "ingestedAt": "2026-05-27T04:40:31.733Z",
+  "brief": "A critical vulnerability dubbed \"BadHost\" was discovered in Starlette, a widely-used open-source Python package with 325 million weekly downloads, potentially exposing millions of AI agents and applications to attack. The vulnerability threatens systems relying on Starlette for web framework functionality.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident",
+      "open-source"
+    ],
+    "domain": [
+      "agents",
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

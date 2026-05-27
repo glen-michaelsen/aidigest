@@ -1,0 +1,24 @@
+{
+  "id": "1d06f4d554f5",
+  "source": "Ars Technica AI",
+  "title": "3D-printable humanoid legs let robotics experiments run wild",
+  "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+  "publishedAt": "2026-05-26T17:16:07.000Z",
+  "ingestedAt": "2026-05-27T04:40:36.348Z",
+  "brief": "Hugging Face released a $2,500 open-source bipedal robot design with 3D-printable legs, enabling builders and researchers to conduct robotics experiments at lower cost. The project democratizes access to humanoid robotics hardware for the research and maker communities.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "open-source"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

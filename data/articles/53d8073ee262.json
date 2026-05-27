@@ -1,0 +1,24 @@
+{
+  "id": "53d8073ee262",
+  "source": "Ars Technica AI",
+  "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+  "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+  "publishedAt": "2026-05-26T17:46:01.000Z",
+  "ingestedAt": "2026-05-27T04:40:34.231Z",
+  "brief": "An FBI agent demonstrated how easily non-consensual AI-generated pornography creators can be identified and traced through digital forensics, using a case where a saved Instagram post led to identifying a man running an AI porn account. The disclosure highlights both law enforcement's growing capability to prosecute these crimes and the persistent threat of image-based abuse enabled by generative AI.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "image-generation"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9025a1088f4c",
+  "source": "The Verge AI",
+  "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+  "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+  "publishedAt": "2026-05-26T14:00:00.000Z",
+  "ingestedAt": "2026-05-27T04:40:24.559Z",
+  "brief": "Sundar Pichai, CEO of Google and Alphabet, discusses Google's restructuring in response to AI competition, new Gemini models, and transformative changes to Search that integrate AI agents and will further reduce web traffic to publishers. The conversation covers how Google's organizational changes prioritize AI capabilities across Search, YouTube, and Google Cloud, and touches on the broader implications of \"Google Zero\" where search results increasingly answer queries directly rather than directing users to external websites.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "search"
+    ],
+    "company": [
+      "google",
+      "deepmind"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

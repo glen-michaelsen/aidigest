@@ -1,0 +1,23 @@
+{
+  "id": "d02e2f88c864",
+  "source": "The Verge AI",
+  "title": "Uber president says AI spending is getting ‘harder to justify’",
+  "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+  "publishedAt": "2026-05-26T09:55:09.000Z",
+  "ingestedAt": "2026-05-27T04:40:29.843Z",
+  "brief": "Uber has exhausted its annual AI budget four months into 2026 and is questioning its return on investment, with President Andrew Macdonald stating the company cannot draw a clear link between increased token consumption for Claude Code and tangible improvements in consumer features. The company's struggle reflects growing pressure across the industry to demonstrate concrete business value from AI spending rather than cost centers alone.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
