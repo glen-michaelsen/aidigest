@@ -1,0 +1,24 @@
+{
+  "id": "9da64821c60f",
+  "source": "OpenAI Blog",
+  "title": "Building self-improving tax agents with Codex",
+  "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+  "publishedAt": "2026-05-27T07:00:00.000Z",
+  "ingestedAt": "2026-05-28T04:20:39.852Z",
+  "brief": "OpenAI, Thrive, and Crete built a self-improving tax agent using Codex that automates tax filings and improves accuracy across workflows. The agent demonstrates how code-generating models can be applied to enterprise compliance tasks, reducing manual effort and accelerating tax preparation processes.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

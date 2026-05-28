@@ -1,0 +1,23 @@
+{
+  "id": "98ff7fa7290f",
+  "source": "The Verge AI",
+  "title": "YouTube is putting AI labels where you’ll actually see them",
+  "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+  "publishedAt": "2026-05-27T13:00:00.000Z",
+  "ingestedAt": "2026-05-28T04:20:22.841Z",
+  "brief": "YouTube is relocating and enhancing its AI disclosure labels on videos to make them more visible and discoverable, placing them directly below the video player rather than buried in descriptions. The platform will also automatically identify and label AI-generated content, part of Google's broader AI verification efforts announced at I/O.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "video-generation"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "601c71efa6b4",
+  "source": "Ars Technica AI",
+  "title": "YouTube to begin automatically labeling AI videos",
+  "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+  "publishedAt": "2026-05-27T17:36:10.000Z",
+  "ingestedAt": "2026-05-28T04:20:32.254Z",
+  "brief": "YouTube will begin automatically labeling videos created with AI, though the system may miss animated, unrealistic, or minimally AI-altered content. This policy aims to increase transparency about AI-generated media on the platform.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "video-generation"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

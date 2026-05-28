@@ -1,0 +1,23 @@
+{
+  "id": "5b218fefef6f",
+  "source": "Hugging Face Blog",
+  "title": "Reachy Mini goes fully local",
+  "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+  "publishedAt": "2026-05-27T00:00:00.000Z",
+  "ingestedAt": "2026-05-28T04:20:47.512Z",
+  "brief": "Reachy Mini, a compact robotic arm, now operates entirely on-device without requiring cloud connectivity, enabling offline autonomous control and inference for local applications. This shift to fully local processing enhances privacy, reduces latency, and improves reliability for roboticists and enterprises deploying the system in environments with limited internet access.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

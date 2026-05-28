@@ -1,0 +1,24 @@
+{
+  "id": "fae225528858",
+  "source": "OpenAI Blog",
+  "title": "Election information and safeguards in 2026",
+  "url": "https://openai.com/index/election-safeguards-2026",
+  "publishedAt": "2026-05-27T00:00:00.000Z",
+  "ingestedAt": "2026-05-28T04:20:41.671Z",
+  "brief": "A major AI company is implementing safeguards and transparency measures ahead of 2026 global elections, including efforts to ensure information access, support cybersecurity defenses, and improve AI system transparency. The initiative reflects growing industry focus on election integrity and responsible AI deployment during critical democratic events.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

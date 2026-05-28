@@ -1,0 +1,23 @@
+{
+  "id": "8ff63c21f892",
+  "source": "TechCrunch AI",
+  "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+  "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+  "publishedAt": "2026-05-27T14:14:10.000Z",
+  "ingestedAt": "2026-05-28T04:20:14.249Z",
+  "brief": "ElevenLabs launched a new music-generation model that allows users to regenerate specific sections of a song while preserving the rest of the track, enabling mid-track genre switches and granular editing control.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

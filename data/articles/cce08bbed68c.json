@@ -1,0 +1,25 @@
+{
+  "id": "cce08bbed68c",
+  "source": "The Verge AI",
+  "title": "Did the Pope use AI to write about the dangers of AI?",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+  "publishedAt": "2026-05-27T00:38:11.000Z",
+  "ingestedAt": "2026-05-28T04:20:28.415Z",
+  "brief": "Analysis by LessWrong user Linch Zhang suggests AI may have written 40-100% of Pope Leo XIV's encyclical \"Magnifica Humanitas\" on AI's dangers, with detection tools flagging characteristic patterns like unusual frequency of words associated with Anthropic's Claude. The finding raises questions about the irony of using AI to communicate concerns about AI's societal impact.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "other"
+    ]
+  }
+}

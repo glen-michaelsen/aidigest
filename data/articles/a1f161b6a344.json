@@ -1,0 +1,26 @@
+{
+  "id": "a1f161b6a344",
+  "source": "OpenAI Blog",
+  "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+  "url": "https://openai.com/index/cisco",
+  "publishedAt": "2026-05-27T11:00:00.000Z",
+  "ingestedAt": "2026-05-28T04:20:38.255Z",
+  "brief": "Cisco and OpenAI have partnered to deploy Codex for enterprise engineering, enabling AI-native development, accelerating AI Defense initiatives, and automating defect remediation across Cisco's operations.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "enterprise"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "cisco",
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

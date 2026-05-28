@@ -1,0 +1,23 @@
+{
+  "id": "d5e7d15d4978",
+  "source": "Hacker News (AI)",
+  "title": "YouTube to automatically label AI-generated videos",
+  "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+  "publishedAt": "2026-05-27T20:00:51.000Z",
+  "ingestedAt": "2026-05-28T04:20:54.229Z",
+  "brief": "YouTube will automatically label AI-generated videos with a disclosure badge to help viewers identify synthetic content. The policy aims to increase transparency around AI-generated material on the platform.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "video-generation"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f925d75ed22c",
+  "source": "Ars Technica AI",
+  "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+  "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+  "publishedAt": "2026-05-27T10:30:28.000Z",
+  "ingestedAt": "2026-05-28T04:20:34.195Z",
+  "brief": "U.S. law enforcement agencies have issued warnings about rising \"anti-tech extremism\" as hostility toward AI and technology companies intensifies, marking a new threat category for federal monitoring. The alert reflects growing concerns about potential violence or sabotage targeting AI developers and infrastructure.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

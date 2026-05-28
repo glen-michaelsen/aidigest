@@ -1,0 +1,24 @@
+{
+  "id": "819fd8ad239b",
+  "source": "The Verge AI",
+  "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+  "publishedAt": "2026-05-27T14:36:10.000Z",
+  "ingestedAt": "2026-05-28T04:20:19.711Z",
+  "brief": "Robinhood launched a feature allowing traders to create separate accounts for AI agents with designated capital to autonomously buy and sell stocks. The platform positions the tool as enabling automated investment strategies like sector monitoring and portfolio rebalancing, though it explicitly warns users that AI-driven trading carries substantial risk, including potential total loss of capital.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

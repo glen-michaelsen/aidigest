@@ -1,0 +1,25 @@
+{
+  "id": "a536483fe742",
+  "source": "Hacker News (AI)",
+  "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+  "url": "https://arps18.github.io/posts/claude-code-mastery/",
+  "publishedAt": "2026-05-27T05:13:39.000Z",
+  "ingestedAt": "2026-05-28T04:21:04.316Z",
+  "brief": "An analysis of Claude's code capabilities, exploring Claude.md configuration, Skills, Subagents, Plugins, and MCPs (Model Context Protocol) as practical tools for developers using Claude as their primary coding assistant. The article demonstrates how Anthropic's latest Claude features enable sophisticated, modular workflows for software development at scale.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

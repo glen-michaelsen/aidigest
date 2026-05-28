@@ -1,0 +1,25 @@
+{
+  "id": "b36c91942c4f",
+  "source": "OpenAI Blog",
+  "title": "Warp’s big bet on building open source with GPT-5.5",
+  "url": "https://openai.com/index/warp",
+  "publishedAt": "2026-05-27T00:00:00.000Z",
+  "ingestedAt": "2026-05-28T04:20:43.285Z",
+  "brief": "Warp is leveraging OpenAI's GPT-5.5 to power coding agents that coordinate development work across local machines, cloud platforms, and open-source environments. The move represents a significant bet on using frontier LLMs to orchestrate multi-environment development workflows.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

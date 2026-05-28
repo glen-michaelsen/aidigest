@@ -1,0 +1,25 @@
+{
+  "id": "a2692b987338",
+  "source": "The Verge AI",
+  "title": "The Pope isn’t AGI-pilled",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+  "publishedAt": "2026-05-27T12:00:00.000Z",
+  "ingestedAt": "2026-05-28T04:20:26.491Z",
+  "brief": "Pope Leo XIV released an encyclical on AI's societal implications, \"Magnifica Humanitas,\" warning that AI use affects rights and freedoms when applied to people's lives. The Vatican partnered with Anthropic cofounder Christopher Olah on the letter, signaling institutional engagement with AI ethics and policy.",
+  "tags": {
+    "category": [
+      "policy",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fb999f0220ea",
+  "source": "TechCrunch AI",
+  "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+  "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+  "publishedAt": "2026-05-27T20:10:00.000Z",
+  "ingestedAt": "2026-05-28T04:20:03.710Z",
+  "brief": "Snowflake signed a $6 billion five-year deal with AWS to secure AI CPU chips, signaling Amazon's growing efforts to reduce reliance on Nvidia for hardware supply. The partnership underscores competitive pressure in the AI chip market and Amazon's investment in custom silicon for cloud customers.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "chips",
+      "enterprise"
+    ],
+    "company": [
+      "amazon",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

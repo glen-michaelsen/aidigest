@@ -1,0 +1,25 @@
+{
+  "id": "f038836fd060",
+  "source": "Hacker News (AI)",
+  "title": "Training our own AI models",
+  "url": "https://posthog.com/blog/training-ai-models",
+  "publishedAt": "2026-05-27T16:08:42.000Z",
+  "ingestedAt": "2026-05-28T04:20:58.477Z",
+  "brief": "PostHog published details on training custom AI models for their product analytics platform, focusing on building proprietary models rather than relying solely on third-party APIs. The article outlines their approach to model development, infrastructure decisions, and lessons learned from bringing in-house AI capabilities.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
