@@ -1,0 +1,23 @@
+{
+  "id": "a44521486464",
+  "source": "The Verge AI",
+  "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+  "publishedAt": "2026-05-28T14:08:36.000Z",
+  "ingestedAt": "2026-05-29T04:23:07.968Z",
+  "brief": "CNN sued Perplexity in New York court, alleging the AI startup's answer engine generates verbatim copies of CNN's reporting and provides users access to subscription-locked content without permission or compensation. The suit claims Perplexity ignored CNN's attempts to block its crawlers from scraping content.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "search"
+    ],
+    "company": [
+      "perplexity"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

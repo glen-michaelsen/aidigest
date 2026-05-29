@@ -1,0 +1,26 @@
+{
+  "id": "c4a9a577612d",
+  "source": "OpenAI Blog",
+  "title": "How Endava builds an agentic organization with Codex",
+  "url": "https://openai.com/index/endava",
+  "publishedAt": "2026-05-28T12:00:00.000Z",
+  "ingestedAt": "2026-05-29T04:23:29.072Z",
+  "brief": "Endava has implemented Codex to enable agentic workflows that automate software delivery processes, reducing requirements analysis time from weeks to just hours. This demonstrates how enterprises are adopting AI agents to accelerate development cycles and improve organizational efficiency.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "enterprise"
+    ],
+    "domain": [
+      "coding",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

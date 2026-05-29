@@ -1,0 +1,25 @@
+{
+  "id": "11e6e2adfb18",
+  "source": "The Verge AI",
+  "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+  "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+  "publishedAt": "2026-05-28T20:14:07.000Z",
+  "ingestedAt": "2026-05-29T04:22:58.661Z",
+  "brief": "Microsoft launched a redesigned Microsoft 365 Copilot with faster load times (2x speed improvement), cleaner UI, and more structured responses. The update introduces \"progressive disclosure\" to show contextual tools based on user prompts and improved text formatting directly in the prompt box.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

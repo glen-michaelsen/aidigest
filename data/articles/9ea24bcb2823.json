@@ -1,0 +1,25 @@
+{
+  "id": "9ea24bcb2823",
+  "source": "Ars Technica AI",
+  "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+  "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+  "publishedAt": "2026-05-28T18:30:48.000Z",
+  "ingestedAt": "2026-05-29T04:23:18.763Z",
+  "brief": "Apple is working to compress Google's Gemini model to run on-device on iPhones to power a redesigned Siri, though a cloud-based component will likely still be necessary. This effort reflects the competitive push to integrate advanced AI capabilities directly into mobile devices while managing hardware constraints.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "apple",
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8f4bae1c3744",
+  "source": "Hacker News (AI)",
+  "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+  "url": "https://llmgame.scalex.dev",
+  "publishedAt": "2026-05-28T13:02:00.000Z",
+  "ingestedAt": "2026-05-29T04:23:46.946Z",
+  "brief": "A developer created a browser-based game that simulates the decision fatigue users experience when AI agents repeatedly request permissions, wrapped in a 60-second gameplay loop that mirrors real-world interactions with AI systems.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

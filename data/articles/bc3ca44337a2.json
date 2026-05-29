@@ -1,0 +1,25 @@
+{
+  "id": "bc3ca44337a2",
+  "source": "Ars Technica AI",
+  "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+  "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+  "publishedAt": "2026-05-28T20:29:53.000Z",
+  "ingestedAt": "2026-05-29T04:23:16.924Z",
+  "brief": "A developer embedded a malicious prompt injection in the jqwik library that instructs AI coding agents to delete application output, raising concerns about the security vulnerabilities of AI-assisted development workflows. The incident highlights risks when developers lack direct visibility into AI-generated code and demonstrates potential for sabotage through hidden prompts.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

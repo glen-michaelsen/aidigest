@@ -1,0 +1,24 @@
+{
+  "id": "3e9dde27d098",
+  "source": "OpenAI Blog",
+  "title": "OpenAI’s Frontier Governance Framework",
+  "url": "https://openai.com/index/openai-frontier-governance-framework",
+  "publishedAt": "2026-05-28T00:00:00.000Z",
+  "ingestedAt": "2026-05-29T04:23:31.040Z",
+  "brief": "OpenAI has published its Frontier Governance Framework, detailing its AI safety, security, and risk management practices designed to align with emerging EU and California regulations. The framework addresses how OpenAI approaches frontier model governance in response to evolving regulatory requirements.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

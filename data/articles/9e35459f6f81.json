@@ -1,0 +1,24 @@
+{
+  "id": "9e35459f6f81",
+  "source": "Hacker News (AI)",
+  "title": "Various LLM Smells",
+  "url": "https://shvbsle.in/various-llm-smells/",
+  "publishedAt": "2026-05-28T19:02:18.000Z",
+  "ingestedAt": "2026-05-29T04:23:42.209Z",
+  "brief": "An analysis of common problematic patterns and behaviors in large language models, categorizing various \"code smells\" equivalent issues that indicate underlying problems in model design, training, or deployment.",
+  "tags": {
+    "category": [
+      "opinion",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

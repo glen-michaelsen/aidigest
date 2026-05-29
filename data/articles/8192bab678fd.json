@@ -1,0 +1,23 @@
+{
+  "id": "8192bab678fd",
+  "source": "Hacker News (AI)",
+  "title": "Dynamic Workflows in Claude Code",
+  "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+  "publishedAt": "2026-05-28T16:52:21.000Z",
+  "ingestedAt": "2026-05-29T04:23:43.769Z",
+  "brief": "Anthropic introduced dynamic workflows in Claude Code, enabling developers to build more flexible and adaptive coding pipelines. The feature allows Claude to adjust execution flow based on runtime conditions, improving automation capabilities for complex development tasks.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

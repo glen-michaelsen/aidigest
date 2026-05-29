@@ -1,0 +1,24 @@
+{
+  "id": "2a84881edf73",
+  "source": "The Verge AI",
+  "title": "YouTube will let you ask AI to make a custom video feed",
+  "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+  "publishedAt": "2026-05-28T08:49:07.000Z",
+  "ingestedAt": "2026-05-29T04:23:12.406Z",
+  "brief": "YouTube is launching an AI feature that generates personalized video feeds based on user prompts describing desired content, moods, or topics. The feature is rolling out in English to US users on mobile and desktop, allowing users to pin custom feeds to their homepage for easy access.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "search",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

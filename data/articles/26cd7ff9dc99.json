@@ -1,0 +1,24 @@
+{
+  "id": "26cd7ff9dc99",
+  "source": "Ars Technica AI",
+  "title": "LLMs believe false statements even after explicit warnings that they're false",
+  "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+  "publishedAt": "2026-05-28T21:29:43.000Z",
+  "ingestedAt": "2026-05-29T04:23:14.456Z",
+  "brief": "Recent fine-tuning tests reveal that large language models maintain and confidently assert false statements even when explicitly warned they are false, indicating a systematic bias toward treating claims as true. This finding highlights a critical safety and reliability issue: LLMs can't reliably distinguish or suppress falsehoods, raising concerns about their use in applications requiring factual accuracy.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

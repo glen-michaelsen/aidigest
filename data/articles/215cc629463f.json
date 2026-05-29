@@ -1,0 +1,24 @@
+{
+  "id": "215cc629463f",
+  "source": "TechCrunch AI",
+  "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+  "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+  "publishedAt": "2026-05-28T17:00:09.000Z",
+  "ingestedAt": "2026-05-29T04:22:52.834Z",
+  "brief": "Anthropic released Claude Opus 4.8, a new version of its flagship LLM featuring Dynamic Workflows, a tool designed to coordinate multiple subagents for complex task execution. This capability enables more sophisticated multi-agent workflows within a single model system.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

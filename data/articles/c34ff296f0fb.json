@@ -1,0 +1,25 @@
+{
+  "id": "c34ff296f0fb",
+  "source": "Ars Technica AI",
+  "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+  "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+  "publishedAt": "2026-05-28T17:01:16.000Z",
+  "ingestedAt": "2026-05-29T04:23:20.415Z",
+  "brief": "Illinois passed a landmark AI safety testing law with support from Anthropic and OpenAI, representing a significant state-level regulatory action independent of federal authority. The law establishes testing requirements that major AI companies have endorsed, potentially setting a precedent for other states despite potential federal policy shifts.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

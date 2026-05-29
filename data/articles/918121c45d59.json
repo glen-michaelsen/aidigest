@@ -1,0 +1,23 @@
+{
+  "id": "918121c45d59",
+  "source": "Hacker News (AI)",
+  "title": "Claude Opus 4.8",
+  "url": "https://www.anthropic.com/news/claude-opus-4-8",
+  "publishedAt": "2026-05-28T16:49:14.000Z",
+  "ingestedAt": "2026-05-29T04:23:45.238Z",
+  "brief": "Anthropic has released Claude Opus 4.8, an updated version of its flagship large language model. The release comes with improvements to model performance and capabilities across reasoning, coding, and instruction-following tasks.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2259730a105c",
+  "source": "The Verge AI",
+  "title": "Claude’s new model is more ‘honest’ when it messes up",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+  "publishedAt": "2026-05-28T17:00:00.000Z",
+  "ingestedAt": "2026-05-29T04:23:00.280Z",
+  "brief": "Anthropic is releasing Claude Opus 4.8, which the company says is trained to be more \"honest\" about its limitations and uncertainties. Early testing shows the model is approximately 4x less likely to make unsupported claims compared to its predecessor, addressing a known problem where AI models confidently present work despite weak evidence.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e4cf99633805",
+  "source": "Hacker News (AI)",
+  "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+  "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+  "publishedAt": "2026-05-28T06:40:31.000Z",
+  "ingestedAt": "2026-05-29T04:23:50.548Z",
+  "brief": "Researchers at India's Indian Institute of Science have developed a \"Eureka machine\" that uses symbolic reasoning and evolutionary algorithms to discover scientific laws and physical phenomena that large language models cannot identify. The system, which mimics nature-like exploration processes, represents an alternative approach to AI discovery that complements rather than replaces neural network-based methods.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

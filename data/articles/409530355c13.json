@@ -1,0 +1,27 @@
+{
+  "id": "409530355c13",
+  "source": "TechCrunch AI",
+  "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+  "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+  "publishedAt": "2026-05-28T15:36:00.000Z",
+  "ingestedAt": "2026-05-29T04:22:54.773Z",
+  "brief": "Elon Musk has publicly characterized xAI's compute deal with Anthropic as short-term and cancellable, contradicting SpaceX's S-1 filing which indicates the lease commitments extend through May 2029. The discrepancy highlights tensions around the multi-year financial commitment and Musk's public messaging.",
+  "tags": {
+    "category": [
+      "opinion",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "anthropic",
+      "xai",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
