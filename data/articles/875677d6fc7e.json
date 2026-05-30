@@ -1,0 +1,25 @@
+{
+  "id": "875677d6fc7e",
+  "source": "The Verge AI",
+  "title": "Adobe’s conversational AI agent is a mediocre design intern",
+  "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+  "publishedAt": "2026-05-29T10:00:00.000Z",
+  "ingestedAt": "2026-05-30T04:08:26.571Z",
+  "brief": "Adobe released a beta conversational AI agent called Firefly AI Assistant that acts as a multitasking middleman to automate design busywork across Adobe's apps while maintaining user creative control. The reviewer found the agent's explanations of its edits clear but the actual design results underwhelming, positioning it more as a workflow assistant than a generative tool.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "image-generation",
+      "agents"
+    ],
+    "company": [
+      "adobe"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

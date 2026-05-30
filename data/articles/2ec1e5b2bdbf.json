@@ -1,0 +1,24 @@
+{
+  "id": "2ec1e5b2bdbf",
+  "source": "Hacker News (AI)",
+  "title": "Notes from the Mistral AI Now Summit",
+  "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+  "publishedAt": "2026-05-29T16:22:01.000Z",
+  "ingestedAt": "2026-05-30T04:08:47.957Z",
+  "brief": "Mistral held its \"AI Now Summit\" to showcase its latest developments and vision in open-source AI. The event featured announcements and discussions around Mistral's models, partnerships, and position in the rapidly evolving AI landscape.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "mistral"
+    ],
+    "model": [
+      "mistral"
+    ]
+  }
+}

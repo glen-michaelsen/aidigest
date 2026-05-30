@@ -1,0 +1,23 @@
+{
+  "id": "3a0de4c981f2",
+  "source": "Hacker News (AI)",
+  "title": "Claude Code – Everything you can configure that the docs don't tell you",
+  "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+  "publishedAt": "2026-05-29T02:13:20.000Z",
+  "ingestedAt": "2026-05-30T04:08:58.721Z",
+  "brief": "A technical deep-dive into Claude Code's undocumented configuration options discovered by examining the source code. The analysis reveals customization capabilities not covered in official documentation, providing developers with insights into how to configure the tool beyond public guidance.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

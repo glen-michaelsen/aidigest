@@ -1,0 +1,23 @@
+{
+  "id": "3b42cc280c2c",
+  "source": "Hacker News (AI)",
+  "title": "Is AI causing a repeat of frontend’s lost decade?",
+  "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+  "publishedAt": "2026-05-29T11:09:32.000Z",
+  "ingestedAt": "2026-05-30T04:08:55.075Z",
+  "brief": "An opinion piece argues that AI tooling is fragmenting the frontend development ecosystem similarly to how it stagnated in the \"lost decade,\" with proliferation of competing AI-assisted frameworks and tools potentially slowing innovation and creating maintenance burdens for developers.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

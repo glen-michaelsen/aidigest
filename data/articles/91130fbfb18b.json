@@ -1,0 +1,24 @@
+{
+  "id": "91130fbfb18b",
+  "source": "Hacker News (AI)",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "publishedAt": "2026-05-29T16:19:54.000Z",
+  "ingestedAt": "2026-05-30T04:08:49.473Z",
+  "brief": "Liquid AI released an 8B parameter mixture-of-experts (MoE) model trained on 38 trillion tokens, demonstrating efficiency gains through their architecture approach. The model represents advances in parameter-efficient training at scale for open research.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

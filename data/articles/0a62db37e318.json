@@ -1,0 +1,23 @@
+{
+  "id": "0a62db37e318",
+  "source": "The Verge AI",
+  "title": "This AI startup will clean your home for free to train future robots",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+  "publishedAt": "2026-05-29T11:58:40.000Z",
+  "ingestedAt": "2026-05-30T04:08:24.219Z",
+  "brief": "AI training startup Shift is offering free home cleaning services in exchange for recording video data to train household robots. The company claims the value of training data generated from cleanings covers the service cost, creating a data-for-labor trade-off model.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "10952d2b3876",
+  "source": "Hacker News (AI)",
+  "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+  "url": "https://github.com/jmaczan/tiny-vllm",
+  "publishedAt": "2026-05-29T19:38:27.000Z",
+  "ingestedAt": "2026-05-30T04:08:46.282Z",
+  "brief": "Tiny-vLLM is an open-source high-performance LLM inference engine written in C++ and CUDA, designed for efficient model serving. The project demonstrates how to build a lean inference framework optimized for speed and resource efficiency.",
+  "tags": {
+    "category": [
+      "open-source",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

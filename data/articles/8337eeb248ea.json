@@ -1,0 +1,25 @@
+{
+  "id": "8337eeb248ea",
+  "source": "OpenAI Blog",
+  "title": "Strengthening societal resilience with Rosalind Biodefense",
+  "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+  "publishedAt": "2026-05-29T03:00:00.000Z",
+  "ingestedAt": "2026-05-30T04:08:39.177Z",
+  "brief": "OpenAI has launched Rosalind Biodefense, a program granting vetted developers and U.S. government partners trusted access to GPT-Rosalind for advancing biodefense, public health, and pandemic preparedness applications.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "healthcare"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e63fa88b5624",
+  "source": "OpenAI Blog",
+  "title": "Boston Children’s uses AI to unlock new diagnoses",
+  "url": "https://openai.com/index/boston-childrens-hospital",
+  "publishedAt": "2026-05-29T12:00:00.000Z",
+  "ingestedAt": "2026-05-30T04:08:36.133Z",
+  "brief": "Boston Children's Hospital deployed OpenAI technology to help diagnose more than 40 rare disease cases, improving patient care while reducing operational burden. The application demonstrates AI's potential in clinical settings to accelerate rare disease diagnosis, where traditional approaches often miss conditions.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

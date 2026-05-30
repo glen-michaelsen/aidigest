@@ -1,0 +1,23 @@
+{
+  "id": "357d064be869",
+  "source": "Hugging Face Blog",
+  "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+  "url": "https://huggingface.co/blog/torch-profiler",
+  "publishedAt": "2026-05-29T00:00:00.000Z",
+  "ingestedAt": "2026-05-30T04:08:44.022Z",
+  "brief": "A technical guide to PyTorch's torch.profiler tool for measuring model performance, helping developers identify computational bottlenecks and optimize training efficiency.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "hardware"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

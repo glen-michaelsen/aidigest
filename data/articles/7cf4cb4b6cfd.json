@@ -1,0 +1,23 @@
+{
+  "id": "7cf4cb4b6cfd",
+  "source": "The Verge AI",
+  "title": "Tech companies desperately want to film you doing chores",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+  "publishedAt": "2026-05-29T17:37:43.000Z",
+  "ingestedAt": "2026-05-30T04:08:20.910Z",
+  "brief": "Shift, an AI training startup, is offering free home cleaning in New York and London in exchange for video footage of cleaners performing domestic tasks. The company plans to use this data to train robotics systems for household automation, representing a broader industry trend of collecting real-world footage to develop autonomous cleaning robots.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

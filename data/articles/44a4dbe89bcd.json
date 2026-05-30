@@ -1,0 +1,23 @@
+{
+  "id": "44a4dbe89bcd",
+  "source": "Ars Technica AI",
+  "title": "Startup offers free home cleaning—if it can record it all for robot training",
+  "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+  "publishedAt": "2026-05-29T16:16:14.000Z",
+  "ingestedAt": "2026-05-30T04:08:28.889Z",
+  "brief": "A startup is offering free home cleaning services in exchange for permission to record customers performing household tasks for robot training data. The model leverages human activity footage to develop robotic systems capable of autonomous cleaning and domestic work.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

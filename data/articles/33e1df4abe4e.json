@@ -1,0 +1,24 @@
+{
+  "id": "33e1df4abe4e",
+  "source": "OpenAI Blog",
+  "title": "A shared playbook for trustworthy third party evaluations",
+  "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+  "publishedAt": "2026-05-29T00:00:00.000Z",
+  "ingestedAt": "2026-05-30T04:08:41.634Z",
+  "brief": "OpenAI published guidance on conducting trustworthy third-party evaluations of frontier AI systems, outlining best practices for assessing model capabilities, safeguards, and evaluation validity. The playbook aims to establish consistent standards for independent AI model auditing and safety assessment.",
+  "tags": {
+    "category": [
+      "safety",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
