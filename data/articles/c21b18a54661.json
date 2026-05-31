@@ -1,0 +1,23 @@
+{
+  "id": "c21b18a54661",
+  "source": "Hacker News (AI)",
+  "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+  "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+  "publishedAt": "2026-05-30T12:17:33.000Z",
+  "ingestedAt": "2026-05-31T04:42:51.629Z",
+  "brief": "Corporate enterprises are implementing usage caps and rationing strategies for AI tools as operational costs escalate significantly. Companies are restricting employee access and implementing governance policies to control spending on AI services, reflecting concerns about sustainability of widespread AI adoption at current pricing levels.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

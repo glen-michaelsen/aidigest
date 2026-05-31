@@ -1,0 +1,26 @@
+{
+  "id": "724f3d4ba491",
+  "source": "TechCrunch AI",
+  "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+  "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+  "publishedAt": "2026-05-30T15:30:00.000Z",
+  "ingestedAt": "2026-05-31T04:42:34.025Z",
+  "brief": "Google's Gemini Spark is a 24/7 AI assistant that automates everyday tasks like email summaries and event planning. The article questions why Google positioned it as a standalone product rather than integrating it directly into existing Gemini services.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "consumer",
+      "agents"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}
