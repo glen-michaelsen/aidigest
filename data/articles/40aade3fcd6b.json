@@ -1,0 +1,25 @@
+{
+  "id": "40aade3fcd6b",
+  "source": "Ars Technica AI",
+  "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+  "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+  "publishedAt": "2026-06-01T17:41:47.000Z",
+  "ingestedAt": "2026-06-02T04:51:14.661Z",
+  "brief": "General Motors is using AI/ML to accelerate vehicle development processes, reducing simulation times from 15 hours to one minute through digital twins, CFD (Computational Fluid Dynamics), and FEA (Finite Element Analysis). The shift to virtualized design and engineering workflows is streamlining GM's product development cycle and enabling faster iteration on vehicle designs.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "hardware",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

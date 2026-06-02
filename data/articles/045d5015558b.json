@@ -1,0 +1,24 @@
+{
+  "id": "045d5015558b",
+  "source": "Hacker News (AI)",
+  "title": "Florida sues OpenAI and Sam Altman over AI risks",
+  "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+  "publishedAt": "2026-06-01T16:02:04.000Z",
+  "ingestedAt": "2026-06-02T04:51:42.834Z",
+  "brief": "Florida's attorney general sued OpenAI and CEO Sam Altman, alleging the company misrepresented AI safety risks and violated consumer protection laws. The lawsuit represents a significant regulatory challenge to OpenAI's claims about its AI safety practices and transparency.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

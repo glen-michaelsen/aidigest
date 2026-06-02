@@ -1,0 +1,27 @@
+{
+  "id": "2877f2cf20c8",
+  "source": "Hacker News (AI)",
+  "title": "AI Agent Guidelines for CS336 at Stanford",
+  "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+  "publishedAt": "2026-06-01T16:41:49.000Z",
+  "ingestedAt": "2026-06-02T04:51:41.401Z",
+  "brief": "Stanford's CS336 course published guidelines for using AI agents in coursework, sparking discussion about academic integrity in the age of AI tools. The guidelines address how students can leverage AI assistants like Claude while maintaining learning outcomes.",
+  "tags": {
+    "category": [
+      "policy",
+      "education"
+    ],
+    "domain": [
+      "agents",
+      "education"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b5bf7fc1ab3f",
+  "source": "Ars Technica AI",
+  "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+  "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+  "publishedAt": "2026-06-01T11:00:00.000Z",
+  "ingestedAt": "2026-06-02T04:51:19.556Z",
+  "brief": "OpenAI's model solved a longstanding mathematical problem that had eluded researchers for 80 years, demonstrating advanced reasoning capabilities on a difficult theoretical challenge.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

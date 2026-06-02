@@ -1,0 +1,24 @@
+{
+  "id": "2995ca1c3636",
+  "source": "Hugging Face Blog",
+  "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+  "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+  "publishedAt": "2026-06-01T15:45:17.000Z",
+  "ingestedAt": "2026-06-02T04:51:30.586Z",
+  "brief": "JetBrains unveiled Mellum2, a 12 billion parameter mixture-of-experts language model designed to advance open-source AI capabilities. This release represents JetBrains' entry into large language model development, positioning the company alongside other open-source model contributors.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

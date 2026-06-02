@@ -1,0 +1,24 @@
+{
+  "id": "c8b9a6b007c1",
+  "source": "OpenAI Blog",
+  "title": "Our views on AI policy and political advocacy",
+  "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+  "publishedAt": "2026-06-01T17:00:00.000Z",
+  "ingestedAt": "2026-06-02T04:51:25.573Z",
+  "brief": "Anthropic published a statement on its AI policy approach, emphasizing transparency, support for thoughtful regulation, AI safety prioritization, and clarifying that no external political group represents the company in advocacy efforts.",
+  "tags": {
+    "category": [
+      "policy",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

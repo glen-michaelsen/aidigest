@@ -1,0 +1,24 @@
+{
+  "id": "603286981928",
+  "source": "Ars Technica AI",
+  "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+  "url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+  "publishedAt": "2026-06-01T17:17:55.000Z",
+  "ingestedAt": "2026-06-02T04:51:16.717Z",
+  "brief": "A startup testing robots in rented Airbnbs allegedly caused $12,000 in damages to a home, resulting in a lawsuit against the company. The incident highlights liability and safety concerns around autonomous robotics in real-world environments.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

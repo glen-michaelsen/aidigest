@@ -1,0 +1,25 @@
+{
+  "id": "9d13d98ea502",
+  "source": "The Verge AI",
+  "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+  "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+  "publishedAt": "2026-06-01T14:06:44.000Z",
+  "ingestedAt": "2026-06-02T04:51:07.690Z",
+  "brief": "Strava is restricting API access and requiring developers to pay $11.99/month to combat AI scraping and zero-code tools that have increased developer applications by 448% year-to-date and degraded platform performance. The fitness platform says API intermediaries violated policy terms and scrapers have created significant infrastructure strain.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "consumer",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

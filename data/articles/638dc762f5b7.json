@@ -1,0 +1,24 @@
+{
+  "id": "638dc762f5b7",
+  "source": "The Verge AI",
+  "title": "Gemini’s new AI agent is about as good as Google’s demo",
+  "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+  "publishedAt": "2026-06-01T20:00:00.000Z",
+  "ingestedAt": "2026-06-02T04:50:56.403Z",
+  "brief": "Google launched Gemini Spark, a 24/7 AI agent capable of handling multi-step tasks in the background, but early hands-on testing shows it performs at roughly the level of Google's public demonstrations. The agent raises concerns about pricing and privacy trade-offs despite safety features like user checkpoints for major actions.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

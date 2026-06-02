@@ -1,0 +1,25 @@
+{
+  "id": "dadd123def02",
+  "source": "OpenAI Blog",
+  "title": "Building the infrastructure for the Intelligence Age in Michigan",
+  "url": "https://openai.com/index/stargate-michigan-data-center",
+  "publishedAt": "2026-06-01T12:00:00.000Z",
+  "ingestedAt": "2026-06-02T04:51:26.990Z",
+  "brief": "OpenAI has broken ground on a 1GW data center in Michigan as part of the Stargate infrastructure project, aimed at expanding AI access and creating jobs in the region. The facility represents a major investment in physical infrastructure to support large-scale AI model training and deployment.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

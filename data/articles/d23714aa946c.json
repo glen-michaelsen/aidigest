@@ -1,0 +1,25 @@
+{
+  "id": "d23714aa946c",
+  "source": "Ars Technica AI",
+  "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+  "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+  "publishedAt": "2026-06-01T20:44:37.000Z",
+  "ingestedAt": "2026-06-02T04:51:11.040Z",
+  "brief": "Hackers exploited a vulnerability in Meta's AI support chatbot to gain unauthorized access to celebrity Instagram accounts, stealing premium handles before Meta patched the flaw. The incident highlights security gaps in AI-powered support systems that have direct access to account recovery mechanisms.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

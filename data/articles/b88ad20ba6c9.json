@@ -1,0 +1,24 @@
+{
+  "id": "b88ad20ba6c9",
+  "source": "The Verge AI",
+  "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+  "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+  "publishedAt": "2026-06-01T14:39:03.000Z",
+  "ingestedAt": "2026-06-02T04:51:01.518Z",
+  "brief": "Microsoft is preparing to announce new AI models and Windows improvements at its Build conference, including a new reasoning model from Microsoft AI and a Copilot \"super app\" aimed at developer trust and engagement. The company is using the event to demonstrate its AI-first strategy and address declining developer confidence in Windows and GitHub.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

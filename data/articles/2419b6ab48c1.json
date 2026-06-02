@@ -1,0 +1,24 @@
+{
+  "id": "2419b6ab48c1",
+  "source": "The Verge AI",
+  "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+  "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+  "publishedAt": "2026-06-01T20:02:31.000Z",
+  "ingestedAt": "2026-06-02T04:50:54.545Z",
+  "brief": "Nvidia announced RTX Spark, a new consumer laptop chip for Windows devices that aims to match Apple's M1 performance with better graphics capabilities than current Qualcomm chips. The launch could represent a major shift in Windows laptop performance, though pricing is expected to be premium.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "nvidia"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

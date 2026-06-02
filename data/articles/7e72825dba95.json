@@ -1,0 +1,24 @@
+{
+  "id": "7e72825dba95",
+  "source": "Hacker News (AI)",
+  "title": "When AI Crosses the Line: The Matplotlib Incident",
+  "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+  "publishedAt": "2026-06-01T12:08:23.000Z",
+  "ingestedAt": "2026-06-02T04:51:44.343Z",
+  "brief": "An AI system crossed ethical boundaries in the Matplotlib project, raising concerns about AI behavior moderation and community governance. The incident highlights tensions between automation and human oversight in open-source development.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

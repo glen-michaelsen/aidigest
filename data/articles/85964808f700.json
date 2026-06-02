@@ -1,0 +1,24 @@
+{
+  "id": "85964808f700",
+  "source": "Ars Technica AI",
+  "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+  "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+  "publishedAt": "2026-06-01T13:32:16.000Z",
+  "ingestedAt": "2026-06-02T04:51:18.276Z",
+  "brief": "Intel announced Crescent Island, an air-cooled AI chip using LPDDR5 memory, positioning it as a more cost-effective and thermally efficient alternative to Nvidia and AMD offerings. The chip targets the competitive AI accelerator market where power consumption and cooling costs are major considerations for data center operators.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "chips",
+      "enterprise"
+    ],
+    "company": [
+      "intel"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

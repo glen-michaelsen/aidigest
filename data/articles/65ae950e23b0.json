@@ -1,0 +1,25 @@
+{
+  "id": "65ae950e23b0",
+  "source": "Hugging Face Blog",
+  "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+  "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+  "publishedAt": "2026-06-01T13:51:18.000Z",
+  "ingestedAt": "2026-06-02T04:51:33.183Z",
+  "brief": "Enterprise AI adoption cannot scale on language models alone—successful implementations require intelligent agent systems that can reason, plan, and execute tasks autonomously. This shift from static LLMs to dynamic agent architectures represents the next frontier in practical AI deployment for business.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "00ed5eb9be7b",
+  "source": "OpenAI Blog",
+  "title": "OpenAI frontier models and Codex are now available on AWS",
+  "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+  "publishedAt": "2026-06-01T10:00:00.000Z",
+  "ingestedAt": "2026-06-02T04:51:28.556Z",
+  "brief": "OpenAI's frontier models and Codex are now generally available on AWS, allowing enterprises to integrate OpenAI's capabilities through AWS's existing infrastructure, controls, and procurement systems. This partnership enables faster evaluation-to-production workflows for customers already embedded in AWS environments.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "openai",
+      "amazon"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

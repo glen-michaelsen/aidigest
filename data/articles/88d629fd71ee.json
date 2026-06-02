@@ -1,0 +1,23 @@
+{
+  "id": "88d629fd71ee",
+  "source": "Ars Technica AI",
+  "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+  "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+  "publishedAt": "2026-06-01T22:18:09.000Z",
+  "ingestedAt": "2026-06-02T04:51:09.510Z",
+  "brief": "GitHub Copilot introduced a new usage-based pricing model, prompting backlash from users who report exhausting their monthly AI credits in a single day. The change represents a shift from flat-rate subscriptions to consumption-based billing for the code completion service.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

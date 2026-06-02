@@ -1,0 +1,24 @@
+{
+  "id": "8d796b44eab9",
+  "source": "Ars Technica AI",
+  "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+  "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+  "publishedAt": "2026-06-01T18:52:19.000Z",
+  "ingestedAt": "2026-06-02T04:51:12.709Z",
+  "brief": "Florida's Attorney General filed a lawsuit against OpenAI and CEO Sam Altman following multiple murders allegedly linked to ChatGPT, accusing Altman of showing \"utter disregard\" for human lives. The suit raises legal questions about AI product liability and the responsibility of AI companies for harmful downstream uses of their systems.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

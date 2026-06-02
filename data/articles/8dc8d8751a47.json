@@ -1,0 +1,25 @@
+{
+  "id": "8dc8d8751a47",
+  "source": "TechCrunch AI",
+  "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+  "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+  "publishedAt": "2026-06-01T20:03:40.000Z",
+  "ingestedAt": "2026-06-02T04:50:45.834Z",
+  "brief": "Florida filed a lawsuit against OpenAI and CEO Sam Altman alleging that ChatGPT contributed to a violent incident at Florida State University, marking a legal challenge to the company over content-related harms. The case represents an early test of liability frameworks for AI companies in connection with real-world violence.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
