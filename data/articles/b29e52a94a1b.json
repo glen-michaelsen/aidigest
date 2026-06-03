@@ -1,0 +1,24 @@
+{
+  "id": "b29e52a94a1b",
+  "source": "The Verge AI",
+  "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+  "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+  "publishedAt": "2026-06-02T17:31:02.000Z",
+  "ingestedAt": "2026-06-03T05:02:09.587Z",
+  "brief": "Microsoft announced Project Solara, a new OS built on Android designed to power AI agent gadgets, at Build 2026. The company demonstrated two concept devices: a desk display with facial recognition and a wearable badge with camera and fingerprint scanner, both designed to run AI agents.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "hardware"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

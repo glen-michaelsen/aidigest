@@ -1,0 +1,24 @@
+{
+  "id": "c5e2177ce531",
+  "source": "TechCrunch AI",
+  "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+  "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+  "publishedAt": "2026-06-02T18:02:44.000Z",
+  "ingestedAt": "2026-06-03T05:01:50.928Z",
+  "brief": "Microsoft unveiled Scout, a new AI assistant for Microsoft 365 inspired by OpenClaw's architecture, at its Build conference. Scout aims to bring flexible agentic capabilities into the Microsoft 365 ecosystem for personal productivity.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

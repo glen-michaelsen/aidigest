@@ -1,0 +1,24 @@
+{
+  "id": "e42dce6dd0ef",
+  "source": "TechCrunch AI",
+  "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+  "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+  "publishedAt": "2026-06-02T18:00:00.000Z",
+  "ingestedAt": "2026-06-03T05:01:52.675Z",
+  "brief": "Google has launched fake call detection technology to combat AI deepfake voice scams that spoof trusted numbers and impersonate authority figures, family members, and employers. The feature protects users as scammers increasingly resort to voice cloning amid declining answer rates from unknown callers.",
+  "tags": {
+    "category": [
+      "safety",
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

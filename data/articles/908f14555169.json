@@ -1,0 +1,25 @@
+{
+  "id": "908f14555169",
+  "source": "TechCrunch AI",
+  "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+  "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+  "publishedAt": "2026-06-02T19:02:21.000Z",
+  "ingestedAt": "2026-06-03T05:01:47.763Z",
+  "brief": "Microsoft released Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT), an open-source framework that enables developers to define AI model evaluations using text descriptions rather than manual code. This streamlines the process of testing AI behavior and detecting performance regressions across different models.",
+  "tags": {
+    "category": [
+      "open-source",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

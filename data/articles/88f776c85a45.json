@@ -1,0 +1,25 @@
+{
+  "id": "88f776c85a45",
+  "source": "The Verge AI",
+  "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
+  "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+  "publishedAt": "2026-06-02T16:30:00.000Z",
+  "ingestedAt": "2026-06-03T05:02:11.310Z",
+  "brief": "Microsoft announced the Surface RTX Spark Dev Box, a compact developer desktop powered by Nvidia's Arm-based RTX Spark chips and designed for local AI tasks and sustained workloads. The device features a 100-watt thermal envelope and 128GB of unified memory, positioning it as a specialized hardware offering for AI development.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "hardware",
+      "agents"
+    ],
+    "company": [
+      "microsoft",
+      "nvidia"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

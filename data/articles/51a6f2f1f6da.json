@@ -1,0 +1,25 @@
+{
+  "id": "51a6f2f1f6da",
+  "source": "TechCrunch AI",
+  "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+  "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+  "publishedAt": "2026-06-02T17:47:28.000Z",
+  "ingestedAt": "2026-06-03T05:01:56.204Z",
+  "brief": "Amazon faces a class action lawsuit filed in Seattle alleging that Ring's Familiar Faces feature stores facial recognition images of passersby without consent. The suit, brought by Virginia resident Charles Sigwalt, raises privacy and consent concerns around the doorbell camera's biometric data collection practices.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "consumer",
+      "hardware"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

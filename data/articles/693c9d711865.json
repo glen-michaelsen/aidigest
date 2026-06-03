@@ -1,0 +1,25 @@
+{
+  "id": "693c9d711865",
+  "source": "TechCrunch AI",
+  "title": "Microsoft offers devs a better way to control AI agent behavior",
+  "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+  "publishedAt": "2026-06-02T18:00:00.000Z",
+  "ingestedAt": "2026-06-03T05:01:54.222Z",
+  "brief": "Microsoft released a specification that enables developers, compliance, and security teams to define and enforce policies for AI agent behavior through portable policy files. This gives organizations fine-grained control over how agents operate and comply with internal standards.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "035c903e2c7b",
+  "source": "The Verge AI",
+  "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+  "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+  "publishedAt": "2026-06-02T18:00:00.000Z",
+  "ingestedAt": "2026-06-03T05:02:02.915Z",
+  "brief": "Microsoft has launched Microsoft Scout, a new AI personal assistant that integrates across Microsoft 365 apps including Outlook, OneDrive, and Teams to help employees with calendar management, expense reporting, email drafting, and other tasks. Scout offers deeper capabilities and visibility compared to existing Copilot features, positioning itself as Microsoft's first true personal assistant offering.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

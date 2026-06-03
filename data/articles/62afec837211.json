@@ -1,0 +1,24 @@
+{
+  "id": "62afec837211",
+  "source": "The Verge AI",
+  "title": "Microsoft’s first advanced reasoning AI is here",
+  "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+  "publishedAt": "2026-06-02T18:12:44.000Z",
+  "ingestedAt": "2026-06-03T05:02:01.201Z",
+  "brief": "Microsoft announced MAI-Thinking-1, a new in-house reasoning AI model trained from scratch on clean data without third-party distillation. The medium-sized model matches leading competitors on key software engineering benchmarks and represents Microsoft's continued shift toward developing its own AI models independent of OpenAI.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

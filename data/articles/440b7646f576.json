@@ -1,0 +1,23 @@
+{
+  "id": "440b7646f576",
+  "source": "Hugging Face Blog",
+  "title": "Holo3.1: Fast & Local Computer Use Agents",
+  "url": "https://huggingface.co/blog/Hcompany/holo31",
+  "publishedAt": "2026-06-02T14:13:23.000Z",
+  "ingestedAt": "2026-06-03T05:02:33.788Z",
+  "brief": "Holo3.1 introduces a new generation of computer use agents designed to run fast and locally without remote dependencies. This advancement enables efficient autonomous task execution on edge devices, reducing latency and improving privacy for AI-driven desktop automation.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

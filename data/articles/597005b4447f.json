@@ -1,0 +1,23 @@
+{
+  "id": "597005b4447f",
+  "source": "OpenAI Blog",
+  "title": "Codex for every role, tool, and workflow",
+  "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+  "publishedAt": "2026-06-02T09:00:00.000Z",
+  "ingestedAt": "2026-06-03T05:02:28.167Z",
+  "brief": "Codex expands its plugin and annotation ecosystem to serve multiple professional roles including analysts, marketers, designers, and investors, enabling AI-powered workflows across diverse teams and use cases.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "10e299e4765b",
+  "source": "The Verge AI",
+  "title": "Trump signs executive order to review AI models before they’re released",
+  "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+  "publishedAt": "2026-06-02T18:33:42.000Z",
+  "ingestedAt": "2026-06-03T05:01:59.753Z",
+  "brief": "President Trump signed an executive order directing federal agencies to create a voluntary framework for AI companies to submit frontier models for security assessment before public release. The order aims to balance innovation with national security concerns about advanced AI cyber capabilities.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

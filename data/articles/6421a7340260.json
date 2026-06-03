@@ -1,0 +1,25 @@
+{
+  "id": "6421a7340260",
+  "source": "OpenAI Blog",
+  "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+  "url": "https://openai.com/index/travelers",
+  "publishedAt": "2026-06-02T12:00:00.000Z",
+  "ingestedAt": "2026-06-03T05:02:26.666Z",
+  "brief": "Travelers deployed an AI-powered Claims Assistant built with OpenAI to automate claim filing, provide round-the-clock customer support, and handle demand spikes across its operations. The solution uses OpenAI's technology to streamline insurance claims processing and improve customer experience at scale.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "consumer"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

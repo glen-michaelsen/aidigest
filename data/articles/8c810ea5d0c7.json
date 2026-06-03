@@ -1,0 +1,26 @@
+{
+  "id": "8c810ea5d0c7",
+  "source": "OpenAI Blog",
+  "title": "Codex is becoming a productivity tool for everyone",
+  "url": "https://openai.com/index/codex-for-knowledge-work",
+  "publishedAt": "2026-06-02T02:00:00.000Z",
+  "ingestedAt": "2026-06-03T05:02:31.489Z",
+  "brief": "OpenAI's Codex is evolving beyond code generation into a general productivity tool for knowledge workers, enabling AI-powered research, data analysis, workflow automation, and content creation across industries.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

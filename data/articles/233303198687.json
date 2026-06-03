@@ -1,0 +1,28 @@
+{
+  "id": "233303198687",
+  "source": "The Verge AI",
+  "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+  "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
+  "publishedAt": "2026-06-02T15:59:58.000Z",
+  "ingestedAt": "2026-06-03T05:02:14.276Z",
+  "brief": "Microsoft Build 2026 showcased major announcements including the Majorana 2 quantum computing chip, Scout—an AI assistant built on OpenClaw, and Project Solara, a new Android-based OS for AI agent devices. The conference also featured Windows updates with enhanced Linux integration and a Surface mini PC optimized for AI developers.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "microsoft",
+      "nvidia"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

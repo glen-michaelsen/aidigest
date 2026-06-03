@@ -1,0 +1,26 @@
+{
+  "id": "1317a58a147d",
+  "source": "The Verge AI",
+  "title": "Microsoft Build 2026: The 7 biggest announcements",
+  "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+  "publishedAt": "2026-06-02T19:23:52.000Z",
+  "ingestedAt": "2026-06-03T05:01:58.171Z",
+  "brief": "Microsoft Build 2026 featured announcements including the Surface RTX Spark Dev Box, a compact AI development PC powered by Nvidia's Arm-based Spark RTX chip with 128GB memory, designed for developers running local AI models. The keynote also included updates to Microsoft's AI models and a new always-on personal assistant feature.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "hardware",
+      "coding",
+      "chips"
+    ],
+    "company": [
+      "microsoft",
+      "nvidia"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

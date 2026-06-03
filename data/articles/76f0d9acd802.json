@@ -1,0 +1,24 @@
+{
+  "id": "76f0d9acd802",
+  "source": "The Verge AI",
+  "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+  "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+  "publishedAt": "2026-06-02T18:00:00.000Z",
+  "ingestedAt": "2026-06-03T05:02:04.821Z",
+  "brief": "Google is adding a feature to its Phone app that detects when scammers are spoofing a contact's phone number, alerting users to suspicious calls impersonating people they know. The capability is part of Google's June Android update, which also includes cross-platform AirDrop support, expanded Personal Safety for children, and AI-powered clothing try-on in Photos.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
