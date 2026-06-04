@@ -1,0 +1,24 @@
+{
+  "id": "70fbbe037b32",
+  "source": "Hacker News (AI)",
+  "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+  "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+  "publishedAt": "2026-06-03T12:25:14.000Z",
+  "ingestedAt": "2026-06-04T04:54:50.005Z",
+  "brief": "Uber introduced a $1,500/month AI spending limit for drivers, establishing a pricing benchmark that signals the market's willingness to pay for AI tools at the enterprise level. The cap reflects how companies are structuring AI tool access and provides insight into sustainable pricing models for AI services.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

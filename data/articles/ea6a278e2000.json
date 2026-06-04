@@ -1,0 +1,25 @@
+{
+  "id": "ea6a278e2000",
+  "source": "The Verge AI",
+  "title": "AI has a water problem — Google thinks it has a fix",
+  "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+  "publishedAt": "2026-06-03T09:00:00.000Z",
+  "ingestedAt": "2026-06-04T04:54:26.269Z",
+  "brief": "Google announced five water sustainability commitments for its AI data centers, including a goal to replenish more water than it uses by 2030 and investments in local water infrastructure. The move addresses criticism over AI's environmental impact and water consumption as the industry scales up data center buildout across the US.",
+  "tags": {
+    "category": [
+      "policy",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "infrastructure"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a6eee194a275",
+  "source": "The Verge AI",
+  "title": "Google must let publishers opt out of AI Search features, rules UK",
+  "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+  "publishedAt": "2026-06-03T08:45:48.000Z",
+  "ingestedAt": "2026-06-04T04:54:27.957Z",
+  "brief": "The UK Competition and Markets Authority ruled that Google must allow publishers to opt out of AI Search features like AI Overviews and prevent their content from being used to fine-tune Google's AI models. This marks the first regulatory requirement globally forcing a major search engine to give publishers direct control over their content's use in AI training and generation.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "search",
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e8b60fc1e9a8",
+  "source": "Hacker News (AI)",
+  "title": "U of T researchers demonstrate AI worm could target any online device",
+  "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+  "publishedAt": "2026-06-03T03:47:21.000Z",
+  "ingestedAt": "2026-06-04T04:54:55.274Z",
+  "brief": "University of Toronto researchers demonstrated an AI worm capable of targeting any online device, highlighting a critical security vulnerability in widely-deployed AI systems. The research reveals how malicious actors could exploit AI models across different platforms and services, raising urgent concerns about the security of AI infrastructure in consumer and enterprise environments.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

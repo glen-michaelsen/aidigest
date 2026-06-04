@@ -1,0 +1,24 @@
+{
+  "id": "20335de5965c",
+  "source": "Hacker News (AI)",
+  "title": "Mathematicians issue warning as AI rapidly gains ground",
+  "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+  "publishedAt": "2026-06-03T10:05:48.000Z",
+  "ingestedAt": "2026-06-04T04:54:52.649Z",
+  "brief": "Mathematicians have raised concerns about AI systems rapidly advancing in mathematical problem-solving capabilities, warning of potential disruptions to the field. The warning highlights risks including workforce displacement, over-reliance on unverified AI outputs, and challenges to peer review processes in mathematics.",
+  "tags": {
+    "category": [
+      "opinion",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

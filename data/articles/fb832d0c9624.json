@@ -1,0 +1,25 @@
+{
+  "id": "fb832d0c9624",
+  "source": "TechCrunch AI",
+  "title": "Amazon will show AI product images when you search for some reason",
+  "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+  "publishedAt": "2026-06-03T15:50:26.000Z",
+  "ingestedAt": "2026-06-04T04:54:10.687Z",
+  "brief": "Amazon is deploying AI-generated product images in search results to help users find items matching their queries using visual search technology. The feature aims to guide customers more effectively through product discovery.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation",
+      "search",
+      "consumer"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

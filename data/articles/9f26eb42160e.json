@@ -1,0 +1,27 @@
+{
+  "id": "9f26eb42160e",
+  "source": "The Verge AI",
+  "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+  "publishedAt": "2026-06-03T14:04:00.000Z",
+  "ingestedAt": "2026-06-04T04:54:24.213Z",
+  "brief": "Microsoft announced new AI initiatives at Build 2024, including in-house reasoning models, AI agents, and a security tool, signaling its shift toward independence from OpenAI. The strategic divergence follows the pair's effective separation in April, as Microsoft positions itself as a standalone AI powerhouse rather than relying solely on its partnership with OpenAI.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "security"
+    ],
+    "company": [
+      "microsoft",
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

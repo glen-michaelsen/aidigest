@@ -1,0 +1,25 @@
+{
+  "id": "45a8d8965f62",
+  "source": "The Verge AI",
+  "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+  "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+  "publishedAt": "2026-06-03T16:07:31.000Z",
+  "ingestedAt": "2026-06-04T04:54:22.466Z",
+  "brief": "Amazon launched an AI-generated image search feature in its app that creates visual representations of products based on text descriptions, currently limited to clothing and home goods. The feature helps users find items when they can't recall specific product names by visualizing descriptions like \"draped collar shirt.\"",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation",
+      "search",
+      "consumer"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

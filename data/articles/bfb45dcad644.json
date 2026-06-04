@@ -1,0 +1,24 @@
+{
+  "id": "bfb45dcad644",
+  "source": "OpenAI Blog",
+  "title": "Introducing new capabilities to GPT-Rosalind",
+  "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+  "publishedAt": "2026-06-03T13:15:00.000Z",
+  "ingestedAt": "2026-06-04T04:54:35.323Z",
+  "brief": "OpenAI introduced GPT-Rosalind, an AI model designed to advance life sciences research with enhanced capabilities in biological reasoning, medicinal chemistry, genomics analysis, and experimental workflows. The model builds on GPT architecture to support specialized applications in healthcare and biotech research.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "healthcare"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

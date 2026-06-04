@@ -1,0 +1,23 @@
+{
+  "id": "0a440e310365",
+  "source": "OpenAI Blog",
+  "title": "OpenAI public policy agenda",
+  "url": "https://openai.com/index/public-policy-agenda",
+  "publishedAt": "2026-06-03T10:00:00.000Z",
+  "ingestedAt": "2026-06-04T04:54:42.292Z",
+  "brief": "OpenAI has outlined its public policy agenda for AI, focusing on safety, youth protection, workforce transition support, and establishing global standards. The company emphasizes ensuring AI benefits society broadly while addressing regulatory and ethical concerns.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

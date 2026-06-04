@@ -1,0 +1,23 @@
+{
+  "id": "e87461663dd2",
+  "source": "The Verge AI",
+  "title": "As AI gets better, it reveals an empty promise",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+  "publishedAt": "2026-06-03T17:45:35.000Z",
+  "ingestedAt": "2026-06-04T04:54:20.940Z",
+  "brief": "Google's new Gemini agent Spark demonstrates impressive capability—accessing personal details like users' pet names and family members' first names without explicit input—but critics question whether AI productivity gains address meaningful real-world problems or merely distract from them.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

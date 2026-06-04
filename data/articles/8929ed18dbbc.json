@@ -1,0 +1,25 @@
+{
+  "id": "8929ed18dbbc",
+  "source": "OpenAI Blog",
+  "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+  "url": "https://openai.com/index/wasmer",
+  "publishedAt": "2026-06-03T12:00:00.000Z",
+  "ingestedAt": "2026-06-04T04:54:36.764Z",
+  "brief": "Wasmer used OpenAI's Codex model to accelerate development of a Node.js runtime for edge computing, achieving a 10x to 20x speed increase and reducing time-to-market from months to weeks.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "infrastructure"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

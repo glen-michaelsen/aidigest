@@ -1,0 +1,24 @@
+{
+  "id": "a13cfe1bb6eb",
+  "source": "MIT Technology Review",
+  "title": "How virtual power plants could provide energy for data centers",
+  "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+  "publishedAt": "2026-06-03T16:51:38.000Z",
+  "ingestedAt": "2026-06-04T04:54:30.469Z",
+  "brief": "Google signed a deal with Voltus to develop a virtual power plant that aggregates distributed energy resources to help power data centers in the largest US power grid. The arrangement allows residential and commercial customers to receive payments for reducing electricity consumption during peak demand, creating a new revenue stream for powering AI infrastructure.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "enterprise",
+      "hardware"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

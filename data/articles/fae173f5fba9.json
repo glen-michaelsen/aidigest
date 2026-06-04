@@ -1,0 +1,23 @@
+{
+  "id": "fae173f5fba9",
+  "source": "OpenAI Blog",
+  "title": "A blueprint for democratic governance of frontier AI",
+  "url": "https://openai.com/index/frontier-safety-blueprint",
+  "publishedAt": "2026-06-03T10:00:00.000Z",
+  "ingestedAt": "2026-06-04T04:54:40.989Z",
+  "brief": "OpenAI released a governance blueprint proposing a federal framework for regulating frontier AI systems in the U.S., focusing on safety, resilience, and national security measures. The proposal outlines how government oversight could manage risks from advanced AI while supporting innovation.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
