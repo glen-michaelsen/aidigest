@@ -1,0 +1,24 @@
+{
+  "id": "450c01930989",
+  "source": "The Verge AI",
+  "title": "Amazon develops a warehouse robot that workers can speak to",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+  "publishedAt": "2026-06-04T09:31:14.000Z",
+  "ingestedAt": "2026-06-05T04:38:33.821Z",
+  "brief": "Amazon unveiled an upgraded version of its Proteus warehouse robot that accepts natural language commands from workers instead of requiring specialized software. The AI-powered enhancement allows employees to assign tasks conversationally, simplifying operations as Amazon accelerates warehouse automation.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "robotics",
+      "enterprise"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "58a72a3a66c9",
+  "source": "OpenAI Blog",
+  "title": "Dreaming: Better memory for a more helpful ChatGPT",
+  "url": "https://openai.com/index/chatgpt-memory-dreaming",
+  "publishedAt": "2026-06-04T09:00:00.000Z",
+  "ingestedAt": "2026-06-05T04:38:41.603Z",
+  "brief": "OpenAI has introduced a new memory system for ChatGPT that retains user preferences and context across multiple conversations, improving personalization and relevance without requiring users to repeat information.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

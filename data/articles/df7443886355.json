@@ -1,0 +1,26 @@
+{
+  "id": "df7443886355",
+  "source": "The Verge AI",
+  "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+  "publishedAt": "2026-06-04T12:12:12.000Z",
+  "ingestedAt": "2026-06-05T04:38:32.328Z",
+  "brief": "Leading AI executives including Dario Amodei (Anthropic), Sam Altman (OpenAI), and Mustafa Suleyman (Microsoft) signed an open letter urging Congress to mandate biosecurity screening for synthetic DNA and RNA purchases to prevent AI-assisted bioweapon development. The letter highlights a regulatory gap in genetic material sales that could enable pandemic-scale biological threats.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

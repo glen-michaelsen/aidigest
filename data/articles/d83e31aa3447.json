@@ -1,0 +1,25 @@
+{
+  "id": "d83e31aa3447",
+  "source": "The Verge AI",
+  "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+  "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+  "publishedAt": "2026-06-04T14:15:44.000Z",
+  "ingestedAt": "2026-06-05T04:38:26.595Z",
+  "brief": "TSMC, the world's largest semiconductor manufacturer, is struggling to meet surging AI-driven demand from American customers despite expanding US production capacity, with CEO C.C. Wei acknowledging the company can only support limited volumes. The AI boom is creating widespread chip shortages including RAM and NAND Flash memory expected to persist for years.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "incident"
+    ],
+    "domain": [
+      "chips",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

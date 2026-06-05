@@ -1,0 +1,26 @@
+{
+  "id": "bb898284982f",
+  "source": "The Verge AI",
+  "title": "Let us filter AI slop, you cowards",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+  "publishedAt": "2026-06-04T12:30:00.000Z",
+  "ingestedAt": "2026-06-05T04:38:30.616Z",
+  "brief": "Content platforms like YouTube, Instagram, and TikTok have added AI content labels but users cannot yet filter out AI-generated material. The article argues for user-controllable filtering tools to prevent AI-generated content from flooding social feeds, rather than just labeling it.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "consumer",
+      "image-generation",
+      "video-generation",
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

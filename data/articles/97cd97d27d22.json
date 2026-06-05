@@ -1,0 +1,25 @@
+{
+  "id": "97cd97d27d22",
+  "source": "Hacker News (AI)",
+  "title": "The ways we contain Claude across products",
+  "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+  "publishedAt": "2026-06-04T00:27:52.000Z",
+  "ingestedAt": "2026-06-05T04:38:53.429Z",
+  "brief": "Anthropic published technical details on the containment strategies and architectural measures used to isolate Claude across different product deployments. The article explains sandboxing, resource limitations, and safety mechanisms that prevent model misuse while maintaining functionality across varied use cases.",
+  "tags": {
+    "category": [
+      "research",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

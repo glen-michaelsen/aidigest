@@ -1,0 +1,24 @@
+{
+  "id": "dbb39445d06e",
+  "source": "OpenAI Blog",
+  "title": "Biodefense in the Intelligence Age",
+  "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+  "publishedAt": "2026-06-04T00:00:00.000Z",
+  "ingestedAt": "2026-06-05T04:38:43.346Z",
+  "brief": "This article outlines a strategic framework for integrating AI into biodefense and pandemic preparedness, focusing on how AI can enhance surveillance, detection, and response capabilities for biological threats. The plan emphasizes the need for coordinated policy and infrastructure to leverage AI's analytical power while managing dual-use risks in the biological domain.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

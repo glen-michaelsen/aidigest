@@ -1,0 +1,29 @@
+{
+  "id": "d0841d29a362",
+  "source": "OpenAI Blog",
+  "title": "How Endava is redesigning software delivery around AI agents",
+  "url": "https://openai.com/index/endava-frontiers",
+  "publishedAt": "2026-06-04T12:00:00.000Z",
+  "ingestedAt": "2026-06-05T04:38:40.293Z",
+  "brief": "Endava is leveraging AI agents, ChatGPT Enterprise, and Codex to streamline software delivery and automate workflows across its organization. The effort aims to build an AI-native culture that accelerates development cycles and improves enterprise efficiency.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "enterprise"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "other"
+    ]
+  }
+}

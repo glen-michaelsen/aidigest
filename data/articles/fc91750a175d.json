@@ -1,0 +1,26 @@
+{
+  "id": "fc91750a175d",
+  "source": "Hacker News (AI)",
+  "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+  "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+  "publishedAt": "2026-06-04T00:18:02.000Z",
+  "ingestedAt": "2026-06-05T04:38:55.496Z",
+  "brief": "UC Berkeley CS professors report rising failure rates and declining mathematical skills among students, attributed to increased AI tool usage for coursework. The trend raises concerns about whether students are developing foundational competencies or becoming overly dependent on AI assistance for problem-solving.",
+  "tags": {
+    "category": [
+      "safety",
+      "education"
+    ],
+    "domain": [
+      "llm",
+      "education",
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

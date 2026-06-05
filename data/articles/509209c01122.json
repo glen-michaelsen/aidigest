@@ -1,0 +1,25 @@
+{
+  "id": "509209c01122",
+  "source": "MIT Technology Review",
+  "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+  "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+  "publishedAt": "2026-06-04T12:10:00.000Z",
+  "ingestedAt": "2026-06-05T04:38:36.165Z",
+  "brief": "Federal courts are grappling with an influx of AI-generated lawsuits, with judges like Colorado's Maritza Braswell managing the procedural and quality challenges they present. The article also covers data center energy management through virtual power plants, highlighting emerging infrastructure challenges in the AI era.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

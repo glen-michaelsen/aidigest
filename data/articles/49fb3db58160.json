@@ -1,0 +1,24 @@
+{
+  "id": "49fb3db58160",
+  "source": "Hacker News (AI)",
+  "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
+  "url": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from",
+  "publishedAt": "2026-06-04T15:34:43.000Z",
+  "ingestedAt": "2026-06-05T04:38:51.752Z",
+  "brief": "Timnit Gebru, whom Google fired in 2020 after raising concerns about the risks of large language models, has been vindicated as her warnings about LLM harms—including bias, misinformation, and environmental impact—have materialized in real-world deployments. The incident highlights the tension between AI researchers advocating for caution and corporate incentives to rapidly deploy AI systems.",
+  "tags": {
+    "category": [
+      "opinion",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

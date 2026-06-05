@@ -1,0 +1,24 @@
+{
+  "id": "57bacf40d597",
+  "source": "MIT Technology Review",
+  "title": "How courts are coping with a flood of AI-generated lawsuits",
+  "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+  "publishedAt": "2026-06-04T10:50:18.000Z",
+  "ingestedAt": "2026-06-05T04:38:38.091Z",
+  "brief": "Federal courts are overwhelmed by AI-generated lawsuits filed by pro-se litigants using generative AI to draft complaints, straining judicial resources and creating quality control challenges. Judge Maritza Braswell and other magistrates must manually review AI-written pleadings that often contain hallucinated case law, nonsensical arguments, and legal errors, raising concerns about access to justice and court efficiency.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

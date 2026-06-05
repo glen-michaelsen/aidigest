@@ -1,0 +1,24 @@
+{
+  "id": "6e07b148513b",
+  "source": "TechCrunch AI",
+  "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+  "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+  "publishedAt": "2026-06-04T22:29:50.000Z",
+  "ingestedAt": "2026-06-05T04:38:11.993Z",
+  "brief": "Airbnb CEO Brian Chesky plans to launch a new AI lab, signaling the company's intention to develop AI capabilities internally rather than rely on existing LLM partnerships. Chesky previously stated that existing products weren't mature enough for Airbnb's needs, suggesting the company sees opportunity in building custom AI solutions for travel and hospitality.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

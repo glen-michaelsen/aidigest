@@ -1,0 +1,24 @@
+{
+  "id": "de6475a399e0",
+  "source": "TechCrunch AI",
+  "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+  "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+  "publishedAt": "2026-06-04T19:33:09.000Z",
+  "ingestedAt": "2026-06-05T04:38:15.458Z",
+  "brief": "Meta is deploying temporary data centers housed in tents to reduce capital expenditure on AI infrastructure, following a cost-optimization approach similar to Tesla's manufacturing strategies. This unconventional approach signals Meta's effort to manage ballooning compute costs amid intense competition in large language model development.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
