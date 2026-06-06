@@ -1,0 +1,27 @@
+{
+  "id": "e68a6223259e",
+  "source": "The Verge AI",
+  "title": "This is your laptop… on AI",
+  "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+  "publishedAt": "2026-06-05T16:39:07.000Z",
+  "ingestedAt": "2026-06-06T04:11:58.144Z",
+  "brief": "Nvidia's Jensen Huang proposed a new computing paradigm for laptops centered around AI at developer conferences, while Microsoft Build and Google I/O showcased AI-integrated products. The article explores whether these AI-first hardware and software announcements represent genuine user demand or merely corporate conviction about AI's inevitability.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "hardware",
+      "consumer"
+    ],
+    "company": [
+      "nvidia",
+      "microsoft",
+      "google"
+    ],
+    "model": [
+      "gemini",
+      "none"
+    ]
+  }
+}

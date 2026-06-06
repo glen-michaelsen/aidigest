@@ -1,0 +1,23 @@
+{
+  "id": "45457fdab255",
+  "source": "TechCrunch AI",
+  "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+  "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+  "publishedAt": "2026-06-05T14:49:12.000Z",
+  "ingestedAt": "2026-06-06T04:11:50.863Z",
+  "brief": "The AI industry is shifting focus from rapid scaling toward managing token consumption and computational costs, with companies implementing guardrails to control spending on large language models. Rising inference costs are forcing teams to rethink deployment strategies as the economics of running AI at scale become unsustainable.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

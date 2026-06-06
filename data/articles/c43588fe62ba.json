@@ -1,0 +1,24 @@
+{
+  "id": "c43588fe62ba",
+  "source": "Hugging Face Blog",
+  "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+  "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+  "publishedAt": "2026-06-05T22:18:46.000Z",
+  "ingestedAt": "2026-06-06T04:12:15.431Z",
+  "brief": "Thousand Token Wood demonstrates a multi-agent economy system running on a 3 billion parameter model, showcasing how smaller models can coordinate complex interactions between multiple agents. This represents progress toward efficient multi-agent AI systems without requiring large foundation models.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

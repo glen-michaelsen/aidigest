@@ -1,0 +1,23 @@
+{
+  "id": "2f6d8e01e34f",
+  "source": "The Verge AI",
+  "title": "This AI startup says it can tell if a script will make a hit film",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+  "publishedAt": "2026-06-05T13:57:31.000Z",
+  "ingestedAt": "2026-06-06T04:12:02.549Z",
+  "brief": "Quilty, an AI startup, claims its tool can predict film box office success by analyzing scripts, but early tests showed poor accuracy—it incorrectly predicted flop Christy would outperform Oscar-winner Sinners. The failure highlights the limits of AI in subjective creative prediction despite the startup's democratization pitch.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

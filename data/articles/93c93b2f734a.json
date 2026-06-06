@@ -1,0 +1,23 @@
+{
+  "id": "93c93b2f734a",
+  "source": "The Verge AI",
+  "title": "New York lawmakers pass one-year ban on new data centers",
+  "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+  "publishedAt": "2026-06-05T15:25:10.000Z",
+  "ingestedAt": "2026-06-06T04:12:00.586Z",
+  "brief": "New York State legislature passed a one-year moratorium on large data centers (20+ megawatts peak demand), requiring an environmental impact assessment before new facilities can be built. The ban, if signed by Governor Hochul, aims to address concerns about electricity consumption, water use, land impact, and pollution from data center expansion.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
