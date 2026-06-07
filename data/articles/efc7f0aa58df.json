@@ -1,0 +1,26 @@
+{
+  "id": "efc7f0aa58df",
+  "source": "The Verge AI",
+  "title": "Here comes new Siri again",
+  "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+  "publishedAt": "2026-06-06T12:00:00.000Z",
+  "ingestedAt": "2026-06-07T04:47:47.661Z",
+  "brief": "Apple is re-introducing an updated Siri at WWDC, following delays in rolling out Apple Intelligence features promised since 2024. The new Siri includes a glowing border, new voice options, and ChatGPT integration, though core AI capabilities have yet to fully materialize.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "consumer",
+      "agents"
+    ],
+    "company": [
+      "apple",
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

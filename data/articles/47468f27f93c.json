@@ -1,0 +1,25 @@
+{
+  "id": "47468f27f93c",
+  "source": "Hugging Face Blog",
+  "title": "Five labs, five minds: building a multi-model finance drama on small models",
+  "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+  "publishedAt": "2026-06-06T19:02:33.000Z",
+  "ingestedAt": "2026-06-07T04:47:51.410Z",
+  "brief": "Research teams from multiple AI labs are collaborating on a project demonstrating how small language models can be coordinated to solve complex financial tasks through multi-agent simulation. This work suggests that capability and specialized reasoning don't require massive models, with implications for efficient AI deployment in finance.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "finance",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}
