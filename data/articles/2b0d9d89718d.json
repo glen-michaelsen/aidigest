@@ -1,0 +1,25 @@
+{
+  "id": "2b0d9d89718d",
+  "source": "Hacker News (AI)",
+  "title": "Anthropic, please ship an official Claude Desktop for Linux",
+  "url": "https://github.com/anthropics/claude-code/issues/65697",
+  "publishedAt": "2026-06-07T13:06:52.000Z",
+  "ingestedAt": "2026-06-08T04:52:59.286Z",
+  "brief": "Users are requesting that Anthropic release an official Claude Desktop application for Linux, citing the lack of native support despite Claude's popularity among developers. The request has gained significant traction on GitHub and Hacker News, highlighting demand for better Linux compatibility.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a7f99437fa6d",
+  "source": "Hacker News (AI)",
+  "title": "I design with Claude more than Figma now",
+  "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+  "publishedAt": "2026-06-07T05:04:24.000Z",
+  "ingestedAt": "2026-06-08T04:53:00.973Z",
+  "brief": "A designer reports using Anthropic's Claude for design work more frequently than traditional tools like Figma, highlighting how Claude's code generation and iterative capabilities are becoming competitive with dedicated design software for certain workflows.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "consumer"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
