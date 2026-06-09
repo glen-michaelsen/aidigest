@@ -1,0 +1,23 @@
+{
+  "id": "baa2f2c73bfd",
+  "source": "Hacker News (AI)",
+  "title": "Siri AI",
+  "url": "https://www.apple.com/apple-intelligence/",
+  "publishedAt": "2026-06-08T18:17:53.000Z",
+  "ingestedAt": "2026-06-09T04:16:05.785Z",
+  "brief": "Apple unveiled Apple Intelligence, a suite of AI features integrated into Siri and Apple devices, designed to handle on-device natural language tasks and personalized assistance. The announcement marks Apple's formal entry into consumer AI with a focus on privacy-preserving, device-based processing.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "54e485b4a619",
+  "source": "Hacker News (AI)",
+  "title": "Apple Core AI Framework",
+  "url": "https://developer.apple.com/documentation/coreai/",
+  "publishedAt": "2026-06-08T18:47:38.000Z",
+  "ingestedAt": "2026-06-09T04:16:02.148Z",
+  "brief": "Apple released Core AI, a framework enabling developers to integrate AI capabilities directly into iOS, macOS, and other Apple platforms with on-device processing. The framework supports multiple model types and emphasizes privacy by keeping inference local, addressing developer demand for accessible AI integration without relying on cloud APIs.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5a02f9e7df6f",
+  "source": "Hacker News (AI)",
+  "title": "AI is slowing down",
+  "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+  "publishedAt": "2026-06-08T15:46:37.000Z",
+  "ingestedAt": "2026-06-09T04:16:07.860Z",
+  "brief": "New analysis shows progress in AI model capabilities is plateauing, with recent models demonstrating diminishing improvements compared to earlier breakthroughs. This suggests the field may be hitting scaling limits and facing challenges in achieving continued exponential gains.",
+  "tags": {
+    "category": [
+      "research",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

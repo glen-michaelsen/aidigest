@@ -1,0 +1,23 @@
+{
+  "id": "41e74c1497e4",
+  "source": "OpenAI Blog",
+  "title": "Confidential submission of draft S-1 to the SEC",
+  "url": "https://openai.com/index/openai-submits-confidential-s-1",
+  "publishedAt": "2026-06-08T14:00:00.000Z",
+  "ingestedAt": "2026-06-09T04:15:48.292Z",
+  "brief": "OpenAI has made a confidential submission of its S-1 registration statement to the SEC, signaling progress toward a potential initial public offering, though the company has not yet set a timeline for moving forward with the process.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

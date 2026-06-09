@@ -1,0 +1,25 @@
+{
+  "id": "1b020e8417ba",
+  "source": "The Verge AI",
+  "title": "OpenAI files for IPO, following Anthropic",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+  "publishedAt": "2026-06-08T21:38:29.000Z",
+  "ingestedAt": "2026-06-09T04:15:23.420Z",
+  "brief": "OpenAI has confidentially filed a Form S-1 with the SEC, mirroring Anthropic's June IPO preparation. The move signals both AI giants are pursuing public market exits, though financial details remain undisclosed at this stage.",
+  "tags": {
+    "category": [
+      "funding",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "anthropic"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

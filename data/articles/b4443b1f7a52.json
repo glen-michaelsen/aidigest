@@ -1,0 +1,24 @@
+{
+  "id": "b4443b1f7a52",
+  "source": "The Verge AI",
+  "title": "Amazon is launching AI-generated custom merch",
+  "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+  "publishedAt": "2026-06-08T17:52:51.000Z",
+  "ingestedAt": "2026-06-09T04:15:25.359Z",
+  "brief": "Amazon is adding AI-generated design capabilities to its print-on-demand service, allowing customers to create custom merchandise like t-shirts and hoodies using text prompts through Alexa for Shopping. The move leverages generative AI to streamline the design-to-production process and threatens existing drop-shipping and custom printing businesses.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer",
+      "image-generation"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "563ba010109d",
+  "source": "Hacker News (AI)",
+  "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+  "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+  "publishedAt": "2026-06-08T01:39:30.000Z",
+  "ingestedAt": "2026-06-09T04:16:09.540Z",
+  "brief": "DeepSeek's V4 Pro model outperformed OpenAI's GPT-5.5 Pro in precision benchmarks. The result highlights competitive progress in large language models, with DeepSeek demonstrating improvements in accuracy metrics.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "deepmind",
+      "openai"
+    ],
+    "model": [
+      "other",
+      "gpt"
+    ]
+  }
+}

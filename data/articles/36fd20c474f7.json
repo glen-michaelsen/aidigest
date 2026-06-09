@@ -1,0 +1,23 @@
+{
+  "id": "36fd20c474f7",
+  "source": "TechCrunch AI",
+  "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+  "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+  "publishedAt": "2026-06-08T18:45:12.000Z",
+  "ingestedAt": "2026-06-09T04:15:19.708Z",
+  "brief": "Apple has upgraded its Shortcuts app with AI capabilities that allow users to describe workflows in natural language prompts rather than manually building them. This feature leverages AI to automatically generate the necessary automation steps based on user descriptions.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

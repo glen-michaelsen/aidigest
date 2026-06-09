@@ -1,0 +1,23 @@
+{
+  "id": "fbaf22fcf62f",
+  "source": "Hugging Face Blog",
+  "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+  "url": "https://huggingface.co/blog/openenv-agentic-rl",
+  "publishedAt": "2026-06-08T00:00:00.000Z",
+  "ingestedAt": "2026-06-09T04:15:53.949Z",
+  "brief": "The open source community is rallying behind OpenEnv, a framework designed to support reinforcement learning for AI agents. This backing signals growing momentum for standardized, community-driven tools in agentic AI development.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

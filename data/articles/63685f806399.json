@@ -1,0 +1,23 @@
+{
+  "id": "63685f806399",
+  "source": "OpenAI Blog",
+  "title": "Introducing the OpenAI Economic Research Exchange",
+  "url": "https://openai.com/index/economic-research-exchange",
+  "publishedAt": "2026-06-08T00:00:00.000Z",
+  "ingestedAt": "2026-06-09T04:15:52.082Z",
+  "brief": "OpenAI launched the Economic Research Exchange, a new initiative to fund and study AI's impact on employment, productivity, and broader economic effects. The program is now accepting applications from research teams interested in investigating these critical economic implications.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

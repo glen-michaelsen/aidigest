@@ -1,0 +1,24 @@
+{
+  "id": "63c5e8620698",
+  "source": "Ars Technica AI",
+  "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+  "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+  "publishedAt": "2026-06-08T19:00:30.000Z",
+  "ingestedAt": "2026-06-09T04:15:36.506Z",
+  "brief": "Google has rolled out Gemini 3.5 and a new \"Antigravity\" feature to NotebookLM, though the upgrades are currently limited to AI Ultra and enterprise users. The update enhances NotebookLM's research and note-taking capabilities with more advanced AI reasoning and novel features.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

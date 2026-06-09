@@ -1,0 +1,25 @@
+{
+  "id": "1524533dc377",
+  "source": "The Verge AI",
+  "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+  "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+  "publishedAt": "2026-06-08T14:00:00.000Z",
+  "ingestedAt": "2026-06-09T04:15:31.122Z",
+  "brief": "Microsoft AI CEO Mustafa Suleyman discusses how Microsoft has restructured its AI operations to pursue superintelligence independently after renegotiating its OpenAI partnership in October 2024, freeing the company to develop frontier models while continuing to license OpenAI's technology. Suleyman emphasizes that superintelligence is near and criticizes Anthropic's claims about Claude's consciousness, while defending Microsoft's consumer AI products as adequate despite negative polling around AI adoption.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "microsoft",
+      "openai",
+      "anthropic"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

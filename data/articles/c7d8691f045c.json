@@ -1,0 +1,24 @@
+{
+  "id": "c7d8691f045c",
+  "source": "The Verge AI",
+  "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+  "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+  "publishedAt": "2026-06-08T16:00:00.000Z",
+  "ingestedAt": "2026-06-09T04:15:28.699Z",
+  "brief": "Google upgraded NotebookLM, its AI note-taking app, with Gemini 3.5 to deliver more accurate responses and added the ability to search for sources via Google Search without manual imports. The update lets users initiate research projects by asking questions, with the model autonomously discovering relevant materials.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

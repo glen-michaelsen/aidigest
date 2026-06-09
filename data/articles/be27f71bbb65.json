@@ -1,0 +1,25 @@
+{
+  "id": "be27f71bbb65",
+  "source": "Hacker News (AI)",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "url": "https://news.ycombinator.com/item?id=48449187",
+  "publishedAt": "2026-06-08T18:22:39.000Z",
+  "ingestedAt": "2026-06-09T04:16:03.982Z",
+  "brief": "A Hacker News discussion where developers share custom tools and productivity utilities they've built for themselves leveraging AI capabilities. The thread reveals practical applications where individuals have applied AI to solve personal workflows, from code generation to automation.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

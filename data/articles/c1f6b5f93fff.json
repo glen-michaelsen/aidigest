@@ -1,0 +1,23 @@
+{
+  "id": "c1f6b5f93fff",
+  "source": "The Verge AI",
+  "title": "Apple is using AI to fix Safari’s extension problem",
+  "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+  "publishedAt": "2026-06-08T22:14:17.000Z",
+  "ingestedAt": "2026-06-09T04:15:21.481Z",
+  "brief": "Apple is using Apple Intelligence to let Safari users generate custom extensions through natural language prompts, addressing Safari's historical shortage of third-party extensions compared to Chrome and Firefox. The feature enables users to create functional extensions like a recipe keeper without traditional coding, lowering the barrier to extension development.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

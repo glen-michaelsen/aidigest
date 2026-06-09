@@ -1,0 +1,25 @@
+{
+  "id": "074bb7736622",
+  "source": "Hacker News (AI)",
+  "title": "Apple reveals new AI architecture built around Google Gemini models",
+  "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+  "publishedAt": "2026-06-08T19:14:47.000Z",
+  "ingestedAt": "2026-06-09T04:16:00.074Z",
+  "brief": "Apple announced a new AI architecture that integrates Google's Gemini models at its core, marking a significant shift toward leveraging external LLM partnerships rather than relying solely on proprietary models. This integration aims to enhance Apple's AI capabilities across its device ecosystem while maintaining control over the overall architecture and user experience.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "apple",
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}
