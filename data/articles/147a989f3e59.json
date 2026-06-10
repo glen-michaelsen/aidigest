@@ -1,0 +1,23 @@
+{
+  "id": "147a989f3e59",
+  "source": "Hacker News (AI)",
+  "title": "Claude Fable 5",
+  "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "publishedAt": "2026-06-09T16:58:01.000Z",
+  "ingestedAt": "2026-06-10T04:27:33.768Z",
+  "brief": "Anthropic released Claude Fable 5, a new version of its AI model with an accompanying system card detailing capabilities and safety properties. The release generated significant discussion on Hacker News with over 1,900 points and 1,500 comments.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

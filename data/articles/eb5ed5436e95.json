@@ -1,0 +1,25 @@
+{
+  "id": "eb5ed5436e95",
+  "source": "The Verge AI",
+  "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+  "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+  "publishedAt": "2026-06-09T21:00:00.000Z",
+  "ingestedAt": "2026-06-10T04:26:36.690Z",
+  "brief": "General Motors announced vehicle-to-grid technology activation, a new commercial energy storage strategy using sodium-ion batteries, and simplified EV charging features to address surging electricity demand from AI data centers. GM positions its EV fleet and batteries as critical infrastructure to balance grid load as AI operations intensify energy consumption.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "hardware",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

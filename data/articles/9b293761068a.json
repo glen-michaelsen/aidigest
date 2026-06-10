@@ -1,0 +1,24 @@
+{
+  "id": "9b293761068a",
+  "source": "TechCrunch AI",
+  "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+  "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+  "publishedAt": "2026-06-09T20:37:49.000Z",
+  "ingestedAt": "2026-06-10T04:26:23.298Z",
+  "brief": "Anthropic released Fable 5, a new capability that enables users to generate playable video games quickly and easily. The tool appeals to hobbyist and indie developers looking to create games with minimal technical overhead.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer",
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

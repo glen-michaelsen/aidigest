@@ -1,0 +1,25 @@
+{
+  "id": "a49dd2c601e9",
+  "source": "The Verge AI",
+  "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+  "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+  "publishedAt": "2026-06-09T20:24:25.000Z",
+  "ingestedAt": "2026-06-10T04:26:40.048Z",
+  "brief": "Mustafa Suleyman, Microsoft's AI CEO, criticized Anthropic for embedding consciousness speculation into Claude's constitutional training, arguing the approach is \"really, really dangerous\" and may have caused the company to incorrectly perceive signs of consciousness in the model. Suleyman warned that Anthropic's design philosophy may have inadvertently shaped Claude to exhibit behavior suggesting consciousness rather than the model developing it independently.",
+  "tags": {
+    "category": [
+      "opinion",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "microsoft",
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

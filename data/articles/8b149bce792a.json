@@ -1,0 +1,23 @@
+{
+  "id": "8b149bce792a",
+  "source": "Ars Technica AI",
+  "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+  "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+  "publishedAt": "2026-06-09T19:20:25.000Z",
+  "ingestedAt": "2026-06-10T04:26:51.665Z",
+  "brief": "Anthropic has implemented restrictions on its Fable 5 frontier model, preventing it from responding to queries about cybersecurity, biology, and chemistry due to safety concerns. The company views these domains as high-risk areas where model outputs could enable harmful activities.",
+  "tags": {
+    "category": [
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

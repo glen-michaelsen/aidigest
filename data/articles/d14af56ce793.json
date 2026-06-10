@@ -1,0 +1,24 @@
+{
+  "id": "d14af56ce793",
+  "source": "Hacker News (AI)",
+  "title": "GPT-2: Too Dangerous To Release (2019)",
+  "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+  "publishedAt": "2026-06-09T18:21:43.000Z",
+  "ingestedAt": "2026-06-10T04:27:27.897Z",
+  "brief": "OpenAI initially withheld GPT-2's full weights in February 2019, citing safety concerns about potential misuse for generating disinformation and harmful content. The decision sparked debate about responsible AI disclosure practices and eventually led to the model's public release months later.",
+  "tags": {
+    "category": [
+      "safety",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

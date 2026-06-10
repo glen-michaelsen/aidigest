@@ -1,0 +1,23 @@
+{
+  "id": "f92ddbb640d4",
+  "source": "Ars Technica AI",
+  "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+  "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+  "publishedAt": "2026-06-09T18:57:25.000Z",
+  "ingestedAt": "2026-06-10T04:26:54.399Z",
+  "brief": "Google announced Gemini 3.5 Live Translate, a feature that enables real-time voice-to-voice translation while preserving the speaker's original tone, pacing, and pitch. The translations include SynthID watermarks for security purposes.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

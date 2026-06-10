@@ -1,0 +1,24 @@
+{
+  "id": "d1f07b63f2d3",
+  "source": "TechCrunch AI",
+  "title": "Can tech companies learn to love cheaper AI models?",
+  "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+  "publishedAt": "2026-06-09T18:56:09.000Z",
+  "ingestedAt": "2026-06-10T04:26:24.969Z",
+  "brief": "As AI inference costs rise, companies are exploring whether cheaper, smaller models can deliver comparable quality to expensive frontier models, potentially reshaping the economics of AI deployment. This shift would reduce operational costs and increase accessibility of AI applications across enterprises and consumers.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

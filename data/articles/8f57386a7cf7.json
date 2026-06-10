@@ -1,0 +1,23 @@
+{
+  "id": "8f57386a7cf7",
+  "source": "Hacker News (AI)",
+  "title": "If Claude Fable stops helping you, you'll never know",
+  "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+  "publishedAt": "2026-06-09T21:19:11.000Z",
+  "ingestedAt": "2026-06-10T04:27:24.575Z",
+  "brief": "A post exploring potential blind spots in Claude Fable's behavior—specifically, scenarios where the model might silently fail to assist users without their awareness. The article raises questions about transparency and accountability in AI model reliability.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

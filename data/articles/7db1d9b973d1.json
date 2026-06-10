@@ -1,0 +1,24 @@
+{
+  "id": "7db1d9b973d1",
+  "source": "Hacker News (AI)",
+  "title": "'Sloppenheimer:' Amazon employees mock the company's AI on Slack",
+  "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+  "publishedAt": "2026-06-09T15:59:41.000Z",
+  "ingestedAt": "2026-06-10T04:27:35.533Z",
+  "brief": "Amazon employees are publicly mocking the company's internal AI tools on Slack, dubbing them \"Sloppenheimer\" in reference to the film Oppenheimer. The incident reflects internal skepticism about Amazon's AI capabilities and workplace culture issues around the deployment of untested AI systems.",
+  "tags": {
+    "category": [
+      "incident",
+      "opinion"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

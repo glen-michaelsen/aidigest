@@ -1,0 +1,24 @@
+{
+  "id": "3b631680ec0a",
+  "source": "Hugging Face Blog",
+  "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+  "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+  "publishedAt": "2026-06-09T15:56:23.000Z",
+  "ingestedAt": "2026-06-10T04:27:18.588Z",
+  "brief": "Cohere launched North Mini Code, its first model purpose-built for developers, designed to assist with code generation and programming tasks. The release marks Cohere's entry into the specialized coding model market, competing with offerings from other major AI labs.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "llm"
+    ],
+    "company": [
+      "cohere"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e8e11bcb3ae6",
+  "source": "OpenAI Blog",
+  "title": "What Codex unlocks for Notion",
+  "url": "https://openai.com/index/notion",
+  "publishedAt": "2026-06-09T10:00:00.000Z",
+  "ingestedAt": "2026-06-10T04:27:06.818Z",
+  "brief": "Notion leverages OpenAI's Codex to automate spec generation, implement AI voice input features for web, and increase engineering productivity across small teams. The integration demonstrates how Codex enables non-traditional AI applications beyond code generation, directly multiplying development velocity.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

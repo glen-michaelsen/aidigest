@@ -1,0 +1,26 @@
+{
+  "id": "9be096effcbb",
+  "source": "Google DeepMind",
+  "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+  "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+  "publishedAt": "2026-06-09T14:10:19.000Z",
+  "ingestedAt": "2026-06-10T04:27:11.516Z",
+  "brief": "Google unveiled Gemma 4 12B, a unified multimodal model that processes text, images, and audio without separate encoders. The encoder-free architecture enables faster processing and more efficient resource usage while handling multiple modalities within a single 12B parameter model.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "image-generation",
+      "audio"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

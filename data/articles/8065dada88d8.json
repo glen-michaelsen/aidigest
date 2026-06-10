@@ -1,0 +1,24 @@
+{
+  "id": "8065dada88d8",
+  "source": "Google DeepMind",
+  "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+  "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+  "publishedAt": "2026-06-09T15:16:25.000Z",
+  "ingestedAt": "2026-06-10T04:27:09.941Z",
+  "brief": "Google launched Gemini 3.5 Live Translate, a feature enabling near real-time speech translation across Google AI Studio, Google Translate, and Google Meet. The capability delivers fluid, natural voice translation for seamless cross-language communication.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "audio"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

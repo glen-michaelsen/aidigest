@@ -1,0 +1,25 @@
+{
+  "id": "3de4c33b218c",
+  "source": "The Verge AI",
+  "title": "Apple is embracing the fantasy of AI photo editing",
+  "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+  "publishedAt": "2026-06-09T16:13:14.000Z",
+  "ingestedAt": "2026-06-10T04:26:44.186Z",
+  "brief": "Apple announced new AI-powered photo editing tools at WWDC 2026, including generative features that allow users to manipulate images while still labeling them as \"photographs.\" The move marks a shift from Apple's previous caution about generative AI's risks to image authenticity and perception.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "image-generation",
+      "consumer"
+    ],
+    "company": [
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

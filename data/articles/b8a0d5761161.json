@@ -1,0 +1,24 @@
+{
+  "id": "b8a0d5761161",
+  "source": "The Verge AI",
+  "title": "Anthropic releases its first Mythos-class model Claude Fable",
+  "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+  "publishedAt": "2026-06-09T17:00:00.000Z",
+  "ingestedAt": "2026-06-10T04:26:42.363Z",
+  "brief": "Anthropic released Claude Fable 5, marking the first public release of its Mythos-class models. The company claims Fable 5 is its most powerful widely available model, excelling in software engineering, knowledge work, and vision, with safety measures implemented to restrict responses in high-risk cybersecurity areas.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

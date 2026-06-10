@@ -1,0 +1,24 @@
+{
+  "id": "9ef460796b9f",
+  "source": "Ars Technica AI",
+  "title": "Apple says its AI is still private, even when it's running on Google's servers",
+  "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+  "publishedAt": "2026-06-09T13:05:49.000Z",
+  "ingestedAt": "2026-06-10T04:26:55.912Z",
+  "brief": "Apple clarified that its AI models running on Google Cloud remain private, with Google unable to access the data or models. The company is addressing concerns about data privacy as it expands its AI infrastructure beyond on-device processing.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "apple",
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

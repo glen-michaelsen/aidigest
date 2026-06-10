@@ -1,0 +1,23 @@
+{
+  "id": "d484de5576e8",
+  "source": "OpenAI Blog",
+  "title": "How engineers at Nextdoor use Codex to build without limits",
+  "url": "https://openai.com/index/nextdoor",
+  "publishedAt": "2026-06-09T12:00:00.000Z",
+  "ingestedAt": "2026-06-10T04:27:04.980Z",
+  "brief": "Nextdoor engineers are using OpenAI's Codex and GPT-5.5 to accelerate development, debugging hard-to-reproduce issues, and cross-platform building while staying focused on product outcomes.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

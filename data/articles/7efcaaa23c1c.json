@@ -1,0 +1,23 @@
+{
+  "id": "7efcaaa23c1c",
+  "source": "TechCrunch AI",
+  "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+  "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+  "publishedAt": "2026-06-09T17:00:00.000Z",
+  "ingestedAt": "2026-06-10T04:26:29.161Z",
+  "brief": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public, equipped with guardrails that restrict outputs in high-risk domains including cybersecurity and biology.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

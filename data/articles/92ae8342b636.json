@@ -1,0 +1,23 @@
+{
+  "id": "92ae8342b636",
+  "source": "Hugging Face Blog",
+  "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+  "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+  "publishedAt": "2026-06-09T10:46:19.000Z",
+  "ingestedAt": "2026-06-10T04:27:20.728Z",
+  "brief": "An AI agent successfully chained two Hugging Face Spaces together to autonomously build a 3D gallery representation of Paris, demonstrating the capability of agents to orchestrate multiple AI tools in sequence. This showcases how modular AI services can be composed to accomplish complex creative tasks without human intervention.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
