@@ -1,0 +1,24 @@
+{
+  "id": "c5a0df26b189",
+  "source": "Hacker News (AI)",
+  "title": "Apache Burr: Build reliable AI agents and applications",
+  "url": "https://burr.apache.org/",
+  "publishedAt": "2026-06-10T15:01:06.000Z",
+  "ingestedAt": "2026-06-11T04:49:29.813Z",
+  "brief": "Apache released Burr, an open-source framework for building reliable AI agents and applications with built-in support for persistence, state management, and debugging. The project garnered significant community interest on Hacker News, suggesting growing demand for production-grade agent development tools.",
+  "tags": {
+    "category": [
+      "open-source",
+      "infrastructure"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

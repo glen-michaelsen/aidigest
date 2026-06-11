@@ -1,0 +1,25 @@
+{
+  "id": "d9665153cdf2",
+  "source": "Google DeepMind",
+  "title": "DiffusionGemma: 4x faster text generation",
+  "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+  "publishedAt": "2026-06-10T16:24:11.000Z",
+  "ingestedAt": "2026-06-11T04:49:22.294Z",
+  "brief": "Google and DeepMind introduced DiffusionGemma, a diffusion-based text generation model that achieves 4x faster generation speeds compared to standard autoregressive methods. The approach uses parallel decoding with diffusion, reducing inference latency while maintaining competitive quality on language tasks.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google",
+      "deepmind"
+    ],
+    "model": [
+      "gemini",
+      "other"
+    ]
+  }
+}

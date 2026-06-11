@@ -1,0 +1,24 @@
+{
+  "id": "77660257b747",
+  "source": "TechCrunch AI",
+  "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+  "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+  "publishedAt": "2026-06-10T22:31:19.000Z",
+  "ingestedAt": "2026-06-11T04:48:40.326Z",
+  "brief": "A former xAI engineer filed a lawsuit claiming he was fired for raising AI safety concerns about Grok shortly before SpaceX's IPO. The case highlights potential tensions between safety advocacy and business timelines at xAI.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "xai"
+    ],
+    "model": [
+      "grok"
+    ]
+  }
+}

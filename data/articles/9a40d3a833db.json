@@ -1,0 +1,25 @@
+{
+  "id": "9a40d3a833db",
+  "source": "Ars Technica AI",
+  "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+  "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+  "publishedAt": "2026-06-10T19:29:21.000Z",
+  "ingestedAt": "2026-06-11T04:49:08.206Z",
+  "brief": "Google DeepMind released DiffusionGemma, a model that uses diffusion techniques to accelerate text generation 4x faster when run locally. The approach applies diffusion-based methods traditionally used in image generation to language models, enabling more efficient on-device AI inference.",
+  "tags": {
+    "category": [
+      "research",
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google",
+      "deepmind"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

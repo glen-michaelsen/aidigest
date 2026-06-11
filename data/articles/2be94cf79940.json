@@ -1,0 +1,25 @@
+{
+  "id": "2be94cf79940",
+  "source": "OpenAI Blog",
+  "title": "From data to decisions: how LSEG is scaling trusted AI",
+  "url": "https://openai.com/index/lseg",
+  "publishedAt": "2026-06-10T00:00:00.000Z",
+  "ingestedAt": "2026-06-11T04:49:20.120Z",
+  "brief": "LSEG is integrating OpenAI's technology across its global operations to accelerate data-driven insights and reduce release cycles, with deployment reaching 4,000 employees. The initiative demonstrates enterprise-scale adoption of trusted AI to streamline decision-making processes.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

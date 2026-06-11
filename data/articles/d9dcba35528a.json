@@ -1,0 +1,25 @@
+{
+  "id": "d9dcba35528a",
+  "source": "The Verge AI",
+  "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+  "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+  "publishedAt": "2026-06-10T16:18:45.000Z",
+  "ingestedAt": "2026-06-11T04:49:06.405Z",
+  "brief": "Google announced it will save images, audio, and video from Google Lens, Search Live, voice searches, and Translate for AI training under a new \"Search Services History\" setting. Users can opt out through privacy controls, but the change represents a significant expansion of data collection for model improvement.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "search",
+      "image-generation",
+      "audio"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

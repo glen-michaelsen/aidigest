@@ -1,0 +1,23 @@
+{
+  "id": "1b5061c025e8",
+  "source": "Hacker News (AI)",
+  "title": "Policy on the AI Exponential",
+  "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+  "publishedAt": "2026-06-10T18:36:04.000Z",
+  "ingestedAt": "2026-06-11T04:49:25.960Z",
+  "brief": "Dario Amodei, CEO of Anthropic, publishes a policy framework addressing governance challenges posed by exponential AI capability improvements. The post outlines considerations for managing rapid AI progress and its societal implications.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

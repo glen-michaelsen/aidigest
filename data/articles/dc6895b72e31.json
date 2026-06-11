@@ -1,0 +1,27 @@
+{
+  "id": "dc6895b72e31",
+  "source": "The Verge AI",
+  "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+  "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+  "publishedAt": "2026-06-10T16:50:23.000Z",
+  "ingestedAt": "2026-06-11T04:49:04.622Z",
+  "brief": "Microsoft has restricted Claude Fable 5, Anthropic's new Mythos-class model, for internal employee use due to data retention concerns, even as it made the model available to external GitHub Copilot and Foundry customers. The restriction stems from Anthropic's new data retention requirements conflicting with Microsoft's Zero Data Retention policy for internal tools.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "enterprise",
+      "coding"
+    ],
+    "company": [
+      "microsoft",
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

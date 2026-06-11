@@ -1,0 +1,25 @@
+{
+  "id": "6b241eb9c043",
+  "source": "Hacker News (AI)",
+  "title": "A €0.01 bank transfer could compromise a banking AI agent",
+  "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+  "publishedAt": "2026-06-10T13:39:11.000Z",
+  "ingestedAt": "2026-06-11T04:49:31.646Z",
+  "brief": "Researchers demonstrated a vulnerability in bunq's AI banking assistant where a €0.01 micro-transaction could be exploited to compromise the agent's security, potentially allowing unauthorized access or actions on financial accounts. This highlights risks in deploying AI agents with direct access to financial systems without robust safeguards.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

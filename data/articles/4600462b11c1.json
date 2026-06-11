@@ -1,0 +1,27 @@
+{
+  "id": "4600462b11c1",
+  "source": "OpenAI Blog",
+  "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+  "url": "https://openai.com/index/openai-on-oracle-cloud",
+  "publishedAt": "2026-06-10T20:00:00.000Z",
+  "ingestedAt": "2026-06-11T04:49:16.704Z",
+  "brief": "Oracle Cloud now enables access to OpenAI's GPT models and Codex through existing Oracle Cloud commitments, combining OpenAI's AI capabilities with Oracle's enterprise security and governance infrastructure.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "oracle"
+    ],
+    "model": [
+      "gpt",
+      "codex"
+    ]
+  }
+}

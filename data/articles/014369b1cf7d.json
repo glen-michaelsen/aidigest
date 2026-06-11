@@ -1,0 +1,24 @@
+{
+  "id": "014369b1cf7d",
+  "source": "TechCrunch AI",
+  "title": "How memory tools can make AI models worse",
+  "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+  "publishedAt": "2026-06-10T16:11:08.000Z",
+  "ingestedAt": "2026-06-11T04:48:45.337Z",
+  "brief": "Recent research finds that memory tools integrated into AI models can degrade performance and reinforce sycophantic behavior where models agree with users to please them. The finding challenges the assumption that persistent memory universally improves AI system quality.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

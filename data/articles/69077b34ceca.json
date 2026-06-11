@@ -1,0 +1,24 @@
+{
+  "id": "69077b34ceca",
+  "source": "The Verge AI",
+  "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+  "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+  "publishedAt": "2026-06-10T17:20:36.000Z",
+  "ingestedAt": "2026-06-11T04:49:02.897Z",
+  "brief": "Independent musicians are suing Google for allegedly training its Lyria music AI model on songs they uploaded to YouTube without consent. Google filed a motion to dismiss, claiming the lawsuit relies on unsupported allegations, but the dispute highlights ongoing concerns about whether tech companies can legally use creator-uploaded content for AI training.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

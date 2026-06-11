@@ -1,0 +1,24 @@
+{
+  "id": "a2aeb0bb039a",
+  "source": "The Verge AI",
+  "title": "Claude Fable won’t answer basic biology questions",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+  "publishedAt": "2026-06-10T18:43:34.000Z",
+  "ingestedAt": "2026-06-11T04:48:57.845Z",
+  "brief": "Anthropic released Claude Fable 5 as its most capable publicly available model, but deliberately restricts it from answering basic biology questions it can handle, routing those queries to Claude Opus 4.8 instead. The restriction stems from Fable's classification as a Mythos-class model, which Anthropic deemed too dangerous for public release due to its cybersecurity capabilities, highlighting the tension between capability and safety in model deployment.",
+  "tags": {
+    "category": [
+      "safety",
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
