@@ -1,0 +1,24 @@
+{
+  "id": "bea24aa7eac5",
+  "source": "Hacker News (AI)",
+  "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+  "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+  "publishedAt": "2026-06-11T13:26:59.000Z",
+  "ingestedAt": "2026-06-12T04:52:21.171Z",
+  "brief": "Workers are spending over 6 hours per week supervising and correcting AI outputs at work, a phenomenon called \"botsitting\" that reduces productivity and increases job dissatisfaction. The hidden labor cost reveals a gap between AI deployment promises and actual workplace efficiency, as employees must validate, debug, and refine AI-generated work.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

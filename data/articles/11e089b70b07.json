@@ -1,0 +1,25 @@
+{
+  "id": "11e089b70b07",
+  "source": "MIT Technology Review",
+  "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+  "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+  "publishedAt": "2026-06-11T11:00:45.000Z",
+  "ingestedAt": "2026-06-12T04:51:55.963Z",
+  "brief": "Google DeepMind is funding research into safety risks from large-scale AI agent interactions, where millions of autonomous agents coordinate without human oversight. Rohin Shah, leading the company's AGI safety and alignment efforts, flags the danger of agents following instructions from other agents in uncontrolled environments.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "google",
+      "deepmind"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

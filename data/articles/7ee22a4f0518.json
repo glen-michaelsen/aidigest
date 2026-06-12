@@ -1,0 +1,23 @@
+{
+  "id": "7ee22a4f0518",
+  "source": "The Verge AI",
+  "title": "Deezer launches an AI music detector for other streaming services",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+  "publishedAt": "2026-06-11T08:00:00.000Z",
+  "ingestedAt": "2026-06-12T04:51:49.804Z",
+  "brief": "Deezer launched a free AI music detection tool that scans playlists across competing streaming services like Spotify and Apple Music to identify synthetic tracks. The move follows Deezer's earlier role as the first major streamer to label AI-generated music, positioning the company as the industry standard-bearer for transparency as competitors pursue voluntary tagging instead.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

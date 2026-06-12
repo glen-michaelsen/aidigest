@@ -1,0 +1,23 @@
+{
+  "id": "397f7cdf88e0",
+  "source": "Hacker News (AI)",
+  "title": "Shall we play a game? My AI nuclear simulation",
+  "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+  "publishedAt": "2026-06-11T19:54:54.000Z",
+  "ingestedAt": "2026-06-12T04:52:17.161Z",
+  "brief": "Researchers published a paper on arXiv describing an AI-driven nuclear simulation game, sparking discussion about AI capabilities in complex strategic scenarios. The work demonstrates how AI systems can model and navigate high-stakes geopolitical simulations, raising questions about both potential applications and risks.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

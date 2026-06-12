@@ -1,0 +1,23 @@
+{
+  "id": "47d05adaf3b5",
+  "source": "Hugging Face Blog",
+  "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+  "url": "https://huggingface.co/blog/torch-mlp-fusion",
+  "publishedAt": "2026-06-11T00:00:00.000Z",
+  "ingestedAt": "2026-06-12T04:52:10.703Z",
+  "brief": "This technical article demonstrates profiling techniques in PyTorch, showing how to identify performance bottlenecks in neural network layers and optimize them through kernel fusion. The post walks through profiling nn.Linear operations and constructing a fused MLP implementation for improved computational efficiency.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

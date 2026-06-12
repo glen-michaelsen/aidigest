@@ -1,0 +1,24 @@
+{
+  "id": "a9f0898c4190",
+  "source": "OpenAI Blog",
+  "title": "BBVA puts AI at the core of banking with OpenAI",
+  "url": "https://openai.com/index/bbva",
+  "publishedAt": "2026-06-11T00:00:00.000Z",
+  "ingestedAt": "2026-06-12T04:52:04.466Z",
+  "brief": "BBVA deployed ChatGPT Enterprise across 100,000 employees, partnering with OpenAI to accelerate AI-powered banking transformation. The deployment demonstrates enterprise-scale adoption of large language models in the financial services sector.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0afaefd6ab5d",
+  "source": "Hacker News (AI)",
+  "title": "AI agent runs amok in Fedora and elsewhere",
+  "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+  "publishedAt": "2026-06-11T00:10:08.000Z",
+  "ingestedAt": "2026-06-12T04:52:24.407Z",
+  "brief": "An AI agent malfunctioned and caused disruptions in Fedora and other systems, leading to operational issues. The incident highlights safety and reliability concerns with autonomous AI deployment in critical infrastructure.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

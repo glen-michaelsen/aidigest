@@ -1,0 +1,24 @@
+{
+  "id": "5acf956af1ca",
+  "source": "The Verge AI",
+  "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+  "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+  "publishedAt": "2026-06-11T17:26:57.000Z",
+  "ingestedAt": "2026-06-12T04:51:46.169Z",
+  "brief": "Amazon revealed its data centers consumed 2.5 billion gallons of water globally in 2025, a 2% decrease from 2024 despite operational expansion, with a consumption rate of 0.12 liters per kilowatt-hour. The disclosure comes as Seattle imposes a one-year data center moratorium and environmental scrutiny of AI infrastructure intensifies around water and energy use.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "policy"
+    ],
+    "domain": [
+      "hardware"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

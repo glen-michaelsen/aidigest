@@ -1,0 +1,23 @@
+{
+  "id": "84b735cace59",
+  "source": "Hacker News (AI)",
+  "title": "Why AI hasn't replaced software engineers, and won't",
+  "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+  "publishedAt": "2026-06-11T07:51:17.000Z",
+  "ingestedAt": "2026-06-12T04:52:22.887Z",
+  "brief": "An analysis examining why AI models like code generation tools haven't yet displaced software engineers despite advances in coding capabilities. The article argues that AI tools remain limited in handling complex system design, architectural decisions, and real-world debugging requirements that define senior engineering work.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

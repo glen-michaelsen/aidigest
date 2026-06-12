@@ -1,0 +1,24 @@
+{
+  "id": "023a548ab2df",
+  "source": "Hacker News (AI)",
+  "title": "Claude Fable 5: mid-tier results on coding tasks",
+  "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+  "publishedAt": "2026-06-11T16:03:21.000Z",
+  "ingestedAt": "2026-06-12T04:52:18.942Z",
+  "brief": "Anthropic's Claude Fable 5 achieves mid-tier performance on coding benchmarks, falling short of top-tier results on standard evaluation tasks. The findings suggest Claude Fable 5 represents a step forward for mid-range coding capability but does not surpass leading competitors on comprehensive coding metrics.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "coding",
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

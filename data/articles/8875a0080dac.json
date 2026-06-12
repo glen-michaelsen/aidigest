@@ -1,0 +1,23 @@
+{
+  "id": "8875a0080dac",
+  "source": "OpenAI Blog",
+  "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+  "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+  "publishedAt": "2026-06-11T00:00:00.000Z",
+  "ingestedAt": "2026-06-12T04:52:05.884Z",
+  "brief": "OpenAI endorsed the EU Code of Practice on AI content transparency and committed to advancing provenance standards and tools to help users identify AI-generated content. This aligns with European regulatory efforts to build trust in AI systems through greater transparency.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

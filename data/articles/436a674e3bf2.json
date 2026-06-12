@@ -1,0 +1,23 @@
+{
+  "id": "436a674e3bf2",
+  "source": "OpenAI Blog",
+  "title": "How an astrophysicist uses Codex to help simulate black holes",
+  "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+  "publishedAt": "2026-06-11T00:00:00.000Z",
+  "ingestedAt": "2026-06-12T04:52:03.018Z",
+  "brief": "Astrophysicist Chi-kwan Chan uses OpenAI's Codex to accelerate black hole simulations that test Einstein's general relativity theory. The coding assistant helps scientists model extreme physics phenomena at computational speeds that would otherwise be prohibitively slow.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

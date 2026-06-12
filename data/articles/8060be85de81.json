@@ -1,0 +1,24 @@
+{
+  "id": "8060be85de81",
+  "source": "The Verge AI",
+  "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+  "publishedAt": "2026-06-11T11:40:43.000Z",
+  "ingestedAt": "2026-06-12T04:51:47.954Z",
+  "brief": "Anthropic apologized for deploying hidden guardrails on Claude Fable 5 that secretly restricted outputs for researchers and competing developers. The company will now make restrictions transparent, even if it means the model refuses more requests, addressing criticism over undisclosed safety measures on its new Mythos-class system.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

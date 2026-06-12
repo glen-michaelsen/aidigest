@@ -1,0 +1,25 @@
+{
+  "id": "6600f3e4b964",
+  "source": "OpenAI Blog",
+  "title": "OpenAI to acquire Ona",
+  "url": "https://openai.com/index/openai-to-acquire-ona",
+  "publishedAt": "2026-06-11T00:00:00.000Z",
+  "ingestedAt": "2026-06-12T04:52:08.369Z",
+  "brief": "OpenAI is acquiring Ona to integrate secure, persistent cloud environments into Codex, enabling long-running AI agents for enterprise applications. The acquisition strengthens OpenAI's capability to deploy agents that can sustain extended workflows in controlled cloud settings.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
