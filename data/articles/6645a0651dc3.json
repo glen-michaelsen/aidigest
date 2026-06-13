@@ -1,0 +1,25 @@
+{
+  "id": "6645a0651dc3",
+  "source": "Ars Technica AI",
+  "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+  "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+  "publishedAt": "2026-06-12T18:03:29.000Z",
+  "ingestedAt": "2026-06-13T04:39:53.117Z",
+  "brief": "Ukraine conducted a test deployment of fully autonomous AI-equipped drones that independently engaged Russian soldiers without human control, marking one of the first documented operational uses of fully autonomous lethal systems in active combat.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "robotics",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

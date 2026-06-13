@@ -1,0 +1,24 @@
+{
+  "id": "80b8efd89b1a",
+  "source": "Hugging Face Blog",
+  "title": "olmo-eval: An evaluation workbench for the model development loop",
+  "url": "https://huggingface.co/blog/allenai/olmo-eval",
+  "publishedAt": "2026-06-12T15:56:10.000Z",
+  "ingestedAt": "2026-06-13T04:40:13.427Z",
+  "brief": "Allen Institute for AI (AI2) released olmo-eval, an open-source evaluation framework designed to streamline model testing and benchmarking throughout the development cycle. The workbench provides standardized tools for assessing LLM performance across multiple benchmarks, enabling faster iteration and more rigorous evaluation practices.",
+  "tags": {
+    "category": [
+      "open-source",
+      "benchmarks"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

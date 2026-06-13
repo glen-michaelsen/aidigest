@@ -1,0 +1,25 @@
+{
+  "id": "dcc2fd07a9e8",
+  "source": "OpenAI Blog",
+  "title": "How Preply combines AI and human tutors to personalize learning",
+  "url": "https://openai.com/index/preply",
+  "publishedAt": "2026-06-12T00:00:00.000Z",
+  "ingestedAt": "2026-06-13T04:40:10.928Z",
+  "brief": "Preply has integrated OpenAI technology to generate AI-powered lesson summaries and personalized feedback for language learners, combining these automated tools with human tutors. The feature aims to enhance the personalization of individual learning experiences by providing tailored language exercises alongside human instruction.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "education",
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

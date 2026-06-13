@@ -1,0 +1,27 @@
+{
+  "id": "e17db83823d2",
+  "source": "OpenAI Blog",
+  "title": "New OpenAI Academy courses for the next era of work",
+  "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+  "publishedAt": "2026-06-12T10:00:00.000Z",
+  "ingestedAt": "2026-06-13T04:40:09.090Z",
+  "brief": "OpenAI launched three new Academy courses designed to teach practical AI skills, workflow automation, and agent application for everyday work scenarios. The courses aim to prepare workers for AI-driven roles in the emerging labor market.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "education"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "enterprise",
+      "education"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

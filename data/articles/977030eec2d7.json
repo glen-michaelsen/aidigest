@@ -1,0 +1,27 @@
+{
+  "id": "977030eec2d7",
+  "source": "The Verge AI",
+  "title": "Siri won’t be your AI girlfriend",
+  "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+  "publishedAt": "2026-06-12T07:00:31.000Z",
+  "ingestedAt": "2026-06-13T04:39:46.909Z",
+  "brief": "Apple's redesigned Siri will avoid sycophantic behavior and engagement-maximization tactics common in ChatGPT and Google's chatbots, according to Craig Federighi. The company is deliberately designing Siri to be functional rather than manipulative, prioritizing utility over building parasocial connections with users.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "apple",
+      "openai",
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

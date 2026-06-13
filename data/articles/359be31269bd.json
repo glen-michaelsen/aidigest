@@ -1,0 +1,24 @@
+{
+  "id": "359be31269bd",
+  "source": "Ars Technica AI",
+  "title": "$130 billion in data center projects blocked by protests so far this year",
+  "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+  "publishedAt": "2026-06-12T17:18:49.000Z",
+  "ingestedAt": "2026-06-13T04:39:54.911Z",
+  "brief": "Community protests have blocked approximately $130 billion in data center projects globally through 2024, with activists citing concerns over energy consumption, water usage, and environmental impact. The wave of successful opposition represents a significant shift in public engagement with AI infrastructure expansion and demonstrates growing grassroots resistance to the resource demands of AI deployment.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

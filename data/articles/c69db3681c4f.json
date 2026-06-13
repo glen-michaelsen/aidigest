@@ -1,0 +1,24 @@
+{
+  "id": "c69db3681c4f",
+  "source": "Ars Technica AI",
+  "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+  "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+  "publishedAt": "2026-06-12T16:34:36.000Z",
+  "ingestedAt": "2026-06-13T04:39:57.973Z",
+  "brief": "Google filed a lawsuit against a Chinese cybercrime network that allegedly used Gemini to automate the creation of phishing and scam websites targeting hundreds of thousands of people. The incident highlights how large language models can be weaponized for fraud at scale.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}
