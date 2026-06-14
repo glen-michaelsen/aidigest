@@ -1,0 +1,26 @@
+{
+  "id": "52f69ed1634e",
+  "source": "The Verge AI",
+  "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+  "publishedAt": "2026-06-13T21:39:26.000Z",
+  "ingestedAt": "2026-06-14T04:58:15.757Z",
+  "brief": "Amazon's security research showed that Anthropic's Fable 5 model could be manipulated to output information usable for cyberattacks. After CEO Andy Jassy shared these findings with the White House, Anthropic restricted Fable 5 and Mythos 5 access to foreign nationals through an export control directive.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "security"
+    ],
+    "company": [
+      "amazon",
+      "anthropic"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

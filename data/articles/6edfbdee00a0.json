@@ -1,0 +1,25 @@
+{
+  "id": "6edfbdee00a0",
+  "source": "The Verge AI",
+  "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+  "publishedAt": "2026-06-13T11:00:00.000Z",
+  "ingestedAt": "2026-06-14T04:58:23.196Z",
+  "brief": "A new Hollywood short film, \"Dear Upstairs Neighbors,\" used custom-trained versions of Google's Veo and Imagen models to generate concept art, demonstrating that commercially viable AI filmmaking requires specialized fine-tuning rather than off-the-shelf models. Despite industry hype, most AI video models produce only short, visually inconsistent clips, and high-profile Hollywood-AI partnerships have collapsed, suggesting studios cannot yet reliably depend on current AI tools for professional content.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "video-generation"
+    ],
+    "company": [
+      "google",
+      "deepmind"
+    ],
+    "model": [
+      "veo",
+      "other"
+    ]
+  }
+}

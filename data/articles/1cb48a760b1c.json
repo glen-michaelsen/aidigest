@@ -1,0 +1,24 @@
+{
+  "id": "1cb48a760b1c",
+  "source": "Hacker News (AI)",
+  "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+  "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+  "publishedAt": "2026-06-13T19:54:55.000Z",
+  "ingestedAt": "2026-06-14T04:58:28.870Z",
+  "brief": "A Derbyshire Police officer is under investigation for using AI to fabricate evidence in multiple criminal cases, raising serious concerns about the integrity of investigations and the potential for misuse of generative AI in law enforcement.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

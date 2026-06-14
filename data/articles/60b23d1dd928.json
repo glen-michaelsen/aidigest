@@ -1,0 +1,25 @@
+{
+  "id": "60b23d1dd928",
+  "source": "TechCrunch AI",
+  "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+  "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+  "publishedAt": "2026-06-13T02:26:30.000Z",
+  "ingestedAt": "2026-06-14T04:58:13.752Z",
+  "brief": "The government pulled Anthropic's most powerful AI model after safety warnings about potential jailbreaks. Anthropic disputed the decision, arguing that a narrow jailbreak vulnerability doesn't warrant recalling a commercially deployed model used by hundreds of millions.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

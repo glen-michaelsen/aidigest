@@ -1,0 +1,25 @@
+{
+  "id": "1961f5e29a94",
+  "source": "Ars Technica AI",
+  "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+  "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+  "publishedAt": "2026-06-13T03:00:34.000Z",
+  "ingestedAt": "2026-06-14T04:58:25.805Z",
+  "brief": "Anthropic has discontinued its Fable and Mythos models following a directive from the Trump administration, with the Commerce Department citing national security concerns over a reported \"jailbreak\" vulnerability in Fable 5. The shutdown reflects growing government scrutiny of AI safety and potential dual-use risks.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

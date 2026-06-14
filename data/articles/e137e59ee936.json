@@ -1,0 +1,24 @@
+{
+  "id": "e137e59ee936",
+  "source": "Hacker News (AI)",
+  "title": "Open source AI must win",
+  "url": "https://opensourceaimustwin.com/?share=v2",
+  "publishedAt": "2026-06-13T02:14:24.000Z",
+  "ingestedAt": "2026-06-14T04:58:37.548Z",
+  "brief": "An opinion piece argues that open-source AI development is critical to preventing monopolistic control of AI technology by large corporations, emphasizing transparency, accessibility, and community-driven innovation as essential counterweights to proprietary systems.",
+  "tags": {
+    "category": [
+      "opinion",
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

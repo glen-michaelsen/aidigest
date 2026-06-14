@@ -1,0 +1,24 @@
+{
+  "id": "7db5a9c52aa2",
+  "source": "The Verge AI",
+  "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+  "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+  "publishedAt": "2026-06-13T12:00:00.000Z",
+  "ingestedAt": "2026-06-14T04:58:20.517Z",
+  "brief": "Apple introduced native AI photo editing tools in iOS 27's developer beta, marking the iPhone's first built-in serious photo editing capabilities using AI. While less advanced than competitors like Google Pixel, the features represent a significant shift in what Apple's native Photos app can do, though the company may refine them before public release.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation",
+      "consumer"
+    ],
+    "company": [
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

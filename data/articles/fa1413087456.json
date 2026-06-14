@@ -1,0 +1,25 @@
+{
+  "id": "fa1413087456",
+  "source": "Hacker News (AI)",
+  "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+  "url": "https://github.com/Paca-AI/paca",
+  "publishedAt": "2026-06-13T09:44:25.000Z",
+  "ingestedAt": "2026-06-14T04:58:36.009Z",
+  "brief": "An engineer built Paca, a free, lightweight Jira alternative written in Go that enables human-AI agent collaboration for sprint planning and task assignment. The tool features customizable views, fields, and a WASM-based plugin architecture, with the creator committing to continuous maintenance and free availability.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "open-source"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

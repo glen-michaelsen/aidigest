@@ -1,0 +1,24 @@
+{
+  "id": "ae8100dd200d",
+  "source": "TechCrunch AI",
+  "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+  "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+  "publishedAt": "2026-06-13T20:42:31.000Z",
+  "ingestedAt": "2026-06-14T04:58:04.609Z",
+  "brief": "KPMG withdrew an AI-generated report after discovering it contained inaccurate information and hallucinations, highlighting ongoing reliability concerns with AI systems in professional contexts.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

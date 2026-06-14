@@ -1,0 +1,23 @@
+{
+  "id": "283c8f534b53",
+  "source": "The Verge AI",
+  "title": "My yard is dying, so I made an app for that",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+  "publishedAt": "2026-06-13T13:00:00.000Z",
+  "ingestedAt": "2026-06-14T04:58:17.224Z",
+  "brief": "A user leveraged Google's Gemini to build a functional web app from a natural language prompt, experiencing both the capabilities and limitations of AI-assisted development—including a system error that required manual intervention to resolve.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

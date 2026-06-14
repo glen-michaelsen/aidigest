@@ -1,0 +1,23 @@
+{
+  "id": "183b5cdb8df6",
+  "source": "Hacker News (AI)",
+  "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+  "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+  "publishedAt": "2026-06-13T00:58:06.000Z",
+  "ingestedAt": "2026-06-14T04:58:39.196Z",
+  "brief": "Anthropic has suspended access to Claude Mythos 5 and Claude Fable 5 models due to an unspecified incident. The suspension affects users' ability to access these Claude variants, though the specific reason and duration remain unclear based on the status page notice.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
