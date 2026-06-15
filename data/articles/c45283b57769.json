@@ -1,0 +1,25 @@
+{
+  "id": "c45283b57769",
+  "source": "The Verge AI",
+  "title": "China may have accessed Mythos",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+  "publishedAt": "2026-06-14T18:27:55.000Z",
+  "ingestedAt": "2026-06-15T05:17:29.636Z",
+  "brief": "According to Semafor, the White House imposed export restrictions on Anthropic's Mythos model partly due to concerns that it may have been accessed by a Chinese government-linked group, creating national security risks including potential reverse engineering through model distillation. The White House has not confirmed the report, and the actual scope of any potential access remains unclear.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

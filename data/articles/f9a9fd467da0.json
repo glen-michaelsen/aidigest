@@ -1,0 +1,24 @@
+{
+  "id": "f9a9fd467da0",
+  "source": "Hacker News (AI)",
+  "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+  "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+  "publishedAt": "2026-06-14T15:37:31.000Z",
+  "ingestedAt": "2026-06-15T05:17:39.735Z",
+  "brief": "A large language model promoted as Brazil's homegrown AI appears to be a merge of existing open-source models rather than originally developed, according to analysis on GitHub and discussion on Hacker News. This revelation raises questions about authenticity claims and proper attribution in the model development community.",
+  "tags": {
+    "category": [
+      "incident",
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

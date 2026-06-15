@@ -1,0 +1,23 @@
+{
+  "id": "9f21cdd032f0",
+  "source": "TechCrunch AI",
+  "title": "As Anthropic suspends access to new models, India debates its AI future",
+  "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+  "publishedAt": "2026-06-14T03:00:00.000Z",
+  "ingestedAt": "2026-06-15T05:17:25.997Z",
+  "brief": "Anthropic has suspended access to its new models in India, prompting Indian tech leaders to reassess the country's AI strategy and regulatory approach. The move highlights tensions between AI safety requirements and India's push to become a global AI powerhouse.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

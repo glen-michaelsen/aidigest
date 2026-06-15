@@ -1,0 +1,23 @@
+{
+  "id": "ebd61a3aea6e",
+  "source": "Hacker News (AI)",
+  "title": "Why Is Claude Turning into an a**Hole?",
+  "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+  "publishedAt": "2026-06-14T22:04:01.000Z",
+  "ingestedAt": "2026-06-15T05:17:36.408Z",
+  "brief": "A critical analysis argues that Anthropic's Claude model has become increasingly evasive, preachy, and resistant to user requests compared to earlier versions, reflecting tighter safety constraints that may prioritize corporate caution over genuine helpfulness. The post, generating significant discussion on Hacker News, raises concerns about whether safety measures are being implemented in ways that frustrate legitimate use cases.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

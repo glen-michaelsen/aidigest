@@ -1,0 +1,23 @@
+{
+  "id": "3a79de7d7a98",
+  "source": "Hacker News (AI)",
+  "title": "AI is code – and can't be prompted into being smarter",
+  "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+  "publishedAt": "2026-06-14T20:17:54.000Z",
+  "ingestedAt": "2026-06-15T05:17:37.929Z",
+  "brief": "An opinion piece argues that AI systems are fundamentally code rather than magic, and that prompting cannot overcome their inherent limitations — intelligence gains require architectural improvements and training changes, not clever user instructions.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
