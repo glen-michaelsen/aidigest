@@ -1,0 +1,24 @@
+{
+  "id": "4ae1016c8cf8",
+  "source": "The Verge AI",
+  "title": "Facebook’s new AI Mode search gets its info from public posts",
+  "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+  "publishedAt": "2026-06-15T21:15:08.000Z",
+  "ingestedAt": "2026-06-16T05:20:53.291Z",
+  "brief": "Meta launched AI Mode for Facebook search, which generates AI-driven results from public posts across Meta's platforms. The feature represents Meta's expansion of generative AI into its core search functionality, similar to its recent AI search in the Forum app, and complements new AI photo and collage features rolling out today.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "search",
+      "consumer"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2166f9902f19",
+  "source": "Hacker News (AI)",
+  "title": "My Homelab AI Dev Platform",
+  "url": "https://rsgm.dev/post/ai-dev-platform/",
+  "publishedAt": "2026-06-15T15:09:40.000Z",
+  "ingestedAt": "2026-06-16T05:21:17.315Z",
+  "brief": "A developer shares their personal homelab setup for AI development, detailing infrastructure choices and tools for local model experimentation and training.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

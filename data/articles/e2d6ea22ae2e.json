@@ -1,0 +1,23 @@
+{
+  "id": "e2d6ea22ae2e",
+  "source": "Hacker News (AI)",
+  "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+  "url": "https://github.com/themartiano/luz",
+  "publishedAt": "2026-06-15T09:34:10.000Z",
+  "ingestedAt": "2026-06-16T05:21:22.083Z",
+  "brief": "A developer built a C++ ray tracer from scratch without using AI assistance, demonstrating manual implementation of rendering algorithms. The project gained traction on Hacker News with 145 points, indicating community interest in traditional software engineering approaches.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

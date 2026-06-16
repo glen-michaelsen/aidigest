@@ -1,0 +1,24 @@
+{
+  "id": "5e2758934aec",
+  "source": "Hacker News (AI)",
+  "title": "Can Europe train a frontier AI model on the compute it owns?",
+  "url": "https://github.com/sammysltd/euromesh",
+  "publishedAt": "2026-06-15T13:31:09.000Z",
+  "ingestedAt": "2026-06-16T05:21:20.574Z",
+  "brief": "A technical analysis examines whether Europe's available compute infrastructure is sufficient to train a frontier-class large language model competitively. The question highlights Europe's infrastructure gap relative to dominant AI powers and explores the feasibility of building independent AI capability on the continent's existing resources.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

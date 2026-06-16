@@ -1,0 +1,28 @@
+{
+  "id": "610268223423",
+  "source": "Hacker News (AI)",
+  "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+  "url": "https://news.ycombinator.com/item?id=48542100",
+  "publishedAt": "2026-06-15T14:46:53.000Z",
+  "ingestedAt": "2026-06-16T05:21:18.891Z",
+  "brief": "A Hacker News discussion where developers asked whether anyone has successfully replaced Claude or GPT with a local open-source model for daily coding work, with 810 points and 381 comments indicating strong community interest in viable local alternatives.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "other"
+    ]
+  }
+}

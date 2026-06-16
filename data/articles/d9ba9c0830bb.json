@@ -1,0 +1,28 @@
+{
+  "id": "d9ba9c0830bb",
+  "source": "The Verge AI",
+  "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+  "publishedAt": "2026-06-15T19:04:53.000Z",
+  "ingestedAt": "2026-06-16T05:20:55.474Z",
+  "brief": "The White House ordered Anthropic to block foreign access to its newly released Fable 5 and Mythos 5 models on June 12, citing cybersecurity vulnerabilities researchers discovered in the systems. Anthropic complied but disputed the order, arguing that a narrow jailbreak risk shouldn't trigger recall of models deployed to hundreds of millions of users, while tensions escalate amid existing Pentagon disputes.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "amazon",
+      "microsoft"
+    ],
+    "model": [
+      "claude",
+      "other"
+    ]
+  }
+}

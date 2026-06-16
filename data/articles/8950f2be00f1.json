@@ -1,0 +1,24 @@
+{
+  "id": "8950f2be00f1",
+  "source": "TechCrunch AI",
+  "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+  "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+  "publishedAt": "2026-06-15T21:50:21.000Z",
+  "ingestedAt": "2026-06-16T05:20:40.548Z",
+  "brief": "The Trump administration forced Anthropic to remove its latest cybersecurity models from availability, marking direct government intervention in AI development. The decision reflects broader concerns about government control over the AI industry rather than genuine technical safety issues.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

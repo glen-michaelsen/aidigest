@@ -1,0 +1,24 @@
+{
+  "id": "e67cde346270",
+  "source": "The Verge AI",
+  "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+  "publishedAt": "2026-06-15T18:10:27.000Z",
+  "ingestedAt": "2026-06-16T05:20:57.011Z",
+  "brief": "The Trump administration forced Anthropic to take its newest models offline and restrict access to foreign nationals, including its own employees. The move underscores US government control over frontier AI and sparked international calls for non-American AI alternatives.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

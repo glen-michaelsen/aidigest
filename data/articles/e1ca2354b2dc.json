@@ -1,0 +1,24 @@
+{
+  "id": "e1ca2354b2dc",
+  "source": "Hacker News (AI)",
+  "title": "Claude Corps",
+  "url": "https://www.anthropic.com/news/claude-corps",
+  "publishedAt": "2026-06-15T17:41:24.000Z",
+  "ingestedAt": "2026-06-16T05:21:15.510Z",
+  "brief": "Anthropic has launched Claude Corps, a program designed to provide structured access to Claude models for enterprise and government organizations. The initiative aims to accelerate AI adoption among large institutions while maintaining safety and alignment standards.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
