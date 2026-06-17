@@ -1,0 +1,24 @@
+{
+  "id": "e24d6d5bbe56",
+  "source": "The Verge AI",
+  "title": "Inside the fight over Claude Mythos 5",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+  "publishedAt": "2026-06-16T03:00:00.000Z",
+  "ingestedAt": "2026-06-17T05:00:43.768Z",
+  "brief": "Anthropic received a US export control directive requiring it to block foreign nationals from accessing Claude Mythos 5 and Fable 5, forcing the company to suspend the newly released models and escalate to the Trump administration. The directive also prevented Anthropic's own foreign national employees from using the models, highlighting tensions between AI innovation and export restrictions.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

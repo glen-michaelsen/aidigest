@@ -1,0 +1,24 @@
+{
+  "id": "b387731f4f83",
+  "source": "OpenAI Blog",
+  "title": "Predicting model behavior before release by simulating deployment",
+  "url": "https://openai.com/index/deployment-simulation",
+  "publishedAt": "2026-06-16T00:00:00.000Z",
+  "ingestedAt": "2026-06-17T05:01:02.068Z",
+  "brief": "OpenAI introduced Deployment Simulation, a method that predicts AI model behavior before release by simulating real-world deployment conditions using actual conversation data. This approach improves both safety evaluation and accuracy of pre-release model testing.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

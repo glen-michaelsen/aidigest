@@ -1,0 +1,23 @@
+{
+  "id": "8fede85baa2c",
+  "source": "Ars Technica AI",
+  "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+  "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+  "publishedAt": "2026-06-16T16:18:07.000Z",
+  "ingestedAt": "2026-06-17T05:00:52.755Z",
+  "brief": "Leaked financial documents reveal OpenAI is posting billions in annual losses despite growing revenues, with research and development and operational expenses significantly outpacing income. The disclosure raises questions about the company's path to profitability and sustainability of its current spending trajectory.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

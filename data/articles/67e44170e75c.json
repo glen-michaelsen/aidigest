@@ -1,0 +1,24 @@
+{
+  "id": "67e44170e75c",
+  "source": "Ars Technica AI",
+  "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+  "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+  "publishedAt": "2026-06-16T22:22:44.000Z",
+  "ingestedAt": "2026-06-17T05:00:45.670Z",
+  "brief": "The Trump administration is attempting to block an NAACP lawsuit challenging xAI's use of unpermitted gas turbines at its Grok data center facility under the Clean Air Act. The legal action raises concerns about environmental compliance and regulatory enforcement in AI infrastructure deployment.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

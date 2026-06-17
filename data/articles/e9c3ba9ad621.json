@@ -1,0 +1,25 @@
+{
+  "id": "e9c3ba9ad621",
+  "source": "Ars Technica AI",
+  "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+  "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+  "publishedAt": "2026-06-16T21:00:35.000Z",
+  "ingestedAt": "2026-06-17T05:00:47.088Z",
+  "brief": "Anthropic delayed its planned transition to token-based billing for the Claude Agent SDK, a move that would have significantly increased costs for power users. The company paused the originally scheduled Monday rollout in response to user concerns about pricing impacts.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

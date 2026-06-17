@@ -1,0 +1,25 @@
+{
+  "id": "4dabfdd6b9ef",
+  "source": "Ars Technica AI",
+  "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+  "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+  "publishedAt": "2026-06-16T11:15:46.000Z",
+  "ingestedAt": "2026-06-17T05:00:54.536Z",
+  "brief": "A critical vulnerability in Microsoft Copilot, dubbed SearchLeak, allowed attackers to extract two-factor authentication codes and other sensitive data from users through prompt injection attacks. The incident highlights systemic gaps in how the AI industry approaches security and validates the safety of production LLM systems.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
