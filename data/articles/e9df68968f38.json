@@ -1,0 +1,26 @@
+{
+  "id": "e9df68968f38",
+  "source": "TechCrunch AI",
+  "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+  "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+  "publishedAt": "2026-06-17T20:17:38.000Z",
+  "ingestedAt": "2026-06-18T04:50:01.185Z",
+  "brief": "Enterprises that aggressively adopted AI tools earlier in 2024 are now facing budget constraints and ROI challenges, with companies like Uber exhausting annual AI budgets within months and others cutting back on licenses for Claude and other tools. The shift reflects a maturation from hype-driven \"tokenmaxxing\" to more cautious, ROI-focused AI spending strategies.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "anthropic",
+      "meta",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "none"
+    ]
+  }
+}

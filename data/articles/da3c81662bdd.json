@@ -1,0 +1,25 @@
+{
+  "id": "da3c81662bdd",
+  "source": "Hugging Face Blog",
+  "title": "Agentic Resource Discovery: Let agents search",
+  "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+  "publishedAt": "2026-06-17T00:00:00.000Z",
+  "ingestedAt": "2026-06-18T04:51:01.725Z",
+  "brief": "A new capability enabling AI agents to autonomously search and discover resources. This development extends agent functionality beyond predefined knowledge, allowing them to actively seek and retrieve information needed to complete tasks.",
+  "tags": {
+    "category": [
+      "research",
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "search"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

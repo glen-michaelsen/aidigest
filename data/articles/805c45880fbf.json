@@ -1,0 +1,23 @@
+{
+  "id": "805c45880fbf",
+  "source": "The Verge AI",
+  "title": "Two-thirds of Americans think AI is advancing too quickly",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+  "publishedAt": "2026-06-17T17:20:24.000Z",
+  "ingestedAt": "2026-06-18T04:50:15.457Z",
+  "brief": "A Pew Research poll shows 49% of Americans use chatbots occasionally, up from 33% in 2024, with ChatGPT usage doubling since 2023. However, 63% believe AI is advancing too quickly, and only 16% expect positive societal impact, with younger generations paradoxically showing both higher usage and more pessimism.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

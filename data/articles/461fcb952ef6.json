@@ -1,0 +1,24 @@
+{
+  "id": "461fcb952ef6",
+  "source": "Ars Technica AI",
+  "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+  "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+  "publishedAt": "2026-06-17T19:25:19.000Z",
+  "ingestedAt": "2026-06-18T04:50:32.002Z",
+  "brief": "Nvidia demonstrated AI coding agents that autonomously taught robots how to perform hardware tasks like installing GPUs and cutting zip ties through a self-improvement program. The work showcases how language models can translate physical robotics tasks into executable code, advancing automation in hardware assembly and maintenance.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "robotics",
+      "coding"
+    ],
+    "company": [
+      "nvidia"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c7b6e0d15e34",
+  "source": "Hugging Face Blog",
+  "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+  "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+  "publishedAt": "2026-06-17T10:18:05.000Z",
+  "ingestedAt": "2026-06-18T04:50:53.040Z",
+  "brief": "Hugging Face released LeRobot, a framework that bridges machine learning models on its Hub with physical robot hardware through Strands Agents. The framework aims to make robotics more accessible by enabling practitioners to deploy trained models directly to real robots without requiring extensive robotics expertise.",
+  "tags": {
+    "category": [
+      "open-source",
+      "product-launch"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

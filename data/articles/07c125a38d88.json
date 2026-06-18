@@ -1,0 +1,24 @@
+{
+  "id": "07c125a38d88",
+  "source": "Hugging Face Blog",
+  "title": "MolmoMotion: Language-guided 3D motion forecasting",
+  "url": "https://huggingface.co/blog/allenai/molmomotion",
+  "publishedAt": "2026-06-17T15:26:44.000Z",
+  "ingestedAt": "2026-06-18T04:50:51.281Z",
+  "brief": "MolmoMotion is a new model that uses natural language guidance to forecast 3D motion sequences, enabling language-directed control of motion prediction. This approach bridges language understanding with motion forecasting, expanding how AI systems can interpret and predict physical movements.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

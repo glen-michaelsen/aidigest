@@ -1,0 +1,24 @@
+{
+  "id": "b626f5f34b3e",
+  "source": "TechCrunch AI",
+  "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+  "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+  "publishedAt": "2026-06-17T19:01:19.000Z",
+  "ingestedAt": "2026-06-18T04:50:03.415Z",
+  "brief": "World leaders at the G7 summit, including France's Macron and India's Modi, expressed concern that the U.S. could unilaterally revoke access to American AI systems, a risk highlighted by Anthropic's recent service blackout. The incident underscores geopolitical tensions around AI dependency and Western technological control.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
