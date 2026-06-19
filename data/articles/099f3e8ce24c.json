@@ -1,0 +1,24 @@
+{
+  "id": "099f3e8ce24c",
+  "source": "The Verge AI",
+  "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+  "publishedAt": "2026-06-18T03:12:31.000Z",
+  "ingestedAt": "2026-06-19T05:11:17.089Z",
+  "brief": "Midjourney unveiled The Midjourney Scanner, an ultrasound-based full-body imaging device using a ring of sensors to capture cross-sectional images of muscle, fat, bone, and organs with image quality aimed at MRI-level performance. The hardware product marks Midjourney's expansion beyond AI image generation, with CEO David Holz also announcing plans to open a San Francisco spa offering the scanning service.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "hardware",
+      "healthcare"
+    ],
+    "company": [
+      "midjourney"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

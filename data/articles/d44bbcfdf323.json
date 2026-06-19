@@ -1,0 +1,25 @@
+{
+  "id": "d44bbcfdf323",
+  "source": "Hugging Face Blog",
+  "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "url": "https://huggingface.co/blog/is-it-agentic-enough",
+  "publishedAt": "2026-06-18T00:00:00.000Z",
+  "ingestedAt": "2026-06-19T05:11:39.038Z",
+  "brief": "This piece examines how to evaluate open-source AI models' agentic capabilities by benchmarking them against custom tooling and use cases. It addresses the challenge of assessing whether open models can effectively perform autonomous, multi-step tasks relevant to specific business requirements rather than relying on generic benchmarks.",
+  "tags": {
+    "category": [
+      "benchmarks",
+      "open-source"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

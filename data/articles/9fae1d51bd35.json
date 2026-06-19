@@ -1,0 +1,23 @@
+{
+  "id": "9fae1d51bd35",
+  "source": "The Verge AI",
+  "title": "Amazon employees say they’re facing termination for backing data center limits",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+  "publishedAt": "2026-06-18T16:00:00.000Z",
+  "ingestedAt": "2026-06-19T05:11:09.456Z",
+  "brief": "Amazon software engineers who testified at Seattle City Council hearings advocating for data center limits are accusing the company of retaliating against them through termination investigations. The employees cited Seattle's political speech protections law in their testimony; Amazon disputes the characterization of its actions as retaliation.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

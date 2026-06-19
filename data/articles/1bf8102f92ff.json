@@ -1,0 +1,26 @@
+{
+  "id": "1bf8102f92ff",
+  "source": "TechCrunch AI",
+  "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+  "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+  "publishedAt": "2026-06-18T18:22:13.000Z",
+  "ingestedAt": "2026-06-19T05:11:02.283Z",
+  "brief": "Amazon AWS is negotiating to sell its proprietary AI chips to external data centers, expanding beyond internal use. CEO Andy Jassy estimates the opportunity at $50 billion, positioning Amazon as a direct competitor to Nvidia's dominant chip market.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "chips",
+      "hardware"
+    ],
+    "company": [
+      "amazon",
+      "nvidia"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

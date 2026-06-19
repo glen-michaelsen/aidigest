@@ -1,0 +1,24 @@
+{
+  "id": "f259a942dddb",
+  "source": "The Verge AI",
+  "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+  "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+  "publishedAt": "2026-06-18T13:00:00.000Z",
+  "ingestedAt": "2026-06-19T05:11:15.266Z",
+  "brief": "Adobe launched a redesigned Firefly AI studio in private beta that maintains persistent context across projects, allowing users to name and reuse characters, objects, and backgrounds without design changes. The update consolidates editing and generation tools into a single interface to streamline workflows from ideation to production.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation",
+      "consumer"
+    ],
+    "company": [
+      "adobe"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

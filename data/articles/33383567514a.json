@@ -1,0 +1,24 @@
+{
+  "id": "33383567514a",
+  "source": "OpenAI Blog",
+  "title": "Improving health intelligence in ChatGPT",
+  "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+  "publishedAt": "2026-06-18T11:00:00.000Z",
+  "ingestedAt": "2026-06-19T05:11:30.386Z",
+  "brief": "OpenAI has enhanced ChatGPT's health and wellness capabilities with GPT-4.5 Instant, improving response quality through stronger reasoning, better contextual understanding, and physician-informed evaluations. The update aims to provide more reliable health information while maintaining appropriate medical disclaimers.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "healthcare"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

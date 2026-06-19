@@ -1,0 +1,23 @@
+{
+  "id": "dc672d008682",
+  "source": "Hugging Face Blog",
+  "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "url": "https://huggingface.co/blog/peft-beyond-lora",
+  "publishedAt": "2026-06-18T00:00:00.000Z",
+  "ingestedAt": "2026-06-19T05:11:37.111Z",
+  "brief": "This article examines whether newer fine-tuning techniques can outperform LoRA (Low-Rank Adaptation), the widely-adopted method for efficiently customizing large language models. The analysis explores alternative approaches and their effectiveness relative to LoRA's established benchmark in practical AI deployment scenarios.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "217d8a1a56f1",
+  "source": "OpenAI Blog",
+  "title": "New usage analytics and updated spend controls for enterprises",
+  "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+  "publishedAt": "2026-06-18T17:00:00.000Z",
+  "ingestedAt": "2026-06-19T05:11:28.804Z",
+  "brief": "OpenAI rolled out new spend controls and usage analytics for ChatGPT Enterprise, enabling organizations to better manage costs and monitor AI consumption. This product update addresses enterprise demand for governance tools as organizations scale generative AI deployments.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

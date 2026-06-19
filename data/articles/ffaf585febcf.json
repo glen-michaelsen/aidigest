@@ -1,0 +1,24 @@
+{
+  "id": "ffaf585febcf",
+  "source": "The Verge AI",
+  "title": "Photoshop and Premiere now have AI assistants",
+  "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+  "publishedAt": "2026-06-18T13:00:00.000Z",
+  "ingestedAt": "2026-06-19T05:11:13.102Z",
+  "brief": "Adobe has launched AI assistants in public beta across five Creative Cloud apps—Photoshop, Premiere, Illustrator, InDesign, and Frame.io—each fine-tuned for app-specific conversational editing tasks powered by Adobe's conversational creative agent.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation",
+      "video-generation"
+    ],
+    "company": [
+      "adobe"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

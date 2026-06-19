@@ -1,0 +1,24 @@
+{
+  "id": "e9b8182dcfcc",
+  "source": "Hugging Face Blog",
+  "title": "MosaicLeaks: Can your research agent keep a secret?",
+  "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+  "publishedAt": "2026-06-18T18:13:13.000Z",
+  "ingestedAt": "2026-06-19T05:11:35.130Z",
+  "brief": "A security research effort reveals that autonomous research agents can inadvertently leak sensitive information through their outputs and interactions. The study, dubbed \"MosaicLeaks,\" demonstrates how AI agents designed to conduct research may expose confidential data unless properly safeguarded with privacy controls.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
