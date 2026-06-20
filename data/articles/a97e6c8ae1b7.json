@@ -1,0 +1,24 @@
+{
+  "id": "a97e6c8ae1b7",
+  "source": "MIT Technology Review",
+  "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+  "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+  "publishedAt": "2026-06-19T10:40:24.000Z",
+  "ingestedAt": "2026-06-20T04:23:14.743Z",
+  "brief": "Miami-based startup Subquadratic emerged from stealth claiming to have solved a long-standing mathematical bottleneck constraining LLM performance over the past decade. The company is providing technical validation of its breakthrough, though details remain limited.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

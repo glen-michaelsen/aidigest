@@ -1,0 +1,26 @@
+{
+  "id": "c67282832407",
+  "source": "TechCrunch AI",
+  "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+  "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+  "publishedAt": "2026-06-19T16:08:17.000Z",
+  "ingestedAt": "2026-06-20T04:22:54.435Z",
+  "brief": "The US government forced Anthropic to withdraw its Fable 5 and Mythos 5 models due to national security concerns after Amazon researchers allegedly discovered guardrail bypasses. Anthropic and cybersecurity experts argue similar vulnerabilities exist across competing models, raising questions about whether the selective enforcement actually benefits Anthropic's brand positioning.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "amazon"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

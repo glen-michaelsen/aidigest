@@ -1,0 +1,23 @@
+{
+  "id": "521637e1c79b",
+  "source": "MIT Technology Review",
+  "title": "The Download: AI bottleneck debates, and BCI trials take off",
+  "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+  "publishedAt": "2026-06-19T12:10:00.000Z",
+  "ingestedAt": "2026-06-20T04:23:13.217Z",
+  "brief": "Subquadratic, an AI startup, emerged from stealth claiming to have solved a mathematical bottleneck that limits LLM performance and scaling. The breakthrough addresses computational inefficiencies that have constrained large language model training and inference.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "26ba1457d23d",
+  "source": "The Verge AI",
+  "title": "The film about Sam Altman has been dropped by Amazon MGM",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+  "publishedAt": "2026-06-19T14:15:29.000Z",
+  "ingestedAt": "2026-06-20T04:23:09.751Z",
+  "brief": "Luca Guadagnino's film \"Artificial,\" starring Andrew Garfield as OpenAI CEO Sam Altman, has been dropped by Amazon MGM after a year in development. The movie chronicled Altman's five-day termination and reinstatement as CEO in 2023 and featured a cast including Monica Barbaro as Mira Murati and Ike Barinholtz as Elon Musk.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3d079fe17c33",
+  "source": "TechCrunch AI",
+  "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+  "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+  "publishedAt": "2026-06-19T16:01:03.000Z",
+  "ingestedAt": "2026-06-20T04:22:55.935Z",
+  "brief": "The US government forced Anthropic to pull its Fable 5 and Mythos 5 models citing national security concerns after Amazon researchers reportedly found guardrail bypasses. Cybersecurity experts and Anthropic countered that similar jailbreaks exist in competing models, questioning the selective enforcement.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "amazon"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

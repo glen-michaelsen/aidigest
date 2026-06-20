@@ -1,0 +1,26 @@
+{
+  "id": "d6fe158cc16a",
+  "source": "Hacker News (AI)",
+  "title": "Is AI ruining our skills? Early results are in – and they're not good",
+  "url": "https://www.nature.com/articles/d41586-026-01947-1",
+  "publishedAt": "2026-06-19T18:00:48.000Z",
+  "ingestedAt": "2026-06-20T04:23:24.496Z",
+  "brief": "A Nature investigation finds evidence that widespread AI tool use is degrading human skill development, particularly in coding, writing, and analytical work. The research suggests that over-reliance on AI assistants may undermine the deliberate practice needed to build expertise, raising concerns about long-term workforce competency.",
+  "tags": {
+    "category": [
+      "opinion",
+      "safety"
+    ],
+    "domain": [
+      "coding",
+      "education",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

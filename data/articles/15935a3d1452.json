@@ -1,0 +1,25 @@
+{
+  "id": "15935a3d1452",
+  "source": "TechCrunch AI",
+  "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+  "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+  "publishedAt": "2026-06-19T22:40:14.000Z",
+  "ingestedAt": "2026-06-20T04:22:52.555Z",
+  "brief": "Anthropic released Mythos, a cybersecurity-focused model, amid ongoing debate about export controls on AI and cybersecurity technology. The article argues that three decades of failed encryption and software export controls suggest similar restrictions on AI models will prove ineffective.",
+  "tags": {
+    "category": [
+      "policy",
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "security"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
