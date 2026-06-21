@@ -1,0 +1,25 @@
+{
+  "id": "2c1e718513ec",
+  "source": "TechCrunch AI",
+  "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+  "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+  "publishedAt": "2026-06-20T16:39:57.000Z",
+  "ingestedAt": "2026-06-21T05:06:42.255Z",
+  "brief": "Nobel laureate John Jumper, a key researcher at Google DeepMind known for work on protein structure prediction, is departing to join rival AI safety company Anthropic. This move represents continued talent migration from DeepMind to other frontier AI labs.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "deepmind",
+      "anthropic",
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

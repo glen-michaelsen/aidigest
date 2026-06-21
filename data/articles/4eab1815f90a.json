@@ -1,0 +1,26 @@
+{
+  "id": "4eab1815f90a",
+  "source": "The Verge AI",
+  "title": "The Atlantic created a searchable database of the music used to train AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+  "publishedAt": "2026-06-20T18:46:48.000Z",
+  "ingestedAt": "2026-06-21T05:06:44.394Z",
+  "brief": "The Atlantic created a searchable public database of four music datasets used to train AI models, including two with 12 million and 9 million tracks respectively. The investigation revealed that Google and Stability have confirmed using these datasets, raising transparency questions about music training data in AI development.",
+  "tags": {
+    "category": [
+      "research",
+      "policy"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "google",
+      "stability",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
