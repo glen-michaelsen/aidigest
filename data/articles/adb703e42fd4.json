@@ -1,0 +1,24 @@
+{
+  "id": "adb703e42fd4",
+  "source": "Hacker News (AI)",
+  "title": "Building reliable agentic AI systems",
+  "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+  "publishedAt": "2026-06-21T04:28:39.000Z",
+  "ingestedAt": "2026-06-22T05:18:37.216Z",
+  "brief": "Martin Fowler and Bayer collaborators published guidance on building reliable agentic AI systems, addressing the challenges of deploying autonomous AI agents in production environments. The article provides practical patterns for ensuring reliability, testing, and robustness in systems that make independent decisions.",
+  "tags": {
+    "category": [
+      "opinion",
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b7d75a19f9b0",
+  "source": "Hacker News (AI)",
+  "title": "When I reject AI code even if it works",
+  "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+  "publishedAt": "2026-06-21T00:58:13.000Z",
+  "ingestedAt": "2026-06-22T05:18:39.126Z",
+  "brief": "A developer reflects on when and why they reject AI-generated code in production, even when it functionally works, citing concerns about maintainability, readability, and long-term technical debt. The piece explores the tension between developer productivity gains and code quality standards.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "a996387d6b39",
+  "source": "Hacker News (AI)",
+  "title": "Apertus – Open Foundation Model for Sovereign AI",
+  "url": "https://apertvs.ai/",
+  "publishedAt": "2026-06-21T21:29:43.000Z",
+  "ingestedAt": "2026-06-22T05:18:32.331Z",
+  "brief": "Apertus has released an open foundation model designed to enable sovereign AI capabilities, prioritizing independence from centralized providers. The project aims to provide organizations with transparent, controllable alternatives for developing AI applications without reliance on proprietary commercial models.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "174425f454f7",
+  "source": "Hacker News (AI)",
+  "title": "Identity verification on Claude",
+  "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+  "publishedAt": "2026-06-21T12:44:13.000Z",
+  "ingestedAt": "2026-06-22T05:18:33.921Z",
+  "brief": "Anthropic has implemented identity verification requirements for Claude users, likely as a safety or fraud prevention measure. The announcement generated significant discussion on Reddit and Hacker News, with 658 upvotes and 556 comments, suggesting user concern about the policy change.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ea5379cae11a",
+  "source": "Hacker News (AI)",
+  "title": "The 100k whys of AI",
+  "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+  "publishedAt": "2026-06-21T05:45:21.000Z",
+  "ingestedAt": "2026-06-22T05:18:35.604Z",
+  "brief": "Lcamtuf explores fundamental unanswered questions about how AI systems work, examining the gap between engineering practice and scientific understanding. The essay argues that despite rapid progress in scaling models, we lack rigorous explanations for core phenomena like emergence, generalization, and reasoning in large language models.",
+  "tags": {
+    "category": [
+      "opinion",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
