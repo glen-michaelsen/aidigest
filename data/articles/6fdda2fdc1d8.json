@@ -1,0 +1,23 @@
+{
+  "id": "6fdda2fdc1d8",
+  "source": "OpenAI Blog",
+  "title": "Codex-maxxing for long-running work",
+  "url": "https://openai.com/index/codex-maxxing-long-running-work",
+  "publishedAt": "2026-06-22T00:00:00.000Z",
+  "ingestedAt": "2026-06-23T04:12:46.355Z",
+  "brief": "Jason Liu demonstrates techniques for using OpenAI's Codex to maintain context across extended development sessions and manage complex multi-phase projects through strategic prompt engineering. The approach enables continuous work on large codebases by preserving state and dependencies across multiple interactions.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

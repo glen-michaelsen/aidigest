@@ -1,0 +1,25 @@
+{
+  "id": "f7e9d38ae732",
+  "source": "OpenAI Blog",
+  "title": "Daybreak: Tools for securing every organization in the world",
+  "url": "https://openai.com/index/daybreak-securing-the-world",
+  "publishedAt": "2026-06-22T10:00:00.000Z",
+  "ingestedAt": "2026-06-23T04:12:44.629Z",
+  "brief": "OpenAI introduced Daybreak tools, including Codex Security and GPT-5.5-Cyber, designed to help organizations find, validate, and patch security vulnerabilities at scale. The tools combine code analysis capabilities with AI-driven security automation to address enterprise vulnerability management.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "enterprise",
+      "security"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

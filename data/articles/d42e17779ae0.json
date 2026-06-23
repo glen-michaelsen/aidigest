@@ -1,0 +1,25 @@
+{
+  "id": "d42e17779ae0",
+  "source": "The Verge AI",
+  "title": "Read this before you vibe-code another app",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+  "publishedAt": "2026-06-22T11:00:00.000Z",
+  "ingestedAt": "2026-06-23T04:12:26.100Z",
+  "brief": "A developer who used AI-powered \"vibe coding\" to build a website tracking US tech subsidies discovered a critical SQL injection vulnerability months after launch. The incident highlights security blindspots that arise when developers rely on AI code generation without adequate security review, raising concerns about similar oversights in other AI-generated applications.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

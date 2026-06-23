@@ -1,0 +1,24 @@
+{
+  "id": "c8d8699af18c",
+  "source": "The Verge AI",
+  "title": "AI is cursing renters with the promise of impossible homes",
+  "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+  "publishedAt": "2026-06-22T20:00:00.000Z",
+  "ingestedAt": "2026-06-23T04:12:23.964Z",
+  "brief": "AI-generated fake apartment listings are misleading renters with digitally manipulated photos that don't match actual properties, leaving renters frustrated after traveling to viewings. The article highlights how generative AI is creating deceptive housing advertisements that exploit tight rental markets.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

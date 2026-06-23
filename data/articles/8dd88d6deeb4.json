@@ -1,0 +1,25 @@
+{
+  "id": "8dd88d6deeb4",
+  "source": "The Verge AI",
+  "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+  "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+  "publishedAt": "2026-06-22T23:24:32.000Z",
+  "ingestedAt": "2026-06-23T04:12:21.461Z",
+  "brief": "Nvidia claims its Rubin-generation fully liquid-cooled data center design eliminates water usage and reduces power consumption significantly compared to air-cooled facilities. The company is addressing public concern about AI data center sustainability, though questions remain about construction costs, environmental impacts during building phases, and power generation requirements.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "hardware",
+      "infrastructure"
+    ],
+    "company": [
+      "nvidia"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f0ab1740b8b7",
+  "source": "OpenAI Blog",
+  "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+  "url": "https://openai.com/index/patch-the-planet",
+  "publishedAt": "2026-06-22T10:00:00.000Z",
+  "ingestedAt": "2026-06-23T04:12:42.199Z",
+  "brief": "OpenAI launched Patch the Planet, a Daybreak initiative that assists open-source maintainers in identifying, validating, and remediating security vulnerabilities using AI and expert review. The program aims to strengthen the security posture of widely-used open-source projects.",
+  "tags": {
+    "category": [
+      "open-source",
+      "safety"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

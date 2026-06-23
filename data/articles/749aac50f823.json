@@ -1,0 +1,25 @@
+{
+  "id": "749aac50f823",
+  "source": "Hacker News (AI)",
+  "title": "The text in Claude Code’s “Extended Thinking” output",
+  "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+  "publishedAt": "2026-06-22T14:22:46.000Z",
+  "ingestedAt": "2026-06-23T04:12:58.449Z",
+  "brief": "An analysis reveals that Claude Code's Extended Thinking feature outputs thinking text that may not reflect authentic internal reasoning processes, raising questions about the transparency and reliability of displayed reasoning chains. This finding has generated significant discussion in the developer community about how to interpret model reasoning outputs.",
+  "tags": {
+    "category": [
+      "research",
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

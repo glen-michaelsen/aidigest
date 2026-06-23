@@ -1,0 +1,24 @@
+{
+  "id": "1a1f9cd8b2b6",
+  "source": "TechCrunch AI",
+  "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+  "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+  "publishedAt": "2026-06-22T16:51:29.000Z",
+  "ingestedAt": "2026-06-23T04:12:17.806Z",
+  "brief": "SpaceX has signed a deal with Reflection AI, an open-source AI lab, to provide compute resources at its Colossus 2 data center near Memphis, Tennessee. Reflection AI will pay $150 million monthly starting July 1, 2026 through 2029 for access to Nvidia's latest GB300 AI chips and supporting hardware.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
