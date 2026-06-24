@@ -1,0 +1,24 @@
+{
+  "id": "9133cb71785e",
+  "source": "The Verge AI",
+  "title": "Google Home will soon get better at recognizing you",
+  "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+  "publishedAt": "2026-06-23T22:28:19.000Z",
+  "ingestedAt": "2026-06-24T04:15:29.139Z",
+  "brief": "Google is expanding its Familiar Faces facial recognition feature in Google Home to identify people even when their faces aren't clearly visible, using body size and clothing color as additional non-biometric signals starting June 23rd. The update also enables automatic updates to the library with recent images to reduce false alerts from outdated reference photos.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer",
+      "hardware"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

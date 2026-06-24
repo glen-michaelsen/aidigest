@@ -1,0 +1,25 @@
+{
+  "id": "18ab8a77858b",
+  "source": "The Verge AI",
+  "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+  "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+  "publishedAt": "2026-06-23T15:00:00.000Z",
+  "ingestedAt": "2026-06-24T04:15:37.227Z",
+  "brief": "Google's Fitbit Air integrates an AI health coach powered by Google Health Coach that analyzes sleep, heart rate variability, and environmental conditions to deliver personalized fitness and recovery recommendations. The system demonstrates practical AI application in wearables, though its advice—like suggesting users skip workouts during heat stress—requires careful interpretation against individual health needs.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "healthcare",
+      "hardware",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

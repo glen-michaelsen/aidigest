@@ -1,0 +1,24 @@
+{
+  "id": "f0c4ab467506",
+  "source": "Hugging Face Blog",
+  "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+  "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+  "publishedAt": "2026-06-23T12:51:55.000Z",
+  "ingestedAt": "2026-06-24T04:16:08.873Z",
+  "brief": "CUGA is a lightweight framework for building agentic applications, featuring two dozen working examples demonstrating practical implementations of AI agents across various domains.",
+  "tags": {
+    "category": [
+      "open-source",
+      "product-launch"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

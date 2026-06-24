@@ -1,0 +1,23 @@
+{
+  "id": "7c36fb32c628",
+  "source": "OpenAI Blog",
+  "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+  "url": "https://openai.com/index/gpt-5-immunology-mystery",
+  "publishedAt": "2026-06-23T17:00:00.000Z",
+  "ingestedAt": "2026-06-24T04:16:05.466Z",
+  "brief": "GPT-5 Pro helped immunologist Derya Unutmaz uncover novel insights into T cell behavior that had remained mysterious for three years. The breakthrough has implications for cancer and autoimmune disease research.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

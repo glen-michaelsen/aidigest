@@ -1,0 +1,23 @@
+{
+  "id": "89ba8721bd94",
+  "source": "MIT Technology Review",
+  "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+  "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+  "publishedAt": "2026-06-23T21:00:00.000Z",
+  "ingestedAt": "2026-06-24T04:15:57.868Z",
+  "brief": "Researchers used ultrasound imaging to enable a robot hand to replicate human hand dexterity by capturing and interpreting the complex muscle, joint, and tendon movements beneath the skin. This breakthrough addresses a major limitation in robotics: the inability to accurately mimic the 34 muscles, 27 joints, and 100+ tendons that enable human hand manipulation.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

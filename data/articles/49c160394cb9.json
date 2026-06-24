@@ -1,0 +1,24 @@
+{
+  "id": "49c160394cb9",
+  "source": "Hugging Face Blog",
+  "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "ingestedAt": "2026-06-24T04:16:10.936Z",
+  "brief": "Hugging Face is implementing an automated release pipeline for huggingface_hub using AI, open-source tools, and human oversight to enable weekly shipping cycles. This approach demonstrates how generative AI and open tools can streamline software development workflows while maintaining quality control through human validation.",
+  "tags": {
+    "category": [
+      "open-source",
+      "infrastructure"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

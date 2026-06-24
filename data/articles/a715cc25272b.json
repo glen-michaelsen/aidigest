@@ -1,0 +1,24 @@
+{
+  "id": "a715cc25272b",
+  "source": "TechCrunch AI",
+  "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+  "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+  "publishedAt": "2026-06-23T17:00:00.000Z",
+  "ingestedAt": "2026-06-24T04:15:20.887Z",
+  "brief": "Anthropic launched Claude Tag, a Slack integration that brings Claude directly into workplace conversations and learns organizational context from company Slack messages. The feature positions Anthropic to gather enterprise data and deepen integration into corporate workflows.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

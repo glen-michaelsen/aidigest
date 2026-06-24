@@ -1,0 +1,24 @@
+{
+  "id": "1e27aee6505e",
+  "source": "The Verge AI",
+  "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+  "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+  "publishedAt": "2026-06-23T15:56:35.000Z",
+  "ingestedAt": "2026-06-24T04:15:35.155Z",
+  "brief": "Midjourney announced a pivot into medical imaging with a novel ultrasound scanner concept that immerses users in water, aiming to rival MRI capabilities. Medical imaging experts remain skeptical due to lack of public evidence supporting the company's ambitious claims about the technology's effectiveness.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "healthcare",
+      "hardware"
+    ],
+    "company": [
+      "midjourney"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

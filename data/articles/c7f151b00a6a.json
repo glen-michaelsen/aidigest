@@ -1,0 +1,24 @@
+{
+  "id": "c7f151b00a6a",
+  "source": "TechCrunch AI",
+  "title": "OpenAI launches new initiative to help find and patch open source bugs",
+  "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+  "publishedAt": "2026-06-23T00:11:31.000Z",
+  "ingestedAt": "2026-06-24T04:15:27.290Z",
+  "brief": "OpenAI launched an initiative leveraging AI to help identify and patch bugs in open source software, strengthening security across the ecosystem. The program aims to proactively address vulnerabilities before they can be exploited.",
+  "tags": {
+    "category": [
+      "safety",
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "adf11af2513e",
+  "source": "MIT Technology Review",
+  "title": "Reinventing the zipper",
+  "url": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/",
+  "publishedAt": "2026-06-23T21:00:00.000Z",
+  "ingestedAt": "2026-06-24T04:15:59.529Z",
+  "brief": "MIT researchers at CSAIL, led by Stefanie Mueller, have developed an adaptable fastener inspired by a vintage three-sided zipper prototype that could simplify tasks like tent setup and bone cast adjustment. The innovation demonstrates how reinventing everyday mechanisms can enable new practical applications across consumer and medical domains.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "robotics",
+      "hardware",
+      "consumer",
+      "healthcare"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

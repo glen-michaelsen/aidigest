@@ -1,0 +1,25 @@
+{
+  "id": "0c794cbb255f",
+  "source": "OpenAI Blog",
+  "title": "How Omio is building the future of conversational travel",
+  "url": "https://openai.com/index/omio",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "ingestedAt": "2026-06-24T04:16:06.918Z",
+  "brief": "Omio is leveraging OpenAI's technology to build conversational AI features for travel booking, accelerating its transformation into an AI-native platform. The integration enables faster product development and enhances user experience through natural language interactions.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
