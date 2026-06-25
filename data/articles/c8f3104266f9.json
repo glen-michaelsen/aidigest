@@ -1,0 +1,23 @@
+{
+  "id": "c8f3104266f9",
+  "source": "Hugging Face Blog",
+  "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+  "url": "https://huggingface.co/blog/ffasr-leaderboard",
+  "publishedAt": "2026-06-24T00:00:00.000Z",
+  "ingestedAt": "2026-06-25T04:16:14.767Z",
+  "brief": "A new benchmarking leaderboard called FFASR has been released to evaluate automatic speech recognition systems in realistic, real-world conditions. The leaderboard aims to standardize ASR evaluation beyond controlled lab settings and help developers measure progress on practical deployment scenarios.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

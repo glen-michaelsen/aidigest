@@ -1,0 +1,24 @@
+{
+  "id": "a8ed8a27461e",
+  "source": "MIT Technology Review",
+  "title": "The emergence of the web data infrastructure layer for AI",
+  "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+  "publishedAt": "2026-06-24T11:59:54.000Z",
+  "ingestedAt": "2026-06-25T04:16:04.134Z",
+  "brief": "The article discusses how enterprises struggle to access and structure web data at scale for AI applications, highlighting a gap in infrastructure for preparing unstructured data that limits AI model capabilities. It frames this as a foundational challenge similar to how the web itself required underlying infrastructure layers to function effectively.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

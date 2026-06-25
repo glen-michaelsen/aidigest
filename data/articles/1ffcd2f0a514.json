@@ -1,0 +1,24 @@
+{
+  "id": "1ffcd2f0a514",
+  "source": "Hacker News (AI)",
+  "title": "For most of the world, open-source AI is the only way forward",
+  "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+  "publishedAt": "2026-06-24T14:50:22.000Z",
+  "ingestedAt": "2026-06-25T04:16:20.816Z",
+  "brief": "This opinion piece argues that open-source AI is essential for the majority of the world to benefit from AI technology, as proprietary models remain expensive and inaccessible in most regions. The article emphasizes that democratizing AI through open-source development is critical for global equity and technological independence.",
+  "tags": {
+    "category": [
+      "opinion",
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

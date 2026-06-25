@@ -1,0 +1,26 @@
+{
+  "id": "c19bcef4aa7c",
+  "source": "Hacker News (AI)",
+  "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+  "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+  "publishedAt": "2026-06-24T12:23:59.000Z",
+  "ingestedAt": "2026-06-25T04:16:26.500Z",
+  "brief": "Reid Hoffman criticized xAI as a \"complete train wreck,\" arguing it lacks the technical rigor and talent of leading AI labs like OpenAI and Anthropic. He also clarified that SpaceX, despite being founded by Elon Musk, should not be considered an AI company despite recent AI-related projects.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "xai",
+      "openai",
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

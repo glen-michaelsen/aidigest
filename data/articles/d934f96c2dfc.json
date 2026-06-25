@@ -1,0 +1,29 @@
+{
+  "id": "d934f96c2dfc",
+  "source": "Hacker News (AI)",
+  "title": "RubyLLM: A Ruby framework for all major AI providers",
+  "url": "https://rubyllm.com/",
+  "publishedAt": "2026-06-24T14:41:41.000Z",
+  "ingestedAt": "2026-06-25T04:16:22.709Z",
+  "brief": "RubyLLM is a new open-source Ruby framework that provides unified access to major AI providers including OpenAI, Anthropic, Google, and others. The framework simplifies integration of large language models into Ruby applications by abstracting provider differences behind a consistent API.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "claude",
+      "gemini",
+      "other"
+    ]
+  }
+}

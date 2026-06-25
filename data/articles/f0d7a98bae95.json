@@ -1,0 +1,31 @@
+{
+  "id": "f0d7a98bae95",
+  "source": "TechCrunch AI",
+  "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+  "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+  "publishedAt": "2026-06-24T20:09:45.000Z",
+  "ingestedAt": "2026-06-25T04:15:41.949Z",
+  "brief": "Companies are implementing token and budget limits to prevent employees from depleting API costs on low-value AI tasks, marking a shift from early spending optimization to proactive cost management and usage governance.",
+  "tags": {
+    "category": [
+      "enterprise",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "claude",
+      "gemini",
+      "other"
+    ]
+  }
+}

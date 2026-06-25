@@ -1,0 +1,30 @@
+{
+  "id": "406644e73091",
+  "source": "Hacker News (AI)",
+  "title": "Big AI labs are hiring philosophers",
+  "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+  "publishedAt": "2026-06-24T16:40:13.000Z",
+  "ingestedAt": "2026-06-25T04:16:19.150Z",
+  "brief": "Major AI labs are recruiting philosophers to address ethical, alignment, and governance questions as AI systems grow more capable. This reflects growing recognition that technical solutions alone are insufficient for navigating AI safety and societal impact challenges.",
+  "tags": {
+    "category": [
+      "safety",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "deepmind",
+      "meta",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

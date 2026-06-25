@@ -1,0 +1,25 @@
+{
+  "id": "6d7b3293dda9",
+  "source": "The Verge AI",
+  "title": "Figma now has AI motion graphics and shader tools",
+  "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+  "publishedAt": "2026-06-24T16:15:00.000Z",
+  "ingestedAt": "2026-06-25T04:15:51.337Z",
+  "brief": "Figma launched AI-powered motion graphics and shader tools at its Config conference, including AI-generated animation effects and coding layers that enable developers to edit code directly within the design canvas. The updates aim to streamline full-stack development by integrating design, coding, and AI agents in a single workspace.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "enterprise",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

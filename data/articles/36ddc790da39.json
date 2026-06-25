@@ -1,0 +1,26 @@
+{
+  "id": "36ddc790da39",
+  "source": "MIT Technology Review",
+  "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+  "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "ingestedAt": "2026-06-25T04:16:02.245Z",
+  "brief": "Stripe, Anthropic, and OpenAI are collaborating to fund research efforts aimed at preventing and treating respiratory infections like the common cold. The initiative represents a cross-sector partnership combining financial backing from the payments company with AI expertise from leading language model developers.",
+  "tags": {
+    "category": [
+      "funding",
+      "research"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

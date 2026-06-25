@@ -1,0 +1,25 @@
+{
+  "id": "9670f0f233eb",
+  "source": "The Verge AI",
+  "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+  "publishedAt": "2026-06-24T17:25:00.000Z",
+  "ingestedAt": "2026-06-25T04:15:49.347Z",
+  "brief": "In a $27 million proxy battle, Anthropic and OpenAI-backed super PACs competed over New York's 12th Congressional District race. Alex Bores, a tech industry veteran and author of AI safety legislation, narrowly lost the Democratic primary to Micah Lasher, with the expensive campaign highlighting corporate influence over AI regulation policy.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

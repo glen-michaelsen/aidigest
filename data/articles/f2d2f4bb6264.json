@@ -1,0 +1,24 @@
+{
+  "id": "f2d2f4bb6264",
+  "source": "The Verge AI",
+  "title": "OpenAI reveals its first AI processor: Jalapeño",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+  "publishedAt": "2026-06-24T14:36:47.000Z",
+  "ingestedAt": "2026-06-25T04:15:53.064Z",
+  "brief": "OpenAI revealed Jalapeño, a custom AI inference processor chip developed in partnership with Broadcom. The ASIC is designed to optimize inference workloads for large language models, enabling faster and more efficient processing of user requests and agent operations.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "hardware",
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a7adc1e043b9",
+  "source": "The Verge AI",
+  "title": "Congresswoman denies staff used AI to write defense funding amendment",
+  "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+  "publishedAt": "2026-06-24T19:36:46.000Z",
+  "ingestedAt": "2026-06-25T04:15:47.389Z",
+  "brief": "Rep. Anna Paulina Luna's office used Claude AI to write an amendment summary for the 2027 National Defense Authorization Act, though she denied AI was used for actual legislation drafting and claimed it was only for \"spellcheck.\" The disclosure raised concerns about AI's role in congressional legislative processes and prompted scrutiny of transparency in government technology use.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

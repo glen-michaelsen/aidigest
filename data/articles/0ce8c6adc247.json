@@ -1,0 +1,24 @@
+{
+  "id": "0ce8c6adc247",
+  "source": "Google DeepMind",
+  "title": "Introducing computer use in Gemini 3.5 Flash",
+  "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+  "publishedAt": "2026-06-24T16:30:01.000Z",
+  "ingestedAt": "2026-06-25T04:16:11.461Z",
+  "brief": "Google introduced computer use capabilities in Gemini 3.5 Flash, enabling the model to interact with software and systems through visual interface understanding. This advancement allows the model to perform tasks on computers, expanding its practical applications beyond text generation.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

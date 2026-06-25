@@ -1,0 +1,27 @@
+{
+  "id": "77bfb7788138",
+  "source": "Ars Technica AI",
+  "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+  "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+  "publishedAt": "2026-06-24T22:28:18.000Z",
+  "ingestedAt": "2026-06-25T04:15:56.844Z",
+  "brief": "OpenAI and Broadcom announced a custom chip designed specifically for large-scale LLM inference, addressing the computational demands of deploying language models at production scale. The partnership reflects the ongoing competition to optimize hardware infrastructure for AI workloads and reduce dependency on general-purpose processors.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "openai",
+      "nvidia"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

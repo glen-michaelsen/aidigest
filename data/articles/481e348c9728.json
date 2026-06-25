@@ -1,0 +1,27 @@
+{
+  "id": "481e348c9728",
+  "source": "Hacker News (AI)",
+  "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+  "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+  "publishedAt": "2026-06-24T13:14:39.000Z",
+  "ingestedAt": "2026-06-25T04:16:24.664Z",
+  "brief": "OpenAI and Broadcom jointly unveiled an LLM-optimized inference chip designed to accelerate large language model deployments. The collaboration targets hardware efficiency for production AI inference workloads.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
