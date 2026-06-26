@@ -1,0 +1,24 @@
+{
+  "id": "d5ed82957828",
+  "source": "TechCrunch AI",
+  "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+  "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+  "publishedAt": "2026-06-25T23:34:39.000Z",
+  "ingestedAt": "2026-06-26T04:21:57.781Z",
+  "brief": "The White House has asked OpenAI to delay the broad release of its new GPT 5.6 model due to safety concerns, requesting instead that the company share it only with select partners. This reflects growing government scrutiny over the safety implications of advanced AI systems.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

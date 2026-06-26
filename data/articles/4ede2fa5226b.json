@@ -1,0 +1,24 @@
+{
+  "id": "4ede2fa5226b",
+  "source": "Hacker News (AI)",
+  "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+  "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+  "publishedAt": "2026-06-25T14:58:50.000Z",
+  "ingestedAt": "2026-06-26T04:22:40.842Z",
+  "brief": "Ford is rehiring experienced human quality inspectors after AI-driven automation systems failed to reliably detect defects in vehicle manufacturing, forcing the carmaker to return to manual inspection processes for critical quality control tasks.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "automotive",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

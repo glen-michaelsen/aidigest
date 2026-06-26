@@ -1,0 +1,25 @@
+{
+  "id": "0196a6ffefa4",
+  "source": "MIT Technology Review",
+  "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+  "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+  "publishedAt": "2026-06-25T10:00:00.000Z",
+  "ingestedAt": "2026-06-26T04:22:29.885Z",
+  "brief": "IBM unveiled a prototype chip with 100 billion transistors at double the density of its 2021 technology, potentially extending Moore's Law by another decade through advances in speed and energy efficiency.",
+  "tags": {
+    "category": [
+      "research",
+      "hardware"
+    ],
+    "domain": [
+      "chips",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

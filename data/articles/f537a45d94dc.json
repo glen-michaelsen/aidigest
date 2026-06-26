@@ -1,0 +1,32 @@
+{
+  "id": "f537a45d94dc",
+  "source": "Hacker News (AI)",
+  "title": "Political bias in AI: Where the AI models stand",
+  "url": "https://trakkr.ai/bias",
+  "publishedAt": "2026-06-25T13:08:31.000Z",
+  "ingestedAt": "2026-06-26T04:22:42.566Z",
+  "brief": "A comparative analysis examines political bias across major AI models, evaluating where leading LLMs stand on political neutrality and fairness. The study reveals varying degrees of bias across different AI systems, highlighting implications for fair and trustworthy AI deployment.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "meta",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "claude",
+      "gemini",
+      "llama",
+      "other"
+    ]
+  }
+}

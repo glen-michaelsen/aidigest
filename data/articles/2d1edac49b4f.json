@@ -1,0 +1,25 @@
+{
+  "id": "2d1edac49b4f",
+  "source": "Ars Technica AI",
+  "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+  "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+  "publishedAt": "2026-06-25T18:01:48.000Z",
+  "ingestedAt": "2026-06-26T04:22:21.727Z",
+  "brief": "Anthropic alleges that Alibaba orchestrated a large-scale attack using 25,000 accounts to extract data from Claude through 28.8 million exchanges in what it calls the largest cloning attempt against the model. The company is calling for punitive action against Alibaba for the unauthorized data extraction.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

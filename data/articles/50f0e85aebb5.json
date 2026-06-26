@@ -1,0 +1,24 @@
+{
+  "id": "50f0e85aebb5",
+  "source": "Ars Technica AI",
+  "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+  "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+  "publishedAt": "2026-06-25T19:04:57.000Z",
+  "ingestedAt": "2026-06-26T04:22:16.393Z",
+  "brief": "Notion is discontinuing its email app, citing a shift toward AI agents as the primary way users will manage their inboxes rather than traditional email interfaces. The move reflects Notion's strategic pivot to prioritize agent-based automation over standalone email functionality.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "notion"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

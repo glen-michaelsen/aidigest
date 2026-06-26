@@ -1,0 +1,24 @@
+{
+  "id": "91da026df123",
+  "source": "The Verge AI",
+  "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+  "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+  "publishedAt": "2026-06-25T12:00:00.000Z",
+  "ingestedAt": "2026-06-26T04:22:12.699Z",
+  "brief": "Ford ranked No. 1 in JD Power's initial quality ranking but disclosed that its automated production and design systems made costly errors, forcing the company to rehire experienced engineers and former employees to fix mistakes. The incident highlights how AI effectiveness depends critically on training data quality and the limitations of fully autonomous manufacturing systems.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "hardware",
+      "manufacturing"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

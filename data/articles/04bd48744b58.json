@@ -1,0 +1,23 @@
+{
+  "id": "04bd48744b58",
+  "source": "Hugging Face Blog",
+  "title": "Which tokens does a hybrid model predict better?",
+  "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+  "publishedAt": "2026-06-25T16:11:42.000Z",
+  "ingestedAt": "2026-06-26T04:22:33.840Z",
+  "brief": "A study examines which types of tokens hybrid models predict more effectively, comparing their performance across different token categories to understand when combined approaches outperform single-method models.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

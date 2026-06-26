@@ -1,0 +1,23 @@
+{
+  "id": "efaf3577e980",
+  "source": "The Verge AI",
+  "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+  "publishedAt": "2026-06-25T21:57:06.000Z",
+  "ingestedAt": "2026-06-26T04:22:10.917Z",
+  "brief": "OpenAI will delay the full release of GPT-5.6 and instead launch in limited preview form to enterprise customers only, following a request from the Trump administration citing security concerns. The federal government will approve individual customer access on a case-by-case basis during the preview period, a more lenient arrangement than the administration imposed on Anthropic.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

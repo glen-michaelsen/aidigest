@@ -1,0 +1,26 @@
+{
+  "id": "143ca51f70f0",
+  "source": "MIT Technology Review",
+  "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+  "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+  "publishedAt": "2026-06-25T12:10:00.000Z",
+  "ingestedAt": "2026-06-26T04:22:26.824Z",
+  "brief": "Europe faces record heat waves that are straining power infrastructure and forcing shutdowns of thermal power plants. IBM has unveiled a new chip designed to continue advances in computing performance and address Moore's Law scaling challenges.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "product-launch"
+    ],
+    "domain": [
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "ibm",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

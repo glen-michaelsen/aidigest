@@ -1,0 +1,26 @@
+{
+  "id": "3345b33384a9",
+  "source": "Hacker News (AI)",
+  "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+  "url": "https://github.com/inkeep/open-knowledge",
+  "publishedAt": "2026-06-25T16:04:46.000Z",
+  "ingestedAt": "2026-06-26T04:22:38.962Z",
+  "brief": "OpenKnowledge is an open-source WYSIWYG markdown editor with native integrations for Claude and Codex, available as a MacOS app and web UI. Built to address gaps in Obsidian's WYSIWYG capabilities and third-party LLM integration, it includes CRDT-powered collaboration, RAG, and git-backed cloud sync.",
+  "tags": {
+    "category": [
+      "open-source",
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "claude",
+      "other"
+    ]
+  }
+}
