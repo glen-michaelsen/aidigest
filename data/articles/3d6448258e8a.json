@@ -1,0 +1,29 @@
+{
+  "id": "3d6448258e8a",
+  "source": "TechCrunch AI",
+  "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+  "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+  "publishedAt": "2026-06-26T17:43:22.000Z",
+  "ingestedAt": "2026-06-27T04:08:26.161Z",
+  "brief": "OpenAI is developing Jalapeño, a custom inference chip with Broadcom, as part of a broader industry trend where major tech companies including Google, Apple, and SpaceX are building proprietary chips to reduce dependence on Nvidia. This shift reflects growing concerns about single-supplier risk and the potential for greater competition in the AI chip market.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "hardware"
+    ],
+    "domain": [
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "openai",
+      "google",
+      "apple",
+      "nvidia",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

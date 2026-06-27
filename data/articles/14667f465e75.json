@@ -1,0 +1,29 @@
+{
+  "id": "14667f465e75",
+  "source": "Hacker News (AI)",
+  "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+  "url": "https://github.com/workweave/router",
+  "publishedAt": "2026-06-26T16:40:11.000Z",
+  "ingestedAt": "2026-06-27T04:08:56.481Z",
+  "brief": "Weave launched a model router that intelligently routes coding tasks to the most cost-effective LLM by analyzing request complexity—using cheaper models like DeepSeek v4 for simpler tasks and Opus 4.8 for complex work. Trained on RL with tens of thousands of agent traces, the router achieved 40% token cost savings internally with no quality loss, and is now available as open-source (Elastic License 2.0) or via hosted service.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "open-source"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "other"
+    ]
+  }
+}

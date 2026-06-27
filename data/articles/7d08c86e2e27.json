@@ -1,0 +1,24 @@
+{
+  "id": "7d08c86e2e27",
+  "source": "TechCrunch AI",
+  "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+  "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+  "publishedAt": "2026-06-26T18:32:14.000Z",
+  "ingestedAt": "2026-06-27T04:08:22.431Z",
+  "brief": "OpenAI has slowed the rollout of GPT-5.6 following a government request, but stated the company believes mandatory government review should not become standard practice. The company emphasized that access restrictions limit availability to users, developers, enterprises, and cybersecurity professionals who rely on advanced AI capabilities.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

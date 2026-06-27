@@ -1,0 +1,23 @@
+{
+  "id": "e23e7cfed67a",
+  "source": "Hacker News (AI)",
+  "title": "U.S. government will decide who gets to use GPT-5.6",
+  "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+  "publishedAt": "2026-06-26T18:23:14.000Z",
+  "ingestedAt": "2026-06-27T04:08:52.170Z",
+  "brief": "The U.S. government is establishing regulatory authority over access to advanced AI models like GPT-5.6, marking a shift toward state control over frontier AI deployment. This policy reflects growing government involvement in determining who can use next-generation AI systems and suggests increasing regulatory oversight of OpenAI's most powerful models.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

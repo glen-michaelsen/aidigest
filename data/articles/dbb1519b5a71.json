@@ -1,0 +1,28 @@
+{
+  "id": "dbb1519b5a71",
+  "source": "Ars Technica AI",
+  "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+  "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+  "publishedAt": "2026-06-26T20:04:55.000Z",
+  "ingestedAt": "2026-06-27T04:08:38.600Z",
+  "brief": "The New York Times adjusted its copyright infringement lawsuit against OpenAI and Microsoft following a Supreme Court ruling in Sony's favor, refocusing claims on the companies' supercomputer partnership rather than the initial training data allegations. The timing reflects evolving legal strategy in response to precedent-setting decisions on copyright and fair use.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "infrastructure"
+    ],
+    "company": [
+      "openai",
+      "microsoft",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "none"
+    ]
+  }
+}

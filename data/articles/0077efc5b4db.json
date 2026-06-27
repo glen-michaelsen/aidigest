@@ -1,0 +1,23 @@
+{
+  "id": "0077efc5b4db",
+  "source": "Hacker News (AI)",
+  "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+  "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "publishedAt": "2026-06-26T17:06:55.000Z",
+  "ingestedAt": "2026-06-27T04:08:54.165Z",
+  "brief": "OpenAI has previewed GPT-5.6 Sol, a next-generation model with a published system card detailing its capabilities and safety considerations. The preview attracted significant attention on Hacker News with 891 points and 540 comments, indicating substantial industry interest in the model's development and deployment safety approach.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

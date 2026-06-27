@@ -1,0 +1,25 @@
+{
+  "id": "6f9ce5799697",
+  "source": "The Verge AI",
+  "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+  "publishedAt": "2026-06-26T17:00:00.000Z",
+  "ingestedAt": "2026-06-27T04:08:32.691Z",
+  "brief": "OpenAI launched GPT-5.6, a new model suite featuring Sol (flagship), Terra (mid-tier), and Luna (affordable) variants, following pressure from the Trump administration to stagger model releases. The suite excels at coding, cybersecurity, biology, and long-horizon agentic tasks, with Sol priced at $5/$30 per million tokens—undercutting Anthropic's Claude Fable 5.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

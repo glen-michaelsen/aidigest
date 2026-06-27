@@ -1,0 +1,24 @@
+{
+  "id": "6a504f425049",
+  "source": "Hacker News (AI)",
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "publishedAt": "2026-06-26T02:29:23.000Z",
+  "ingestedAt": "2026-06-27T04:09:09.270Z",
+  "brief": "A developer opened their AI assistant to 2,000 people attempting to hack it and documented the vulnerabilities discovered and lessons learned from the attack surface. The incident highlights real-world security challenges in deploying AI systems and provides practical insights into prompt injection, jailbreaking, and other attack vectors.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

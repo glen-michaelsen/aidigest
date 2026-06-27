@@ -1,0 +1,24 @@
+{
+  "id": "ffa9cea42b77",
+  "source": "The Verge AI",
+  "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+  "publishedAt": "2026-06-26T14:07:03.000Z",
+  "ingestedAt": "2026-06-27T04:08:34.629Z",
+  "brief": "Anthropic's Mythos-class models remain offline two weeks after the Trump administration issued an ultimatum to take them down, with stalled negotiations and no timeline for resolution. The situation raises uncertainty about whether the administration will expand restrictions to other AI companies' models.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

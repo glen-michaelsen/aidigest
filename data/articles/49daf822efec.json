@@ -1,0 +1,24 @@
+{
+  "id": "49daf822efec",
+  "source": "Hacker News (AI)",
+  "title": "Why current LLM costs are not sustainable",
+  "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+  "publishedAt": "2026-06-26T07:44:11.000Z",
+  "ingestedAt": "2026-06-27T04:08:59.846Z",
+  "brief": "An analysis argues that current LLM inference and training costs are economically unsustainable, with infrastructure expenses outpacing revenue models for most AI companies. The piece examines the economic pressures facing cloud providers and AI startups scaling to meet computational demands.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

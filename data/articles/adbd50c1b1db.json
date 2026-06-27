@@ -1,0 +1,24 @@
+{
+  "id": "adbd50c1b1db",
+  "source": "OpenAI Blog",
+  "title": "Previewing GPT-5.6 Sol: a next-generation model",
+  "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+  "publishedAt": "2026-06-26T10:00:00.000Z",
+  "ingestedAt": "2026-06-27T04:08:43.436Z",
+  "brief": "OpenAI has previewed GPT-5.6 Sol, a next-generation model featuring enhanced capabilities in coding, science, and cybersecurity, alongside an advanced safety framework. The model represents a step forward in reasoning and specialized domain performance.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "a6a3f9fd6a48",
+  "source": "Hacker News (AI)",
+  "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+  "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+  "publishedAt": "2026-06-26T22:48:28.000Z",
+  "ingestedAt": "2026-06-27T04:08:50.144Z",
+  "brief": "The U.S. government granted Anthropic a waiver to release its Mythos AI model to a select group of trusted U.S. organizations, exempting it from certain export controls. This represents a regulatory compromise allowing domestic AI development while maintaining national security oversight.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

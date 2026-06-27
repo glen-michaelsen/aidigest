@@ -1,0 +1,25 @@
+{
+  "id": "afbea1d93fa1",
+  "source": "TechCrunch AI",
+  "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+  "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+  "publishedAt": "2026-06-26T14:00:00.000Z",
+  "ingestedAt": "2026-06-27T04:08:29.239Z",
+  "brief": "OpenAI has revealed Jalapeño, a custom inference chip developed with Broadcom, marking a strategic move to reduce dependence on Nvidia's dominant AI chip market. The initiative joins Google, Apple, and SpaceX in building proprietary chips, signaling a broader industry shift away from single-supplier reliance.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "openai",
+      "nvidia"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

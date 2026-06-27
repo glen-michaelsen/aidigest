@@ -1,0 +1,23 @@
+{
+  "id": "2f6480a79aa9",
+  "source": "Hacker News (AI)",
+  "title": "US Govt to individually approve who gets GPT 5.6",
+  "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+  "publishedAt": "2026-06-26T06:24:39.000Z",
+  "ingestedAt": "2026-06-27T04:09:07.512Z",
+  "brief": "The US government would individually approve access to GPT 5.6 under a proposed regulatory framework, marking a significant shift toward direct government oversight of advanced AI model distribution. The policy appears designed to control deployment of frontier AI systems, though details on approval criteria and implementation remain unclear from the initial reporting.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
