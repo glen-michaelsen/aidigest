@@ -1,0 +1,23 @@
+{
+  "id": "65b970247eab",
+  "source": "TechCrunch AI",
+  "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+  "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+  "publishedAt": "2026-06-27T14:00:00.000Z",
+  "ingestedAt": "2026-06-28T04:41:23.566Z",
+  "brief": "Connor Christou, a fitness-focused founder diagnosed with cancer, used Claude to analyze his personal health data including blood results, scans, wearables, and journals to inform his treatment strategy. The case demonstrates practical application of AI in personalized healthcare decision-making.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

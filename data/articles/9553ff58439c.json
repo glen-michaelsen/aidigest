@@ -1,0 +1,24 @@
+{
+  "id": "9553ff58439c",
+  "source": "The Verge AI",
+  "title": "Anthropic&#8217;s Mythos 5 is back",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+  "publishedAt": "2026-06-27T00:33:44.000Z",
+  "ingestedAt": "2026-06-28T04:41:36.233Z",
+  "brief": "Anthropic's Mythos 5 model has been cleared to resume operations for select organizations following a two-week negotiation with the Trump administration, per a June 26 letter from Commerce Secretary Howard Lutnick. However, the public-facing Fable 5 variant remains blocked with no clear timeline for resolution, indicating a partial restoration of service after what appears to be a regulatory pause.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d294ddc3f6be",
+  "source": "The Verge AI",
+  "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+  "publishedAt": "2026-06-27T18:39:32.000Z",
+  "ingestedAt": "2026-06-28T04:41:29.204Z",
+  "brief": "Margaret Atwood tested Anthropic's Claude to answer questions about the British detective series Father Brown and found it provided incorrect information. Atwood attributed the error to AI's fundamental limitation of \"garbage in, garbage out\"—the model's tendency to generate plausible-sounding but false answers based on flawed training data.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

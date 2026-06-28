@@ -1,0 +1,24 @@
+{
+  "id": "42658ae9e5a8",
+  "source": "Hacker News (AI)",
+  "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+  "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "publishedAt": "2026-06-27T09:18:52.000Z",
+  "ingestedAt": "2026-06-28T04:41:40.153Z",
+  "brief": "DSpark introduces a speculative decoding technique that accelerates LLM inference by predicting multiple tokens in parallel rather than sequentially. The method reduces latency and improves throughput for language model generation, making it relevant for both research and practical deployment of LLMs.",
+  "tags": {
+    "category": [
+      "research",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
