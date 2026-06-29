@@ -1,0 +1,25 @@
+{
+  "id": "acc0f3def671",
+  "source": "Hacker News (AI)",
+  "title": "Professor denounces mass AI fraud on an exam at Brown",
+  "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+  "publishedAt": "2026-06-28T16:41:12.000Z",
+  "ingestedAt": "2026-06-29T04:50:20.230Z",
+  "brief": "A Brown University professor discovered widespread AI-generated exam fraud, with students submitting AI-written answers that violated academic integrity policies. The incident highlights growing challenges universities face in detecting and preventing AI-assisted cheating as generative AI tools become more accessible.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "education",
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

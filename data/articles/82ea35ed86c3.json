@@ -1,0 +1,24 @@
+{
+  "id": "82ea35ed86c3",
+  "source": "Hacker News (AI)",
+  "title": "Google limits Meta's use of its Gemini AI models",
+  "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+  "publishedAt": "2026-06-28T13:30:06.000Z",
+  "ingestedAt": "2026-06-29T04:50:24.292Z",
+  "brief": "Google has restricted Meta's access to its Gemini AI models, limiting how the social media company can deploy Google's technology. The move reflects growing tensions between tech giants over AI model licensing and competitive concerns in the generative AI space.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google",
+      "meta"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

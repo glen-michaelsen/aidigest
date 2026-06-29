@@ -1,0 +1,28 @@
+{
+  "id": "5d43e7e568e3",
+  "source": "The Verge AI",
+  "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+  "publishedAt": "2026-06-28T21:42:51.000Z",
+  "ingestedAt": "2026-06-29T04:49:57.083Z",
+  "brief": "Zhipu AI released GLM-5.2, an open-weight model that researchers claim matches Anthropic's Mythos on cybersecurity and bug-finding tasks. The advancement narrows the capability gap between Chinese and US AI models, raising concerns for US policymakers who have sought to restrict China's access to advanced models and training hardware.",
+  "tags": {
+    "category": [
+      "research",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "security"
+    ],
+    "company": [
+      "other",
+      "anthropic"
+    ],
+    "model": [
+      "other",
+      "claude"
+    ]
+  }
+}

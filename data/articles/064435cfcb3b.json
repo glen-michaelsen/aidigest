@@ -1,0 +1,24 @@
+{
+  "id": "064435cfcb3b",
+  "source": "Hacker News (AI)",
+  "title": "I used Claude Code to get a second opinion on my MRI",
+  "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+  "publishedAt": "2026-06-28T16:35:19.000Z",
+  "ingestedAt": "2026-06-29T04:50:22.542Z",
+  "brief": "A user leveraged Claude's coding capabilities to independently analyze an MRI scan for a second opinion, demonstrating practical application of AI for medical image interpretation. The project highlights how advanced language models with code execution can assist in healthcare analysis, though results should still involve qualified medical professionals.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "healthcare",
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

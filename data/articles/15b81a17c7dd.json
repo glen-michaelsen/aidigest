@@ -1,0 +1,23 @@
+{
+  "id": "15b81a17c7dd",
+  "source": "Hacker News (AI)",
+  "title": "Ford hired AI and sacked humans. It backfired badly",
+  "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+  "publishedAt": "2026-06-28T03:09:13.000Z",
+  "ingestedAt": "2026-06-29T04:50:28.025Z",
+  "brief": "Ford replaced human workers with AI systems in contract negotiations and other roles, but the AI made costly mistakes and poor decisions, forcing the company to bring back human employees. The incident highlights the risks of deploying AI without adequate human oversight and quality control in business-critical functions.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

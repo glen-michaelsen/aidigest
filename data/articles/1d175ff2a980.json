@@ -1,0 +1,25 @@
+{
+  "id": "1d175ff2a980",
+  "source": "Hacker News (AI)",
+  "title": "GLM 5.2 beats Claude in our benchmarks",
+  "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+  "publishedAt": "2026-06-28T17:50:47.000Z",
+  "ingestedAt": "2026-06-29T04:50:18.408Z",
+  "brief": "Semgrep's internal cybersecurity benchmarks show GLM 5.2 outperforming Claude on coding security tasks. The result highlights emerging competition in domain-specific LLM performance, particularly for code analysis and vulnerability detection.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other",
+      "claude"
+    ]
+  }
+}

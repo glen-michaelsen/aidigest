@@ -1,0 +1,25 @@
+{
+  "id": "5b273f77cdfd",
+  "source": "Hacker News (AI)",
+  "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+  "url": "https://github.com/itsthelore/wayfinder-router",
+  "publishedAt": "2026-06-28T04:31:18.000Z",
+  "ingestedAt": "2026-06-29T04:50:26.368Z",
+  "brief": "Wayfinder Router is an open-source tool that intelligently routes queries between local and hosted LLMs based on deterministic rules, allowing developers to optimize cost and latency by running simpler queries locally and complex ones on remote services. The project gained attention on Hacker News with 114 points, suggesting strong community interest in hybrid LLM deployment patterns.",
+  "tags": {
+    "category": [
+      "open-source",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

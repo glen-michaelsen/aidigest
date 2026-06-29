@@ -1,0 +1,24 @@
+{
+  "id": "73d77834b60f",
+  "source": "The Verge AI",
+  "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+  "publishedAt": "2026-06-28T14:12:06.000Z",
+  "ingestedAt": "2026-06-29T04:50:00.381Z",
+  "brief": "Prosecutors used ChatGPT logs as evidence in an arson trial related to the 2025 Palisades wildfire, citing the defendant's requests for fire images, emotional queries, and potential discussions about fire causation. This marks a notable legal precedent for using AI chatbot interactions as evidence in criminal proceedings.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

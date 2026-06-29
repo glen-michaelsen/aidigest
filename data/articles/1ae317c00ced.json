@@ -1,0 +1,26 @@
+{
+  "id": "1ae317c00ced",
+  "source": "OpenAI Blog",
+  "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+  "url": "https://openai.com/index/hp-frontier-partnership",
+  "publishedAt": "2026-06-28T17:00:00.000Z",
+  "ingestedAt": "2026-06-29T04:50:02.951Z",
+  "brief": "HP Inc. announced a strategic partnership with OpenAI called Frontier to integrate AI across customer experiences, software development, and enterprise operations. The partnership demonstrates HP's commitment to scaling AI capabilities across its product and service offerings.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "partnership"
+    ],
+    "domain": [
+      "enterprise",
+      "coding"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
