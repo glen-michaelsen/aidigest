@@ -1,0 +1,23 @@
+{
+  "id": "91d16542fa1f",
+  "source": "Hugging Face Blog",
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "url": "https://huggingface.co/blog/allenai/discoformer",
+  "publishedAt": "2026-06-29T18:02:48.000Z",
+  "ingestedAt": "2026-06-30T04:17:07.072Z",
+  "brief": "Researchers introduced DiScoFormer, a unified transformer architecture that jointly models density and score functions across different distributions, enabling more efficient generative modeling. The approach consolidates multiple separate models into a single architecture that can handle both density estimation and score-based generation tasks.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

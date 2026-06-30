@@ -1,0 +1,23 @@
+{
+  "id": "f738ea91b668",
+  "source": "Hacker News (AI)",
+  "title": "Tidal AI Policy",
+  "url": "https://tidal.com/ai-policy",
+  "publishedAt": "2026-06-29T13:09:03.000Z",
+  "ingestedAt": "2026-06-30T04:17:10.832Z",
+  "brief": "Tidal has released an AI policy governing how the streaming platform's content and artist data can be used for machine learning training. The policy addresses concerns from musicians and rights holders about unauthorized AI model training on their work.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

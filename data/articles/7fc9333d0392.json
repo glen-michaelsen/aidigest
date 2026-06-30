@@ -1,0 +1,25 @@
+{
+  "id": "7fc9333d0392",
+  "source": "TechCrunch AI",
+  "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+  "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+  "publishedAt": "2026-06-29T18:10:26.000Z",
+  "ingestedAt": "2026-06-30T04:16:39.236Z",
+  "brief": "Anthropic has negotiated a deal with California's government enabling state agencies to access Claude at 50% discounted pricing. The partnership signals growing adoption of Anthropic's AI in government operations and reflects competitive positioning against OpenAI.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

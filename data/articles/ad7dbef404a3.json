@@ -1,0 +1,23 @@
+{
+  "id": "ad7dbef404a3",
+  "source": "Hacker News (AI)",
+  "title": "Working With AI: A concrete example",
+  "url": "https://htmx.org/essays/working-with-ai/",
+  "publishedAt": "2026-06-29T14:53:41.000Z",
+  "ingestedAt": "2026-06-30T04:17:09.161Z",
+  "brief": "This essay explores practical approaches to integrating AI tools into development workflows, using concrete examples to demonstrate effective collaboration patterns. The author discusses strategies for leveraging AI capabilities while maintaining code quality and understanding.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

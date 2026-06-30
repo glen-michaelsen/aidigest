@@ -1,0 +1,25 @@
+{
+  "id": "5b79476b1142",
+  "source": "OpenAI Blog",
+  "title": "Mapping Europe’s AI Workforce Opportunity",
+  "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+  "publishedAt": "2026-06-29T07:00:00.000Z",
+  "ingestedAt": "2026-06-30T04:17:05.133Z",
+  "brief": "OpenAI released a report mapping AI's impact on European employment, analyzing which occupations may experience automation, job growth, or workflow transformation across the EU labor market.",
+  "tags": {
+    "category": [
+      "research",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

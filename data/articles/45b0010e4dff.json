@@ -1,0 +1,23 @@
+{
+  "id": "45b0010e4dff",
+  "source": "MIT Technology Review",
+  "title": "The Download: metric weaknesses and AI elephant warnings",
+  "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+  "publishedAt": "2026-06-29T12:10:00.000Z",
+  "ingestedAt": "2026-06-30T04:17:03.525Z",
+  "brief": "An opinion piece examining fundamental weaknesses in how AI systems are measured and evaluated, highlighting how metrics can obscure important aspects of AI performance while potentially misleading researchers and developers.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

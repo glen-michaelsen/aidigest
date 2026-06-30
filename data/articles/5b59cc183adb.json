@@ -1,0 +1,24 @@
+{
+  "id": "5b59cc183adb",
+  "source": "TechCrunch AI",
+  "title": "Gemini’s personalized AI image generation is now free for US users",
+  "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+  "publishedAt": "2026-06-29T20:12:59.000Z",
+  "ingestedAt": "2026-06-30T04:16:37.732Z",
+  "brief": "Google has expanded personalized AI image generation in Gemini to eligible free US users, enabling the chatbot to create images tailored to individual interests using data from connected Google apps.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

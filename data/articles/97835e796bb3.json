@@ -1,0 +1,26 @@
+{
+  "id": "97835e796bb3",
+  "source": "The Verge AI",
+  "title": "Lawmakers want to ban AI companies from selling your health data",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+  "publishedAt": "2026-06-29T16:00:00.000Z",
+  "ingestedAt": "2026-06-30T04:16:55.597Z",
+  "brief": "Lawmakers Warren and Scanlon are introducing an updated Health and Location Data Protection Act to ban the sale of Americans' health and location data to brokers, explicitly covering data revealed to AI chatbots like ChatGPT and Claude. The revised bill expands the original 2022 legislation to address data-sharing practices in the AI era.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "openai",
+      "anthropic"
+    ],
+    "model": [
+      "gpt",
+      "claude"
+    ]
+  }
+}
