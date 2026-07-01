@@ -1,0 +1,23 @@
+{
+  "id": "d7f8db1c666b",
+  "source": "Hugging Face Blog",
+  "title": "Why Specialization Is Inevitable",
+  "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+  "publishedAt": "2026-06-30T14:39:11.000Z",
+  "ingestedAt": "2026-07-01T04:45:50.649Z",
+  "brief": "An analysis of trends toward model specialization in AI development, examining why companies are moving away from generalist architectures toward domain-specific solutions optimized for particular tasks.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

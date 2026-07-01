@@ -1,0 +1,31 @@
+{
+  "id": "9a14e2833ced",
+  "source": "MIT Technology Review",
+  "title": "Building tech in the world’s secret R&D hub",
+  "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+  "publishedAt": "2026-06-30T10:23:30.000Z",
+  "ingestedAt": "2026-07-01T04:45:36.012Z",
+  "brief": "Major tech companies including Apple, Anthropic, Google, Meta, Microsoft, NVIDIA, and OpenAI have established significant R&D hubs in a single city of 400,000 people outside Silicon Valley, making it a concentrated center for technology innovation and research comparable to or exceeding traditional tech hubs.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "hardware"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "meta",
+      "microsoft",
+      "nvidia",
+      "apple",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

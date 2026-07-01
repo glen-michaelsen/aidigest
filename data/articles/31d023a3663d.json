@@ -1,0 +1,24 @@
+{
+  "id": "31d023a3663d",
+  "source": "The Verge AI",
+  "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+  "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+  "publishedAt": "2026-06-30T19:24:51.000Z",
+  "ingestedAt": "2026-07-01T04:45:12.826Z",
+  "brief": "Google's NotebookLM now generates TikTok-style 60-second vertical AI videos from uploaded research sources, rolling out to AI Ultra and Pro subscribers. The feature joins existing tools like AI podcasts and visual explainers, offering another way to summarize and present research material.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "video-generation",
+      "education"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

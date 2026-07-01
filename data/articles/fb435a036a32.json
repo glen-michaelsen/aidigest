@@ -1,0 +1,24 @@
+{
+  "id": "fb435a036a32",
+  "source": "OpenAI Blog",
+  "title": "How ChatGPT adoption has expanded",
+  "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+  "publishedAt": "2026-06-30T09:00:00.000Z",
+  "ingestedAt": "2026-07-01T04:45:38.080Z",
+  "brief": "OpenAI's Signals data reveals growing global ChatGPT adoption, with users increasing usage frequency, exploring new capabilities, and expanding across multiple regions and languages. The data tracks user behavior trends that indicate sustained growth momentum for the platform.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

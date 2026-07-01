@@ -1,0 +1,25 @@
+{
+  "id": "b36ff43588c0",
+  "source": "MIT Technology Review",
+  "title": "Claude Science is Anthropic’s newest flagship product",
+  "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+  "publishedAt": "2026-06-30T21:50:04.000Z",
+  "ingestedAt": "2026-07-01T04:45:28.161Z",
+  "brief": "Anthropic announced Claude Science, a new flagship product designed to support scientific research with autonomous capabilities similar to Claude Code for software engineering. The tool can execute meaningful work from high-level instructions and represents a significant expansion of Claude's capabilities beyond coding into the research domain.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "science",
+      "research"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

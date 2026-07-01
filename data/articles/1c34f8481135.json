@@ -1,0 +1,24 @@
+{
+  "id": "1c34f8481135",
+  "source": "Hacker News (AI)",
+  "title": "Claude Science",
+  "url": "https://claude.com/product/claude-science",
+  "publishedAt": "2026-06-30T17:07:41.000Z",
+  "ingestedAt": "2026-07-01T04:45:58.769Z",
+  "brief": "Anthropic has announced Claude Science, a specialized offering designed for scientific research workflows. The product variant targets researchers needing enhanced capabilities for research tasks and scientific analysis.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "research"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

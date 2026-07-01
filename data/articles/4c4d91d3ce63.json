@@ -1,0 +1,24 @@
+{
+  "id": "4c4d91d3ce63",
+  "source": "OpenAI Blog",
+  "title": "Core dump epidemiology: fixing an 18-year-old bug",
+  "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "publishedAt": "2026-06-30T00:00:00.000Z",
+  "ingestedAt": "2026-07-01T04:45:42.764Z",
+  "brief": "OpenAI engineers employed large-scale core dump analysis to diagnose rare infrastructure crashes, identifying both a hardware fault and an 18-year-old software bug. This work demonstrates how systematic analysis of crash data can surface long-hidden issues in complex distributed systems.",
+  "tags": {
+    "category": [
+      "research",
+      "infrastructure"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

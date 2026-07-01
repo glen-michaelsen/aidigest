@@ -1,0 +1,23 @@
+{
+  "id": "00b8692fdcea",
+  "source": "MIT Technology Review",
+  "title": "Agriculture is ready for AI, but its data isn’t",
+  "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+  "publishedAt": "2026-06-30T12:00:00.000Z",
+  "ingestedAt": "2026-07-01T04:45:33.554Z",
+  "brief": "Agriculture has significant untapped potential for AI applications in crop prediction and resource optimization, but industry adoption is hindered by inadequate data infrastructure and standardization. The sector must prioritize building robust, interoperable datasets before deploying AI solutions at scale to address challenges like volatile input costs and narrow profit margins.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "agriculture"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

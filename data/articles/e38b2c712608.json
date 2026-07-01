@@ -1,0 +1,23 @@
+{
+  "id": "e38b2c712608",
+  "source": "Ars Technica AI",
+  "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+  "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+  "publishedAt": "2026-06-30T18:36:10.000Z",
+  "ingestedAt": "2026-07-01T04:45:22.926Z",
+  "brief": "Google has released Nano Banana 2 Lite, a smaller and more efficient image generation model that prioritizes speed and cost over quality, generating images in seconds. This latest iteration represents Google's push toward faster, cheaper inference for image generation workloads.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

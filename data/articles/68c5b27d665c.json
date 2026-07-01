@@ -1,0 +1,23 @@
+{
+  "id": "68c5b27d665c",
+  "source": "TechCrunch AI",
+  "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+  "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+  "publishedAt": "2026-06-30T19:02:38.000Z",
+  "ingestedAt": "2026-07-01T04:45:01.428Z",
+  "brief": "Google has released Nano Banana 2 Lite, a faster and cheaper version of its image generator designed to improve accessibility for creators. The update aims to reduce both latency and cost, making AI-generated imagery more practical for production workflows.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

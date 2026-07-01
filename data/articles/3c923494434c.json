@@ -1,0 +1,23 @@
+{
+  "id": "3c923494434c",
+  "source": "OpenAI Blog",
+  "title": "Introducing GeneBench-Pro",
+  "url": "https://openai.com/index/introducing-genebench-pro",
+  "publishedAt": "2026-06-30T00:00:00.000Z",
+  "ingestedAt": "2026-07-01T04:45:39.709Z",
+  "brief": "GeneBench-Pro is a new benchmark designed to evaluate AI performance on genomics, biology, and scientific research tasks using complex, real-world datasets. The benchmark addresses the need for domain-specific evaluation metrics in life sciences AI applications.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "healthcare"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

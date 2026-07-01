@@ -1,0 +1,24 @@
+{
+  "id": "c8eec465d4d9",
+  "source": "TechCrunch AI",
+  "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+  "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+  "publishedAt": "2026-06-30T15:08:42.000Z",
+  "ingestedAt": "2026-07-01T04:45:10.904Z",
+  "brief": "X has launched a hosted Model Context Protocol (MCP) server to simplify developer access to its API for AI applications. The tool standardizes how AI tools integrate with X's platform, reducing friction for building AI-powered features on the social network.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

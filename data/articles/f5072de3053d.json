@@ -1,0 +1,23 @@
+{
+  "id": "f5072de3053d",
+  "source": "Ars Technica AI",
+  "title": "New attack provides one more reason why AI browsers are a bad idea",
+  "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+  "publishedAt": "2026-06-30T20:03:14.000Z",
+  "ingestedAt": "2026-07-01T04:45:21.103Z",
+  "brief": "Researchers demonstrated a new attack vector against AI-powered browsers where feeding LLMs false mathematical premises—like \"2 + 2 = 5\"—can override their safety guidelines and enable them to execute forbidden instructions. This exploit highlights fundamental vulnerabilities in deploying large language models as autonomous browser agents.",
+  "tags": {
+    "category": [
+      "safety"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

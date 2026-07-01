@@ -1,0 +1,24 @@
+{
+  "id": "200e6c5f82a0",
+  "source": "OpenAI Blog",
+  "title": "Inside Genebench-Pro",
+  "url": "https://openai.com/index/genebench-pro/case-studies",
+  "publishedAt": "2026-06-30T00:00:00.000Z",
+  "ingestedAt": "2026-07-01T04:45:44.526Z",
+  "brief": "Genebench-Pro is a new benchmark for evaluating large language models on genomics and biomedical tasks, testing their ability to interpret genetic data, answer clinical questions, and perform molecular reasoning at scale.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "llm",
+      "healthcare"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

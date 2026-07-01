@@ -1,0 +1,24 @@
+{
+  "id": "7c78ac2b4996",
+  "source": "TechCrunch AI",
+  "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+  "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+  "publishedAt": "2026-06-30T17:00:00.000Z",
+  "ingestedAt": "2026-07-01T04:45:09.018Z",
+  "brief": "Anthropic launched Claude Science, a workbench designed for computational research that integrates databases, pipelines, and tools into a single environment. Rather than developing a new model, Anthropic is focusing on workflow optimization to appeal to scientists and researchers.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

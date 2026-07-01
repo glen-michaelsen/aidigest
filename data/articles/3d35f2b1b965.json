@@ -1,0 +1,24 @@
+{
+  "id": "3d35f2b1b965",
+  "source": "The Verge AI",
+  "title": "Meet the lawyer who beat Elon Musk — twice",
+  "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+  "publishedAt": "2026-06-30T12:00:00.000Z",
+  "ingestedAt": "2026-07-01T04:45:18.824Z",
+  "brief": "Bill Savitt, a lawyer, cross-examined Elon Musk in Musk v. Altman, the lawsuit Musk filed against Sam Altman and OpenAI. The article profiles Savitt's cross-examination style during the case, which resulted in a legal victory for Savitt and his clients against Musk.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "xai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0f764e9bc764",
+  "source": "Hacker News (AI)",
+  "title": "Claude Sonnet 5",
+  "url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "publishedAt": "2026-06-30T17:59:52.000Z",
+  "ingestedAt": "2026-07-01T04:45:56.364Z",
+  "brief": "Anthropic released Claude Sonnet 5, an update to its Sonnet model line with improved performance across reasoning, coding, and multimodal tasks. The new model represents a refinement in the Claude family's capabilities for enterprise and consumer applications.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

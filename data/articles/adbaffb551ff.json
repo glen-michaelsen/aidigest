@@ -1,0 +1,24 @@
+{
+  "id": "adbaffb551ff",
+  "source": "Google DeepMind",
+  "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+  "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+  "publishedAt": "2026-06-30T16:02:40.000Z",
+  "ingestedAt": "2026-07-01T04:45:46.543Z",
+  "brief": "Google launches Gemini Omni Flash, a lightweight multimodal model optimized for fast, cost-effective inference, alongside support for building with Nano Banana 2 Lite framework. The models target developers seeking efficient alternatives for latency-sensitive applications.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini",
+      "other"
+    ]
+  }
+}

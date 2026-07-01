@@ -1,0 +1,24 @@
+{
+  "id": "3f0a56fa7011",
+  "source": "Hugging Face Blog",
+  "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "url": "https://huggingface.co/blog/eee-community-evals",
+  "publishedAt": "2026-06-30T00:00:00.000Z",
+  "ingestedAt": "2026-07-01T04:45:52.266Z",
+  "brief": "Hugging Face now displays Every Eval Ever results directly on model pages, giving developers immediate access to comprehensive evaluation metrics without leaving the platform. This integration streamlines model assessment and comparison for the AI development community.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "benchmarks"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
