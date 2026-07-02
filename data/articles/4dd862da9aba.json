@@ -1,0 +1,24 @@
+{
+  "id": "4dd862da9aba",
+  "source": "The Verge AI",
+  "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+  "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+  "publishedAt": "2026-07-01T12:00:00.000Z",
+  "ingestedAt": "2026-07-02T04:12:24.688Z",
+  "brief": "Google launched the Google Home Speaker, its first new smart speaker in six years, designed specifically for Gemini integration. However, Gemini's capabilities for smart home control remain underdeveloped, limiting the device's ability to justify its place in the market despite strong hardware design.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer",
+      "hardware"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

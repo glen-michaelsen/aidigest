@@ -1,0 +1,27 @@
+{
+  "id": "c5e612bf83f7",
+  "source": "The Verge AI",
+  "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+  "publishedAt": "2026-07-01T00:03:55.000Z",
+  "ingestedAt": "2026-07-02T04:12:26.481Z",
+  "brief": "Anthropic announced that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5, allowing the company to restore global access to these models starting Wednesday. The models had been sidelined during negotiations with the Trump administration, with restoration planned across Claude platforms and cloud providers including AWS, Google Cloud, and Microsoft Azure.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "microsoft",
+      "google",
+      "amazon"
+    ],
+    "model": [
+      "claude",
+      "other"
+    ]
+  }
+}

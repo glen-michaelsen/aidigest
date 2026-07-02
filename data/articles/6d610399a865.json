@@ -1,0 +1,30 @@
+{
+  "id": "6d610399a865",
+  "source": "MIT Technology Review",
+  "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+  "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+  "publishedAt": "2026-07-01T14:35:16.000Z",
+  "ingestedAt": "2026-07-02T04:12:30.622Z",
+  "brief": "A startup is addressing a quirk in how LLMs generate random numbers and make decisions, revealing how current models exhibit predictable groupthink patterns in their outputs. The article explores why major models like Claude, ChatGPT, and Gemini produce similar responses to the same prompts and highlights efforts to increase diversity in LLM behavior.",
+  "tags": {
+    "category": [
+      "research",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "google",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "gemini",
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "920ebcbadff5",
+  "source": "TechCrunch AI",
+  "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+  "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+  "publishedAt": "2026-07-01T17:48:37.000Z",
+  "ingestedAt": "2026-07-02T04:12:07.585Z",
+  "brief": "Cloudflare has given AI companies until September 15 to segregate web crawlers for search from those used for AI training and agents, or face default blocking on publisher sites. This policy aims to give publishers control over which AI systems access their content and creates pressure for AI companies to negotiate paid access to training data.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

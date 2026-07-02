@@ -1,0 +1,23 @@
+{
+  "id": "ea1941e76b83",
+  "source": "Hacker News (AI)",
+  "title": "ZCode: Claude Code from the Makers of GLM",
+  "url": "https://zcode.z.ai/cn",
+  "publishedAt": "2026-07-01T19:11:38.000Z",
+  "ingestedAt": "2026-07-02T04:12:40.379Z",
+  "brief": "ZCode is a new code generation model released by the makers of GLM (Zhipu AI). The model appears to be positioned as a Claude competitor focused on code generation and development tasks.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

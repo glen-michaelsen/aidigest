@@ -1,0 +1,23 @@
+{
+  "id": "bdf6dd0357b8",
+  "source": "Hacker News (AI)",
+  "title": "Meta caps internal AI token spending",
+  "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+  "publishedAt": "2026-07-01T23:58:48.000Z",
+  "ingestedAt": "2026-07-02T04:12:38.502Z",
+  "brief": "Meta has imposed spending caps on internal AI token consumption as its projected 2026 AI infrastructure costs approach billions of dollars. The move reflects growing concerns over runaway spending on large-scale AI model training and inference within the company.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

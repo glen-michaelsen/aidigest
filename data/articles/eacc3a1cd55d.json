@@ -1,0 +1,25 @@
+{
+  "id": "eacc3a1cd55d",
+  "source": "MIT Technology Review",
+  "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+  "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+  "publishedAt": "2026-07-01T12:10:00.000Z",
+  "ingestedAt": "2026-07-02T04:12:32.222Z",
+  "brief": "Anthropic launched Claude Science, a new product built to support scientific research, unveiled at an event for pharmaceutical executives, biotech founders, and researchers. The release targets the research and healthcare sectors, positioning Claude as a specialized tool for advancing scientific workflows.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "healthcare",
+      "research"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

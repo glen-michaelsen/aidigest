@@ -1,0 +1,28 @@
+{
+  "id": "b7f49b2bc148",
+  "source": "Hugging Face Blog",
+  "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+  "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "ingestedAt": "2026-07-02T04:12:36.425Z",
+  "brief": "Hugging Face and Cerebras partnered to enable Google's Gemma 4 model to power real-time voice AI applications. The collaboration leverages Cerebras' optimized inference infrastructure to support voice interactions with the advanced open-source model.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "audio",
+      "agents"
+    ],
+    "company": [
+      "huggingface",
+      "google",
+      "other"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}
