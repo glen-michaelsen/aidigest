@@ -1,0 +1,23 @@
+{
+  "id": "0d16f2727a93",
+  "source": "Ars Technica AI",
+  "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+  "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+  "publishedAt": "2026-07-02T15:12:25.000Z",
+  "ingestedAt": "2026-07-03T03:59:03.428Z",
+  "brief": "OpenAI has agreed to offer the US government a 5% equity stake in the company following talks with the Trump administration, significantly below the amount Senator Bernie Sanders had proposed. The deal reflects negotiations between Sam Altman and Trump officials over the government's potential financial interest in the AI company.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

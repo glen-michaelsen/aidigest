@@ -1,0 +1,23 @@
+{
+  "id": "0a8155df6893",
+  "source": "Hacker News (AI)",
+  "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+  "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+  "publishedAt": "2026-07-02T13:43:41.000Z",
+  "ingestedAt": "2026-07-03T03:59:18.850Z",
+  "brief": "Japan's top court ruled that artificial intelligence cannot be listed as an inventor on patent applications, establishing that only humans can legally claim inventorship. The decision addresses a growing policy question about AI's role in innovation and intellectual property law as AI systems become more capable at generating novel solutions.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

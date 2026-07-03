@@ -1,0 +1,24 @@
+{
+  "id": "a55d2eb5ee86",
+  "source": "Ars Technica AI",
+  "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+  "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+  "publishedAt": "2026-07-02T11:15:49.000Z",
+  "ingestedAt": "2026-07-03T03:59:06.738Z",
+  "brief": "Google's electricity consumption surged 37% in 2025, driven primarily by the massive computational demands of its AI infrastructure buildout, creating tension with the company's sustainability commitments to offset carbon emissions through renewable energy and efficiency improvements.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "sustainability"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

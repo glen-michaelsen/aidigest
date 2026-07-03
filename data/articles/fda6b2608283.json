@@ -1,0 +1,26 @@
+{
+  "id": "fda6b2608283",
+  "source": "Ars Technica AI",
+  "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+  "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+  "publishedAt": "2026-07-02T14:39:17.000Z",
+  "ingestedAt": "2026-07-03T03:59:05.099Z",
+  "brief": "Privacy advocates have urged the FTC to reject Elon Musk's effort to end monitoring of X's AI practices, citing serious risks to Americans' privacy. The group warns that scaling AI on the platform without oversight could enable surveillance and data misuse at scale.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "xai",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "369bc071c6a5",
+  "source": "TechCrunch AI",
+  "title": "Yep, we’re using OpenClaw to date now",
+  "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+  "publishedAt": "2026-07-02T12:00:00.000Z",
+  "ingestedAt": "2026-07-03T03:58:56.679Z",
+  "brief": "Ben Guez created an automated script using Claude code and OpenClaw to identify potential matches on Instagram, showcasing how AI tools can be repurposed for dating automation. The experiment highlights both the capability and potential ethical concerns around using AI agents for social media automation.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

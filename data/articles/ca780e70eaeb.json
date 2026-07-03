@@ -1,0 +1,30 @@
+{
+  "id": "ca780e70eaeb",
+  "source": "MIT Technology Review",
+  "title": "The Download: a startup has a solution for AI’s groupthink problem",
+  "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+  "publishedAt": "2026-07-02T12:10:00.000Z",
+  "ingestedAt": "2026-07-03T03:59:11.864Z",
+  "brief": "A startup is tackling \"groupthink\" in large language models, where LLMs like Claude, ChatGPT, and Gemini produce similar outputs due to shared training data and objectives. The solution aims to increase diversity in AI model outputs and reduce conformity bias.",
+  "tags": {
+    "category": [
+      "research",
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "google",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "claude",
+      "gemini",
+      "other"
+    ]
+  }
+}

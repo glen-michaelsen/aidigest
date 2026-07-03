@@ -1,0 +1,25 @@
+{
+  "id": "2eb7b659b892",
+  "source": "TechCrunch AI",
+  "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+  "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+  "publishedAt": "2026-07-02T13:53:00.000Z",
+  "ingestedAt": "2026-07-03T03:58:55.096Z",
+  "brief": "Microsoft announced a new AI deployment company backed by a $2.5 billion commitment, following similar ventures by Amazon, OpenAI, and Anthropic. The move signals Microsoft's effort to build dedicated infrastructure and deployment capabilities for AI applications at scale.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

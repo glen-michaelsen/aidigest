@@ -1,0 +1,24 @@
+{
+  "id": "27a0b21fc019",
+  "source": "Hacker News (AI)",
+  "title": "AI fake news complaining about how AI fake news is the death of real news",
+  "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+  "publishedAt": "2026-07-02T12:40:36.000Z",
+  "ingestedAt": "2026-07-03T03:59:25.843Z",
+  "brief": "A meta piece from Nieman Lab discusses AI-generated fake news articles that ironically warn about the dangers of AI-generated misinformation. The phenomenon highlights how synthetic media can amplify itself, creating recursive layers of false and true narratives that undermine media trustworthiness.",
+  "tags": {
+    "category": [
+      "opinion",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

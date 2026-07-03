@@ -1,0 +1,23 @@
+{
+  "id": "70b7096db8e5",
+  "source": "Hacker News (AI)",
+  "title": "No LLM Code in Dependencies",
+  "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+  "publishedAt": "2026-07-02T14:17:23.000Z",
+  "ingestedAt": "2026-07-03T03:59:17.290Z",
+  "brief": "A developer advocates for excluding LLM-generated code from open-source project dependencies, raising concerns about code quality, licensing, and the unknown provenance of AI-generated contributions in software supply chains.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
