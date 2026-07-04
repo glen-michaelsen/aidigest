@@ -1,0 +1,27 @@
+{
+  "id": "33ef2394bc8e",
+  "source": "Hacker News (AI)",
+  "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+  "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+  "publishedAt": "2026-07-03T08:31:37.000Z",
+  "ingestedAt": "2026-07-04T03:52:30.939Z",
+  "brief": "Alibaba is banning Claude Code from workplace use due to alleged backdoor security risks, according to Reuters reporting. The move reflects growing security concerns around AI coding tools in enterprise environments.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety",
+      "policy"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

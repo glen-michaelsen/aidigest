@@ -1,0 +1,24 @@
+{
+  "id": "b4fd6ded1793",
+  "source": "The Verge AI",
+  "title": "Anthropic wants to develop its own drugs",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+  "publishedAt": "2026-07-03T13:56:52.000Z",
+  "ingestedAt": "2026-07-04T03:52:14.382Z",
+  "brief": "Anthropic launched Claude Science, an AI workbench for scientists that consolidates tools, datasets, and visualization capabilities to accelerate scientific discovery. The company announced it will also develop its own drugs, leveraging Claude's capabilities in biotech and pharma research alongside existing customers.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "healthcare",
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
