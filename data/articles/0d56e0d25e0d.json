@@ -1,0 +1,27 @@
+{
+  "id": "0d56e0d25e0d",
+  "source": "The Verge AI",
+  "title": "The fanfiction community is at war with AI — and itself",
+  "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+  "publishedAt": "2026-07-04T12:00:00.000Z",
+  "ingestedAt": "2026-07-05T04:11:14.113Z",
+  "brief": "Fanfiction communities are mounting campaigns to identify and expose writers using generative AI tools like Claude and ChatGPT, but detection methods remain unreliable and risk false accusations of legitimate authors. The movement gained momentum on June 29th with an anonymous account promising detection tools, raising concerns about witch hunts within creative communities.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7a350947a798",
+  "source": "TechCrunch AI",
+  "title": "Alibaba reportedly bans employees from using Claude Code",
+  "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+  "publishedAt": "2026-07-04T16:32:08.000Z",
+  "ingestedAt": "2026-07-05T04:11:10.949Z",
+  "brief": "Alibaba has reportedly classified Anthropic's Claude Code as high-risk software and banned employee use, citing unspecified security concerns. The move reflects growing corporate caution around third-party AI coding tools and potential data protection risks.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
