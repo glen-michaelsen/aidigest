@@ -1,0 +1,23 @@
+{
+  "id": "c8e3bde25fd3",
+  "source": "TechCrunch AI",
+  "title": "Amazon will stop accepting new customers for Mechanical Turk",
+  "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+  "publishedAt": "2026-07-05T17:43:36.000Z",
+  "ingestedAt": "2026-07-06T04:18:19.048Z",
+  "brief": "Amazon announced it will stop accepting new customers for Mechanical Turk, its crowdsourcing platform used for data labeling and annotation tasks. This signals a potential wind-down of the service that has been crucial for training AI models.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

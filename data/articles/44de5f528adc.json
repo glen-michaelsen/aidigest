@@ -1,0 +1,24 @@
+{
+  "id": "44de5f528adc",
+  "source": "Hacker News (AI)",
+  "title": "Claude Design System Prompt",
+  "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+  "publishedAt": "2026-07-05T08:43:37.000Z",
+  "ingestedAt": "2026-07-06T04:18:30.415Z",
+  "brief": "A developer-created design system prompt for Claude was shared on GitHub, enabling users to guide Claude toward generating structured design outputs. The resource demonstrates how prompt engineering can extend Claude's capabilities for design workflows, gaining traction with 116 points on Hacker News.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "enterprise",
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

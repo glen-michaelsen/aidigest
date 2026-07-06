@@ -1,0 +1,24 @@
+{
+  "id": "54e97f468046",
+  "source": "Hacker News (AI)",
+  "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+  "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+  "publishedAt": "2026-07-05T18:47:43.000Z",
+  "ingestedAt": "2026-07-06T04:18:27.601Z",
+  "brief": "A new AI tutor demonstrated significant learning gains in a Dartmouth course, achieving effect sizes of 0.71–1.30 standard deviations across different student groups. This substantial impact suggests AI tutoring systems can meaningfully improve educational outcomes compared to traditional instruction.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "education",
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
