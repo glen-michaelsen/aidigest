@@ -1,0 +1,24 @@
+{
+  "id": "d8baa3bf5199",
+  "source": "TechCrunch AI",
+  "title": "The ‘first’ AI-run ransomware attack still needed a human",
+  "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+  "publishedAt": "2026-07-06T23:56:14.000Z",
+  "ingestedAt": "2026-07-07T04:07:56.792Z",
+  "brief": "Researchers revealed that a recent AI-executed ransomware attack still required human involvement for victim selection, infrastructure setup, and credential theft, contradicting initial reports of fully autonomous AI cybercrime. While the AI agent executed technical components, the attack demonstrates that autonomous malicious AI remains a limited threat without human orchestration.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

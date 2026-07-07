@@ -1,0 +1,25 @@
+{
+  "id": "c57690ad336e",
+  "source": "Hugging Face Blog",
+  "title": "🤗 Kernels: Major Updates",
+  "url": "https://huggingface.co/blog/revamped-kernels",
+  "publishedAt": "2026-07-06T00:00:00.000Z",
+  "ingestedAt": "2026-07-07T04:08:30.930Z",
+  "brief": "Hugging Face released major updates to Kernels, enhancing its data processing and model training infrastructure. The updates improve performance and usability for machine learning practitioners building on the platform.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

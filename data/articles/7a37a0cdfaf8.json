@@ -1,0 +1,25 @@
+{
+  "id": "7a37a0cdfaf8",
+  "source": "Ars Technica AI",
+  "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+  "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+  "publishedAt": "2026-07-06T16:44:18.000Z",
+  "ingestedAt": "2026-07-07T04:08:16.472Z",
+  "brief": "An engineer at Anthropic revealed that the company deployed a covert user tracking mechanism, contradicting its public commitment to privacy and anti-surveillance principles. The engineer claims the \"experiment\" has ended, but the incident raises questions about Anthropic's data practices and user trust.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

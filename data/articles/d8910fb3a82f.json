@@ -1,0 +1,26 @@
+{
+  "id": "d8910fb3a82f",
+  "source": "Hacker News (AI)",
+  "title": "When AI Costs More Than the Engineer",
+  "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+  "publishedAt": "2026-07-06T07:05:25.000Z",
+  "ingestedAt": "2026-07-07T04:08:40.356Z",
+  "brief": "Analysis shows that AI infrastructure costs are approaching or exceeding engineer salaries in some enterprise scenarios, with breakeven economics projected around 2029. The piece examines when organizations should evaluate whether deploying AI agents becomes more cost-effective than hiring human engineers, given rising LLM API and compute expenses.",
+  "tags": {
+    "category": [
+      "opinion",
+      "enterprise"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

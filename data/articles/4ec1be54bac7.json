@@ -1,0 +1,26 @@
+{
+  "id": "4ec1be54bac7",
+  "source": "Ars Technica AI",
+  "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+  "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+  "publishedAt": "2026-07-06T14:17:42.000Z",
+  "ingestedAt": "2026-07-07T04:08:18.211Z",
+  "brief": "The UK's Financial Conduct Authority warned of an \"arms race\" in AI adoption within financial services, citing the need for expanded regulatory powers as millions of consumers rely on AI for personal finance decisions. The FCA's warning underscores growing concerns about oversight gaps as financial institutions increasingly deploy AI technologies.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "enterprise",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6b7e3847e7a7",
+  "source": "The Verge AI",
+  "title": "I spy",
+  "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+  "publishedAt": "2026-07-06T16:00:00.000Z",
+  "ingestedAt": "2026-07-07T04:08:12.413Z",
+  "brief": "A Netflix series featuring Ted Danson's character using smart glasses to conduct surveillance at a retirement home highlights the privacy risks and ethical concerns inherent in consumer smart eyewear technology. The show inadvertently illustrates why widespread adoption of recording-capable glasses poses significant cultural and privacy challenges despite their consumer appeal.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "hardware",
+      "consumer"
+    ],
+    "company": [
+      "meta",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

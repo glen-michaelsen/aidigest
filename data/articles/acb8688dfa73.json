@@ -1,0 +1,23 @@
+{
+  "id": "acb8688dfa73",
+  "source": "TechCrunch AI",
+  "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+  "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+  "publishedAt": "2026-07-06T17:04:58.000Z",
+  "ingestedAt": "2026-07-07T04:08:05.889Z",
+  "brief": "Google is automatically storing user data including images, files, and audio/video recordings to train its AI models, a change made through updated privacy settings. Users can opt out, but the change defaults to data collection unless manually disabled.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

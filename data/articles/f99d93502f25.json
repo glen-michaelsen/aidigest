@@ -1,0 +1,25 @@
+{
+  "id": "f99d93502f25",
+  "source": "Hacker News (AI)",
+  "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+  "url": "https://github.com/iOfficeAI/OfficeCLI",
+  "publishedAt": "2026-07-06T16:47:44.000Z",
+  "ingestedAt": "2026-07-07T04:08:36.387Z",
+  "brief": "OfficeCLI is an open-source tool that enables AI agents to programmatically read and edit Microsoft Office files (Word, Excel, PowerPoint) through a command-line interface. The project bridges AI workflow automation and Office document manipulation, allowing agents to interact with business documents at scale.",
+  "tags": {
+    "category": [
+      "open-source",
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

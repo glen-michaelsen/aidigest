@@ -1,0 +1,24 @@
+{
+  "id": "381006001abd",
+  "source": "Hacker News (AI)",
+  "title": "GLM 5.2 and the coming AI margin collapse",
+  "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+  "publishedAt": "2026-07-06T20:14:55.000Z",
+  "ingestedAt": "2026-07-07T04:08:34.591Z",
+  "brief": "Analyst Martin Alderson examines GLM 5.2, a new high-performance model, and argues that rapid capability improvements among AI providers are driving down profit margins across the industry. As models converge on performance benchmarks while competition intensifies, the economics of AI infrastructure and service provisioning face structural pressure.",
+  "tags": {
+    "category": [
+      "opinion",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b719c88aa7f5",
+  "source": "Hacker News (AI)",
+  "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+  "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+  "publishedAt": "2026-07-06T15:01:18.000Z",
+  "ingestedAt": "2026-07-07T04:08:37.968Z",
+  "brief": "AMD launched the Ryzen AI Halo, a $4,000 AI development kit designed to accelerate on-device AI inference and model development. The kit targets developers building edge AI applications and provides integrated tools for optimizing models on AMD's Ryzen architecture.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
