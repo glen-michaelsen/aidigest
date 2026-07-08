@@ -1,0 +1,23 @@
+{
+  "id": "b8ee25d2f931",
+  "source": "The Verge AI",
+  "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+  "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+  "publishedAt": "2026-07-07T20:31:58.000Z",
+  "ingestedAt": "2026-07-08T03:33:20.933Z",
+  "brief": "Meta launched Muse Image, an AI image generation model from its Superintelligence Labs, now powering image tools across Meta AI, Instagram, and WhatsApp. The agentic model reasons through prompts and searches the web before generating images, marking Meta's shift from its Llama lineup to the new Muse family of AI models.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

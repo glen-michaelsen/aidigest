@@ -1,0 +1,26 @@
+{
+  "id": "024a3808c07a",
+  "source": "Hugging Face Blog",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "publishedAt": "2026-07-07T15:20:06.000Z",
+  "ingestedAt": "2026-07-08T03:33:51.069Z",
+  "brief": "Hugging Face has made its models available on Foundry Managed Compute, enabling developers to deploy and run open-source models on enterprise infrastructure without managing underlying systems. This integration streamlines the process of putting Hugging Face models into production at scale.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "huggingface",
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

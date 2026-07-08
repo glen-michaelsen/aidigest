@@ -1,0 +1,23 @@
+{
+  "id": "d4bb1346f4ac",
+  "source": "TechCrunch AI",
+  "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+  "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+  "publishedAt": "2026-07-07T19:28:38.000Z",
+  "ingestedAt": "2026-07-08T03:33:13.258Z",
+  "brief": "Discord confirmed an AI moderation bug that wrongfully banned users over harmless images, affecting accounts since May with 200 additional users banned over a weekend before the fix was deployed. The incident highlights risks of over-aggressive automated content filtering at scale.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "safety"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b29a21395768",
+  "source": "Hugging Face Blog",
+  "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+  "url": "https://huggingface.co/blog/skypilot-hf-storage",
+  "publishedAt": "2026-07-07T00:00:00.000Z",
+  "ingestedAt": "2026-07-08T03:33:52.676Z",
+  "brief": "SkyPilot has introduced zero-egress storage capabilities that allow AI workloads to run on any cloud while storing models and data on Hugging Face, eliminating costly data transfer fees. This integration reduces operational costs by enabling seamless access to Hugging Face repositories without downloading data locally.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "huggingface",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

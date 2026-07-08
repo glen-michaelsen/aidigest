@@ -1,0 +1,24 @@
+{
+  "id": "0a1d2bd6cc12",
+  "source": "Hugging Face Blog",
+  "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+  "url": "https://huggingface.co/blog/lerobot-release-v060",
+  "publishedAt": "2026-07-07T00:00:00.000Z",
+  "ingestedAt": "2026-07-08T03:33:54.555Z",
+  "brief": "LeRobot v0.6.0 release introduces enhanced capabilities for imagining, evaluating, and improving robotic behavior. This update builds on LeRobot's open-source framework for robot learning and control, advancing tools for simulation and model iteration.",
+  "tags": {
+    "category": [
+      "open-source",
+      "product-launch"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

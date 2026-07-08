@@ -1,0 +1,24 @@
+{
+  "id": "3ab271c5ba48",
+  "source": "TechCrunch AI",
+  "title": "Claude Cowork expands to mobile and web",
+  "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+  "publishedAt": "2026-07-07T16:27:18.000Z",
+  "ingestedAt": "2026-07-08T03:33:14.991Z",
+  "brief": "Anthropic has expanded Claude Codebase Collaboration (Claude Cowork) to mobile and web platforms, enabling users to start tasks on desktop, receive status updates on mobile, and access results across devices. This cross-platform expansion improves accessibility and workflow continuity for developers using Claude for collaborative coding tasks.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0d4a7f837685",
+  "source": "Ars Technica AI",
+  "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+  "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+  "publishedAt": "2026-07-07T21:03:07.000Z",
+  "ingestedAt": "2026-07-08T03:33:27.683Z",
+  "brief": "Trump's manufacturing revival plan faces a critical bottleneck: AI data centers are consuming massive amounts of electricity in Rust Belt regions, driving up power costs for traditional manufacturing industries. The energy squeeze threatens the economic viability of the industrial renaissance he's promised, pitting clean energy-adjacent tech infrastructure against legacy manufacturing.",
+  "tags": {
+    "category": [
+      "policy",
+      "infrastructure"
+    ],
+    "domain": [
+      "enterprise",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

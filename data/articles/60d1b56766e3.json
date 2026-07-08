@@ -1,0 +1,25 @@
+{
+  "id": "60d1b56766e3",
+  "source": "OpenAI Blog",
+  "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+  "url": "https://openai.com/index/australian-payments-plus",
+  "publishedAt": "2026-07-07T00:00:00.000Z",
+  "ingestedAt": "2026-07-08T03:33:41.408Z",
+  "brief": "Australian Payments Plus adopted ChatGPT Enterprise and Codex to accelerate payment processing workflows, reducing time spent on complex tasks while maintaining human oversight and improving output quality.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise",
+      "coding"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt",
+      "other"
+    ]
+  }
+}

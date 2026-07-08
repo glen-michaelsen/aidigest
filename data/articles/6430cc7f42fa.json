@@ -1,0 +1,24 @@
+{
+  "id": "6430cc7f42fa",
+  "source": "The Verge AI",
+  "title": "Anthropic is launching Claude Cowork on mobile and web",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+  "publishedAt": "2026-07-07T17:46:59.000Z",
+  "ingestedAt": "2026-07-08T03:33:22.500Z",
+  "brief": "Anthropic is expanding Claude Cowork, its collaborative AI workspace, to mobile (iOS/Android) and web platforms starting this week, with rollout beginning for Max subscribers and expanding to other users soon. The desktop app will retain full feature access including local file access, while cloud-based sessions enable continuity across devices.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

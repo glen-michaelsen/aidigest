@@ -1,0 +1,26 @@
+{
+  "id": "ca9a2a21da07",
+  "source": "Hugging Face Blog",
+  "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+  "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "publishedAt": "2026-07-07T21:15:33.000Z",
+  "ingestedAt": "2026-07-08T03:33:45.725Z",
+  "brief": "Amazon and Hugging Face have integrated to allow users to import models from Hugging Face directly into Amazon SageMaker Studio with a single click, streamlining the workflow for deploying open-source models. This integration reduces friction for machine learning practitioners who want to leverage community models with AWS's managed infrastructure.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "amazon",
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

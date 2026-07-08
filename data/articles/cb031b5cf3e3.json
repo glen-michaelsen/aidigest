@@ -1,0 +1,26 @@
+{
+  "id": "cb031b5cf3e3",
+  "source": "OpenAI Blog",
+  "title": "MUFG aims to become AI-native with OpenAI",
+  "url": "https://openai.com/index/mufg",
+  "publishedAt": "2026-07-07T00:00:00.000Z",
+  "ingestedAt": "2026-07-08T03:33:42.984Z",
+  "brief": "MUFG, Japan's largest bank, is adopting ChatGPT Enterprise to transform into an AI-native organization, aiming to streamline workflows and launch new AI-powered financial services. This partnership signals major enterprise adoption of OpenAI's technology in the banking sector.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "enterprise",
+      "finance"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

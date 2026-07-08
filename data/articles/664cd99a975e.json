@@ -1,0 +1,24 @@
+{
+  "id": "664cd99a975e",
+  "source": "Ars Technica AI",
+  "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+  "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+  "publishedAt": "2026-07-07T16:14:53.000Z",
+  "ingestedAt": "2026-07-08T03:33:31.866Z",
+  "brief": "DeepSeek, a Chinese AI company, is planning to develop its own chips in response to US export controls that restrict access to advanced semiconductors like Nvidia's products. The move aims to reduce dependency on foreign chip suppliers and maintain its AI development capabilities despite geopolitical restrictions.",
+  "tags": {
+    "category": [
+      "policy",
+      "infrastructure"
+    ],
+    "domain": [
+      "chips"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
