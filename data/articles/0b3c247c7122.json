@@ -1,0 +1,23 @@
+{
+  "id": "0b3c247c7122",
+  "source": "TechCrunch AI",
+  "title": "OpenAI releases new voice models for more natural live conversations",
+  "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+  "publishedAt": "2026-07-08T17:00:00.000Z",
+  "ingestedAt": "2026-07-09T04:01:58.788Z",
+  "brief": "OpenAI released new voice models enabling simultaneous speaking and listening, a capability essential for real-time translation and more natural conversational experiences.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

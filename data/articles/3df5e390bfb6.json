@@ -1,0 +1,24 @@
+{
+  "id": "3df5e390bfb6",
+  "source": "Ars Technica AI",
+  "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+  "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+  "publishedAt": "2026-07-08T07:00:51.000Z",
+  "ingestedAt": "2026-07-09T04:02:07.694Z",
+  "brief": "Researchers discovered \"HalluSquatting,\" a vulnerability in 9 popular AI tools that allows hackers to exploit LLMs' hallucinations and refusal to admit uncertainty to assemble botnets. The technique leverages the models' tendency to generate plausible-sounding but false information, enabling attackers to create malware distribution networks at scale.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

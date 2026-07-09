@@ -1,0 +1,24 @@
+{
+  "id": "eea9ce3a159d",
+  "source": "Ars Technica AI",
+  "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+  "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+  "publishedAt": "2026-07-08T16:39:48.000Z",
+  "ingestedAt": "2026-07-09T04:02:05.911Z",
+  "brief": "Google has updated Android Bench to include new LLMs for testing, though Gemini continues to underperform compared to competitors on the benchmark. The update invites developer input to shape the platform's future direction.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini",
+      "other"
+    ]
+  }
+}

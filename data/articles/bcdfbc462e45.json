@@ -1,0 +1,25 @@
+{
+  "id": "bcdfbc462e45",
+  "source": "TechCrunch AI",
+  "title": "Why this CEO thinks video games make better training data than the internet",
+  "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+  "publishedAt": "2026-07-08T17:47:55.000Z",
+  "ingestedAt": "2026-07-09T04:01:55.779Z",
+  "brief": "A CEO argues that video game data may be superior to internet text for training AI systems to understand spatial reasoning and physics — capabilities seen as essential for achieving artificial general intelligence. The startup General Intuition is betting on gaming data as a training source to address limitations in current LLMs like ChatGPT and Claude.",
+  "tags": {
+    "category": [
+      "opinion",
+      "research"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

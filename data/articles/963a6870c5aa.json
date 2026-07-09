@@ -1,0 +1,24 @@
+{
+  "id": "963a6870c5aa",
+  "source": "The Verge AI",
+  "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+  "publishedAt": "2026-07-08T17:00:00.000Z",
+  "ingestedAt": "2026-07-09T04:02:00.619Z",
+  "brief": "OpenAI released GPT-Live-1, a new voice model designed to improve conversational naturalness by interrupting less frequently and better detecting when users pause. The model intelligently routes complex queries to GPT-5.5 for reasoning and web search, enabling faster responses across research and analysis tasks.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "audio"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

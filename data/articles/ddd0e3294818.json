@@ -1,0 +1,24 @@
+{
+  "id": "ddd0e3294818",
+  "source": "TechCrunch AI",
+  "title": "This startup thinks robotics is about to have its ChatGPT moment",
+  "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+  "publishedAt": "2026-07-08T19:19:15.000Z",
+  "ingestedAt": "2026-07-09T04:01:51.504Z",
+  "brief": "General Intuition is leveraging millions of hours of video game data to train foundation models for robotics, aiming to enable smarter robot development with less real-world training data. The startup believes this approach could deliver a \"ChatGPT moment\" for physical AI, significantly reducing the barriers to building capable robotic systems.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "research"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

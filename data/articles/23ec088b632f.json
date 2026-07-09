@@ -1,0 +1,24 @@
+{
+  "id": "23ec088b632f",
+  "source": "MIT Technology Review",
+  "title": "EmTech AI 2026: The Rise of the AI Platform",
+  "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+  "publishedAt": "2026-07-08T16:26:10.000Z",
+  "ingestedAt": "2026-07-09T04:02:09.498Z",
+  "brief": "MIT Technology Review's EmTech AI 2026 conference explores how companies are shifting from isolated AI models to integrated AI platforms that combine multiple capabilities for enterprise deployment. The trend reflects industry maturation as organizations prioritize systems that can handle real-world workflows rather than single-task applications.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
