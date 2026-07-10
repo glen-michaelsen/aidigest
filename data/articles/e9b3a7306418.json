@@ -1,0 +1,23 @@
+{
+  "id": "e9b3a7306418",
+  "source": "The Verge AI",
+  "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+  "publishedAt": "2026-07-09T23:24:04.000Z",
+  "ingestedAt": "2026-07-10T04:02:19.303Z",
+  "brief": "OpenAI's Fidji Simo is stepping down from her full-time role as AGI chief due to a neuroimmune condition, transitioning to part-time advisor status. This follows her medical leave in April and comes alongside departures by COO Brad Lightcap and CMO Kate Rouch, signaling leadership changes at the company during a critical period of AGI development.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

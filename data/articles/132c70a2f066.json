@@ -1,0 +1,24 @@
+{
+  "id": "132c70a2f066",
+  "source": "The Verge AI",
+  "title": "The ChatGPT browser is already dead",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+  "publishedAt": "2026-07-09T20:34:05.000Z",
+  "ingestedAt": "2026-07-10T04:02:21.130Z",
+  "brief": "OpenAI is shutting down ChatGPT Atlas, its autonomous browser tool launched in October 2024, less than a year after release, with deprecation targeted for August 9th. The shutdown reflects OpenAI's strategic pivot to consolidate productivity features into ChatGPT Work and catch up with Anthropic's capabilities.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "openai",
+      "anthropic"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54ee76ae9206",
+  "source": "OpenAI Blog",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "url": "https://openai.com/index/gpt-5-6",
+  "publishedAt": "2026-07-09T10:00:00.000Z",
+  "ingestedAt": "2026-07-10T04:02:52.249Z",
+  "brief": "OpenAI announced GPT-5.6, a new frontier model that emphasizes improved token efficiency, cost performance, and on-demand capability scaling for complex tasks. The release highlights advances in intelligence density and operational economics.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6e69191c30c6",
+  "source": "TechCrunch AI",
+  "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+  "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+  "publishedAt": "2026-07-09T19:40:45.000Z",
+  "ingestedAt": "2026-07-10T04:02:15.800Z",
+  "brief": "Meta released Muse Spark 1.1, a coding AI model designed to handle large agentic workloads, fix bugs, and assist with code migrations for enterprise customers. The release represents Meta's competitive entry into a rapidly crowded market of AI-assisted coding tools.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

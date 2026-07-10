@@ -1,0 +1,24 @@
+{
+  "id": "7882027942b5",
+  "source": "The Verge AI",
+  "title": "Meta says its new AI model is ready to compete on coding",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+  "publishedAt": "2026-07-09T14:00:00.000Z",
+  "ingestedAt": "2026-07-10T04:02:28.808Z",
+  "brief": "Meta launched Muse Spark 1.1, an upgraded coding model with improved bug detection, agentic workflow support, and multimodal capabilities, via a new Meta Model API for developers. The release positions Meta as a competitor in AI-powered coding tools following its April re-entry into the AI race.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

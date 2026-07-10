@@ -1,0 +1,25 @@
+{
+  "id": "8923484c1444",
+  "source": "The Verge AI",
+  "title": "Microsoft’s patch Tuesdays are about to get bigger",
+  "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+  "publishedAt": "2026-07-09T17:00:00.000Z",
+  "ingestedAt": "2026-07-10T04:02:24.706Z",
+  "brief": "Microsoft announced it's using AI to identify security vulnerabilities earlier, resulting in higher volumes of security updates in each Windows patch release. The move reflects the acceleration of both attacker and researcher capabilities in exploiting and discovering vulnerabilities with AI assistance.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "enterprise",
+      "hardware"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fd6c695aa203",
+  "source": "Ars Technica AI",
+  "title": "OpenAI wants its new tool to do your work for you and with you",
+  "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+  "publishedAt": "2026-07-09T21:25:55.000Z",
+  "ingestedAt": "2026-07-10T04:02:36.178Z",
+  "brief": "OpenAI rebranded its Codex tool to handle independent workflows that can run autonomously for extended periods. The new capability enables AI agents to execute complex tasks with minimal human intervention, marking a shift toward more autonomous AI-assisted work.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "agents"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

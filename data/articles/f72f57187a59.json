@@ -1,0 +1,23 @@
+{
+  "id": "f72f57187a59",
+  "source": "Hacker News (AI)",
+  "title": "I think I have LLM burnout",
+  "url": "https://www.alecscollon.com/blog/llm-burnout/",
+  "publishedAt": "2026-07-09T01:56:28.000Z",
+  "ingestedAt": "2026-07-10T04:03:03.244Z",
+  "brief": "An opinion piece exploring LLM burnout—fatigue and frustration stemming from the rapid pace of AI model releases, overhyped capabilities, and diminishing novelty in the field. The article resonates with technologists experiencing decision fatigue and disappointment as the initial excitement around large language models cools.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

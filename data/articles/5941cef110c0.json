@@ -1,0 +1,24 @@
+{
+  "id": "5941cef110c0",
+  "source": "OpenAI Blog",
+  "title": "ChatGPT is now a partner for your most ambitious work",
+  "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+  "publishedAt": "2026-07-09T10:00:00.000Z",
+  "ingestedAt": "2026-07-10T04:02:49.085Z",
+  "brief": "OpenAI launched ChatGPT Work, an agentic version of ChatGPT capable of taking autonomous actions across applications and files to complete complex projects over extended periods. The product positions ChatGPT as a persistent work assistant that can execute multi-step tasks from conception to completion.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

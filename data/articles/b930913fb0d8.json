@@ -1,0 +1,23 @@
+{
+  "id": "b930913fb0d8",
+  "source": "Hacker News (AI)",
+  "title": "GPT-5.6",
+  "url": "https://openai.com/index/gpt-5-6/",
+  "publishedAt": "2026-07-09T17:04:14.000Z",
+  "ingestedAt": "2026-07-10T04:02:57.680Z",
+  "brief": "OpenAI released GPT-5.6, the latest iteration of its flagship large language model. The release includes updated API documentation and deployment safety guidelines, marking a significant advancement in the model's capabilities.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

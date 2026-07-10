@@ -1,0 +1,24 @@
+{
+  "id": "2bea16e5598a",
+  "source": "Ars Technica AI",
+  "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+  "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+  "publishedAt": "2026-07-09T18:57:53.000Z",
+  "ingestedAt": "2026-07-10T04:02:40.408Z",
+  "brief": "OpenAI faces potential sanctions for allegedly concealing and deleting ChatGPT logs during litigation with The New York Times over copyright infringement claims. The disclosure of the destroyed evidence could significantly weaken OpenAI's legal position in the case.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

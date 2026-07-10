@@ -1,0 +1,23 @@
+{
+  "id": "86f14c94f397",
+  "source": "Hacker News (AI)",
+  "title": "AI changes the economics of software rewrites",
+  "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+  "publishedAt": "2026-07-09T05:46:50.000Z",
+  "ingestedAt": "2026-07-10T04:03:01.537Z",
+  "brief": "AI-assisted code generation and rewriting tools are changing the financial calculus for software rewrites, making it economically viable to refactor and modernize legacy codebases that were previously too expensive to overhaul. This shift impacts how engineering teams prioritize technical debt and system architecture decisions.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

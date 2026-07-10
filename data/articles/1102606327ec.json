@@ -1,0 +1,24 @@
+{
+  "id": "1102606327ec",
+  "source": "TechCrunch AI",
+  "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+  "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+  "publishedAt": "2026-07-09T21:57:42.000Z",
+  "ingestedAt": "2026-07-10T04:02:12.372Z",
+  "brief": "Elon Musk publicly praised Mythos/Fable and promised not to \"cut off\" Anthropic from xAI infrastructure, addressing concerns about hosting Anthropic's models on xAI's servers with $40 billion in potential revenue at stake. The statement aims to reassure Anthropic about the viability of a partnership between the companies.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "xai",
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8fd74bd3f519",
+  "source": "OpenAI Blog",
+  "title": "GPT-5.5 Bio Bug Bounty",
+  "url": "https://openai.com/index/bio-bug-bounty",
+  "publishedAt": "2026-07-09T10:00:00.000Z",
+  "ingestedAt": "2026-07-10T04:02:50.756Z",
+  "brief": "OpenAI launched a bug bounty program focused on biosecurity vulnerabilities in GPT-5.5, offering researchers compensation for identifying and responsibly disclosing safety risks related to biological research applications. The program aims to proactively surface potential misuse vectors before the model's broader deployment.",
+  "tags": {
+    "category": [
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

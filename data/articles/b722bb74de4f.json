@@ -1,0 +1,23 @@
+{
+  "id": "b722bb74de4f",
+  "source": "The Verge AI",
+  "title": "Say hello to Claude Wrapped",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+  "publishedAt": "2026-07-09T13:30:00.000Z",
+  "ingestedAt": "2026-07-10T04:02:32.720Z",
+  "brief": "Anthropic introduced a \"reflect\" feature for Claude that shows users personalized year-in-review analytics, including key topics discussed, task types, and usage patterns over customizable timeframes. The feature follows the popularity of Spotify Wrapped and similar year-end recaps across tech platforms.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

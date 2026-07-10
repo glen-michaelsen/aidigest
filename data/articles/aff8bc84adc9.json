@@ -1,0 +1,24 @@
+{
+  "id": "aff8bc84adc9",
+  "source": "Ars Technica AI",
+  "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+  "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+  "publishedAt": "2026-07-09T20:12:03.000Z",
+  "ingestedAt": "2026-07-10T04:02:38.707Z",
+  "brief": "Humanoid robots controlled by surgeons performed a world-first surgical operation on live pigs in a preclinical trial. The experiment demonstrates the feasibility of using teleoperated humanoid robots for complex surgical procedures, which could eventually enable remote surgery and reduce surgeon fatigue.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "robotics",
+      "healthcare"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

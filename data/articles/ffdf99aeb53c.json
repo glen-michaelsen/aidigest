@@ -1,0 +1,23 @@
+{
+  "id": "ffdf99aeb53c",
+  "source": "MIT Technology Review",
+  "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+  "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+  "publishedAt": "2026-07-09T20:22:28.000Z",
+  "ingestedAt": "2026-07-10T04:02:42.192Z",
+  "brief": "Anthropic developed the Jacobian lens, a new interpretability tool that provides unprecedented insight into how Claude's internal representations work when answering questions or performing tasks. The technique reveals previously hidden patterns in how language models process information, with implications for understanding and trusting AI systems.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

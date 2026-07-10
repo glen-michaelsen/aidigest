@@ -1,0 +1,26 @@
+{
+  "id": "ad27224f77da",
+  "source": "The Verge AI",
+  "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+  "publishedAt": "2026-07-09T17:00:00.000Z",
+  "ingestedAt": "2026-07-10T04:02:27.017Z",
+  "brief": "OpenAI received Trump administration clearance to publicly release GPT-5.6, which CEO Sam Altman called the company's best model ever. Simultaneously, OpenAI launched ChatGPT Work, an AI agent combining ChatGPT and Codex capabilities powered by GPT-5.6 (Sol, Terra, and Luna variants) for non-technical users to automate non-coding tasks.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
