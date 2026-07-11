@@ -1,0 +1,23 @@
+{
+  "id": "145fbd552c75",
+  "source": "Hugging Face Blog",
+  "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "url": "https://huggingface.co/blog/torch-attention-profile",
+  "publishedAt": "2026-07-10T00:00:00.000Z",
+  "ingestedAt": "2026-07-11T03:29:17.427Z",
+  "brief": "This is the third part of a PyTorch profiling series focused on analyzing attention mechanisms in deep learning models. The article provides practical guidance on profiling attention layers to optimize model performance and understand computational bottlenecks.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

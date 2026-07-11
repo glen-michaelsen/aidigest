@@ -1,0 +1,27 @@
+{
+  "id": "027b05f9d0fa",
+  "source": "OpenAI Blog",
+  "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+  "url": "https://openai.com/index/deutsche-telekom",
+  "publishedAt": "2026-07-10T07:00:00.000Z",
+  "ingestedAt": "2026-07-11T03:29:15.695Z",
+  "brief": "Deutsche Telekom is integrating OpenAI technology across its telecommunications operations to transform customer service, employee workflows, and network management. The deployment positions the carrier as an \"AI-native telco\" leveraging generative AI to modernize voice services and operational infrastructure.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "enterprise"
+    ],
+    "domain": [
+      "llm",
+      "enterprise",
+      "agents"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

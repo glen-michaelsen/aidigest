@@ -1,0 +1,24 @@
+{
+  "id": "3e171b9d1ff3",
+  "source": "The Verge AI",
+  "title": "Microsoft’s carbon emissions went up 25 percent last year",
+  "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+  "publishedAt": "2026-07-10T00:04:13.000Z",
+  "ingestedAt": "2026-07-11T03:29:07.886Z",
+  "brief": "Microsoft's carbon emissions rose 25 percent in 2025 to 34 million metric tons, driven primarily by datacenter expansion for AI infrastructure, putting the company at risk of missing its 2030 carbon-negative goal.",
+  "tags": {
+    "category": [
+      "policy",
+      "incident"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

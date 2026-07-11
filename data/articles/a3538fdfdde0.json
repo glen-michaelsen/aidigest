@@ -1,0 +1,25 @@
+{
+  "id": "a3538fdfdde0",
+  "source": "MIT Technology Review",
+  "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+  "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+  "publishedAt": "2026-07-10T12:10:00.000Z",
+  "ingestedAt": "2026-07-11T03:29:11.831Z",
+  "brief": "Anthropic has gained new insights into Claude's internal reasoning processes, revealing how the model puzzles through complex concepts. This research advances our understanding of what happens inside large language models during reasoning and decision-making.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic",
+      "openai"
+    ],
+    "model": [
+      "claude",
+      "gpt"
+    ]
+  }
+}

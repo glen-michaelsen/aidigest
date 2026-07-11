@@ -1,0 +1,25 @@
+{
+  "id": "d325e170b880",
+  "source": "TechCrunch AI",
+  "title": "Meta removes controversial AI feature on Instagram after backlash",
+  "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+  "publishedAt": "2026-07-10T23:55:07.000Z",
+  "ingestedAt": "2026-07-11T03:28:54.436Z",
+  "brief": "Meta disabled an AI feature on Instagram that allowed the company to reference users' public content for generative AI training, following user backlash over privacy and consent concerns. The company acknowledged the feature did not meet user expectations and is no longer available.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "image-generation",
+      "consumer"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

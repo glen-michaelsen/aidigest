@@ -1,0 +1,23 @@
+{
+  "id": "c6175885a647",
+  "source": "TechCrunch AI",
+  "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+  "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+  "publishedAt": "2026-07-10T19:00:00.000Z",
+  "ingestedAt": "2026-07-11T03:28:57.545Z",
+  "brief": "Hugging Face CEO Clem Delangue argues that open source AI is increasingly critical, noting the platform now serves approximately half of Fortune 500 companies as a hub for sharing and downloading AI models and datasets. The company has become a central infrastructure for the AI ecosystem, enabling builders to collaborate and democratize model access.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

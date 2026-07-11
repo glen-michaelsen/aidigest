@@ -1,0 +1,30 @@
+{
+  "id": "50774a9f366d",
+  "source": "Hacker News (AI)",
+  "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+  "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+  "publishedAt": "2026-07-10T20:52:28.000Z",
+  "ingestedAt": "2026-07-11T03:29:20.119Z",
+  "brief": "Four AI models—GPT-5.6, Grok 4.5, Claude, and Muse Spark—competed in a build-off to develop the same four applications, testing comparative capabilities in real-world coding tasks. The benchmark reveals how different LLM architectures perform on identical application development projects.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "openai",
+      "xai",
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "grok",
+      "claude",
+      "other"
+    ]
+  }
+}

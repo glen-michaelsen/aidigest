@@ -1,0 +1,23 @@
+{
+  "id": "2ea4abcc5ba6",
+  "source": "Hacker News (AI)",
+  "title": "AI-generated videos to maximally drive a target brain region",
+  "url": "https://nevo-project.epfl.ch/",
+  "publishedAt": "2026-07-10T07:39:11.000Z",
+  "ingestedAt": "2026-07-11T03:29:25.397Z",
+  "brief": "Researchers developed a method to generate videos optimized to activate specific brain regions using AI, combining neuroscience with generative models to systematically understand neural responses to visual stimuli. This approach enables targeted investigation of how video content drives activity in particular brain areas, with potential applications in neuroscience research and understanding visual perception.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "video-generation"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

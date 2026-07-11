@@ -1,0 +1,25 @@
+{
+  "id": "04c3e5477225",
+  "source": "Hacker News (AI)",
+  "title": "How the terrorist group Boko Haram uses frontier AI",
+  "url": "https://casp.ac/reports/ai-enabled-terrorism",
+  "publishedAt": "2026-07-10T18:49:26.000Z",
+  "ingestedAt": "2026-07-11T03:29:21.893Z",
+  "brief": "A report from CASP examines how Boko Haram has adopted frontier AI technologies to enhance recruitment, planning, and operational capabilities. The analysis highlights emerging security risks as terrorist organizations gain access to advanced AI tools and underscores the need for policy frameworks to prevent misuse.",
+  "tags": {
+    "category": [
+      "safety",
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

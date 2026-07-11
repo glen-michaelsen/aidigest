@@ -1,0 +1,24 @@
+{
+  "id": "30fd26556973",
+  "source": "The Verge AI",
+  "title": "Would you host part of an AI data center in your home?",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+  "publishedAt": "2026-07-10T13:20:25.000Z",
+  "ingestedAt": "2026-07-11T03:29:06.535Z",
+  "brief": "Sunrun, a solar and home energy storage company, is launching a pilot program to place AI compute nodes in customers' homes equipped with its solar and battery systems, compensating participants while selling the distributed compute power to enterprise AI buyers. This represents a novel approach to distributed AI infrastructure that leverages existing residential renewable energy installations.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
