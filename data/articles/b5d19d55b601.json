@@ -1,0 +1,23 @@
+{
+  "id": "b5d19d55b601",
+  "source": "Hacker News (AI)",
+  "title": "AI 2040 and the cult of intelligence",
+  "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+  "publishedAt": "2026-07-11T18:04:01.000Z",
+  "ingestedAt": "2026-07-12T03:40:22.993Z",
+  "brief": "GeHot publishes a long-form essay on AI's trajectory through 2040, critiquing what he calls a \"cult of intelligence\" in AI development. The piece reflects on how intelligence metrics dominate AI discourse while sidelining practical concerns about deployment, alignment, and societal impact.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

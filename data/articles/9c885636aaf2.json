@@ -1,0 +1,24 @@
+{
+  "id": "9c885636aaf2",
+  "source": "Hacker News (AI)",
+  "title": "Ghost Font: A font that humans can read but AI cannot",
+  "url": "https://www.mixfont.com/ghost-font",
+  "publishedAt": "2026-07-11T09:36:53.000Z",
+  "ingestedAt": "2026-07-12T03:40:24.589Z",
+  "brief": "Researchers developed a font called Ghost Font that remains readable to humans but is intentionally illegible to AI vision systems and optical character recognition (OCR) models. The technique represents a novel approach to adversarial design and has potential implications for content protection and AI safety.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

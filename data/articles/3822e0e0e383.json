@@ -1,0 +1,24 @@
+{
+  "id": "3822e0e0e383",
+  "source": "Hacker News (AI)",
+  "title": "Mesh LLM: distributed AI computing on iroh",
+  "url": "https://www.iroh.computer/blog/mesh-llm",
+  "publishedAt": "2026-07-11T22:38:57.000Z",
+  "ingestedAt": "2026-07-12T03:40:19.647Z",
+  "brief": "Iroh released Mesh LLM, a system for distributed AI computing that leverages peer-to-peer networks to enable decentralized LLM inference and training. The project demonstrates how mesh networking can reduce reliance on centralized infrastructure while making LLMs more accessible across resource-constrained devices.",
+  "tags": {
+    "category": [
+      "infrastructure",
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

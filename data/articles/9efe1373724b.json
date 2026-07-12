@@ -1,0 +1,23 @@
+{
+  "id": "9efe1373724b",
+  "source": "Hacker News (AI)",
+  "title": "Stop Telling Me to Ask an LLM",
+  "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+  "publishedAt": "2026-07-11T22:28:48.000Z",
+  "ingestedAt": "2026-07-12T03:40:21.304Z",
+  "brief": "A critical opinion piece arguing against the reflexive suggestion to use LLMs for problem-solving, questioning whether delegating tasks to language models is always practical or advisable.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
