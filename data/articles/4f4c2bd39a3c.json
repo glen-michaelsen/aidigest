@@ -1,0 +1,24 @@
+{
+  "id": "4f4c2bd39a3c",
+  "source": "Hacker News (AI)",
+  "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+  "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+  "publishedAt": "2026-07-12T17:13:07.000Z",
+  "ingestedAt": "2026-07-13T03:42:18.742Z",
+  "brief": "A production AI agent was migrated from an earlier model to GPT-5.6, achieving 2.2x faster inference and 27% cost reduction. The upgrade demonstrates significant performance and efficiency gains in real-world deployment scenarios.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

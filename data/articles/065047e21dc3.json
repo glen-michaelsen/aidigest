@@ -1,0 +1,23 @@
+{
+  "id": "065047e21dc3",
+  "source": "Hacker News (AI)",
+  "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+  "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+  "publishedAt": "2026-07-12T18:25:51.000Z",
+  "ingestedAt": "2026-07-13T03:42:17.373Z",
+  "brief": "A developer analysis comparing Claude Code and OpenCode found that Claude Code sends significantly more tokens (33k) before reading the user prompt, while OpenCode sends only 7k, indicating Claude Code's inferior cache strategy and higher token consumption overall. The findings were based on empirical logging of API requests to Anthropic's endpoint, revealing a substantial efficiency gap between the two coding tools.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}
