@@ -1,0 +1,24 @@
+{
+  "id": "5b8527aaa26a",
+  "source": "Ars Technica AI",
+  "title": "Now, defenders are embracing the prompt injection, too",
+  "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+  "publishedAt": "2026-07-13T15:06:34.000Z",
+  "ingestedAt": "2026-07-14T03:17:46.210Z",
+  "brief": "Security researchers have discovered \"context bombing,\" a defensive technique that uses prompt injection to trick AI agents into shutting down before they can execute harmful actions. This approach flips the typical security model by weaponizing prompt injection itself as a protective measure against malicious AI agents.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b08d670f13cc",
+  "source": "Ars Technica AI",
+  "title": "Simulating everything, sort of: The promise and limits of world models",
+  "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+  "publishedAt": "2026-07-13T11:00:51.000Z",
+  "ingestedAt": "2026-07-14T03:17:47.738Z",
+  "brief": "An expert analysis examining how world models simulate environments and predict future states, while discussing their current capabilities and remaining unsolved challenges in AI research.",
+  "tags": {
+    "category": [
+      "research",
+      "opinion"
+    ],
+    "domain": [
+      "agents",
+      "video-generation"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

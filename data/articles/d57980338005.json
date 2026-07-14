@@ -1,0 +1,24 @@
+{
+  "id": "d57980338005",
+  "source": "The Verge AI",
+  "title": "Waze is getting a bunch of new AI-powered features",
+  "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+  "publishedAt": "2026-07-13T09:00:00.000Z",
+  "ingestedAt": "2026-07-14T03:17:42.080Z",
+  "brief": "Google is integrating Gemini AI into Waze to enable conversational voice commands for reporting traffic incidents and searching for destinations. The update lets drivers personalize their navigation with natural language requests while keeping their eyes on the road.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "search",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

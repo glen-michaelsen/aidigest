@@ -1,0 +1,24 @@
+{
+  "id": "fac19f5781fd",
+  "source": "Ars Technica AI",
+  "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+  "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+  "publishedAt": "2026-07-13T19:17:51.000Z",
+  "ingestedAt": "2026-07-14T03:17:44.023Z",
+  "brief": "Apple filed a lawsuit against OpenAI alleging that the company conspired with a former Apple engineer who exploited a bug to steal proprietary trade secrets. The case underscores tensions between major tech companies over talent poaching and intellectual property protection.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "apple",
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

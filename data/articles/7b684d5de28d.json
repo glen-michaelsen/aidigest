@@ -1,0 +1,24 @@
+{
+  "id": "7b684d5de28d",
+  "source": "Hacker News (AI)",
+  "title": "Ask HN: Add flag for AI-generated articles",
+  "url": "https://news.ycombinator.com/item?id=48886741",
+  "publishedAt": "2026-07-13T01:24:20.000Z",
+  "ingestedAt": "2026-07-14T03:17:58.865Z",
+  "brief": "A Hacker News user proposed adding a flag to mark AI-generated articles, allowing readers to filter them without de-ranking content. The suggestion sparked debate about whether HN's existing voting system is sufficient and whether the platform should evolve its moderation approach in response to AI-generated content proliferation.",
+  "tags": {
+    "category": [
+      "opinion",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

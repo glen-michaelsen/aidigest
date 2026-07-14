@@ -1,0 +1,24 @@
+{
+  "id": "795d17f139aa",
+  "source": "TechCrunch AI",
+  "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+  "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+  "publishedAt": "2026-07-13T18:22:10.000Z",
+  "ingestedAt": "2026-07-14T03:17:29.101Z",
+  "brief": "Apple filed a trade secrets lawsuit against OpenAI alleging unauthorized access to Apple systems, with complaints ranging from employees joking about accessing Apple hardware to job candidates bringing Apple devices to interviews. The lawsuit highlights concerns about potential IP theft and security breaches between the two companies.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "apple",
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

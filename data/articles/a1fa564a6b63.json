@@ -1,0 +1,25 @@
+{
+  "id": "a1fa564a6b63",
+  "source": "Hacker News (AI)",
+  "title": "Samsung Health app threatens data deletion if users opt out AI training",
+  "url": "https://neow.in/cWsyMTV3",
+  "publishedAt": "2026-07-13T20:01:43.000Z",
+  "ingestedAt": "2026-07-14T03:17:56.857Z",
+  "brief": "Samsung's Health app is threatening to delete user data if they refuse to consent to having their health information used for AI training. The move has sparked backlash over coercive consent practices and raises concerns about data privacy and user autonomy.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "healthcare",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

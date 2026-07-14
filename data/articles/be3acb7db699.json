@@ -1,0 +1,23 @@
+{
+  "id": "be3acb7db699",
+  "source": "Hacker News (AI)",
+  "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
+  "url": "https://github.com/thephw/claude-meseeks",
+  "publishedAt": "2026-07-13T22:03:54.000Z",
+  "ingestedAt": "2026-07-14T03:17:55.245Z",
+  "brief": "A developer created a Claude Code plugin that plays a Mr. Meeseeks voice line from Rick and Morty whenever Claude is waiting for a response. The plugin, shared on GitHub, gained traction on Hacker News with 123 upvotes and 53 comments, showcasing creative customization of the Claude development environment.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2eaf2286673a",
+  "source": "TechCrunch AI",
+  "title": "Satya Nadella has issued a shocking warning to companies using AI",
+  "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+  "publishedAt": "2026-07-13T20:59:00.000Z",
+  "ingestedAt": "2026-07-14T03:17:27.354Z",
+  "brief": "Microsoft CEO Satya Nadella has warned companies about risks associated with proprietary AI models from major labs, echoing concerns among AI researchers about vendor lock-in and dependency on closed-source systems. The warning highlights growing skepticism in Silicon Valley about the long-term implications of relying on commercial AI providers.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
