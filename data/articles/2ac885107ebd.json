@@ -1,0 +1,24 @@
+{
+  "id": "2ac885107ebd",
+  "source": "Hacker News (AI)",
+  "title": "Financing the AI boom: from cash flows to debt [pdf]",
+  "url": "https://www.bis.org/publ/bisbull120.pdf",
+  "publishedAt": "2026-07-14T21:58:36.000Z",
+  "ingestedAt": "2026-07-15T03:17:49.791Z",
+  "brief": "The Bank for International Settlements published a report analyzing how the AI boom is being financed, examining the transition from venture capital cash flows to debt-based funding models. The report addresses capital requirements, financial risks, and sustainability of current AI investment patterns as companies scale infrastructure spending.",
+  "tags": {
+    "category": [
+      "policy",
+      "infrastructure"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

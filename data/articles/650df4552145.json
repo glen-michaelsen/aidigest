@@ -1,0 +1,24 @@
+{
+  "id": "650df4552145",
+  "source": "Ars Technica AI",
+  "title": "New York bans data center construction for a year, rattling AI industry",
+  "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+  "publishedAt": "2026-07-14T15:06:28.000Z",
+  "ingestedAt": "2026-07-15T03:17:35.272Z",
+  "brief": "New York enacted a one-year moratorium on new data center construction, citing concerns about power grid strain and environmental impact. The policy is expected to influence similar anti-AI infrastructure restrictions in other jurisdictions.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "hardware",
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

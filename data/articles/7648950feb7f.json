@@ -1,0 +1,24 @@
+{
+  "id": "7648950feb7f",
+  "source": "Hacker News (AI)",
+  "title": "Demis Hassabis has a plan to harness AI safely",
+  "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+  "publishedAt": "2026-07-14T09:20:07.000Z",
+  "ingestedAt": "2026-07-15T03:17:56.864Z",
+  "brief": "Demis Hassabis, DeepMind's CEO, outlines a comprehensive strategy for safe AI development and deployment. The plan addresses governance, technical safety measures, and responsible scaling of AI systems.",
+  "tags": {
+    "category": [
+      "safety",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "deepmind"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

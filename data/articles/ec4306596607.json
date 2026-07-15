@@ -1,0 +1,24 @@
+{
+  "id": "ec4306596607",
+  "source": "The Verge AI",
+  "title": "The Google Images homepage will recommend photos even before you search",
+  "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+  "publishedAt": "2026-07-14T16:00:00.000Z",
+  "ingestedAt": "2026-07-15T03:17:19.737Z",
+  "brief": "Google Images is redesigning its homepage to display a dynamic, browseable gallery of curated photos tailored to user interests before any search, marking the platform's 25th anniversary shift from a blank search page to a Pinterest-like layout. The new feature uses real-time recommendations to increase user engagement and platform stickiness.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "search",
+      "consumer"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

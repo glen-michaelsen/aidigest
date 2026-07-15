@@ -1,0 +1,24 @@
+{
+  "id": "a9b65061bfa7",
+  "source": "The Verge AI",
+  "title": "Meta accused of using biased AI targeting for mass layoffs",
+  "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+  "publishedAt": "2026-07-14T17:18:11.000Z",
+  "ingestedAt": "2026-07-15T03:17:18.050Z",
+  "brief": "26 former Meta employees are suing the company over allegations that its AI-driven performance ranking system unfairly targeted workers on parental or medical leave for mass layoffs. Meta's internal AI tools reportedly failed to exclude protected leave periods, resulting in disproportionate dismissal of employees exercising protected leave rights.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

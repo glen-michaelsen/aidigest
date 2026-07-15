@@ -1,0 +1,23 @@
+{
+  "id": "fef279fe207e",
+  "source": "Hacker News (AI)",
+  "title": "How to stop Claude from saying load-bearing",
+  "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+  "publishedAt": "2026-07-14T11:46:02.000Z",
+  "ingestedAt": "2026-07-15T03:17:55.275Z",
+  "brief": "A developer documented quirks in Claude's linguistic behavior, noting the model's tendency to overuse the phrase \"load-bearing\" in certain contexts. The post gained significant traction on Hacker News, sparking discussion about Claude's training patterns and prompt engineering workarounds.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "21d057069603",
+  "source": "Ars Technica AI",
+  "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+  "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+  "publishedAt": "2026-07-14T20:05:53.000Z",
+  "ingestedAt": "2026-07-15T03:17:29.225Z",
+  "brief": "A lawsuit claims Meta used AI to make layoff decisions, particularly targeting workers with disabilities and medical conditions, which Meta denies. The claim raises questions about algorithmic bias in employment decisions and liability when automated systems affect protected groups.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

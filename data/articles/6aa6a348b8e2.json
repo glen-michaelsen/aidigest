@@ -1,0 +1,23 @@
+{
+  "id": "6aa6a348b8e2",
+  "source": "TechCrunch AI",
+  "title": "Google faces another AI training lawsuit from major publishers",
+  "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+  "publishedAt": "2026-07-14T18:33:31.000Z",
+  "ingestedAt": "2026-07-15T03:17:12.696Z",
+  "brief": "Major publishers including Hachette, Cengage, and Elsevier filed a lawsuit against Google alleging that the company used their copyrighted works to train AI models without permission. The case raises critical questions about AI training data sourcing and copyright compliance in the rapidly evolving AI industry.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

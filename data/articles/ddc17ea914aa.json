@@ -1,0 +1,25 @@
+{
+  "id": "ddc17ea914aa",
+  "source": "MIT Technology Review",
+  "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+  "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+  "publishedAt": "2026-07-14T08:00:00.000Z",
+  "ingestedAt": "2026-07-15T03:17:39.074Z",
+  "brief": "PsiQuantum is developing a large-scale quantum computer using photonic technology, with a physical design featuring around 100 cryogenic cabinets cooled by liquid helium. The approach aims to overcome current quantum computing limitations by leveraging light-based qubits rather than superconducting or trapped-ion systems.",
+  "tags": {
+    "category": [
+      "research",
+      "infrastructure"
+    ],
+    "domain": [
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

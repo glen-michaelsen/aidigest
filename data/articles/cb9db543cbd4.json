@@ -1,0 +1,24 @@
+{
+  "id": "cb9db543cbd4",
+  "source": "The Verge AI",
+  "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+  "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+  "publishedAt": "2026-07-14T11:43:29.000Z",
+  "ingestedAt": "2026-07-15T03:17:24.977Z",
+  "brief": "Demis Hassabis, CEO of Google DeepMind, called for a US-led global AI watchdog with authority to evaluate and restrict frontier models before release. Hassabis, speaking at Davos, argued the organization should resemble financial regulators and include independent experts and open-source representatives to prevent dangerous AI systems from being deployed.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google",
+      "deepmind"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

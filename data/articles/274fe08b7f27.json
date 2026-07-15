@@ -1,0 +1,24 @@
+{
+  "id": "274fe08b7f27",
+  "source": "The Verge AI",
+  "title": "Spotify is now an AI chatbot, too",
+  "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+  "publishedAt": "2026-07-14T15:47:36.000Z",
+  "ingestedAt": "2026-07-15T03:17:21.397Z",
+  "brief": "Spotify is testing a new AI chatbot feature called \"Talk to Spotify\" for Premium subscribers that lets users search, explore, and play music, audiobooks, and podcasts through conversational prompts on mobile. The chatbot has access to user playlists and listening history to provide personalized recommendations, going beyond basic AI suggestions.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer",
+      "agents"
+    ],
+    "company": [
+      "amazon"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

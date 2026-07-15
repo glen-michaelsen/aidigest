@@ -1,0 +1,24 @@
+{
+  "id": "5fd63a079c24",
+  "source": "TechCrunch AI",
+  "title": "OpenAI pushes back on Apple trade secret lawsuit",
+  "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+  "publishedAt": "2026-07-14T22:07:42.000Z",
+  "ingestedAt": "2026-07-15T03:17:04.222Z",
+  "brief": "OpenAI disputed Apple's trade secret lawsuit, arguing the legal claim lacks merit. The statement marks OpenAI's response to litigation initiated by Apple over alleged misappropriation of proprietary information.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

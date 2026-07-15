@@ -1,0 +1,23 @@
+{
+  "id": "248b5ff06999",
+  "source": "OpenAI Blog",
+  "title": "How sales teams use ChatGPT Work",
+  "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+  "publishedAt": "2026-07-14T00:00:00.000Z",
+  "ingestedAt": "2026-07-15T03:17:45.680Z",
+  "brief": "OpenAI showcases ChatGPT Work's application in sales workflows, enabling teams to generate pipeline briefs, meeting prep materials, forecast reviews, and deal analysis directly from business data. The product targets enterprise sales productivity by automating document generation and strategic planning tasks.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

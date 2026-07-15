@@ -1,0 +1,24 @@
+{
+  "id": "92ab1f77dd8c",
+  "source": "OpenAI Blog",
+  "title": "How to manage AI investments in the agentic era",
+  "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+  "publishedAt": "2026-07-14T10:00:00.000Z",
+  "ingestedAt": "2026-07-15T03:17:41.890Z",
+  "brief": "This article provides guidance for enterprises on evaluating and managing AI investments as agentic systems become more prevalent, focusing on metrics like useful work per dollar and scaling efficient workflows.",
+  "tags": {
+    "category": [
+      "enterprise"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

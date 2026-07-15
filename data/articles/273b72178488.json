@@ -1,0 +1,23 @@
+{
+  "id": "273b72178488",
+  "source": "MIT Technology Review",
+  "title": "The Download: Claude’s inner workings, and the future of world models",
+  "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+  "publishedAt": "2026-07-14T12:10:00.000Z",
+  "ingestedAt": "2026-07-15T03:17:37.285Z",
+  "brief": "Anthropic discovered new methods for observing how Claude reasons through problems by examining its internal processes, providing insights into the model's decision-making mechanisms. The finding advances interpretability research and raises questions about how AI models think, though it does not fully reveal their complete inner workings.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

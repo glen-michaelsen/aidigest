@@ -1,0 +1,24 @@
+{
+  "id": "2cc0275fccee",
+  "source": "The Verge AI",
+  "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+  "publishedAt": "2026-07-14T19:25:00.000Z",
+  "ingestedAt": "2026-07-15T03:17:16.259Z",
+  "brief": "SpaceXAI's Grok Build coding tool was discovered uploading entire user codebases to Google Cloud storage, including files and secrets, before the company disabled the feature after public reporting. The tool collected significantly more data than competitors like Claude, raising privacy and security concerns for developers using the platform.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "xai"
+    ],
+    "model": [
+      "grok"
+    ]
+  }
+}

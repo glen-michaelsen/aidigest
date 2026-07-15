@@ -1,0 +1,23 @@
+{
+  "id": "e74d29ba9720",
+  "source": "The Verge AI",
+  "title": "New York becomes the first state to enact a data center moratorium",
+  "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+  "publishedAt": "2026-07-14T09:00:00.000Z",
+  "ingestedAt": "2026-07-15T03:17:27.338Z",
+  "brief": "New York Governor Kathy Hochul signed the nation's first statewide data center moratorium, blocking new environmental permits for hyperscale facilities over 50 megawatts for up to one year. The move aims to protect residents from rising energy costs and environmental impacts while the state develops new regulations, though lawmakers also passed a bill with stricter 20-megawatt thresholds awaiting the governor's signature.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "infrastructure"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

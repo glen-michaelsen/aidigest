@@ -1,0 +1,24 @@
+{
+  "id": "8ad960bf1ba3",
+  "source": "The Verge AI",
+  "title": "Sam Altman didn’t need another lawsuit",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+  "publishedAt": "2026-07-14T14:01:07.000Z",
+  "ingestedAt": "2026-07-15T03:17:23.232Z",
+  "brief": "Apple filed a lawsuit against OpenAI in Northern California federal court, alleging that former Apple employees stole trade secrets related to product development and manufacturing to benefit OpenAI's hardware initiatives. The legal action represents one of the highest-profile disputes OpenAI has faced this year and directly threatens the company's hardware expansion strategy.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "hardware"
+    ],
+    "company": [
+      "openai",
+      "apple"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "eb4e1ee9b158",
+  "source": "Ars Technica AI",
+  "title": "US military sent explosive drone boats into combat for the first time",
+  "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+  "publishedAt": "2026-07-14T18:00:01.000Z",
+  "ingestedAt": "2026-07-15T03:17:32.018Z",
+  "brief": "The US military deployed explosive autonomous drone boats in combat operations for the first time, targeting an Iranian naval port amid escalating regional tensions. This marks a significant shift toward autonomous weapons deployment in active military engagement.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "robotics",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
