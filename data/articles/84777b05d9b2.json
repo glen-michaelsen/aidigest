@@ -1,0 +1,24 @@
+{
+  "id": "84777b05d9b2",
+  "source": "The Verge AI",
+  "title": "OpenAI finally launches hardware… for Codex",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+  "publishedAt": "2026-07-15T16:00:00.000Z",
+  "ingestedAt": "2026-07-16T03:24:26.568Z",
+  "brief": "OpenAI released Codex Micro, a hardware pad co-developed with keyboard maker Work Louder, enabling users to monitor and manage coding agents. This limited-run product represents OpenAI's first hardware launch, distinct from its separate high-profile device project with Jony Ive.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "coding",
+      "hardware"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

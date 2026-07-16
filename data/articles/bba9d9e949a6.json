@@ -1,0 +1,24 @@
+{
+  "id": "bba9d9e949a6",
+  "source": "Hacker News (AI)",
+  "title": "I tricked Claude into leaking your deepest, darkest secrets",
+  "url": "https://www.ayush.digital/blog/the-memory-heist",
+  "publishedAt": "2026-07-15T06:28:00.000Z",
+  "ingestedAt": "2026-07-16T03:24:56.483Z",
+  "brief": "A security researcher demonstrated a prompt injection attack that exploited Claude's memory features to extract sensitive information, highlighting vulnerabilities in how AI systems handle user data and context windows.",
+  "tags": {
+    "category": [
+      "safety",
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

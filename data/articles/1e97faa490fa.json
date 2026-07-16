@@ -1,0 +1,24 @@
+{
+  "id": "1e97faa490fa",
+  "source": "OpenAI Blog",
+  "title": "The US is advancing AI safety through state and federal action",
+  "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+  "publishedAt": "2026-07-15T12:00:00.000Z",
+  "ingestedAt": "2026-07-16T03:24:38.074Z",
+  "brief": "OpenAI has proposed a \"reverse federalism\" approach to AI governance in which state-level regulations serve as laboratories for developing a cohesive national framework for AI safety and democratic oversight. This signals a shift toward collaborative regulatory architecture between state and federal authorities to manage AI risks at scale.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

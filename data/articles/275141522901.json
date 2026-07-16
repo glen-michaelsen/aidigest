@@ -1,0 +1,24 @@
+{
+  "id": "275141522901",
+  "source": "TechCrunch AI",
+  "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+  "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+  "publishedAt": "2026-07-15T18:04:06.000Z",
+  "ingestedAt": "2026-07-16T03:24:13.134Z",
+  "brief": "Thinking Machines released Inkling, its first open-source AI model, marking the company's public emergence after 18 months of developing AI infrastructure in stealth. The launch signals the company's bet on specialized, customizable AI as an alternative to large monolithic models.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

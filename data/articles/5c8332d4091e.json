@@ -1,0 +1,23 @@
+{
+  "id": "5c8332d4091e",
+  "source": "Hugging Face Blog",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "publishedAt": "2026-07-15T17:27:01.000Z",
+  "ingestedAt": "2026-07-16T03:24:43.835Z",
+  "brief": "This is an opinion piece examining the challenges and complexities of model routing systems when scaling across multiple language models. The article discusses how routing mechanisms that appear straightforward in theory become complicated in production environments due to cost optimization, latency trade-offs, and varying model performance across tasks.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

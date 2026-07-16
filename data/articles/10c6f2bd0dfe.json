@@ -1,0 +1,24 @@
+{
+  "id": "10c6f2bd0dfe",
+  "source": "MIT Technology Review",
+  "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+  "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+  "publishedAt": "2026-07-15T17:09:37.000Z",
+  "ingestedAt": "2026-07-16T03:24:33.702Z",
+  "brief": "OpenAI developed GPT-Red, an LLM designed to identify vulnerabilities in its models by simulating cyberattacks and hacking attempts. The company used GPT-Red in training GPT-5.6, its latest flagship model, resulting in improved robustness and defenses against security threats.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

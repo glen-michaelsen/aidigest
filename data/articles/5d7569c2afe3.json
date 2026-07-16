@@ -1,0 +1,23 @@
+{
+  "id": "5d7569c2afe3",
+  "source": "Hugging Face Blog",
+  "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+  "url": "https://huggingface.co/blog/real-world-voiceeq",
+  "publishedAt": "2026-07-15T00:00:00.000Z",
+  "ingestedAt": "2026-07-16T03:24:48.061Z",
+  "brief": "<UNKNOWN></UNKNOWN>",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

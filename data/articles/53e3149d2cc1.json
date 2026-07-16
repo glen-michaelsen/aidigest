@@ -1,0 +1,23 @@
+{
+  "id": "53e3149d2cc1",
+  "source": "Hugging Face Blog",
+  "title": "What building Shippy taught us about building agents",
+  "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "publishedAt": "2026-07-15T17:29:41.000Z",
+  "ingestedAt": "2026-07-16T03:24:42.003Z",
+  "brief": "This article discusses lessons learned from building Shippy, an AI agent project, offering insights into the practical challenges and design principles of agent development. The takeaways are relevant for developers and organizations building autonomous AI systems.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

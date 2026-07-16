@@ -1,0 +1,24 @@
+{
+  "id": "ee230258f27f",
+  "source": "OpenAI Blog",
+  "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+  "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+  "publishedAt": "2026-07-15T10:00:00.000Z",
+  "ingestedAt": "2026-07-16T03:24:39.835Z",
+  "brief": "OpenAI released GPT-Red, an automated red teaming system that uses self-play to identify vulnerabilities and improve robustness against prompt injection and other safety risks. The system enables AI models to iteratively strengthen themselves by generating adversarial examples, enhancing both alignment and security.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

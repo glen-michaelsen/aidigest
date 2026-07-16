@@ -1,0 +1,23 @@
+{
+  "id": "cdadb184e4a5",
+  "source": "Hacker News (AI)",
+  "title": "Inkling – Open-Weights 975B Parameter LLM",
+  "url": "https://thinkingmachines.ai/inkling/",
+  "publishedAt": "2026-07-15T18:14:23.000Z",
+  "ingestedAt": "2026-07-16T03:24:53.342Z",
+  "brief": "Thinking Machines has released Inkling, an open-weights large language model with 975 billion parameters. This represents a significant open-source contribution to the LLM space, offering a large-scale model for research and commercial use.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1e554fb8d50e",
+  "source": "Hacker News (AI)",
+  "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+  "url": "https://brainless.swerdlow.dev",
+  "publishedAt": "2026-07-15T19:42:53.000Z",
+  "ingestedAt": "2026-07-16T03:24:51.935Z",
+  "brief": "A developer created Shadcn UI components styled to mimic the visual design of Claude Code, Codex, and Grok interfaces. The open-source project provides reusable components that replicate the appearance of these popular AI coding assistants' UIs.",
+  "tags": {
+    "category": [
+      "open-source"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "anthropic",
+      "openai",
+      "xai",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "grok",
+      "none"
+    ]
+  }
+}

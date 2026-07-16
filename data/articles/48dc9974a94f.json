@@ -1,0 +1,24 @@
+{
+  "id": "48dc9974a94f",
+  "source": "TechCrunch AI",
+  "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+  "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+  "publishedAt": "2026-07-15T17:00:34.000Z",
+  "ingestedAt": "2026-07-16T03:24:14.635Z",
+  "brief": "A hacker accessed Suno's source code using compromised employee credentials, revealing the AI music generator scraped decades of audio from YouTube for training data. The breach raises questions about Suno's data sourcing practices and potential copyright violations.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

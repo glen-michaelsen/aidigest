@@ -1,0 +1,25 @@
+{
+  "id": "3f67eb884b57",
+  "source": "Hacker News (AI)",
+  "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+  "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+  "publishedAt": "2026-07-15T21:16:36.000Z",
+  "ingestedAt": "2026-07-16T03:24:50.233Z",
+  "brief": "David Siegel argues in a Fortune op-ed that governments, companies, and nonprofits should collectively invest in developing free, open-source AI systems. The piece emphasizes the strategic and economic importance of building accessible AI infrastructure outside of proprietary control.",
+  "tags": {
+    "category": [
+      "opinion",
+      "policy",
+      "open-source"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

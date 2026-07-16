@@ -1,0 +1,24 @@
+{
+  "id": "f8bec47bee6c",
+  "source": "The Verge AI",
+  "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+  "publishedAt": "2026-07-15T17:48:01.000Z",
+  "ingestedAt": "2026-07-16T03:24:24.879Z",
+  "brief": "Leaked data from a hacking incident revealed that Suno trained its AI music generator on millions of songs scraped from YouTube Music, Deezer, and Genius without disclosure. This disclosure is significant because Suno faces multiple lawsuits, including from the RIAA, alleging unauthorized use of copyrighted material in its training datasets.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

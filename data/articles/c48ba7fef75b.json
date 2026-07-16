@@ -1,0 +1,24 @@
+{
+  "id": "c48ba7fef75b",
+  "source": "TechCrunch AI",
+  "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+  "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+  "publishedAt": "2026-07-15T16:20:18.000Z",
+  "ingestedAt": "2026-07-16T03:24:17.888Z",
+  "brief": "Microsoft patched 570 security vulnerabilities in its November Patch Tuesday release, a record number, leveraging AI-powered discovery tools to identify flaws across its product line. This demonstrates how AI is being applied to security research and vulnerability detection at scale.",
+  "tags": {
+    "category": [
+      "safety",
+      "infrastructure"
+    ],
+    "domain": [
+      "enterprise"
+    ],
+    "company": [
+      "microsoft"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
