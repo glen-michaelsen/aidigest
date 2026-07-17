@@ -1,0 +1,24 @@
+{
+  "id": "f2d4f0d12d3b",
+  "source": "The Verge AI",
+  "title": "Google ordered to open Android and Search to rivals in Europe",
+  "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+  "publishedAt": "2026-07-16T12:06:51.000Z",
+  "ingestedAt": "2026-07-17T03:26:54.826Z",
+  "brief": "The EU ordered Google to open Android and Google Search to rival AI assistants and search engines by January 2027 (search data) and July 2027 (Android changes) to comply with digital antitrust rules. The rulings could significantly weaken Google's platform control and expand opportunities for competitors, with implications for Gemini and the broader AI landscape.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm",
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2a21e49a8273",
+  "source": "Ars Technica AI",
+  "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+  "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+  "publishedAt": "2026-07-16T20:09:48.000Z",
+  "ingestedAt": "2026-07-17T03:27:05.886Z",
+  "brief": "Hyundai workers at an auto factory are striking in response to plans to deploy 25,000 Atlas humanoid robots in US factories beginning in 2028, citing job displacement concerns. The move reflects growing labor tension around automation as industrial robots become more capable and deployable at scale.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "robotics",
+      "hardware"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

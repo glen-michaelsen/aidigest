@@ -1,0 +1,24 @@
+{
+  "id": "3090d72b6869",
+  "source": "The Verge AI",
+  "title": "Computer cops",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+  "publishedAt": "2026-07-16T11:00:00.000Z",
+  "ingestedAt": "2026-07-17T03:27:00.542Z",
+  "brief": "AI tools are being promoted at the International Association of Chiefs of Police Technology Conference as a way to automate routine policing tasks, raising concerns about automation of critical legal processes. The adoption threatens core accountability mechanisms in American law enforcement.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

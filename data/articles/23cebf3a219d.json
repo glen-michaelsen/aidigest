@@ -1,0 +1,24 @@
+{
+  "id": "23cebf3a219d",
+  "source": "Ars Technica AI",
+  "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+  "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+  "publishedAt": "2026-07-16T20:26:23.000Z",
+  "ingestedAt": "2026-07-17T03:27:04.170Z",
+  "brief": "xAI has filed its first lawsuit against a user accused of generating child sexual abuse material (CSAM) with Grok, Elon Musk's AI model. The lawsuit represents xAI's legal response after acknowledging that Grok can produce such content, shifting responsibility to individual users rather than addressing systemic safeguards.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "xai"
+    ],
+    "model": [
+      "grok"
+    ]
+  }
+}

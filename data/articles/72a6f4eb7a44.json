@@ -1,0 +1,24 @@
+{
+  "id": "72a6f4eb7a44",
+  "source": "MIT Technology Review",
+  "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+  "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+  "publishedAt": "2026-07-16T12:10:00.000Z",
+  "ingestedAt": "2026-07-17T03:27:21.510Z",
+  "brief": "OpenAI unveiled GPT-Red, a large language model designed to function as an adversarial \"super-hacker\" that tests the security and safety of OpenAI's other models by simulating potential attacks and vulnerabilities.",
+  "tags": {
+    "category": [
+      "safety",
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

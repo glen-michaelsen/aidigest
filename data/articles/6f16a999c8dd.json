@@ -1,0 +1,24 @@
+{
+  "id": "6f16a999c8dd",
+  "source": "OpenAI Blog",
+  "title": "How Cars24 scales conversations and builds faster with OpenAI",
+  "url": "https://openai.com/index/cars24",
+  "publishedAt": "2026-07-16T00:00:00.000Z",
+  "ingestedAt": "2026-07-17T03:27:27.083Z",
+  "brief": "Cars24 deployed OpenAI-powered voice and chat agents to handle over 1 million monthly conversation minutes, recovering 12% of previously lost leads and enabling agentic workflows across the company.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

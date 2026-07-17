@@ -1,0 +1,25 @@
+{
+  "id": "e9a82b74f6f5",
+  "source": "The Verge AI",
+  "title": "Claude can now use your 1Password credentials for you",
+  "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+  "publishedAt": "2026-07-16T13:00:00.000Z",
+  "ingestedAt": "2026-07-17T03:26:53.119Z",
+  "brief": "1Password has integrated with Claude, allowing users to authorize the Anthropic chatbot to access stored credentials like usernames and passwords for multi-step tasks such as booking travel and managing accounts. The integration uses a \"zero-exposure security framework\" that injects credentials for each task without exposing sensitive data to Anthropic's servers.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

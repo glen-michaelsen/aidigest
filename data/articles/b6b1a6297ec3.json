@@ -1,0 +1,23 @@
+{
+  "id": "b6b1a6297ec3",
+  "source": "Hacker News (AI)",
+  "title": "Generative AI Is an Engineering Disaster",
+  "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+  "publishedAt": "2026-07-16T13:12:24.000Z",
+  "ingestedAt": "2026-07-17T03:27:44.613Z",
+  "brief": "A critical opinion piece argues that current generative AI systems represent a fundamental engineering failure due to unreliability, inefficiency, and lack of robustness in production environments. The article challenges the industry narrative around AI capabilities and highlights mounting evidence that these systems are not ready for mission-critical applications.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

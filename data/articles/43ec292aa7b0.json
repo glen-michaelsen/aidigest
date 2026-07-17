@@ -1,0 +1,26 @@
+{
+  "id": "43ec292aa7b0",
+  "source": "Hacker News (AI)",
+  "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+  "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+  "publishedAt": "2026-07-16T20:03:23.000Z",
+  "ingestedAt": "2026-07-17T03:27:37.934Z",
+  "brief": "A comparative benchmark test produced a $100 AI music video using Claude Fable 5 and GPT-5.6 Sol models. The test evaluates how each model performs at music video generation with a fixed budget constraint.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "video-generation",
+      "audio"
+    ],
+    "company": [
+      "anthropic",
+      "openai"
+    ],
+    "model": [
+      "claude",
+      "gpt"
+    ]
+  }
+}

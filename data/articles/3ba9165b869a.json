@@ -1,0 +1,23 @@
+{
+  "id": "3ba9165b869a",
+  "source": "The Verge AI",
+  "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+  "publishedAt": "2026-07-16T17:58:37.000Z",
+  "ingestedAt": "2026-07-17T03:26:50.187Z",
+  "brief": "New York Governor Kathy Hochul announced her administration is using AI to systematically review every state rule, regulation, and policy to identify and update outdated legislation. The initiative aims to eliminate archaic laws in a fraction of the time traditional manual review would require, despite Hochul's recent signing of a moratorium on new AI data centers in the state.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

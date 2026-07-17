@@ -1,0 +1,23 @@
+{
+  "id": "3b778a230b47",
+  "source": "Hacker News (AI)",
+  "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+  "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+  "publishedAt": "2026-07-16T16:41:37.000Z",
+  "ingestedAt": "2026-07-17T03:27:41.059Z",
+  "brief": "Researchers demonstrate that classical machine learning methods can effectively detect LLM-generated text, challenging the need for complex deep learning approaches. The analysis shows simpler statistical and linguistic features can identify AI-written content with reasonable accuracy.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

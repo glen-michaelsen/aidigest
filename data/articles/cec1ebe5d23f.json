@@ -1,0 +1,31 @@
+{
+  "id": "cec1ebe5d23f",
+  "source": "VentureBeat AI",
+  "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+  "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+  "publishedAt": "2026-07-16T19:16:48.000Z",
+  "ingestedAt": "2026-07-17T03:27:12.210Z",
+  "brief": "A survey of 107 enterprises reveals that AI infrastructure spending is accelerating faster than organizations can measure or control its costs—83% report GPU utilization below 50%, and only 44% can rigorously track compute expenses. Most companies currently rely on hyperscaler clouds and model APIs, yet 45% plan to evaluate specialized AI clouds within a year and 64% intend to switch or add providers within 12 months, suggesting significant churn in foundational infrastructure choices.",
+  "tags": {
+    "category": [
+      "research",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "enterprise",
+      "hardware"
+    ],
+    "company": [
+      "google",
+      "microsoft",
+      "amazon",
+      "openai",
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

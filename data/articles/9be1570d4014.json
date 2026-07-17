@@ -1,0 +1,24 @@
+{
+  "id": "9be1570d4014",
+  "source": "Hacker News (AI)",
+  "title": "LM Studio Bionic: the AI agent for open models",
+  "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+  "publishedAt": "2026-07-16T20:18:15.000Z",
+  "ingestedAt": "2026-07-17T03:27:36.400Z",
+  "brief": "LM Studio released Bionic, an AI agent framework designed to work with open-source language models. The platform enables developers to build and deploy autonomous agents using locally-run models, addressing demand for open-source alternatives to proprietary agent platforms.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "llama"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e9ea1363a186",
+  "source": "VentureBeat AI",
+  "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+  "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+  "publishedAt": "2026-07-16T17:06:08.000Z",
+  "ingestedAt": "2026-07-17T03:27:17.735Z",
+  "brief": "A VentureBeat survey of 101 enterprises finds that 57% have experienced AI agents producing confident but incorrect answers due to missing or inconsistent business context, despite RAG becoming the standard retrieval method. The research reveals a \"context gap\" where enterprises deploy retrieval-augmented generation faster than they can validate its reliability, with provider-native solutions like OpenAI's file search (40%) and Google's Vertex AI Search (38%) already outpacing dedicated vector databases.",
+  "tags": {
+    "category": [
+      "research",
+      "benchmarks"
+    ],
+    "domain": [
+      "llm",
+      "enterprise",
+      "agents"
+    ],
+    "company": [
+      "openai",
+      "google",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "79ed56faeda9",
+  "source": "The Verge AI",
+  "title": "Google is renaming NotebookLM to Gemini Notebook",
+  "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+  "publishedAt": "2026-07-16T16:00:00.000Z",
+  "ingestedAt": "2026-07-17T03:26:51.686Z",
+  "brief": "Google is renaming NotebookLM to Gemini Notebook as it deepens integration with Gemini and Google Search. The app remains standalone but will expand features, continuing to offer AI-powered note organization capabilities including podcast summaries, slideshows, and video clips.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer",
+      "search"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

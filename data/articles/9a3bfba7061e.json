@@ -1,0 +1,25 @@
+{
+  "id": "9a3bfba7061e",
+  "source": "VentureBeat AI",
+  "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+  "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+  "publishedAt": "2026-07-16T16:40:48.000Z",
+  "ingestedAt": "2026-07-17T03:27:19.908Z",
+  "brief": "A VentureBeat survey of 157 enterprises reveals a critical \"evaluation gap\": half have deployed AI agents that passed internal tests but failed in production, yet 66% are moving toward zero-human-in-the-loop deployment. Only 5% fully trust automated evaluations today, with the primary complaint being misalignment between test results and real-world outcomes.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "agents",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

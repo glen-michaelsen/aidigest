@@ -1,0 +1,24 @@
+{
+  "id": "8e1ba79a1896",
+  "source": "TechCrunch AI",
+  "title": "Yes, you can now order DoorDash from the command line",
+  "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+  "publishedAt": "2026-07-16T15:38:55.000Z",
+  "ingestedAt": "2026-07-17T03:26:42.397Z",
+  "brief": "DoorDash launched dd-cli, a command-line tool enabling developers and AI agents to search stores, build carts, and place orders from the terminal. The limited beta release reflects a broader shift toward designing software interfaces optimized for AI agents alongside traditional human users.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents",
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

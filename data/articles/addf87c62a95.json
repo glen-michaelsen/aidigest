@@ -1,0 +1,24 @@
+{
+  "id": "addf87c62a95",
+  "source": "Hacker News (AI)",
+  "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+  "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+  "publishedAt": "2026-07-16T15:13:00.000Z",
+  "ingestedAt": "2026-07-17T03:27:42.985Z",
+  "brief": "A developer documented how to train a generative AI kick drum diffusion model on a modest Linux setup with just 6GB of VRAM, making audio AI model training more accessible to resource-constrained environments. The post details practical techniques for optimizing training on consumer hardware, lowering the barrier for audio generation experimentation.",
+  "tags": {
+    "category": [
+      "research",
+      "open-source"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

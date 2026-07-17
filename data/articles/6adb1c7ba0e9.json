@@ -1,0 +1,24 @@
+{
+  "id": "6adb1c7ba0e9",
+  "source": "Hacker News (AI)",
+  "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+  "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+  "publishedAt": "2026-07-16T11:59:01.000Z",
+  "ingestedAt": "2026-07-17T03:27:46.573Z",
+  "brief": "A developer acknowledges the valid criticisms of LLM limitations—hallucinations, environmental costs, labor concerns—while explaining why they continue using them anyway as practical development tools. The piece reflects broader tension in the AI community between understanding LLM drawbacks and their pragmatic utility for professional work.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

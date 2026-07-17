@@ -1,0 +1,23 @@
+{
+  "id": "9726de154354",
+  "source": "Hacker News (AI)",
+  "title": "Stop saying that AI is just a tool and it only matters how it is used",
+  "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+  "publishedAt": "2026-07-16T04:31:01.000Z",
+  "ingestedAt": "2026-07-17T03:27:48.674Z",
+  "brief": "An opinion piece argues against the common framing that AI is merely a neutral tool whose impact depends solely on human use, contending that AI systems themselves have inherent properties and risks that matter independent of application.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

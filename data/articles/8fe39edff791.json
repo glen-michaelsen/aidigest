@@ -1,0 +1,26 @@
+{
+  "id": "8fe39edff791",
+  "source": "OpenAI Blog",
+  "title": "Why teens deserve access to safe AI",
+  "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+  "publishedAt": "2026-07-16T16:00:00.000Z",
+  "ingestedAt": "2026-07-17T03:27:25.810Z",
+  "brief": "OpenAI is implementing age-appropriate protections, learning tools, and parental controls in ChatGPT to make the platform safer for teens. The company is partnering with experts to develop guardrails that balance accessibility with safety.",
+  "tags": {
+    "category": [
+      "safety",
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "consumer",
+      "education"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

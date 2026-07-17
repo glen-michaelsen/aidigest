@@ -1,0 +1,24 @@
+{
+  "id": "d8ed319939f5",
+  "source": "Hugging Face Blog",
+  "title": "Security incident disclosure — July 2026",
+  "url": "https://huggingface.co/blog/security-incident-july-2026",
+  "publishedAt": "2026-07-16T00:00:00.000Z",
+  "ingestedAt": "2026-07-17T03:27:34.222Z",
+  "brief": "A major AI company disclosed a significant security incident discovered in July 2026 that potentially affected user data or system integrity. The details of the breach, timeline, and impact assessment were made public as part of responsible disclosure practices.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
