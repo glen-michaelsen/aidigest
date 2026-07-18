@@ -1,0 +1,24 @@
+{
+  "id": "b51b6c107383",
+  "source": "The Verge AI",
+  "title": "TikTok is testing an AI likeness detection tool",
+  "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+  "publishedAt": "2026-07-17T19:34:30.000Z",
+  "ingestedAt": "2026-07-18T03:16:34.643Z",
+  "brief": "TikTok is testing an opt-in AI likeness detection tool with US creators that allows them to report AI-generated deepfakes of themselves, following a similar move by YouTube. The tool requires identity verification through Jumio and includes facial scanning, though TikTok says it doesn't retain ID documents or facial data.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "safety"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "meta"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

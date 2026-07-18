@@ -1,0 +1,27 @@
+{
+  "id": "a0bbc2c6e6f2",
+  "source": "Hugging Face Blog",
+  "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+  "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+  "publishedAt": "2026-07-17T15:57:54.000Z",
+  "ingestedAt": "2026-07-18T03:16:54.511Z",
+  "brief": "NVIDIA released NeMo Automodel, a framework enabling large-scale fine-tuning of video and image models in collaboration with Hugging Face's Diffusers library. The tool simplifies the process of customizing generative models for specific use cases while maintaining scalability across enterprise deployments.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "image-generation",
+      "video-generation"
+    ],
+    "company": [
+      "nvidia",
+      "huggingface"
+    ],
+    "model": [
+      "stable-diffusion",
+      "other"
+    ]
+  }
+}

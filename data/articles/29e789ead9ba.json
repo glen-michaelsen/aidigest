@@ -1,0 +1,24 @@
+{
+  "id": "29e789ead9ba",
+  "source": "MIT Technology Review",
+  "title": "The risk of weather data sabotage is rising",
+  "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+  "publishedAt": "2026-07-17T08:57:32.000Z",
+  "ingestedAt": "2026-07-18T03:16:49.945Z",
+  "brief": "Weather data systems face growing sabotage risks as forecasts drive critical decisions across airlines, energy grids, and agriculture. Attacks on these systems could cause significant economic damage and endanger lives across multiple industries that depend on accurate meteorological information.",
+  "tags": {
+    "category": [
+      "safety",
+      "infrastructure"
+    ],
+    "domain": [
+      "other"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

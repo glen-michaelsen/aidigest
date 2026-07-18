@@ -1,0 +1,24 @@
+{
+  "id": "dd84412d94a8",
+  "source": "TechCrunch AI",
+  "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+  "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+  "publishedAt": "2026-07-17T15:21:17.000Z",
+  "ingestedAt": "2026-07-18T03:16:31.205Z",
+  "brief": "Patreon is partnering with Cloudflare to actively block AI scraping bots from accessing creator content, escalating its defense beyond passive robots.txt protections. The shift reflects growing creator concerns about unauthorized AI training on their work.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

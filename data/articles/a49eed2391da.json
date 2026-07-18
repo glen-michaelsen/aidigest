@@ -1,0 +1,25 @@
+{
+  "id": "a49eed2391da",
+  "source": "The Verge AI",
+  "title": "Apple’s plot to crush OpenAI",
+  "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+  "publishedAt": "2026-07-17T17:41:32.000Z",
+  "ingestedAt": "2026-07-18T03:16:36.375Z",
+  "brief": "Apple is suing OpenAI, with experts debating whether the lawsuit reflects genuine competitive concerns or opportunistic timing as OpenAI faces scrutiny. The suit arrives as Apple rolls out public betas of its new Siri AI features, raising questions about Apple's strategic intent in the litigation.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm",
+      "consumer"
+    ],
+    "company": [
+      "apple",
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

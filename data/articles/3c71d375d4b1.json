@@ -1,0 +1,26 @@
+{
+  "id": "3c71d375d4b1",
+  "source": "Ars Technica AI",
+  "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+  "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+  "publishedAt": "2026-07-17T16:10:05.000Z",
+  "ingestedAt": "2026-07-18T03:16:45.074Z",
+  "brief": "San Francisco authorities ordered Apple and Google to remove \"nudify\" apps—which use AI to generate fake nude images—from their app stores. Officials estimate the companies collectively made millions in fees from these apps, which have been used to create non-consensual intimate imagery.",
+  "tags": {
+    "category": [
+      "policy",
+      "safety"
+    ],
+    "domain": [
+      "image-generation",
+      "consumer"
+    ],
+    "company": [
+      "apple",
+      "google"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}
