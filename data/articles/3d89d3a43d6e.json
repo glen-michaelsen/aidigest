@@ -1,0 +1,24 @@
+{
+  "id": "3d89d3a43d6e",
+  "source": "The Verge AI",
+  "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+  "publishedAt": "2026-07-18T20:54:42.000Z",
+  "ingestedAt": "2026-07-19T03:36:39.398Z",
+  "brief": "Author Dave Eggers told OpenAI staff that ChatGPT is \"silencing an entire generation\" and having a \"catastrophic\" effect on educators and writers. Eggers, invited by Sam Altman to speak to roughly 200 employees, criticized the company for disrupting teaching and creative work despite potentially unintentional consequences.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm",
+      "education"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}

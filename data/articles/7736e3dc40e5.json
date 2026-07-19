@@ -1,0 +1,25 @@
+{
+  "id": "7736e3dc40e5",
+  "source": "Hacker News (AI)",
+  "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+  "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+  "publishedAt": "2026-07-18T11:00:29.000Z",
+  "ingestedAt": "2026-07-19T03:37:06.475Z",
+  "brief": "A comparative benchmark test pits Fable 5 against GPT-5.6 Sol on NP-Hard problems, examining whether the /goal feature improves performance on computationally complex tasks. The analysis provides empirical evidence on how recent AI models handle optimization challenges.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "other"
+    ],
+    "model": [
+      "gpt",
+      "other"
+    ]
+  }
+}

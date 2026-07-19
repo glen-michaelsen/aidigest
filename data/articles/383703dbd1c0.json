@@ -1,0 +1,23 @@
+{
+  "id": "383703dbd1c0",
+  "source": "Hacker News (AI)",
+  "title": "What AI did to stackoverflow in a graph",
+  "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "publishedAt": "2026-07-18T11:12:46.000Z",
+  "ingestedAt": "2026-07-19T03:37:03.036Z",
+  "brief": "A data visualization shows Stack Overflow's traffic patterns following the rise of AI tools like ChatGPT, revealing how generative AI has impacted developer question-asking behavior on the platform. The graph demonstrates a significant shift in user engagement metrics as developers increasingly turn to AI assistants for coding help.",
+  "tags": {
+    "category": [
+      "benchmarks"
+    ],
+    "domain": [
+      "coding"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

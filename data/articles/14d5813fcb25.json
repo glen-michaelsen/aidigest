@@ -1,0 +1,23 @@
+{
+  "id": "14d5813fcb25",
+  "source": "Hacker News (AI)",
+  "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+  "url": "https://ykdojo.github.io/claude-controls-mac/",
+  "publishedAt": "2026-07-18T16:12:08.000Z",
+  "ingestedAt": "2026-07-19T03:36:58.954Z",
+  "brief": "A guide demonstrates how to set up a spare Mac to be controlled by Claude Code, enabling the AI assistant to directly interact with computer systems. This represents a practical implementation of AI agent capabilities, showing how Claude can be configured to perform tasks on macOS devices.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "agents"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

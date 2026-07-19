@@ -1,0 +1,23 @@
+{
+  "id": "90096d984821",
+  "source": "Hacker News (AI)",
+  "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+  "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+  "publishedAt": "2026-07-18T13:00:52.000Z",
+  "ingestedAt": "2026-07-19T03:37:00.751Z",
+  "brief": "OpenAI's GPT-5.6 used a carefully crafted prompt to solve a long-standing problem in convex optimization, closing a 30-year gap in the field. This breakthrough demonstrates the model's capability to advance theoretical mathematics through strategic prompting rather than brute-force computation.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "gpt"
+    ]
+  }
+}
