@@ -1,0 +1,23 @@
+{
+  "id": "f3a7c0081493",
+  "source": "Hacker News (AI)",
+  "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+  "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+  "publishedAt": "2026-07-20T02:51:16.000Z",
+  "ingestedAt": "2026-07-21T03:31:08.943Z",
+  "brief": "Claude Fable, an AI model, generated a counterexample to the Jacobian Conjecture, a long-standing open problem in mathematics. This demonstrates AI's emerging capability in advanced mathematical reasoning and potentially addresses a decades-old challenge in algebraic geometry.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

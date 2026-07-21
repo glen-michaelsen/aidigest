@@ -1,0 +1,28 @@
+{
+  "id": "587acd4645a5",
+  "source": "MIT Technology Review",
+  "title": "China’s AI models have Trump’s AI world at war with itself",
+  "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+  "publishedAt": "2026-07-20T18:00:00.000Z",
+  "ingestedAt": "2026-07-21T03:30:48.332Z",
+  "brief": "Trump administration AI officials have publicly criticized leading U.S. AI companies, with the debate centered on competition with Chinese AI models and industrial policy. The conflict involves Trump's AI advisor David Sacks and reflects tensions over how the U.S. should respond to Chinese AI advances.",
+  "tags": {
+    "category": [
+      "policy",
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "google",
+      "anthropic",
+      "meta",
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a76ea83eb26d",
+  "source": "TechCrunch AI",
+  "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+  "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+  "publishedAt": "2026-07-20T21:21:15.000Z",
+  "ingestedAt": "2026-07-21T03:30:23.708Z",
+  "brief": "Alphabet is developing a custom AI chip optimized to run Gemini models more efficiently. The move signals Google's strategy to reduce computational costs and latency for its large language models through hardware acceleration.",
+  "tags": {
+    "category": [
+      "product-launch",
+      "infrastructure"
+    ],
+    "domain": [
+      "llm",
+      "hardware",
+      "chips"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

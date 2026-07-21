@@ -1,0 +1,24 @@
+{
+  "id": "942f2839530f",
+  "source": "Ars Technica AI",
+  "title": "Beyond grep: The case for a context-rich AI coding harness",
+  "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+  "publishedAt": "2026-07-20T11:20:10.000Z",
+  "ingestedAt": "2026-07-21T03:30:45.380Z",
+  "brief": "Augment Code's Vinay Perneti discusses the limitations of grep-based code search and advocates for AI-powered coding harnesses that provide richer context to language models. The approach aims to improve how AI tools understand and navigate codebases during development and debugging.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "coding",
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f09cbf6a0ec2",
+  "source": "The Verge AI",
+  "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+  "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+  "publishedAt": "2026-07-20T22:19:12.000Z",
+  "ingestedAt": "2026-07-21T03:30:35.570Z",
+  "brief": "Sony Music Entertainment filed a lawsuit against Udio for copyright infringement of over 30,000 songs, including works by Elvis Presley, Beyoncé, and Harry Styles. The suit, filed in New York federal court, claims the AI music generator's training data included Sony's copyrighted material without permission and represents part of ongoing litigation by major music labels against AI music tools.",
+  "tags": {
+    "category": [
+      "incident",
+      "policy"
+    ],
+    "domain": [
+      "audio"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

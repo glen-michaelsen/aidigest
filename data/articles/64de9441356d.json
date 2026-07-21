@@ -1,0 +1,25 @@
+{
+  "id": "64de9441356d",
+  "source": "MIT Technology Review",
+  "title": "AI is more likely than humans to form biases when hiring",
+  "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+  "publishedAt": "2026-07-20T08:39:01.000Z",
+  "ingestedAt": "2026-07-21T03:30:51.737Z",
+  "brief": "New research reveals that large language models develop their own biases during hiring screening tasks, beyond simply inheriting biases from training data. This raises concerns about AI fairness in recruitment, as LLMs may discriminate in ways that differ from human biases.",
+  "tags": {
+    "category": [
+      "research",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "enterprise"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}

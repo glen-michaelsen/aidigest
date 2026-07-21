@@ -1,0 +1,24 @@
+{
+  "id": "84b84aa15243",
+  "source": "TechCrunch AI",
+  "title": "OpenAI is scared of open-weight models. Should the US be?",
+  "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+  "publishedAt": "2026-07-20T19:33:25.000Z",
+  "ingestedAt": "2026-07-21T03:30:30.473Z",
+  "brief": "OpenAI's concerns about open-weight LLMs and renewed calls to restrict Chinese AI models highlight the tension between open-source development and commercial AI business interests. The debate raises questions about whether regulation should favor proprietary models and what such policy would mean for innovation and competitive dynamics.",
+  "tags": {
+    "category": [
+      "opinion",
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

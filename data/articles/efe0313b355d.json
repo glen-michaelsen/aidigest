@@ -1,0 +1,23 @@
+{
+  "id": "efe0313b355d",
+  "source": "Hacker News (AI)",
+  "title": "China’s open-weights AI strategy is winning",
+  "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+  "publishedAt": "2026-07-20T14:21:47.000Z",
+  "ingestedAt": "2026-07-21T03:31:07.123Z",
+  "brief": "China is rapidly scaling open-weight AI models that are freely available and easily deployable, contrasting with proprietary US models locked behind API paywalls. This strategic advantage in accessibility and reproducibility is reshaping the global competitive landscape for AI adoption and development.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

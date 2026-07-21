@@ -1,0 +1,24 @@
+{
+  "id": "2b4b6588b1d6",
+  "source": "Hacker News (AI)",
+  "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+  "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+  "publishedAt": "2026-07-20T16:36:36.000Z",
+  "ingestedAt": "2026-07-21T03:31:03.587Z",
+  "brief": "A study measured AI-generated writing in arXiv preprints using detection methods and found systematic limitations in how detection techniques identify AI authorship, revealing gaps in current measurement approaches. The analysis highlights why simple detection metrics fail to capture nuanced cases of AI contribution in academic research.",
+  "tags": {
+    "category": [
+      "research",
+      "benchmarks"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "72b5d5f105cb",
+  "source": "TechCrunch AI",
+  "title": "AI’s most important protocol is getting a little bit easier to use",
+  "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+  "publishedAt": "2026-07-20T20:50:40.000Z",
+  "ingestedAt": "2026-07-21T03:30:27.291Z",
+  "brief": "A protocol widely used in AI systems is being redesigned to use stateless session management, simplifying implementation for developers and aligning with standard web architecture practices.",
+  "tags": {
+    "category": [
+      "infrastructure"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

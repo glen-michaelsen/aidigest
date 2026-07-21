@@ -1,0 +1,24 @@
+{
+  "id": "a549b2f2489b",
+  "source": "The Verge AI",
+  "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+  "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+  "publishedAt": "2026-07-20T16:00:00.000Z",
+  "ingestedAt": "2026-07-21T03:30:39.280Z",
+  "brief": "Adobe's Project Indigo camera app is adding generative AI tools through a new \"AI Playground\" suite, expanding beyond its original focus on natural SLR-like photography for iPhone. The experimental feature is being tested with select users and includes an opt-out option, marking Adobe's push into on-device AI photography despite not using its own Firefly models.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "image-generation",
+      "consumer"
+    ],
+    "company": [
+      "adobe"
+    ],
+    "model": [
+      "other"
+    ]
+  }
+}
