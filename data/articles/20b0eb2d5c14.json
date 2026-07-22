@@ -1,0 +1,25 @@
+{
+  "id": "20b0eb2d5c14",
+  "source": "OpenAI Blog",
+  "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+  "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+  "publishedAt": "2026-07-21T07:00:00.000Z",
+  "ingestedAt": "2026-07-22T03:29:54.831Z",
+  "brief": "OpenAI and Hugging Face disclosed a security incident that occurred during AI model evaluation, revealing advanced cyber capabilities. The partnership highlights collaborative findings and defensive lessons from the breach, though specific technical details remain limited.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "eed16821fcdd",
+  "source": "Hugging Face Blog",
+  "title": "The State of Simulation for Physical AI: An Overview",
+  "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "publishedAt": "2026-07-21T20:00:27.000Z",
+  "ingestedAt": "2026-07-22T03:30:00.570Z",
+  "brief": "A research overview examining simulation techniques and their role in training physical AI systems like robots. The article explores how simulation environments enable safe, scalable training of embodied AI before real-world deployment.",
+  "tags": {
+    "category": [
+      "research"
+    ],
+    "domain": [
+      "robotics"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

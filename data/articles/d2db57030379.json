@@ -1,0 +1,23 @@
+{
+  "id": "d2db57030379",
+  "source": "Ars Technica AI",
+  "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+  "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+  "publishedAt": "2026-07-21T16:58:25.000Z",
+  "ingestedAt": "2026-07-22T03:29:47.350Z",
+  "brief": "Google released Gemini 3.6 Flash and launched a new cybersecurity-focused AI product, while confirming it is actively training Gemini 4. The company also teased updates to the 3.5 Pro model, signaling its rapid iteration cycle in the competitive large language model market.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

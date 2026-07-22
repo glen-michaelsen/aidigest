@@ -1,0 +1,27 @@
+{
+  "id": "ed3452d70ad2",
+  "source": "The Verge AI",
+  "title": "America needs to stop getting shocked by Chinese AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+  "publishedAt": "2026-07-21T11:08:56.000Z",
+  "ingestedAt": "2026-07-22T03:29:44.047Z",
+  "brief": "Two Chinese AI startups recently unveiled large language models claimed to rival OpenAI and Anthropic's best systems, sparking market volatility and renewed concern in the US about competitive disadvantage in AI development. The article argues that such \"surprises\" from Chinese AI progress should be expected rather than shocking, given the pace of global AI advancement and China's substantial investments in the sector.",
+  "tags": {
+    "category": [
+      "opinion"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "anthropic",
+      "other"
+    ],
+    "model": [
+      "claude",
+      "gpt",
+      "other"
+    ]
+  }
+}

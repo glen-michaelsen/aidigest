@@ -1,0 +1,23 @@
+{
+  "id": "3a68379c0859",
+  "source": "The Verge AI",
+  "title": "Substack adds an AI detector to help spot blogs written by no one",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+  "publishedAt": "2026-07-21T19:22:28.000Z",
+  "ingestedAt": "2026-07-22T03:29:36.748Z",
+  "brief": "Substack is rolling out an AI detection tool powered by Pangram that scans posts, notes, replies, and comments to estimate how much text may be AI-generated or AI-assisted. The feature is available on web and iOS, with Android coming soon, allowing readers to analyze content over 100 words through a \"Scan for AI text\" option.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "consumer"
+    ],
+    "company": [
+      "other"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0bd50127700b",
+  "source": "The Verge AI",
+  "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+  "publishedAt": "2026-07-21T16:53:37.000Z",
+  "ingestedAt": "2026-07-22T03:29:38.412Z",
+  "brief": "A federal judge approved Anthropic's $1.5 billion settlement with authors who sued the company for training Claude on copyrighted books without permission. The deal provides approximately $3,000 per book to affected authors and represents the largest known copyright recovery in history.",
+  "tags": {
+    "category": [
+      "incident"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "claude"
+    ]
+  }
+}

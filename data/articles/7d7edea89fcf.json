@@ -1,0 +1,26 @@
+{
+  "id": "7d7edea89fcf",
+  "source": "The Verge AI",
+  "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+  "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+  "publishedAt": "2026-07-21T15:00:00.000Z",
+  "ingestedAt": "2026-07-22T03:29:39.989Z",
+  "brief": "Google launched Gemini 3.5 Flash Cyber, a specialized security model designed to identify and patch vulnerabilities faster and cheaper than larger competitors like Anthropic's Mythos. The model will initially be available to governments and trusted partners through Google's CodeMender security-focused coding agent.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm",
+      "coding",
+      "security"
+    ],
+    "company": [
+      "google",
+      "anthropic"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

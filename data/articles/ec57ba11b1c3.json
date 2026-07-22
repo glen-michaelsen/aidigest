@@ -1,0 +1,23 @@
+{
+  "id": "ec57ba11b1c3",
+  "source": "TechCrunch AI",
+  "title": "Google releases three new Gemini models — but no 3.5 Pro",
+  "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+  "publishedAt": "2026-07-21T17:11:50.000Z",
+  "ingestedAt": "2026-07-22T03:29:28.086Z",
+  "brief": "Google released three new Gemini models: 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but notably did not release Gemini 3.5 Pro, the flagship update many expected. The absence signals potential shifts in Google's AI product roadmap and competitive positioning against rivals like OpenAI.",
+  "tags": {
+    "category": [
+      "product-launch"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "google"
+    ],
+    "model": [
+      "gemini"
+    ]
+  }
+}

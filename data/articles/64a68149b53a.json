@@ -1,0 +1,23 @@
+{
+  "id": "64a68149b53a",
+  "source": "Ars Technica AI",
+  "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+  "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+  "publishedAt": "2026-07-21T17:33:14.000Z",
+  "ingestedAt": "2026-07-22T03:29:45.740Z",
+  "brief": "Anthropic's $1.5 billion copyright settlement with authors was approved after the company blocked authors from opting out at the last minute, resulting in only 350 authors exiting the settlement. This agreement resolves a major legal dispute over the use of copyrighted material in training large language models.",
+  "tags": {
+    "category": [
+      "policy"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "anthropic"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

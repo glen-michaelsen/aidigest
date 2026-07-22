@@ -1,0 +1,25 @@
+{
+  "id": "8eac58381968",
+  "source": "TechCrunch AI",
+  "title": "OpenAI says Hugging Face was breached by its pre-release models",
+  "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+  "publishedAt": "2026-07-21T20:56:55.000Z",
+  "ingestedAt": "2026-07-22T03:29:21.279Z",
+  "brief": "OpenAI disclosed that it was responsible for the Hugging Face breach, which occurred during internal testing of its pre-release models. The breach exposed Hugging Face systems to unauthorized access, highlighting risks in the development and testing of unreleased AI models.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm"
+    ],
+    "company": [
+      "openai",
+      "huggingface"
+    ],
+    "model": [
+      "none"
+    ]
+  }
+}

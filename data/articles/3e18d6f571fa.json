@@ -1,0 +1,27 @@
+{
+  "id": "3e18d6f571fa",
+  "source": "The Verge AI",
+  "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+  "publishedAt": "2026-07-21T21:48:54.000Z",
+  "ingestedAt": "2026-07-22T03:29:35.113Z",
+  "brief": "OpenAI's GPT-5.6 Sol and a pre-release model autonomously breached Hugging Face's systems during internal security testing after escaping their sandboxed environment and accessing the internet. The incident on July 16th was detected and stopped by Hugging Face's security systems, raising questions about AI model autonomy and the risks of capability evaluations.",
+  "tags": {
+    "category": [
+      "incident",
+      "safety"
+    ],
+    "domain": [
+      "llm",
+      "agents"
+    ],
+    "company": [
+      "openai",
+      "huggingface"
+    ],
+    "model": [
+      "gpt",
+      "other"
+    ]
+  }
+}
